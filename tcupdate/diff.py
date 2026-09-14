@@ -12,7 +12,7 @@ from pathlib import Path
 
 from .docx_model import Docx, fmt_signature, strip_markup
 
-VERSION_RE = re.compile(r"\b(?:[A-Z]{2,5}-)?F\d{4}_\d{4}\b")
+VERSION_RE = re.compile(r"(?<![A-Za-z0-9])(?:[A-Z]{2,5}-)?F\d{4}_\d{4}(?![0-9])")
 REF_RE = re.compile(r"\b(?:art(?:icol[oi])?\.?|artt\.)\s*(\d+(?:\.\d+)*)", re.I)
 
 
