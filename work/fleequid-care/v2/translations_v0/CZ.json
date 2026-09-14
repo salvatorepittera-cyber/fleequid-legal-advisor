@@ -1,0 +1,89 @@
+{
+ "lang": "CZ",
+ "translations": {
+  "c02": "<b><i>„Porucha(y)“</i></b> nebo <b><i>„Závada(y)“</i></b>: náhlá(é), nepředvídatelná(é) událost(i), která(é) nebyla(y) uvedena(y) ve zprávě TrustReport a která(é) má(měly) za následek úplnou nebo částečnou ztrátu funkčnosti krytých komponentů ve smyslu článku 3.3 těchto Zvláštních podmínek, což si vyžádalo jejich opravu nebo výměnu. Vady, poruchy nebo závady, které již byly nahlášeny nebo uvedeny v hlášení TrustReport, jakož i vady a závady vzniklé běžným opotřebením, nedostatečnou nebo nepravidelnou údržbou, nesprávným používáním, nedbalostí nebo nedodržením pokynů výrobce, vzniklé v důsledku neoprávněných zásahů nebo neodpovídajících úprav, nebo vzniklé v důsledku náhodných nebo vnějších událostí, jako jsou nehody, otřesy, požár, záplavy, přírodní katastrofy nebo jiná vyšší moc, nespadají pod tuto definici, a proto jsou z pojištění podle tohoto článku vyloučeny. Kvalifikace poruchy nebo závady a její způsobilost pro krytí je ponechána na technickém posouzení společnosti Fleequid® nebo autorizovaného servisu v souladu s postupem uvedeným v článcích 7 a 8 těchto Zvláštních podmínek.",
+  "c03": "<b><i>„Reklamace“</i></b>: písemné sdělení zaslané kupujícím společnosti Fleequid® prostřednictvím uvedených oficiálních kanálů (claims@fleequid.com nebo specializovaného portálu), týkající se nahlášení závady nebo požadavku na záruční práce, jakož i následného sporu týkajícího se vyřízení nebo výsledku případu. Reklamace podle těchto Zvláštních podmínek je odlišná od reklamace upravené článkem 13 Všeobecných obchodních podmínek, nenahrazuje ji a nepřerušuje ani neprodlužuje její lhůty.",
+  "c04": "Služba Fleequid Care® má povahu nepovinné, nepojistné obchodní záruky ve smyslu článku 1322 občanského zákoníku. Nejedná se o pojistný produkt nebo smlouvu, ani o převzetí budoucích nebo neurčitých nahodilých rizik. Ekonomické riziko spojené s poskytováním záručních plnění nese přímo společnost Fleequid® (Adorea S.r.l.), která jedná samostatně, nikoli jako zprostředkovatel nebo pojišťovací agent.",
+  "c05": "Záruka působí výhradně ve prospěch kupujícího. Služba je samostatná a oddělená, pokud jde o právní titul a obsah, od kupních smluv týkajících se vozidla, jakkoli uzavřených a strukturovaných podle Všeobecných obchodních podmínek, a nenahrazuje ani nemění právní povinnosti prodávajícího vyplývající z platných právních předpisů nebo Všeobecných obchodních podmínek. Společnost Fleequid® přebírá přímý a nezávislý závazek vůči kupujícímu výhradně za služby uvedené v těchto Zvláštních podmínkách; závazky z toho vyplývající zůstávají odděleny od závazků vzniklých z výše uvedených kupních smluv a nemění jejich právní úpravu. Přenositelnost služby se řídí článkem 4.5 níže, na který se zde v plném rozsahu odkazuje.",
+  "c06": "Služba <i>Fleequid Care®</i> automaticky začíná <b>dnem dodání vozidla kupujícímu</b>, jak vyplývá z prodejních a přepravních dokladů vystavených společností Fleequid®.  Tímto datem začíná doba platnosti záruky. V okamžiku dodání se zjistí stav najetých kilometrů vozidla, který představuje počáteční stav najetých kilometrů pro účely článku 4.2 níže. Počáteční stav najetých kilometrů se zaznamená do dodacího protokolu, je-li vyhotoven, který je jeho primárním důkazem; není-li dodací protokol vyhotoven, určí se počáteční stav najetých kilometrů na základě jiného listinného nebo fotografického důkazu pořízeného v době dodání a ověřitelného společností Fleequid®. Pro tyto účely není rozhodující stav najetých kilometrů uvedený v Aukčním listu nebo v Technických specifikacích.",
+  "c07": "Služba platí do uplynutí <b>tří (3) měsíců</b> ode dne dodání nebo do dosažení <b>patnácti tisíc (15.000) kilometrů</b> ujetých od počátečního stavu najetých kilometrů zjištěného podle článku 4.1 výše, <b>podle toho, který limit nastane dříve</b>, bez možnosti tichého nebo automatického prodloužení. Služba bude automaticky ukončena po dosažení prvního z limitů, aniž by bylo nutné ji vypovědět nebo o tom informovat společnost Fleequid® nebo kupujícího. Krytí se vztahuje na poruchu, která se projevila v době, kdy byl dodržen jak časový, tak kilometrový limit, pokud byla včas nahlášena podle článku 7, a to i v případě, že Služba byla v okamžiku nahlášení mezitím ukončena z důvodu dosažení jednoho nebo obou limitů.",
+  "c08": "Kupující souhlasí a bere na vědomí, že rozdělení na přímé krytí a Fleequid® voucher je podstatným prvkem služby Fleequid Care® a že vystavení voucheru ve všech ohledech představuje smluvní plnění společnosti Fleequid®. Vydání voucheru je rovnocenné úplnému a konečnému uspokojení odpovídajícího podílu odškodnění.",
+  "c09": "Kupující se zavazuje, že po dobu platnosti Služby nebude zasahovat do elektronických diagnostických systémů nebo palubních záznamových zařízení (OBD, ECU, telematické systémy, počítadlo najetých kilometrů) pozměňovat je ani je vypínat. Jakékoli zjištěné změny, zásahy nebo nesrovnalosti v dokumentech vedou k okamžitému propadnutí záruky. Kupující neprodleně oznámí společnosti Fleequid® každou poruchu nebo výměnu počítadla najetých kilometrů s uvedením stavu najetých kilometrů v okamžiku této události. Porucha nebo výměna, kterou nelze přičíst kupujícímu a která byla neprodleně oznámena, nemá za následek propadnutí stanovené v tomto odstavci, přičemž kupující i nadále nese povinnost prokázat počet ujetých kilometrů rozhodný podle článku 4.2.",
+  "c10": "Nahlášení závady musí obsahovat alespoň tyto náležitosti: identifikační údaje kupujícího a vozidla (SPZ, číslo karoserie/VIN, počet najetých kilometrů, datum dodání), souhrnný popis zjištěné závady s uvedením data a okolností vzniku, fotografickou dokumentaci nebo videozáznam, pokud je k dispozici, a další náležitosti užitečné pro předběžné posouzení, a pokud možno také dokumentaci o běžné údržbě nebo poslední provedené opravě. Kupující je povinen spolu s nahlášením poskytnout listinný nebo fotografický důkaz o stavu najetých kilometrů vozidla v okamžiku, kdy se porucha projevila.",
+  "c11": "Vyměněné komponenty zůstávají majetkem společnosti Fleequid®, která s nimi může volně nakládat za účelem technické kontroly, repasování nebo likvidace. Autorizovaný servis nebo kupující se v případě oprav výslovně povolených společností Fleequid® zavazuje uchovávat je po dobu nejméně třiceti (30) dnů od uzavření reklamačního řízení, pokud není stanoveno jinak.",
+  "c12": "Poruchy, které se projevily již v době předání vozidla, jakož i vady, nedostatky nebo anomálie, které již byly zjištěny, nahlášeny, zdůrazněny nebo uvedeny ve zprávě <i>TrustReport</i> nebo byly kupujícímu nebo prodávajícímu jinak známy v době předání;",
+  "c13": "Jakékoli krytí škod vzniklých po ukončení krytí podle čl. 4.2, i když se týkají závad nebo poruch, které vznikly dříve, ale v době ukončení záruky se ještě neprojevily, je výslovně vyloučeno, aniž je dotčeno ustanovení téhož čl. 4.2 týkající se poruchy, která se projevila v rámci tam uvedených limitů a byla nahlášena později.",
+  "c14": "Pokud mediační řízení nebude ukončeno smírnou dohodou do devadesáti (90) dnů od jeho zahájení nebo pokud se ho jedna ze stran nezúčastní, budou veškeré spory vzniklé v souvislosti s výkladem, plněním, platností nebo ukončením platnosti těchto Zvláštních podmínek a obecněji služby Fleequid Care® řešeny v rozhodčím řízení v souladu se zákonem jediným rozhodcem jmenovaným v souladu s pravidly Milánské rozhodčí komory, přičemž strany tímto prohlašují, že je v plném rozsahu přijímají.",
+  "c15": "Rozumí se, že existence vyšší moci nezbavuje kupujícího povinnosti zaplatit cenu služby Fleequid Care® ani nepozastavuje dobu platnosti služby, jak je stanoveno v článku 4. Stejně tak zpoždění opravy způsobené vyšší mocí, která postihla autorizovaný servis, nemá za následek prodloužení doby trvání Služby ani odpovědnosti společnosti Fleequid®.",
+  "c16": "Oznámení společnosti Fleequid® se zasílají na adresy, včetně běžných e-mailových adres, které kupující uvedl při registraci na <i>online tržiště Fleequid®</i> nebo které byly následně aktualizovány, a považují se za známé a přijaté adresátem po odeslání oznámení ze strany společnosti Fleequid®. Kupující je povinen udržovat své kontaktní údaje aktuální; jakákoli změna kontaktních adres musí být oznámena písemně, aby byla považována za platnou."
+ },
+ "new_terms": [
+  {
+   "it": "chilometraggio (iniziale)",
+   "tr": "(počáteční) stav najetých kilometrů",
+   "why": "VOP CZ: „stav najetých kilometrů“ (čl. 10.10, 12.2, tolerance najetých kilometrů). Il documento Care v1 in 7.3 usa „počet najetých kilometrů“ nell'elenco dei dati identificativi: lasciato invariato perché IT invariata."
+  },
+  {
+   "it": "verbale di consegna",
+   "tr": "dodací protokol",
+   "why": "VOP CZ (čl. 10.11 e seguenti: „dodací protokol“, 3 occorrenze; una volta „předávací protokol“). Scelto „dodací“ anche perché Care usa „dodání“ per consegna."
+  },
+  {
+   "it": "contachilometri",
+   "tr": "počítadlo najetých kilometrů",
+   "why": "Già nel documento Care CZ v1, art. 6.8."
+  },
+  {
+   "it": "Scheda d’Asta",
+   "tr": "Aukční list",
+   "why": "VOP CZ, definizione 1.L27 „Aukční list“ (maiuscola, termine definito)."
+  },
+  {
+   "it": "Specifiche tecniche",
+   "tr": "Technické specifikace",
+   "why": "VOP CZ, definizione 1.L29 „Technické specifikace“ (maiuscola, termine definito)."
+  },
+  {
+   "it": "contratti di compravendita",
+   "tr": "kupní smlouvy",
+   "why": "VOP CZ (passim) e Care CZ v1 art. 2.3 („kupní smlouva“)."
+  },
+  {
+   "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+   "tr": "reklamace upravená článkem 13 Všeobecných obchodních podmínek",
+   "why": "VOP CZ art. 13 „REKLAMACE“; minuscola per distinguerla dal termine definito „Reklamace“ delle Condizioni Specifiche."
+  },
+  {
+   "it": "percorrenza / chilometri percorsi",
+   "tr": "počet ujetých kilometrů / kilometry ujeté",
+   "why": "Scelta mia: „ujeté“ per la distanza percorsa dal chilometraggio iniziale, distinta dal valore letto sul contachilometri („stav najetých kilometrů“). Nelle VOP non c'è un equivalente."
+  },
+  {
+   "it": "prova primaria",
+   "tr": "primární důkaz",
+   "why": "Scelta mia, resa legale standard."
+  },
+  {
+   "it": "evidenza documentale o fotografica",
+   "tr": "listinný nebo fotografický důkaz",
+   "why": "Scelta mia, resa legale standard („listinný důkaz“ = prova documentale)."
+  },
+  {
+   "it": "titolo (quanto a titolo e contenuto)",
+   "tr": "právní titul",
+   "why": "Scelta mia, resa legale standard."
+  }
+ ],
+ "notes": [
+  "c02, c15: correzioni di soli refusi IT (determino→determinano; punto finale). CZ precedente già corretto: restituito identico.",
+  "c11: IT corregge autorizzate→autorizzata. Il CZ precedente usa il plurale generico „v případě oprav výslovně povolených“, corretto in ceco: lasciato identico.",
+  "c06/c07/c09/c10: per „chilometraggio“ nel testo nuovo uso „stav najetých kilometrů“ (VOP CZ). In c10 la parte invariata di 7.3 mantiene „počet najetých kilometrů“ (copia letterale): stesso paragrafo con due rese vicine. Se si preferisce uniformare, si può sostituire „počet“ con „stav“ in 7.3 (e altrove nel documento: „změny počtu najetých kilometrů“), ma richiederebbe di toccare testo IT invariato.",
+  "c07: „cessa automaticamente“ reso con la formula già usata in 4.2 v1 („bude automaticky ukončena“); „Guasto“ → „porucha“ secondo glossario; „tempestivamente“ ai sensi dell'art. 7 → „včas“ (termine di decadenza), mentre in 6.8 „comunica tempestivamente“ → „neprodleně“ come in 6.3/6.4 v1.",
+  "c07: la frase IT „fino al primo verificarsi tra ... a seconda di quale limite si verifichi per primo“ è ridondante; in CZ il concetto „primo verificarsi“ è espresso una volta dal segmento in grassetto „podle toho, který limit nastane dříve“, per mantenere i 3 segmenti bold senza doppione. Significato invariato.",
+  "c10, c13: il CZ v1 rende „Guasto“ con „závada“ in 7.3 e 9.4 (deviazione dal glossario già presente). Nel testo nuovo di c10 uso „porucha“ (glossario); in c13 uso „poruchy“ per il Guasto del nuovo inciso, lasciando „závad nebo poruch“ invariato nella parte vecchia.",
+  "c12: il CZ v1 usava „předání“ (non „dodání“) per consegna in 9.2: mantenuto per coerenza con l'art. 9. „vizi, difetti o anomalie“ reso „vady, nedostatky nebo anomálie“: la resa di 1.L5 v1 („vady, poruchy nebo závady“) non è stata riusata perché „poruchy/závady“ sono i termini definiti per Guasto/Malfunzionamento e qui creerebbero confusione con i Guasti esclusi. Da validare.",
+  "c14: eliminato „Rozhodčí soud složený z“ (Collegio Arbitrale); ora „jediným rozhodcem“. Il pronome finale è diventato „je“ (riferito a „pravidla“, il Regolamento) al posto di „jej“, che nella v1 si riferiva al collegio rimosso.",
+  "c16: aggiunto il corsivo su „online tržiště Fleequid®“ per ricalcare l'IT nuova (1 segmento <i>), assente nel CZ v1. „successivamente alla spedizione“ → „po odeslání“.",
+  "c04: il CZ v1 dice „občanského zákoníku“ senza „italského“: mantenuto come nella v1."
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "lang": "PT",
+ "translations": {
+  "c02": "<b><i>\"Avaria(s)\"</i></b> ou <b><i>\"Mau funcionamento(s)\"</i></b>: o(s) acontecimento(s) súbito(s), imprevisível(eis) e não declarado(s) no TrustReport, que resulta(m) na perda total ou parcial da funcionalidade dos Componentes Cobertos, na aceção do artigo 3.3 das presentes Condições Específicas, tornando necessária a sua reparação ou substituição. Os defeitos, falhas ou anomalias já comunicados ou declarados no TrustReport, bem como os resultantes de desgaste normal, manutenção insuficiente ou irregular, utilização incorreta, negligência ou incumprimento das instruções do fabricante, resultantes de adulteração, intervenção não autorizada ou alterações não conformes, ou resultantes de acontecimentos acidentais ou externos, tais como acidentes, choques, incêndios, inundações, catástrofes naturais ou outros casos de força maior, não são abrangidos por esta definição e, por conseguinte, estão excluídos da cobertura ao abrigo do presente artigo. A qualificação da avaria ou mau funcionamento e a sua elegibilidade para cobertura são deixadas à apreciação técnica da Fleequid® ou do Centro Autorizado, de acordo com o procedimento previsto nos artigos 7º e 8º das presentes Condições Particulares.",
+  "c03": "<b><i>\"Reclamação</i></b>\": a comunicação escrita enviada pelo Comprador à Fleequid® através dos canais oficiais indicados (claims@fleequid.com ou portal dedicado), relativa à comunicação de uma avaria ou pedido de intervenção em garantia, bem como qualquer litígio subsequente relativo ao tratamento ou desfecho do caso. A Reclamação nos termos das presentes Condições Específicas é distinta da reclamação regulada pelo artigo 13.º dos Termos e Condições Gerais, não a substitui e não interrompe nem prorroga os respetivos prazos.",
+  "c04": "O serviço Fleequid Care® tem o carácter de uma garantia comercial facultativa e não seguradora na aceção do artigo 1322º do Código Civil. Não constitui um produto ou contrato de seguro, nem implica a assunção de riscos futuros ou aleatórios indefinidos. O risco económico associado à prestação de garantias é assumido diretamente pela Fleequid® (Adorea S.r.l.), que atua por direito próprio e não como intermediário ou agente de companhias de seguros.",
+  "c05": "A garantia atua exclusivamente a favor do Comprador. O Serviço é autónomo e separado, quanto ao título e ao conteúdo, dos contratos de compra e venda do Veículo, independentemente da forma como tenham sido celebrados e estruturados ao abrigo dos Termos e Condições Gerais, e não substitui ou altera as responsabilidades legais do Vendedor decorrentes da legislação aplicável ou dos Termos e Condições Gerais. A Fleequid® assume uma obrigação direta e independente perante o Comprador apenas pelos serviços previstos nas presentes Condições Particulares; as obrigações daí decorrentes permanecem distintas das emergentes dos referidos contratos de compra e venda e não alteram o respetivo regime. A transferibilidade do Serviço é regida pelo artigo 4.5 abaixo, aqui referido na íntegra.",
+  "c06": "O <i>Serviço Fleequid Care®</i> inicia-se automaticamente na <b>data de entrega do Veículo ao Comprador</b>, conforme resulta dos documentos de venda e transporte emitidos pela Fleequid®.  Esta data marca o início do período de validade da garantia. No momento da entrega, é registada a quilometragem do Veículo, que constitui a quilometragem inicial para efeitos do artigo 4.2 abaixo. A quilometragem inicial é consignada no auto de entrega, quando elaborado, que constitui a sua prova principal; na sua falta, a quilometragem inicial é apurada com base noutra prova documental ou fotográfica contemporânea da entrega e verificável pela Fleequid®. Para estes efeitos, não releva a quilometragem indicada na Ficha de Leilão ou nas Especificações técnicas.",
+  "c07": "O Serviço é válido até ao que primeiro ocorrer de entre o decurso de <b>três (3) meses</b> a contar da data de entrega e o percurso de <b>quinze mil (15.000) quilómetros</b> a partir da quilometragem inicial registada nos termos do artigo 4.1 acima, <b>consoante o limite que se verificar primeiro</b>, sem possibilidade de renovação tácita ou prorrogação automática. O Serviço cessa automaticamente quando for atingido o primeiro limite, sem necessidade de denúncia ou comunicação por parte da Fleequid® ou do Comprador. Está coberta a Avaria que se manifeste quando se encontrem respeitados tanto o limite temporal como o limite quilométrico, desde que denunciada em tempo útil nos termos do artigo 7.º, ainda que, no momento da denúncia, o Serviço tenha entretanto cessado por ter sido atingido um ou ambos os limites.",
+  "c08": "O Comprador aceita e reconhece que a divisão entre a cobertura direta e o Voucher Fleequid® é um elemento essencial do Serviço Fleequid Care® e que a emissão do Voucher integra para todos os efeitos a execução contratual da Fleequid®. A emissão do Voucher equivale à satisfação total e definitiva da parte correspondente da indemnização.",
+  "c09": "Durante a vigência do Serviço, o Comprador compromete-se a não alterar, adulterar ou desativar os sistemas de diagnóstico eletrónico ou os dispositivos de registo de dados de bordo (OBD, ECU, sistemas telemáticos, conta-quilómetros). Quaisquer alterações, adulterações ou discrepâncias documentais verificadas implicam a perda imediata da garantia. O Comprador comunica prontamente à Fleequid® qualquer avaria ou substituição do conta-quilómetros, indicando a quilometragem percorrida apurada no momento do facto. A avaria ou a substituição não imputáveis ao Comprador e prontamente comunicadas não implicam a perda prevista no presente ponto, sem prejuízo do ónus do Comprador de provar a quilometragem percorrida relevante nos termos do artigo 4.2.",
+  "c10": "A denúncia da Avaria deve conter, pelo menos, os seguintes elementos: dados de identificação do Comprador e do Veículo (número de matrícula, chassis/VIN, quilometragem, data de entrega), uma descrição sumária da anomalia encontrada com indicação da data e circunstâncias da ocorrência, documentação fotográfica ou vídeo quando disponível e qualquer outro elemento útil para uma avaliação preliminar, bem como, sempre que possível, documentação que ateste a manutenção regular ou as reparações efetuadas mais recentemente. O Comprador é obrigado a fornecer, juntamente com a denúncia, prova documental ou fotográfica da quilometragem do Veículo no momento da manifestação da Avaria.",
+  "c11": "Os componentes substituídos permanecem propriedade da Fleequid®, que pode dispor livremente deles para fins de inspeção técnica, recuperação ou eliminação. O Centro Autorizado, ou o Comprador no caso de reparações expressamente autorizadas pela Fleequid®, compromete-se a conservá-los durante pelo menos trinta (30) dias a contar do encerramento do processo, salvo instruções em contrário.",
+  "c12": "Avarias já evidentes no momento da entrega do Veículo, bem como defeitos, falhas ou anomalias já detetados, comunicados, assinalados ou declarados no <i>TrustReport</i> ou, em qualquer caso, conhecidos pelo Comprador ou Vendedor no momento da entrega;",
+  "c13": "Está expressamente excluída qualquer cobertura de danos ocorridos após a cessação da cobertura nos termos do Art.º 4.2, mesmo que se trate de avarias ou defeitos que tenham surgido num momento anterior, mas que ainda não se tenham manifestado no momento da cessação da garantia, sem prejuízo do disposto no mesmo Art.º 4.2 relativamente à Avaria manifestada dentro dos limites aí indicados e denunciada posteriormente.",
+  "c14": "Se o procedimento de mediação não for concluído com um acordo amigável no prazo de noventa (90) dias a contar do seu início ou se uma das Partes não participar no mesmo, qualquer litígio resultante da interpretação, execução, validade ou cessação das presentes Condições Específicas e, de um modo mais geral, do Serviço Fleequid Care®, será resolvido através de arbitragem ritual, de acordo com a lei, por um árbitro único, nomeado de acordo com as Regras da Câmara de Arbitragem de Milão, que as Partes declaram aceitar integralmente desde já.",
+  "c15": "Fica entendido que a existência de um motivo de força maior não isenta o Comprador da obrigação de pagar o preço do Serviço Fleequid Care®, nem suspende o prazo de validade do Serviço, conforme estipulado no Artigo 4.º. Do mesmo modo, qualquer atraso na reparação devido a um motivo de força maior que afete o Centro Autorizado não implicará o prolongamento da duração do Serviço nem a responsabilidade da Fleequid®.",
+  "c16": "As notificações da Fleequid® serão remetidas para os endereços, incluindo os endereços de e-mail habituais, indicados pelo Comprador aquando do registo no <i>Marketplace Fleequid®</i> ou posteriormente atualizados, e presume-se que são conhecidas e recebidas pelo destinatário após o envio pela Fleequid®. Cabe ao Comprador manter os seus contactos atualizados; qualquer alteração dos endereços de contacto deve ser comunicada por escrito para ser considerada válida."
+ },
+ "new_terms": [
+  {
+   "it": "chilometraggio / chilometraggio iniziale",
+   "tr": "quilometragem / quilometragem inicial",
+   "why": "quilometragem già in uso nel documento PT (7.3, 9.2.L2) e nelle T&C Generali PT"
+  },
+  {
+   "it": "verbale di consegna",
+   "tr": "auto de entrega",
+   "why": "T&C Generali PT (art. 10, 11)"
+  },
+  {
+   "it": "Scheda d'Asta",
+   "tr": "Ficha de Leilão",
+   "why": "T&C Generali PT, definizione [1.L19]"
+  },
+  {
+   "it": "Specifiche tecniche",
+   "tr": "Especificações técnicas",
+   "why": "T&C Generali PT, definizione [1.L21]"
+  },
+  {
+   "it": "contratti di compravendita",
+   "tr": "contratos de compra e venda",
+   "why": "T&C Generali PT e documento PT precedente (2.3)"
+  },
+  {
+   "it": "contachilometri",
+   "tr": "conta-quilómetros",
+   "why": "già nel documento PT precedente (6.8)"
+  },
+  {
+   "it": "reclamo disciplinato dall'articolo 13 delle Condizioni Generali",
+   "tr": "reclamação regulada pelo artigo 13.º dos Termos e Condições Gerais",
+   "why": "reclamação: T&C Generali PT art. 13 (\"RECLAMAÇÕES\"); Termos e Condições Gerais: glossario"
+  },
+  {
+   "it": "chilometri / limite chilometrico",
+   "tr": "quilómetros / limite quilométrico",
+   "why": "scelta mia, grafia PT europeo coerente con conta-quilómetros"
+  },
+  {
+   "it": "percorrenza",
+   "tr": "quilometragem percorrida",
+   "why": "scelta mia, per distinguerla dal chilometraggio (lettura del contachilometri)"
+  },
+  {
+   "it": "arbitro unico",
+   "tr": "árbitro único",
+   "why": "già nel PT precedente (12.4)"
+  }
+ ],
+ "notes": [
+  "c02, c11, c15: modifica IT solo refuso; PT precedente già corretto (in c11 il PT usa il plurale concordato 'reparações ... autorizadas'), restituito identico.",
+  "c03: il PT precedente terminava con doppio punto '..'; corretto in punto singolo mentre si aggiunge la nuova frase.",
+  "c05: 'distinto' reso con 'separado' come nel PT precedente; 'comunque conclusi e strutturati' reso 'independentemente da forma como tenham sido celebrados e estruturados'.",
+  "c06: 'annotato' reso 'consignada' (T&C Generali PT: 'consignação ... no auto de entrega'); 'prova primaria' reso 'prova principal'; 'evidenza documentale o fotografica' reso 'prova documental ou fotográfica' (idem c10).",
+  "c07: 'rilevato' reso 'registada' coerente con c06; 'tempestivamente' reso 'em tempo útil' come in 8.2 PT; 'sopraggiungere di uno o di entrambi i limiti' reso 'por ter sido atingido um ou ambos os limites'.",
+  "c09: 'guasto del contachilometri' in minuscolo ('avaria'), perché non è il Guasto definito; 'presente comma' reso 'presente ponto' come in 5.2 PT; 'tempestivamente' reso 'prontamente' come in 6.3 PT.",
+  "c12: 'evidenziati' reso 'assinalados' per evitare la ripetizione con 'evidentes' (manifesti).",
+  "c13: rinvio scritto 'Art.º 4.2' come in 9.3 PT.",
+  "Il documento PT alterna 'Condições Específicas', 'Condições Particulares' e 'Termos e Condições Específicos' per 'Condizioni Specifiche': nelle parti invariate ho mantenuto la variante esistente, nelle frasi nuove ho usato 'Condições Específicas'. Incoerenza preesistente da valutare in una revisione complessiva."
+ ]
+}

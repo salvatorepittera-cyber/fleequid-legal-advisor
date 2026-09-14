@@ -1,0 +1,99 @@
+{
+ "lang": "NL",
+ "translations": {
+  "c02": "<b><i>\"Defect(en)\"</i></b> of <b><i>\"Storing(en)\"</i></b>: de plotselinge, onvoorzienbare en niet in het TrustReport vermelde gebeurtenis of gebeurtenissen die leiden tot een geheel of gedeeltelijk verlies van functionaliteit van de Gedekte Onderdelen in de zin van artikel 3.3 van deze Specifieke Voorwaarden, waardoor herstel of vervanging daarvan noodzakelijk wordt. Van deze definitie zijn uitgesloten en komen derhalve niet voor dekking in aanmerking: gebreken of storingen die reeds in het TrustReport zijn vermeld, evenals gebreken of storingen die het gevolg zijn van normale slijtage, onvoldoende of onregelmatig onderhoud, onjuist gebruik, nalatigheid of het niet naleven van de instructies van de fabrikant, die voortvloeien uit ongeoorloofde ingrepen of niet-toegestane wijzigingen, of die het gevolg zijn van externe of toevallige gebeurtenissen, zoals ongevallen, aanrijdingen, brand, overstromingen, natuurrampen of andere gevallen van overmacht. De kwalificatie van het defect of de storing en de beoordeling of deze voor dekking in aanmerking komt, berusten bij de technische beoordeling door Fleequid® of het Erkend Centrum, overeenkomstig de in de artikelen 7 en 8 van deze Specifieke Voorwaarden vastgestelde procedure.",
+  "c03": "<b><i>\"Klacht</i></b>\": de schriftelijke mededeling die de Koper aan Fleequid® richt via de aangegeven officiële kanalen (claims@fleequid.com of het daartoe bestemde portaal), met betrekking tot de melding van een defect of een verzoek tot tussenkomst onder garantie, alsmede elk daaropvolgend geschil met betrekking tot de behandeling of de uitkomst van het dossier. De Klacht in de zin van deze Specifieke Voorwaarden is onderscheiden van de klacht geregeld in artikel 13 van de Algemene Voorwaarden, vervangt deze niet en stuit noch verlengt de termijnen daarvan.",
+  "c04": "De Fleequid Care®-dienst heeft het karakter van een optionele commerciële garantie zonder verzekeringskarakter, in de zin van artikel 1322 van het Italiaanse Burgerlijk Wetboek. Het vormt geen verzekeringsproduct of verzekeringsovereenkomst en houdt evenmin het op zich nemen van toekomstige of onzekere risico’s in. Het economische risico dat verbonden is aan de verstrekking van de garantieprestaties wordt rechtstreeks gedragen door Fleequid® (Adorea S.r.l.), dat op eigen naam handelt en niet als tussenpersoon of machthebbende van verzekeringsmaatschappijen.",
+  "c05": "De garantie geldt uitsluitend ten gunste van de Koper. De Dienst is autonoom en, wat rechtsgrond en inhoud betreft, onderscheiden van de koop- en verkoopovereenkomsten betreffende het Voertuig, ongeacht de wijze waarop deze overeenkomstig de Algemene Voorwaarden zijn gesloten en gestructureerd, en vervangt noch wijzigt de wettelijke aansprakelijkheden van de Verkoper die voortvloeien uit de toepasselijke wetgeving of de Algemene Voorwaarden. Fleequid® neemt jegens de Koper een rechtstreekse en onafhankelijke verplichting op zich, uitsluitend voor de in deze Specifieke Voorwaarden voorziene prestaties; de daaruit voortvloeiende verplichtingen blijven onderscheiden van die welke voortvloeien uit de voornoemde koop- en verkoopovereenkomsten en wijzigen de regeling daarvan niet. De overdraagbaarheid van de Dienst wordt geregeld in het hiernavolgende artikel 4.5, dat hier integraal van toepassing wordt verklaard.",
+  "c06": "De <i>Fleequid Care®-dienst</i> gaat automatisch in vanaf de <b>datum van levering van het Voertuig aan de Koper</b>, zoals die blijkt uit de door Fleequid® uitgegeven verkoop- en vervoersdocumenten.  Deze datum vormt het aanvangstijdstip van de geldigheidsperiode van de garantie. Bij de levering wordt de kilometerstand van het Voertuig vastgesteld, die geldt als de aanvangskilometerstand voor de toepassing van het hiernavolgende artikel 4.2. De aanvangskilometerstand wordt vermeld in het leveringsdocument, indien dit is opgemaakt, dat daarvan het primaire bewijs vormt; bij gebreke daarvan wordt de aanvangskilometerstand afgeleid uit ander documentair of fotografisch bewijs dat dateert van het moment van de levering en door Fleequid® kan worden geverifieerd. Voor deze doeleinden is de in het Veilingblad of in de Technische Specificaties vermelde kilometerstand niet bepalend.",
+  "c07": "De Dienst is geldig tot het moment waarop het eerst een van de volgende gebeurtenissen intreedt: het verstrijken van <b>drie (3) maanden</b> vanaf de leveringsdatum of het bereiken van <b>vijftienduizend (15.000) kilometer</b> afgelegd vanaf de overeenkomstig het voorgaande artikel 4.1 vastgestelde aanvangskilometerstand, <b>naargelang welke grens het eerst wordt bereikt</b>, zonder de mogelijkheid van stilzwijgende verlenging of automatische verlenging. De Dienst eindigt automatisch zodra de eerste grens is bereikt, zonder dat een opzegging of kennisgeving van Fleequid® of de Koper is vereist. Gedekt is het Defect dat zich heeft voorgedaan op een moment waarop zowel de tijdsgrens als de kilometergrens nog niet was overschreden, mits het tijdig is gemeld overeenkomstig artikel 7, ook indien de Dienst op het moment van de melding inmiddels is beëindigd doordat een van beide grenzen of beide grenzen zijn bereikt.",
+  "c08": "De Koper aanvaardt en erkent dat de verdeling tussen directe dekking en de Fleequid® Voucher een essentieel onderdeel vormt van de Fleequid Care®-dienst en dat de uitgifte van de Voucher ten volle geldt als de contractuele prestatie van Fleequid®. De uitgifte van de Voucher staat gelijk aan de volledige en definitieve voldoening van het overeenkomstige deel van de vergoeding.",
+  "c09": "Gedurende de looptijd van de Dienst is de Koper gehouden de elektronische diagnosesystemen en de systemen voor registratie van boordgegevens (OBD, ECU, telematicasystemen, kilometerteller) niet te wijzigen, te manipuleren of uit te schakelen. Elke vastgestelde wijziging, manipulatie of documentaire discrepantie heeft het onmiddellijke verval van de garantie tot gevolg. De Koper stelt Fleequid® onverwijld in kennis van elk defect aan of elke vervanging van de kilometerteller, onder vermelding van het aantal afgelegde kilometers dat op het moment van het voorval blijkt. Een defect aan of een vervanging van de kilometerteller die niet aan de Koper kan worden toegerekend en onverwijld is gemeld, leidt niet tot het in dit lid bedoelde verval, onverminderd de verplichting van de Koper om het aantal afgelegde kilometers aan te tonen dat relevant is voor de toepassing van artikel 4.2.",
+  "c10": "De melding van het defect dient ten minste de volgende gegevens te bevatten: identificatiegegevens van de Koper en het Voertuig (kenteken, chassisnummer/VIN, kilometerstand, leveringsdatum), een beknopte beschrijving van het vastgestelde defect met vermelding van de datum en de omstandigheden waaronder dit zich heeft voorgedaan, fotografische of videodocumentatie indien beschikbaar, alsmede ieder ander element dat nuttig is voor een voorlopige beoordeling en, voor zover mogelijk, documentatie waaruit het reguliere onderhoud of de laatst uitgevoerde reparaties blijken. De Koper is gehouden om, samen met de melding, documentair of fotografisch bewijs te verstrekken van de kilometerstand van het Voertuig op het moment waarop het defect zich heeft voorgedaan.",
+  "c11": "De vervangen onderdelen blijven eigendom van Fleequid®, die daarover vrijelijk kan beschikken voor doeleinden van technische verificatie, regeneratie of verwijdering. Het Erkend Centrum, dan wel de Koper in het geval van een door Fleequid® uitdrukkelijk toegestane reparatie, verbindt zich ertoe deze onderdelen te bewaren gedurende ten minste dertig (30) dagen na de sluiting van het klantendossier, behoudens andersluidende instructies.",
+  "c12": "Defecten die bij de aflevering van het Voertuig reeds kenbaar waren, alsmede gebreken, defecten of afwijkingen die reeds zijn vastgesteld, gemeld, aangegeven of vermeld in het <i>TrustReport</i> dan wel op het moment van de aflevering anderszins bekend waren bij de Koper of de Verkoper;",
+  "c13": "Iedere dekking voor schade die zich voordoet na de beëindiging van de dekking overeenkomstig artikel 4.2 is uitdrukkelijk uitgesloten, ook indien deze schade verband houdt met gebreken of storingen die reeds vóór het einde van de dienst zijn ontstaan, maar op het moment van beëindiging van de garantie nog niet manifest waren, onverminderd het bepaalde in datzelfde artikel 4.2 met betrekking tot het Defect dat zich binnen de daarin vermelde grenzen heeft voorgedaan en nadien is gemeld.",
+  "c14": "Indien de bemiddelingsprocedure niet binnen negentig (90) dagen na haar aanvang tot een minnelijke regeling leidt, dan wel indien een van de Partijen daaraan niet deelneemt, wordt elk geschil dat voortvloeit uit of verband houdt met de interpretatie, uitvoering, geldigheid of beëindiging van deze Specifieke Voorwaarden en, meer in het algemeen, van de Fleequid Care®-dienst, definitief beslecht door arbitrage naar recht door één arbiter, benoemd overeenkomstig het Reglement van de Kamer van Arbitrage van Milaan, dat door de Partijen integraal wordt aanvaard.",
+  "c15": "Het staat vast dat het bestaan van overmacht de Koper niet ontslaat van de verplichting tot betaling van de vergoeding van de Fleequid Care®-dienst, noch de aanvang of de looptijd van de geldigheidsperiode van de dienst schorst, zoals bepaald in artikel 4. Evenzo leiden eventuele vertragingen in de reparatie als gevolg van overmacht die het Erkende Centrum treft, niet tot een verlenging van de duur van de Dienst en doen zij geen aansprakelijkheid van Fleequid® ontstaan.",
+  "c16": "Mededelingen van Fleequid® worden verzonden naar de contactgegevens, met inbegrip van gewone e-mailadressen, die door de Koper zijn opgegeven tijdens de registratie op de <i>Fleequid® Marketplace</i> of nadien zijn bijgewerkt, en worden geacht de Koper te hebben bereikt en door hem te zijn gekend na de verzending door Fleequid®. Het is de verantwoordelijkheid van de Koper om zijn contactgegevens bijgewerkt te houden; elke wijziging van de contactadressen dient schriftelijk te worden meegedeeld om als geldig te worden beschouwd."
+ },
+ "new_terms": [
+  {
+   "it": "verbale di consegna",
+   "tr": "leveringsdocument",
+   "why": "Resa gia' usata nelle T&C Generali NL (art. 10.9/11.8: 'leveringsdocument' per 'delivery report'/verbale di consegna)."
+  },
+  {
+   "it": "Scheda d'Asta",
+   "tr": "Veilingblad",
+   "why": "Termine definito nelle T&C Generali NL (art. 1, 'Veilingblad' (of 'Advertentie'))."
+  },
+  {
+   "it": "Specifiche tecniche",
+   "tr": "Technische Specificaties",
+   "why": "Termine definito nelle T&C Generali NL (art. 1)."
+  },
+  {
+   "it": "contratti di compravendita",
+   "tr": "koop- en verkoopovereenkomsten",
+   "why": "Resa delle T&C Generali NL (art. 2.2 e segg.); sostituisce 'koopovereenkomst' della v1 perche' il paragrafo e' riscritto e ora rinvia alle strutture contrattuali delle CG."
+  },
+  {
+   "it": "reclamo (art. 13 Condizioni Generali)",
+   "tr": "klacht",
+   "why": "Resa delle T&C Generali NL art. 13 (KLACHTEN), minuscolo per distinguerlo dalla Klacht definita."
+  },
+  {
+   "it": "chilometraggio",
+   "tr": "kilometerstand",
+   "why": "Gia' usato nella v1 NL (art. 7.3) e nelle T&C Generali NL."
+  },
+  {
+   "it": "contachilometri",
+   "tr": "kilometerteller",
+   "why": "Gia' usato nella v1 NL (art. 6.8)."
+  },
+  {
+   "it": "chilometraggio iniziale",
+   "tr": "aanvangskilometerstand",
+   "why": "Scelta mia: non presente nelle Generali NL; composto coerente con 'kilometerstand' e 'aanvangstijdstip' (art. 4.1)."
+  },
+  {
+   "it": "percorrenza",
+   "tr": "aantal afgelegde kilometers",
+   "why": "Scelta mia; le Generali NL (art. 13.2) usano il verbo 'afleggen' per i km percorsi."
+  },
+  {
+   "it": "limite temporale / limite chilometrico",
+   "tr": "tijdsgrens / kilometergrens",
+   "why": "Scelta mia; 'grens' coerente con 'grenzen' gia' usato nel documento."
+  },
+  {
+   "it": "quanto a titolo e contenuto",
+   "tr": "wat rechtsgrond en inhoud betreft",
+   "why": "Scelta mia (titolo = causa/titolo giuridico)."
+  },
+  {
+   "it": "interrompe (i termini)",
+   "tr": "stuit",
+   "why": "Scelta mia: termine tecnico NL per l'interruzione di un termine (stuiting)."
+  }
+ ],
+ "notes": [
+  "c02: IT solo refuso (determino->determinano); NL v1 gia' corretta. Corretto solo il refuso 'ende beoordeling' -> 'en de beoordeling'.",
+  "c03: oltre alla frase aggiunta, corretti difetti evidenti della v1: doppio punto finale '..', doppio spazio, 'elke daaropvolgend geschil' -> 'elk daaropvolgend geschil'. Virgolette dritte e posizione della virgoletta di chiusura fuori dal grassetto mantenute come in v1 (ricalca IT).",
+  "c04: rimosso il rinvio agli artt. 1487 e ss.; corretti doppi spazi e lo spazio prima del punto ('risico’s in .').",
+  "c05: 'De Service' della v1 (sinonimo errato, per giunta con 'onderscheiden' senza 'van') sostituito con 'De Dienst', termine usato nel resto del documento.",
+  "c06/c07: il doppio spazio dopo 'vervoersdocumenten.' e' mantenuto perche' presente anche nell'IT nuova; eliminato lo spazio finale della v1.",
+  "c07: nella v1 'kennisgeving Fleequid® of de Koper' mancava la preposizione: corretto in 'kennisgeving van Fleequid® of de Koper'. 3 segmenti in grassetto come l'IT nuova.",
+  "c09: corretto nella v1 il verbo mancante 'discrepantie  het onmiddellijke verval ... tot gevolg' -> 'discrepantie heeft het onmiddellijke verval ... tot gevolg'. 'guasto del contachilometri' reso con 'defect aan de kilometerteller' (minuscolo, non e' il Defect definito). 'comma' -> 'lid' come nel resto del documento.",
+  "c10: corretti 'kentekenkenteken ,' -> 'kenteken,' e 'dient ... bevatten' -> 'dient ... te bevatten'. 'Guasto' reso con 'defect' minuscolo come nella prima frase dello stesso paragrafo v1.",
+  "c11: IT solo refuso (autorizzate->autorizzata); NL v1 gia' corretta nel senso; corretti solo doppio spazio e doppia virgola 'reparatie,,'.",
+  "c12: mantenuto 'aflevering' (v1 in questo punto) anche per il nuovo 'al momento della consegna', per coerenza interna del paragrafo; nel resto del documento prevale 'levering'. Aggiunto lo spazio mancante dopo </i>.",
+  "c13: corretti doppi spazi e 'op dat moment van beëindiging' -> 'op het moment van beëindiging'. Nel diff IT compare 'arti. 4.2' ma l'IT nuova dice 'art. 4.2': seguita l'IT nuova.",
+  "c14: la v1 NL rendeva gia' 'arbitro unico' ('één arbiter'); rimosso solo il residuo ', r,'.",
+  "c15: IT solo punto finale, gia' presente in NL v1; corretti soltanto doppio spazio e spazio prima della virgola. 'Erkende Centrum' lasciato come in v1 (declinazione corretta dopo 'het').",
+  "c16: 'successivamente alla spedizione' -> 'na de verzending'; aggiunto lo spazio mancante in '<i>Fleequid® Marketplace</i>' e rimosso doppio spazio.",
+  "Maiuscole: per 'Condizioni Generali' ho usato 'Algemene Voorwaarden' (forma prevalente nel corpo del documento NL e gia' presente in c05), non 'Algemene voorwaarden' del glossario (forma della sola definizione 1.L3)."
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "lang": "RO",
+ "translations": {
+  "c02": "<b><i>„Defecțiuni”</i></b> sau <b><i>„Funcționări defectuoase”</i></b>: evenimentul sau evenimentele neprevăzute, imprevizibile și nedeclarate în TrustReport, care au ca rezultat pierderea totală sau parțială a funcționalității Componentelor acoperite de garanție, în sensul articolului 3.3 din prezentele Condiții Specifice, și care fac necesară repararea sau înlocuirea acestora. Nu se încadrează în prezenta definiție și, prin urmare, sunt excluse din garanție în temeiul aceluiași articol viciile, defectele sau anomaliile deja semnalate sau declarate în TrustReport, precum și cele derivate din uzura normală, întreținerea insuficientă sau neregulată, utilizarea necorespunzătoare, neglijența sau nerespectarea instrucțiunilor producătorului, cele care rezultă din alterări, intervenții neautorizate sau modificări neconforme, respectiv cele cauzate de evenimente accidentale sau externe, cum ar fi accidente, impacturi, incendii, inundații, dezastre naturale sau alte situații de forță majoră. Încadrarea Defecțiunii sau a Funcționării defectuoase și eligibilitatea acesteia pentru acoperirea garanției sunt lăsate la latitudinea evaluării tehnice a Fleequid® sau a Centrului autorizat, în conformitate cu procedura stabilită la articolele 7 și 8 din prezentele Condiții Specifice.",
+  "c03": "<b><i>„Cerere de despăgubire și reclamație</i></b>”: comunicarea scrisă trimisă de Cumpărător către Fleequid® prin canalele oficiale indicate (claims@fleequid.com sau prin portalul dedicat), cu privire la raportarea unei defecțiuni sau la solicitarea unei intervenții în garanție, precum și orice contestație ulterioară privind gestionarea sau soluționarea cazului. Cererea de despăgubire și reclamația în sensul prezentelor Condiții Specifice este distinctă de reclamația reglementată de articolul 13 din Condițiile generale, nu o înlocuiește, nu întrerupe și nici nu prelungește termenele acesteia.",
+  "c04": "Serviciul Fleequid Care® este o garanție comercială opțională, fără caracter de asigurare, în sensul articolului 1322 din Codul civil. Acesta nu constituie un produs sau un contract de asigurare și nici nu implică asumarea unor riscuri aleatorii viitoare sau pe termen nedeterminat. Riscul economic asociat furnizării prestațiilor de garantare este asumat direct de Fleequid® (Adorea S.r.l.), care acționează în nume propriu și nu ca intermediar sau agent al companiilor de asigurare.",
+  "c05": "Garanția este valabilă exclusiv în favoarea Cumpărătorului. Serviciul este autonom și separat, în ceea ce privește titlul și conținutul, de contractele de vânzare-cumpărare a Vehiculului, indiferent de modul în care sunt încheiate și structurate în conformitate cu Condițiile generale, și nu înlocuiește sau modifică răspunderile legale ale Vânzătorului care decurg din legislația în vigoare sau din Condițiile generale. Fleequid® își asumă o obligație directă și independentă față de Cumpărător exclusiv pentru serviciile prevăzute în prezentele Condiții Specifice; obligațiile care decurg din aceasta rămân distincte de cele născute din contractele de vânzare-cumpărare menționate anterior și nu modifică reglementarea acestora. Transferabilitatea Serviciului este reglementată de articolul 4.5 de mai jos, citat aici în întregime.",
+  "c06": "<i>Serviciul Fleequid Care®</i> decurge automat de la <b>data predării Vehiculului către Cumpărător</b>, așa cum rezultă din documentele de vânzare și transport emise de Fleequid®.  Această dată marchează începutul perioadei de valabilitate a garanției. La momentul predării se constată kilometrajul Vehiculului, care constituie kilometrajul inițial în sensul articolului 4.2 de mai jos. Kilometrajul inițial se consemnează în procesul-verbal de predare, dacă acesta este întocmit, care constituie proba principală a acestuia; în lipsa procesului-verbal, kilometrajul inițial se deduce din alte dovezi documentare sau fotografice contemporane cu predarea și verificabile de către Fleequid®. În aceste scopuri, nu este relevant kilometrajul indicat în Fișa de Licitație sau în Specificațiile tehnice.",
+  "c07": "Serviciul este valabil până la momentul în care survine primul dintre următoarele evenimente: trecerea a <b>trei (3) luni</b> de la data predării sau parcurgerea a <b>cincisprezece mii (15.000) de kilometri</b> de la kilometrajul inițial constatat în conformitate cu articolul 4.1 de mai sus, <b>în funcție de care dintre aceste limite este atinsă prima</b>, fără posibilitatea de reînnoire tacită sau prelungire automată. Serviciul încetează automat la atingerea primei limite, fără a fi necesară o reziliere sau o notificare din partea Fleequid® sau a Cumpărătorului. Este acoperită de garanție Defecțiunea manifestată în perioada în care erau respectate atât limita temporală, cât și cea kilometrică, cu condiția ca aceasta să fie raportată în timp util în conformitate cu articolul 7, chiar dacă, la momentul raportării, Serviciul a încetat între timp ca urmare a atingerii uneia sau a ambelor limite.",
+  "c08": "Cumpărătorul acceptă și ia la cunoștință că împărțirea între achitarea directă și Cuponul Fleequid® constituie un element esențial al Serviciului Fleequid Care® și că emiterea Cuponului constituie, în toate privințele, o prestație contractuală a Fleequid®. Emiterea Cuponului echivalează cu plata integrală și definitivă a părții corespunzătoare din despăgubire.",
+  "c09": "În perioada de valabilitate a Serviciului, Cumpărătorul se angajează să nu modifice, altereze sau dezactiveze sistemele electronice de diagnosticare sau dispozitivele de înregistrare a datelor de la bord (OBD, ECU, sisteme telematice, odometru). Orice modificări, alterări sau discrepanțe documentare constatate duc la pierderea imediată a garanției. Cumpărătorul comunică în timp util Fleequid® orice defecțiune sau înlocuire a odometrului, indicând distanța parcursă rezultată la momentul producerii faptului. Defecțiunea sau înlocuirea care nu sunt imputabile Cumpărătorului și care au fost comunicate în timp util nu duc la pierderea garanției prevăzută la prezentul alineat, rămânând în sarcina Cumpărătorului obligația de a dovedi distanța parcursă relevantă în sensul articolului 4.2.",
+  "c10": "Raportarea Defecțiunii trebuie să conțină cel puțin următoarele elemente: datele de identificare ale Cumpărătorului și ale Vehiculului (număr de înmatriculare, șasiu/VIN, kilometraj, data predării), o scurtă descriere a anomaliei constatate, cu precizarea datei și a circumstanțelor producerii acesteia, documente fotografice sau video, dacă sunt disponibile, și orice alt element util pentru evaluarea preliminară, precum și, dacă este posibil, documente care să ateste întreținerea programată sau ultimele reparații efectuate. Cumpărătorul este obligat să furnizeze, împreună cu raportarea, dovezi documentare sau fotografice ale kilometrajului Vehiculului la momentul manifestării Defecțiunii.",
+  "c11": "Componentele înlocuite rămân în proprietatea Fleequid®, care poate dispune liber de ele în scopul verificării tehnice, refabricării sau eliminării. Centrul Autorizat sau Cumpărătorul, în cazul reparațiilor autorizate în mod expres de Fleequid®, se angajează să le păstreze timp de cel puțin treizeci (30) de zile de la închiderea dosarului, dacă nu există instrucțiuni contrare.",
+  "c12": "Defecțiuni deja evidente la momentul predării Vehiculului, precum și vicii, defecte sau anomalii deja constatate, semnalate, evidențiate sau declarate în <i>TrustReport</i> sau, în orice caz, cunoscute de Cumpărător sau de Vânzător la momentul predării;",
+  "c13": "Este exclusă în mod expres orice garanție pentru daune survenite după încetarea acoperirii garanției în conformitate cu art. 4.2, chiar dacă acestea se referă la Defecțiuni sau defecte apărute anterior, dar care nu se manifestaseră încă la momentul încetării garanției, fără a aduce atingere prevederilor aceluiași art. 4.2 cu privire la Defecțiunea manifestată în limitele indicate în acesta și raportată ulterior.",
+  "c14": "În cazul în care procedura de mediere nu se încheie cu un acord amiabil în termen de nouăzeci (90) de zile de la începere sau dacă una dintre Părți nu participă la aceasta, orice litigiu care decurge din interpretarea, executarea, validitatea sau încetarea prezentelor Condiții Specifice și, mai general, a Serviciului Fleequid Care®, va fi soluționat prin arbitraj formal, în conformitate cu legea, de către un arbitru unic, numit în conformitate cu Regulamentul Camerei de Arbitraj Milano, pe care Părțile declară prin prezenta că îl acceptă în întregime.",
+  "c15": "Părțile înțeleg că existența unei situații de forță majoră nu exonerează Cumpărătorul de obligația de a achita prețul pentru Serviciul Fleequid Care® și nici nu suspendă începerea perioadei de valabilitate a Serviciului prevăzută la articolul 4. În mod similar, orice întârzieri în reparații datorate situațiilor de forță majoră care afectează Centrul Autorizat nu vor duce la o prelungire a duratei Serviciului sau la răspunderea Fleequid®.",
+  "c16": "Notificările din partea Fleequid® vor fi transmise la adresele, inclusiv cele de e-mail obișnuite, indicate de Cumpărător la înregistrarea pe <i>Marketplace Fleequid®</i> sau actualizate ulterior, și vor fi considerate cunoscute și primite de destinatar după expedierea de către Fleequid®. Cumpărătorului îi revine sarcina de a-și menține actualizate adresele; orice modificare a adreselor de contact trebuie comunicată în scris pentru a fi considerată valabilă."
+ },
+ "new_terms": [
+  {
+   "it": "chilometraggio iniziale",
+   "tr": "kilometrajul inițial",
+   "why": "„kilometraj” già usato nel RO precedente (7.3, 9.2.L2) e nelle CG RO (12.5); aggettivo „inițial” scelta standard"
+  },
+  {
+   "it": "verbale di consegna",
+   "tr": "procesul-verbal de predare",
+   "why": "resa delle CG RO, art. 11.8"
+  },
+  {
+   "it": "contachilometri",
+   "tr": "odometru",
+   "why": "già usato nel RO precedente, art. 6.8"
+  },
+  {
+   "it": "Scheda d’Asta",
+   "tr": "Fișa de Licitație",
+   "why": "definizione delle CG RO, art. 1.L19"
+  },
+  {
+   "it": "Specifiche tecniche",
+   "tr": "Specificațiile tehnice",
+   "why": "definizione delle CG RO, art. 1.L21"
+  },
+  {
+   "it": "contratti di compravendita",
+   "tr": "contractele de vânzare-cumpărare",
+   "why": "resa del RO precedente (2.3) e delle CG RO (2.2, 2.4)"
+  },
+  {
+   "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+   "tr": "reclamația reglementată de articolul 13 din Condițiile generale",
+   "why": "CG RO art. 13 „RECLAMAȚII”; distinta dalla definizione CSFC „Cerere de despăgubire și reclamație”"
+  },
+  {
+   "it": "percorrenza",
+   "tr": "distanța parcursă",
+   "why": "scelta del traduttore: né CG RO né RO precedente contengono il termine; tenuto distinto da „kilometraj” (chilometraggio)"
+  },
+  {
+   "it": "prova primaria",
+   "tr": "proba principală",
+   "why": "scelta del traduttore, resa legale standard"
+  },
+  {
+   "it": "arbitro unico",
+   "tr": "arbitru unic",
+   "why": "scelta del traduttore, resa legale standard (sostituisce „Comisie de Arbitraj compusă dintr-un singur arbitru”)"
+  }
+ ],
+ "notes": [
+  "c02, c11, c15: correzioni di soli refusi italiani; il RO precedente era già corretto ed è restituito identico.",
+  "c04: oltre alla rimozione del rinvio agli artt. 1487 ss., corretto il refuso RO precedente „garanție comerciale” → „garanție comercială” (concordanza).",
+  "c07: corretto il refuso RO precedente „preînnoire tacită” → „reînnoire tacită”.",
+  "c16: aggiunto il corsivo su „Marketplace Fleequid®” per ricalcare l’IT nuova (il RO precedente non lo aveva).",
+  "c03: „Reclamo” reso secondo glossario („Cererea de despăgubire și reclamația”) con verbo al singolare, trattandolo come termine definito unico; nel resto del documento RO (artt. 6.6, 9.5, 12) lo stesso termine è talvolta reso solo „Reclamație”, incoerenza preesistente non toccata.",
+  "c05: „le obbligazioni che ne derivano” reso con „obligațiile care decurg din aceasta” (riferito all’obbligazione assunta da Fleequid®), per mantenere l’ambiguità minima dell’IT.",
+  "c09: „guasto” del contachilometri reso in minuscolo „defecțiune”, non come termine definito, come nell’IT."
+ ]
+}
