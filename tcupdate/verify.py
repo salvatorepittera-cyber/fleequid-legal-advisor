@@ -67,9 +67,14 @@ def run(changes: dict, it_prev: Docx, it_new: Docx, prev: Docx, out: Docx, al: d
                 errors.append(f"parte modificata inattesa: {n}")
 
     # 4. evidenziazioni
-    hl = sum(1 for _ in out.tree.iter("{http://schemas.openxmlformats.org/wordprocessingml/2006/main}highlight"))
-    if hl:
-        (errors if is_it else warns).append(f"evidenziazioni presenti: {hl}")
+    hl_all = sum(1 for _ in out.tree.iter("{http://schemas.openxmlformats.org/wordprocessingml/2006/main}highlight"))
+    hl_text = [p.key for p in out.paras if p.highlighted]
+    if hl_text:
+        errors.append(f"testo evidenziato in: {hl_text[:10]}")
+    elif hl_all and is_it:
+        errors.append(f"evidenziazioni residue (segni di paragrafo): {hl_all}")
+    elif hl_all:
+        warns.append(f"{hl_all} evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente")
 
     # 5. header
     vp, vn = changes.get("version_prev") or [], changes.get("version_new") or []
