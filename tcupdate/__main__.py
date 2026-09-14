@@ -57,16 +57,24 @@ class Ctx:
         return self._changes
 
     def out_name(self, lang: str) -> Path:
-        it_prev = self.prev_docs["IT"].name
-        m = diff_mod.VERSION_RE.search(it_prev)
+        """Stesso nome del file della versione precedente di quella lingua, cambia solo la versione.
+
+        Si normalizzano solo refusi evidenti del vecchio nome: estensione doppia e separatore prima del codice lingua.
+        """
+        prev = self.prev_docs[lang].name
+        stem = prev
+        while stem.lower().endswith(".docx"):
+            stem = stem[:-5]
         vp, vn = self.changes["version_prev"], self.changes["version_new"]
-        if m and vn:
-            prefix = it_prev[: m.start()]
-            prefix = re.sub(rf"^{self.v_from}_", f"{self.v_to}_", prefix)
-            name = f"{prefix}{vn[0]}_DEF_{lang}.docx"
-        else:
-            name = f"{slug(self.family)}_v{self.v_to}_DEF_{lang}.docx"
-        return self.new_dir / name
+        if vn:
+            stem, n = diff_mod.VERSION_RE.subn(vn[0], stem)
+            if not n:
+                raise SystemExit(f"Nome file senza codice versione: {prev}")
+        stem = re.sub(rf"^{self.v_from}_", f"{self.v_to}_", stem)
+        m = re.search(r"[\s_]+([A-Za-z]+(?:\s+[A-Za-z]+)?)$", stem)
+        if m and inv.lang_of(Path(stem + ".docx")) == lang:
+            stem = stem[: m.start()] + "_" + m.group(1).replace(" ", "_")
+        return self.new_dir / f"{stem}.docx"
 
     def it_new_clean(self) -> Path:
         p = self.out_name("IT")

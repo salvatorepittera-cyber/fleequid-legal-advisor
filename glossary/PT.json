@@ -68,5 +68,65 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio / chilometraggio iniziale",
+  "tr": "quilometragem / quilometragem inicial",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "quilometragem già in uso nel documento PT (7.3, 9.2.L2) e nelle T&C Generali PT"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "auto de entrega",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PT (art. 10, 11); verificato: TCG PT art. 10.11 (\"auto de entrega\")"
+ },
+ {
+  "it": "Scheda d'Asta",
+  "tr": "Ficha de Leilão",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PT, definizione [1.L19]"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Especificações técnicas",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PT, definizione [1.L21]"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "contratos de compra e venda",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PT e documento PT precedente (2.3)"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "conta-quilómetros",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già nel documento PT precedente (6.8)"
+ },
+ {
+  "it": "reclamo disciplinato dall'articolo 13 delle Condizioni Generali",
+  "tr": "reclamação regulada pelo artigo 13.º dos Termos e Condições Gerais",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "reclamação: T&C Generali PT art. 13 (\"RECLAMAÇÕES\"); Termos e Condições Gerais: glossario"
+ },
+ {
+  "it": "chilometri / limite chilometrico",
+  "tr": "quilómetros / limite quilométrico",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia, grafia PT europeo coerente con conta-quilómetros"
+ },
+ {
+  "it": "percorrenza",
+  "tr": "quilometragem percorrida",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia, per distinguerla dal chilometraggio (lettura del contachilometri)"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "árbitro único",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già nel PT precedente (12.4)"
  }
 ]

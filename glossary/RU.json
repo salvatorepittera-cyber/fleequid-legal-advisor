@@ -58,5 +58,77 @@
   "it": "Voucher",
   "tr": "Ваучер",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio",
+  "tr": "пробег",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in uso nel documento RU (art. 7.3, 9.2) e nelle T&C Generali RU"
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "начальный пробег",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "non presente nelle Generali RU; composto da «пробег» (Generali/doc) + «начальный»"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "акт приема-передачи",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali RU (art. 10/11: «совместно составляется акт приема-передачи»)"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "одометр",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in uso nel documento RU (art. 6.8)"
+ },
+ {
+  "it": "Scheda d'Asta",
+  "tr": "Аукционный лист",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali RU, definizione [1.L19] «Аукционный лист» (nel corpo delle Generali compare anche «карта Аукциона», scartata a favore del termine definito)"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Технические характеристики",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali RU, definizione [1.L21]"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "договоры купли-продажи",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali RU e documento RU precedente (art. 2.3)"
+ },
+ {
+  "it": "reclamo (art. 13 Condizioni Generali)",
+  "tr": "претензия",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali RU, art. 13 «Претензии»; distinto da «Жалоба» (Reclamo CSFC); nel c03 reso con rinvio esplicito all'art. 13 per distinguerlo da «претензия» = contestazione (parte invariata)"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "единоличный арбитр",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia, resa legale standard"
+ },
+ {
+  "it": "limite temporale / chilometrico",
+  "tr": "временной предел / предел по пробегу",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia"
+ },
+ {
+  "it": "quanto a titolo e contenuto",
+  "tr": "с точки зрения правового основания и содержания",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia"
+ },
+ {
+  "it": "guasto del contachilometri",
+  "tr": "выход из строя одометра",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "revisore: evita «Неисправность», termine definito (Malfunzionamento, art. 1.L5)"
  }
 ]

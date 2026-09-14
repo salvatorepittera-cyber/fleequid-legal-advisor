@@ -68,5 +68,83 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "initial mileage",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "chilometraggio = mileage (già in EN precedente 7.3 e 9.2.L2 e nelle T&C Generali EN); 'iniziale' resa letterale"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "delivery report",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa delle T&C Generali EN (art. 10: 'a delivery report shall be drawn up')"
+ },
+ {
+  "it": "Scheda d'Asta",
+  "tr": "Auction data sheet",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa prevalente nelle T&C Generali EN (7 occorrenze, incluso il contesto della tolleranza chilometrica art. 10.10/12.2); 'Auction Sheet' compare una sola volta"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technical Specifications",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "termine definito nelle T&C Generali EN (1.L19)"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "contracts of sale",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in EN v1 di questo documento (2.3 'contract of sale'); prevale sul 'Sales Contract' delle T&C Generali; minuscolo come nell'IT"
+ },
+ {
+  "it": "reclamo (art. 13 Condizioni Generali)",
+  "tr": "complaint",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali EN, art. 13 COMPLAINTS ('formal written complaint'); minuscolo come nell'IT, distinto dal 'Claim' definito"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "odometer",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in EN precedente 6.8"
+ },
+ {
+  "it": "chilometri",
+  "tr": "kilometres",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia (grafia britannica coerente col documento: 'authorised', 'favour'); le Generali usano l'abbreviazione 'km'"
+ },
+ {
+  "it": "percorrenza",
+  "tr": "mileage",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia, per non introdurre un secondo termine accanto a 'mileage' (6.8)"
+ },
+ {
+  "it": "quanto a titolo e contenuto",
+  "tr": "in terms of legal basis and content",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia: 'titolo' in senso giuridico (fonte/causa dell'obbligazione)"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "single arbitrator",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in EN v1 (12.4 '...composed of a single arbitrator')"
+ },
+ {
+  "it": "limite temporale / limite chilometrico",
+  "tr": "time limit / mileage limit",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia"
+ },
+ {
+  "it": "tempestivamente (denunciato/comunicato)",
+  "tr": "promptly",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa già in EN v1 (6.3, 6.6 'promptly'); usata in modo uniforme in c07 e c09"
  }
 ]

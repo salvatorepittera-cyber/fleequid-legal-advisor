@@ -1,13 +1,13 @@
 # Verifica output
 
 - **IT**: ✅ OK
-- EN: output assente
-- DE: output assente
-- ES: output assente
-- FR: output assente
-- NL: output assente
-- PL: output assente
-- PT: output assente
-- RO: output assente
-- RU: output assente
-- CZ: output assente
+- **EN**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **DE**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **ES**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **FR**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT))
+- **NL**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente)
+- **PL**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **PT**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **RO**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **RU**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))
+- **CZ**: ✅ OK  (avvisi: 1 evidenziazione su segno di paragrafo vuoto, invisibile, già presente nella versione precedente; c02 [1.L5]: testo identico alla versione precedente (ok solo se refuso IT); c11 [8.8]: testo identico alla versione precedente (ok solo se refuso IT); c15 [13.5]: testo identico alla versione precedente (ok solo se refuso IT))

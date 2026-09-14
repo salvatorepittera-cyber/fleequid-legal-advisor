@@ -63,5 +63,89 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio / chilometraggio iniziale",
+  "tr": "kilometraje / kilometraje inicial",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "«kilometraje» già in CEFC ES 7.3 e in CG ES (10.x, 11.x, 12.x); «inicial» composizione diretta"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "acta de entrega",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES riga 193: «se redactará conjuntamente un acta de entrega»"
+ },
+ {
+  "it": "Scheda d'Asta",
+  "tr": "Ficha de Subasta",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES definizione 1.L19 «Ficha de Subasta»"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Especificaciones técnicas",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES definizione 1.L21 «Especificaciones técnicas»"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "contratos de compraventa",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES riga 79 «contratos de compraventa»; già «contrato de compraventa» in CEFC ES 2.3 prec."
+ },
+ {
+  "it": "reclamo disciplinato dall'articolo 13 delle Condizioni Generali",
+  "tr": "reclamación regulada por el artículo 13 de las Condiciones Generales",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES art. 13 RECLAMACIONES («reclamación», minuscolo per distinguerla dalla Reclamación definita)"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "cuentakilómetros",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già in CEFC ES 6.8 prec."
+ },
+ {
+  "it": "evidenza documentale o fotografica",
+  "tr": "prueba documental o fotográfica",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG ES «prueba documental» (riga 191) e «pruebas fotográficas» (riga 219)"
+ },
+ {
+  "it": "prova primaria",
+  "tr": "prueba principal",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia (resa legale standard)"
+ },
+ {
+  "it": "percorrenza",
+  "tr": "kilometraje recorrido",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia; coerente con «kilometraje» e con «recorrido» delle CG ES 13.2"
+ },
+ {
+  "it": "limite temporale / chilometrico",
+  "tr": "límite temporal / kilométrico",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia"
+ },
+ {
+  "it": "cessazione della copertura",
+  "tr": "cesar la cobertura (una vez haya cesado la cobertura)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "«cese» già in CEFC ES 4.7 («cese anticipado»); forma verbale per conservare la costruzione «una vez haya…» dell’ES precedente di 9.4"
+ },
+ {
+  "it": "onere (di dimostrare)",
+  "tr": "carga (de acreditar)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta mia (carga de la prueba); «acreditar» già usato nel documento (documentación acreditativa)"
+ },
+ {
+  "it": "(contratti) comunque conclusi",
+  "tr": "cualquiera que sea la forma en que se hayan suscrito",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "«concluso» reso «suscrito» nella v1 ES di 2.3 (priorità al termine v1)"
  }
 ]

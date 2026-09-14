@@ -68,5 +68,83 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio (iniziale)",
+  "tr": "(počáteční) počet najetých kilometrů",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Care CZ v1 (priorità 1): „počet najetých kilometrů“ in 7.3 (dati identificativi) e „najetých kilometrů“ in 9.2.L2. Uniformato in 4.1, 4.2, 6.8, 7.3 per non avere due rese nello stesso paragrafo/documento. Le VOP CZ usano invece „stav najetých kilometrů“ (čl. 12): scostamento consapevole."
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "dodací protokol",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "VOP CZ (čl. 10.11 e seguenti: „dodací protokol“, 3 occorrenze; una volta „předávací protokol“). Scelto „dodací“ anche perché Care usa „dodání“ per consegna."
+ },
+ {
+  "it": "contachilometri",
+  "tr": "počítadlo najetých kilometrů",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Già nel documento Care CZ v1, art. 6.8."
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Aukční list",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "VOP CZ, definizione 1.L27 „Aukční list“ (maiuscola, termine definito)."
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technické specifikace",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "VOP CZ, definizione 1.L29 „Technické specifikace“ (maiuscola, termine definito)."
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "kupní smlouvy",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "VOP CZ (passim) e Care CZ v1 art. 2.3 („kupní smlouva“)."
+ },
+ {
+  "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+  "tr": "reklamace upravená článkem 13 Všeobecných obchodních podmínek",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "VOP CZ art. 13 „REKLAMACE“; minuscola per distinguerla dal termine definito „Reklamace“ delle Condizioni Specifiche."
+ },
+ {
+  "it": "percorrenza / chilometri percorsi",
+  "tr": "počet najetých kilometrů (percorrenza) / kilometry ujeté od… (chilometri percorsi, solo 4.2)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "In 6.8 „percorrenza“ ricorre due volte: resa unica „počet najetých kilometrů“ (= resa v1 di chilometraggio). In 4.2 „chilometri percorsi dal chilometraggio iniziale“ → „kilometrů ujetých od počátečního počtu najetých kilometrů“ (participio verbale, non termine)."
+ },
+ {
+  "it": "prova primaria",
+  "tr": "primární důkaz",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, resa legale standard."
+ },
+ {
+  "it": "evidenza documentale o fotografica",
+  "tr": "listinný nebo fotografický důkaz",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, resa legale standard („listinný důkaz“ = prova documentale)."
+ },
+ {
+  "it": "titolo (quanto a titolo e contenuto)",
+  "tr": "právní titul",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, resa legale standard."
+ },
+ {
+  "it": "Guasto (in 7.3 e 9.4)",
+  "tr": "závada",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Care CZ v1 rende „Guasto“ con „závada“ in 7.3 („Nahlášení závady“) e 9.4 („závad nebo poruch“ per Guasti o difetti), e „Guasti“ con „závady“ in 9.2.L1: nelle parti nuove di questi paragrafi mantenuta la resa v1 dello stesso paragrafo. „Porucha(y)“/„Závada(y)“ sono coppia definita in 1.L5, quindi nessuna violazione del termine definito; in 4.2 e 6.8 resta „porucha“ (glossario)."
+ },
+ {
+  "it": "vizi, difetti o anomalie (9.2.L1)",
+  "tr": "vady, nedostatky nebo anomálie",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Non riusata la resa v1 di 1.L5 („vady, poruchy nebo závady“) perché collide con i termini definiti Porucha/Závada (qui escluderebbe proprio i Guasti). Da validare."
  }
 ]

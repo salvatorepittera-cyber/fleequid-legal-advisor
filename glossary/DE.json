@@ -68,5 +68,89 @@
   "it": "Voucher",
   "tr": "Gutschein",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "Übergabeprotokoll",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE Art. 10.9 (IT „verbale di consegna“ → „Übergabeprotokoll“); coerente con „Übergabe“ = consegna in BGBFC. Le AGB DE usano altrove anche „Lieferprotokoll“ (es. Art. 11.8)."
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Auktionsblatt",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE, definizione Art. 1.L27 „Auktionsblatt“ (nel corpo AGB compare anche „Versteigerungsblatt“; scelto il termine definito)."
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technische Spezifikationen",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE, definizione Art. 1.L29."
+ },
+ {
+  "it": "contratti di compravendita (del Veicolo)",
+  "tr": "Kaufverträge (über das Fahrzeug)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE (Kaufvertrag/Kaufverträge) e BGBFC v1 Art. 2.3."
+ },
+ {
+  "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+  "tr": "die in Artikel 13 der Allgemeinen Geschäftsbedingungen geregelte Reklamation",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE Art. 13 „REKLAMATIONEN“; termine Reklamation già in glossario."
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "Anfangskilometerstand",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia: composto da „Kilometerstand“ (= chilometraggio in BGBFC 7.3 e AGB DE)."
+ },
+ {
+  "it": "contachilometri",
+  "tr": "Kilometerzähler",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Già in BGBFC v1 DE Art. 6.8."
+ },
+ {
+  "it": "percorrenza",
+  "tr": "Laufleistung",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia: termine tecnico standard per i km percorsi; distinto da „Kilometerstand“ (= chilometraggio). Nota: le AGB DE rendono „percorrenza chilometrica“ con „Kilometerstand“. Revisione: in c09 la percorrenza „risultante“ è resa con „sich ergebende“ (non „angezeigte“, che presuppone un contachilometri funzionante)."
+ },
+ {
+  "it": "limite temporale / limite chilometrico",
+  "tr": "zeitliche Grenze / Kilometergrenze",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, coerente con „Grenze“ usato nel documento."
+ },
+ {
+  "it": "prova primaria",
+  "tr": "vorrangiger Nachweis",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia; „Nachweis“ come in AGB DE („dokumentarische/fotografische Nachweise“)."
+ },
+ {
+  "it": "evidenza documentale o fotografica",
+  "tr": "dokumentarische oder fotografische Nachweise",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "AGB DE („dokumentarische Nachweise“, „fotografischen Nachweise“)."
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "Einzelschiedsrichter",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Già in BGBFC v1 DE Art. 12.4."
+ },
+ {
+  "it": "titolo (quanto a titolo e contenuto)",
+  "tr": "Rechtsgrund",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, resa legale standard."
+ },
+ {
+  "it": "onere (dell’Acquirente) di dimostrare",
+  "tr": "Beweislast (des Käufers)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Revisione: „onere di dimostrare“ è onere probatorio, non obbligo; resa legale standard (termine assente in BGBFC v1 e AGB DE)."
  }
 ]

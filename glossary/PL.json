@@ -68,5 +68,65 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "przebieg początkowy",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "„przebieg” = resa di chilometraggio già usata nel PL precedente (7.3) e nelle T&C Generali PL (10.10, 12.x); aggettivo „początkowy” scelta propria"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "protokół zdawczo-odbiorczy",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PL (art. 10: „protokół zdawczo-odbiorczy” redatto alla consegna)"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "licznik kilometrów",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "PL precedente Care art. 6.8 („liczniki kilometrów”)"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Karta Aukcyjna",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PL, definizione 1.L27 „Karta Aukcyjna”"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Specyfikacje techniczne",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PL, definizione 1.L29 „Specyfikacje techniczne”"
+ },
+ {
+  "it": "contratti di compravendita (del Veicolo)",
+  "tr": "umowy kupna-sprzedaży (Pojazdu)",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "PL precedente Care art. 2.3 („umowa kupna-sprzedaży”) e T&C Generali PL 2.2 („Umowy kupna-sprzedaży”)"
+ },
+ {
+  "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+  "tr": "reklamacja uregulowana w art. 13 Warunków Ogólnych",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "T&C Generali PL usano „reklamacja” per il reclamo dell’art. 13 (10.11, 13.2: „reklamację... w sposób określony w art. 13”); „Warunki Ogólne” da glossario"
+ },
+ {
+  "it": "limite temporale / limite chilometrico",
+  "tr": "limit czasowy / limit kilometrowy",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "„limit” già usato nel PL precedente (art. 5); aggettivo „kilometrowy” come in T&C Generali PL („tolerancja kilometrowa”); „rispettati entrambi i limiti” reso „w granicach zarówno limitu czasowego, jak i limitu kilometrowego”"
+ },
+ {
+  "it": "evidenza documentale o fotografica",
+  "tr": "dowody w postaci dokumentów lub zdjęć",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa revisore: „dowody dokumentacyjne/fotograficzne” poco idiomatico; „dowód z dokumentu” è la categoria processuale polacca, qui resa descrittiva „w postaci dokumentów lub zdjęć”"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "pojedynczy arbiter",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "PL v1 di questo documento, art. 12.4 („z pojedynczego arbitra”): priorità al termine già in uso"
  }
 ]

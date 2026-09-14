@@ -68,5 +68,77 @@
   "it": "Voucher",
   "tr": "Coupon",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Fiche d’Enchère",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Termine definito nelle CG FR (art. 1.L27 « Fiche d’Enchère »)"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Spécifications techniques",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Termine definito nelle CG FR (art. 1.L29)"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "procès-verbal de remise",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG FR (« un procès-verbal de remise est établi conjointement »); coerente con « date de remise » dell'art. 4.1 FR"
+ },
+ {
+  "it": "chilometraggio / chilometraggio iniziale",
+  "tr": "kilométrage / kilométrage initial",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "« kilométrage » già in CSFC v1 FR (7.3, 9.2) e CG FR; « initial » scelta mia"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "compteur kilométrique",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Già in CSFC v1 FR art. 6.8 (« compteurs kilométriques »)"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "contrats de vente",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Resa di CSFC v1 FR art. 2.3 (« contrat de vente ») e CG FR (« Contrat de vente », « contrats de vente »)"
+ },
+ {
+  "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+  "tr": "réclamation régie par l'article 13 des Conditions générales",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG FR art. 13 « RÉCLAMATIONS », « réclamation » minuscolo per distinguerla dalla Réclamation definita nelle CSFC"
+ },
+ {
+  "it": "evidenza documentale o fotografica",
+  "tr": "preuve documentaire ou photographique",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia (stesso sintagma in 4.1 e 7.3)"
+ },
+ {
+  "it": "percorrenza",
+  "tr": "kilométrage",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia, per non introdurre un sinonimo di chilometraggio (6.8)"
+ },
+ {
+  "it": "limite temporale / limite chilometrico",
+  "tr": "limite temporelle / limite kilométrique",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta del traduttore, confermata in revisione (CG FR usano « tolérance kilométrique » per altro concetto)"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "arbitre unique",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Già in CSFC v1 FR art. 12.4"
+ },
+ {
+  "it": "raggiungimento (del limite chilometrico)",
+  "tr": "le fait d'avoir parcouru / limites atteintes",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Revisione: evitato « atteinte » (in francese giuridico evoca la lesione di un diritto)"
  }
 ]

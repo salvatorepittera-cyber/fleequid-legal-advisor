@@ -68,5 +68,83 @@
   "it": "Voucher",
   "tr": "Voucher",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "leveringsdocument",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Resa gia' usata nelle T&C Generali NL (art. 10.9/11.8: 'leveringsdocument' per 'delivery report'/verbale di consegna)."
+ },
+ {
+  "it": "Scheda d'Asta",
+  "tr": "Veilingblad",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Termine definito nelle T&C Generali NL (art. 1, 'Veilingblad' (of 'Advertentie'))."
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technische Specificaties",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Termine definito nelle T&C Generali NL (art. 1)."
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "koopovereenkomsten",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Resa della v1 NL di questo documento (art. 2.3 'koopovereenkomst'), al plurale come l'IT nuova; prevale sulla resa delle T&C Generali NL (priorita' terminologica 1)."
+ },
+ {
+  "it": "reclamo (art. 13 Condizioni Generali)",
+  "tr": "klacht",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Resa delle T&C Generali NL art. 13 (KLACHTEN), minuscolo per distinguerlo dalla Klacht definita."
+ },
+ {
+  "it": "chilometraggio",
+  "tr": "kilometerstand",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Gia' usato nella v1 NL (art. 7.3) e nelle T&C Generali NL."
+ },
+ {
+  "it": "contachilometri",
+  "tr": "kilometerteller",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Gia' usato nella v1 NL (art. 6.8)."
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "aanvangskilometerstand",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia: non presente nelle Generali NL; composto coerente con 'kilometerstand' e 'aanvangstijdstip' (art. 4.1)."
+ },
+ {
+  "it": "percorrenza",
+  "tr": "aantal afgelegde kilometers",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia; le Generali NL (art. 13.2) usano il verbo 'afleggen' per i km percorsi."
+ },
+ {
+  "it": "limite temporale / limite chilometrico",
+  "tr": "tijdsgrens / kilometergrens",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia; 'grens' coerente con 'grenzen' gia' usato nel documento."
+ },
+ {
+  "it": "quanto a titolo e contenuto",
+  "tr": "wat rechtsgrond en inhoud betreft",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia (titolo = causa/titolo giuridico)."
+ },
+ {
+  "it": "interrompe (i termini)",
+  "tr": "stuit",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "Scelta mia: termine tecnico NL per l'interruzione di un termine (stuiting)."
+ },
+ {
+  "it": "onere (dell'Acquirente di dimostrare)",
+  "tr": "op de Koper rustende bewijslast",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "'onere' di prova non e' un obbligo: resa tecnica NL della ripartizione dell'onere della prova."
  }
 ]

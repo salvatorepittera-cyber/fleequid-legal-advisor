@@ -68,5 +68,65 @@
   "it": "Voucher",
   "tr": "Cupon",
   "source": "VAS - Fleequid Care v1"
+ },
+ {
+  "it": "chilometraggio iniziale",
+  "tr": "kilometrajul inițial",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "„kilometraj” già usato nel RO precedente (7.3, 9.2.L2) e nelle CG RO (12.5); aggettivo „inițial” scelta standard"
+ },
+ {
+  "it": "verbale di consegna",
+  "tr": "procesul-verbal de predare",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa delle CG RO, art. 11.8"
+ },
+ {
+  "it": "contachilometri",
+  "tr": "odometru",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "già usato nel RO precedente, art. 6.8"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Fișa de Licitație",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "definizione delle CG RO, art. 1.L19"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Specificațiile tehnice",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "definizione delle CG RO, art. 1.L21"
+ },
+ {
+  "it": "contratti di compravendita",
+  "tr": "contractele de vânzare-cumpărare",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "resa del RO precedente (2.3) e delle CG RO (2.2, 2.4)"
+ },
+ {
+  "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+  "tr": "reclamația reglementată de articolul 13 din Condițiile generale",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "CG RO art. 13 „RECLAMAȚII”; distinta dalla definizione CSFC „Cerere de despăgubire și reclamație”"
+ },
+ {
+  "it": "percorrenza",
+  "tr": "distanța parcursă",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta del traduttore: né CG RO né RO precedente contengono il termine; tenuto distinto da „kilometraj” (chilometraggio); il RO v1 non ha precedenti (9.2.L2 IT usa „chilometraggio” → „kilometraj”), quindi resta distinto da „kilometraj”. Da validare."
+ },
+ {
+  "it": "prova primaria",
+  "tr": "proba principală",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta del traduttore, resa legale standard"
+ },
+ {
+  "it": "arbitro unico",
+  "tr": "arbitru unic",
+  "source": "Fleequid Care v2 (nuovo)",
+  "why": "scelta del traduttore, resa legale standard (sostituisce „Comisie de Arbitraj compusă dintr-un singur arbitru”)"
  }
 ]
