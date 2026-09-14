@@ -1,0 +1,479 @@
+{
+  "prev_file": "T&C/VAS - Fleequid Care/Vers 1 - Multilanguage - Q4 2025/Condizioni_Specifiche_Fleequid_Care_CSFC-F0001_2025_DEF_DEF_IT.docx",
+  "new_file": "T&C/VAS - Fleequid Care/Vers 2 - Multilanguage - Q3 2026/Condizioni_Specifiche_Fleequid_Care_CSFC-F0002_2026_EVIDENZA_PARTI_MODIFICATE.docx",
+  "prev_paragraphs": 205,
+  "new_paragraphs": 206,
+  "version_prev": [
+    "CSFC-F0001_2025"
+  ],
+  "version_new": [
+    "CSFC-F0002_2026"
+  ],
+  "headers": [
+    {
+      "part": "word/header1.xml",
+      "prev": "22Versione nr. CSFC-F0001_2025",
+      "new": "22Versione nr. CSFC-F0002_2026"
+    }
+  ],
+  "changes": [
+    {
+      "id": "c01",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 1,
+      "prev_key": null,
+      "new_key": "0~1+e1",
+      "article": "0",
+      "anchor_prev_idx": 0,
+      "prev_markup": null,
+      "new_markup": "",
+      "word_diff": "",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c02",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 27,
+      "new_idx": 28,
+      "prev_key": "1.L5",
+      "new_key": "1.L5",
+      "article": "1",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b><i>“Guasto/i”</i></b> o <b><i>“Malfunzionamento/i”</i></b>: l’evento o gli eventi improvvisi, non prevedibili e non dichiarati nel TrustReport, che determino la perdita di funzionalità, totale o parziale, dei Componenti Coperti ai sensi dell’articolo 3.3 delle presenti Condizioni Specifiche, rendendo necessaria la loro riparazione o sostituzione. Non rientrano nella presente definizione, e restano pertanto esclusi dalla copertura ai sensi del medesimo articolo, i vizi, difetti o anomalie già segnalati o dichiarati nel TrustReport, nonché quelli riconducibili a normale usura, manutenzione insufficiente o irregolare, uso improprio, negligenza o inosservanza delle istruzioni del costruttore, derivanti da manomissioni, interventi non autorizzati o modifiche non conformi, ovvero conseguenti a eventi accidentali o esterni quali incidenti, urti, incendio, allagamento, calamità naturali o altre cause di forza maggiore. La qualificazione del Guasto o Malfunzionamento e la relativa ammissibilità alla copertura sono rimesse alla valutazione tecnica di Fleequid® o del Centro Autorizzato, secondo la procedura prevista dagli articoli 7 e 8 delle presenti Condizioni Specifiche.",
+      "new_markup": "<b><i>“Guasto/i”</i></b> o <b><i>“Malfunzionamento/i”</i></b>: l’evento o gli eventi improvvisi, non prevedibili e non dichiarati nel TrustReport, che determinano la perdita di funzionalità, totale o parziale, dei Componenti Coperti ai sensi dell’articolo 3.3 delle presenti Condizioni Specifiche, rendendo necessaria la loro riparazione o sostituzione. Non rientrano nella presente definizione, e restano pertanto esclusi dalla copertura ai sensi del medesimo articolo, i vizi, difetti o anomalie già segnalati o dichiarati nel TrustReport, nonché quelli riconducibili a normale usura, manutenzione insufficiente o irregolare, uso improprio, negligenza o inosservanza delle istruzioni del costruttore, derivanti da manomissioni, interventi non autorizzati o modifiche non conformi, ovvero conseguenti a eventi accidentali o esterni quali incidenti, urti, incendio, allagamento, calamità naturali o altre cause di forza maggiore. La qualificazione del Guasto o Malfunzionamento e la relativa ammissibilità alla copertura sono rimesse alla valutazione tecnica di Fleequid® o del Centro Autorizzato, secondo la procedura prevista dagli articoli 7 e 8 delle presenti Condizioni Specifiche.",
+      "word_diff": "“Guasto/i” o “Malfunzionamento/i”: l’evento o gli eventi improvvisi, non prevedibili e non dichiarati nel TrustReport, che [-determino-]{+determinano+} la perdita di funzionalità, totale o parziale, dei Componenti Coperti ai sensi dell’articolo 3.3 delle presenti Condizioni Specifiche, rendendo necessaria la loro riparazione o sostituzione. Non rientrano nella presente definizione, e restano pertanto esclusi dalla copertura ai sensi del medesimo articolo, i vizi, difetti o anomalie già segnalati o dichiarati nel TrustReport, nonché quelli riconducibili a normale usura, manutenzione insufficiente o irregolare, uso improprio, negligenza o inosservanza delle istruzioni del costruttore, derivanti da manomissioni, interventi non autorizzati o modifiche non conformi, ovvero conseguenti a eventi accidentali o esterni quali incidenti, urti, incendio, allagamento, calamità naturali o altre cause di forza maggiore. La qualificazione del Guasto o Malfunzionamento e la relativa ammissibilità alla copertura sono rimesse alla valutazione tecnica di Fleequid® o del Centro Autorizzato, secondo la procedura prevista dagli articoli 7 e 8 delle presenti Condizioni Specifiche.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 2,
+        "i": 2,
+        "u": 0
+      }
+    },
+    {
+      "id": "c03",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 28,
+      "new_idx": 29,
+      "prev_key": "1.L6",
+      "new_key": "1.L6",
+      "article": "1",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b><i>“Reclamo</i></b>”: la comunicazione scritta inviata dall’Acquirente a Fleequid® tramite i canali ufficiali indicati (claims@fleequid.com o portale dedicato), avente ad oggetto la segnalazione di un guasto o la richiesta di intervento in garanzia, nonché ogni successiva contestazione inerente la gestione o l’esito della pratica.",
+      "new_markup": "<b><i>“Reclamo</i></b>”: la comunicazione scritta inviata dall’Acquirente a Fleequid® tramite i canali ufficiali indicati (claims@fleequid.com o portale dedicato), avente ad oggetto la segnalazione di un guasto o la richiesta di intervento in garanzia, nonché ogni successiva contestazione inerente la gestione o l’esito della pratica. Il Reclamo ai sensi delle presenti Condizioni Specifiche è distinto dal reclamo disciplinato dall’articolo 13 delle Condizioni Generali, non lo sostituisce e non ne interrompe né proroga i termini.",
+      "word_diff": "“Reclamo”: la comunicazione scritta inviata dall’Acquirente a Fleequid® tramite i canali ufficiali indicati (claims@fleequid.com o portale dedicato), avente ad oggetto la segnalazione di un guasto o la richiesta di intervento in garanzia, nonché ogni successiva contestazione inerente la gestione o l’esito della pratica.{+ Il Reclamo ai sensi delle presenti Condizioni Specifiche è distinto dal reclamo disciplinato dall’articolo 13 delle Condizioni Generali, non lo sostituisce e non ne interrompe né proroga i termini.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c04",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 35,
+      "new_idx": 36,
+      "prev_key": "2.2",
+      "new_key": "2.2",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "Il Servizio Fleequid Care® ha natura di garanzia commerciale opzionale, non assicurativa, ai sensi e per gli effetti dell’articolo 1322 ed articoli 1487 e seguenti del Codice Civile. Esso non costituisce un prodotto o contratto assicurativo, né comporta l’assunzione di rischi aleatori futuri o indeterminati. Il rischio economico connesso all’erogazione delle prestazioni di garanzia è assunto direttamente da Fleequid® (Adorea S.r.l.), che agisce in proprio e non quale intermediario o mandatario di imprese di assicurazione.",
+      "new_markup": "Il Servizio Fleequid Care® ha natura di garanzia commerciale opzionale, non assicurativa, ai sensi e per gli effetti dell’articolo 1322 del Codice Civile. Esso non costituisce un prodotto o contratto assicurativo, né comporta l’assunzione di rischi aleatori futuri o indeterminati. Il rischio economico connesso all’erogazione delle prestazioni di garanzia è assunto direttamente da Fleequid® (Adorea S.r.l.), che agisce in proprio e non quale intermediario o mandatario di imprese di assicurazione.",
+      "word_diff": "Il Servizio Fleequid Care® ha natura di garanzia commerciale opzionale, non assicurativa, ai sensi e per gli effetti dell’articolo 1322[- ed articoli 1487 e seguenti-] del Codice Civile. Esso non costituisce un prodotto o contratto assicurativo, né comporta l’assunzione di rischi aleatori futuri o indeterminati. Il rischio economico connesso all’erogazione delle prestazioni di garanzia è assunto direttamente da Fleequid® (Adorea S.r.l.), che agisce in proprio e non quale intermediario o mandatario di imprese di assicurazione.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c05",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 36,
+      "new_idx": 37,
+      "prev_key": "2.3",
+      "new_key": "2.3",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "La garanzia opera esclusivamente a favore dell’Acquirente. Il Servizio è autonomo e distinto rispetto al contratto di compravendita concluso tra Acquirente e Venditore sul Marketplace Fleequid®, e non sostituisce né modifica le responsabilità legali del Venditore derivanti dalla normativa vigente o dalle Condizioni Generali. Fleequid® assume un’obbligazione diretta e indipendente nei confronti dell’Acquirente unicamente per le prestazioni previste dalle presenti Condizioni Specifiche, restando estranea a qualsiasi rapporto contrattuale tra Acquirente e Venditore. La trasferibilità del Servizio è disciplinata dal successivo art. 4.5, qui integralmente richiamato.",
+      "new_markup": "La garanzia opera esclusivamente a favore dell’Acquirente. Il Servizio è autonomo e distinto, quanto a titolo e contenuto, rispetto ai contratti di compravendita del Veicolo comunque conclusi e strutturati ai sensi delle Condizioni Generali  , e non sostituisce né modifica le responsabilità legali del Venditore derivanti dalla normativa vigente o dalle Condizioni Generali. Fleequid® assume un’obbligazione diretta e indipendente nei confronti dell’Acquirente unicamente per le prestazioni previste dalle presenti Condizioni Specifiche; le obbligazioni che ne derivano restano distinte da quelle nascenti dai predetti contratti di compravendita e non ne modificano la disciplina. La trasferibilità del Servizio è disciplinata dal successivo art. 4.5, qui integralmente richiamato.",
+      "word_diff": "La garanzia opera esclusivamente a favore dell’Acquirente. Il Servizio è autonomo e [-distinto-]{+distinto, quanto a titolo e contenuto,+} rispetto [-al-]{+ai+} [-contratto-]{+contratti+} di compravendita [-concluso-]{+del+} [-tra-]{+Veicolo+} [-Acquirente-]{+comunque conclusi+} e [-Venditore-]{+strutturati+} [-sul-]{+ai+} [-Marketplace-]{+sensi+} [-Fleequid®,-]{+delle Condizioni Generali  ,+} e non sostituisce né modifica le responsabilità legali del Venditore derivanti dalla normativa vigente o dalle Condizioni Generali. Fleequid® assume un’obbligazione diretta e indipendente nei confronti dell’Acquirente unicamente per le prestazioni previste dalle presenti Condizioni [-Specifiche,-]{+Specifiche;+} [-restando-]{+le+} [-estranea-]{+obbligazioni+} [-a-]{+che+} [-qualsiasi-]{+ne+} [-rapporto-]{+derivano+} [-contrattuale-]{+restano+} [-tra-]{+distinte+} [-Acquirente-]{+da quelle nascenti dai predetti contratti di compravendita+} e [-Venditore.-]{+non ne modificano la disciplina.+} La trasferibilità del Servizio è disciplinata dal successivo art. 4.5, qui integralmente richiamato.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c06",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 63,
+      "new_idx": 64,
+      "prev_key": "4.1",
+      "new_key": "4.1",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "Il <i>Servizio Fleequid Care®</i> decorre automaticamente dalla <b>data di consegna del Veicolo all’Acquirente</b>, come risultante dai documenti di vendita e di trasporto emessi da Fleequid®.  Tale data segna l’inizio del periodo di validità della garanzia. ",
+      "new_markup": "Il <i>Servizio Fleequid Care®</i> decorre automaticamente dalla <b>data di consegna del Veicolo all’Acquirente</b>, come risultante dai documenti di vendita e di trasporto emessi da Fleequid®.  Tale data segna l’inizio del periodo di validità della garanzia. Al momento della consegna è rilevato il chilometraggio del Veicolo, che costituisce il chilometraggio iniziale ai fini del successivo articolo 4.2. Il chilometraggio iniziale è annotato nel verbale di consegna, ove redatto, che ne costituisce prova primaria; in mancanza, il chilometraggio iniziale è desunto da altra evidenza documentale o fotografica contemporanea alla consegna e verificabile da Fleequid®. A tali fini non rileva il chilometraggio indicato nella Scheda d’Asta o nelle Specifiche tecniche.",
+      "word_diff": "Il Servizio Fleequid Care® decorre automaticamente dalla data di consegna del Veicolo all’Acquirente, come risultante dai documenti di vendita e di trasporto emessi da Fleequid®.  Tale data segna l’inizio del periodo di validità della garanzia. {+Al momento della consegna è rilevato il chilometraggio del Veicolo, che costituisce il chilometraggio iniziale ai fini del successivo articolo 4.2. Il chilometraggio iniziale è annotato nel verbale di consegna, ove redatto, che ne costituisce prova primaria; in mancanza, il chilometraggio iniziale è desunto da altra evidenza documentale o fotografica contemporanea alla consegna e verificabile da Fleequid®. A tali fini non rileva il chilometraggio indicato nella Scheda d’Asta o nelle Specifiche tecniche.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c07",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 64,
+      "new_idx": 65,
+      "prev_key": "4.2",
+      "new_key": "4.2",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "La durata del Servizio è <b>fissa e predeterminata in tre (3) mesi</b> decorrenti dalla suddetta data, senza possibilità di rinnovo tacito o proroga automatica. Il Servizio si estingue automaticamente allo spirare del termine di durata, senza necessità di disdetta o comunicazione da parte di Fleequid® o dell’Acquirente.",
+      "new_markup": "Il Servizio ha validità fino al primo verificarsi tra il decorso di <b>tre (3) mesi</b> dalla data di consegna e il raggiungimento di <b>quindicimila (15.000) chilometri</b> percorsi dal chilometraggio iniziale rilevato ai sensi del precedente articolo 4.1, <b>a seconda di quale limite si verifichi per primo</b>, senza possibilità di rinnovo tacito o proroga automatica. Il Servizio cessa automaticamente, al primo limite raggiunto, senza necessità di disdetta o comunicazione da parte di Fleequid® o dell’Acquirente. È coperto il Guasto manifestatosi quando risultano rispettati sia il limite temporale sia quello chilometrico, purché denunciato tempestivamente ai sensi dell’articolo 7, anche qualora al momento della denuncia il Servizio sia nel frattempo cessato per il sopraggiungere di uno o di entrambi i limiti.",
+      "word_diff": "[-La durata del-]{+Il+} Servizio [-è-]{+ha+} [-fissa-]{+validità+} [-e-]{+fino+} [-predeterminata-]{+al+} [-in-]{+primo verificarsi tra il decorso di+} tre (3) mesi [-decorrenti -]dalla [-suddetta-]{+data+} [-data,-]{+di consegna e il raggiungimento di quindicimila (15.000) chilometri percorsi dal chilometraggio iniziale rilevato ai sensi del precedente articolo 4.1, a seconda di quale limite si verifichi per primo,+} senza possibilità di rinnovo tacito o proroga automatica. Il Servizio [-si-]{+cessa+} [-estingue-]{+automaticamente,+} [-automaticamente-]{+al+} [-allo-]{+primo+} [-spirare-]{+limite+} [-del termine di durata,-]{+raggiunto,+} senza necessità di disdetta o comunicazione da parte di Fleequid® o dell’Acquirente.{+ È coperto il Guasto manifestatosi quando risultano rispettati sia il limite temporale sia quello chilometrico, purché denunciato tempestivamente ai sensi dell’articolo 7, anche qualora al momento della denuncia il Servizio sia nel frattempo cessato per il sopraggiungere di uno o di entrambi i limiti.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 3,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c08",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 84,
+      "new_idx": 85,
+      "prev_key": "5.9",
+      "new_key": "5.9",
+      "article": "5",
+      "anchor_prev_idx": null,
+      "prev_markup": "L’Acquirente accetta e riconosce che la ripartizione tra copertura diretta e Voucher Fleequid® costituisce elemento essenziale del Servizio Fleequid Care® e che l’emissione del Voucher integra a tutti gli effetti la prestazione contrattuale di Fleequid® ai sensi dell’articolo 1176, comma 2, del Codice Civile. L’emissione del Voucher equivale a piena e definitiva soddisfazione della corrispondente quota dell’indennizzo.",
+      "new_markup": "L’Acquirente accetta e riconosce che la ripartizione tra copertura diretta e Voucher Fleequid® costituisce elemento essenziale del Servizio Fleequid Care® e che l’emissione del Voucher integra a tutti gli effetti la prestazione contrattuale di Fleequid®. L’emissione del Voucher equivale a piena e definitiva soddisfazione della corrispondente quota dell’indennizzo.",
+      "word_diff": "L’Acquirente accetta e riconosce che la ripartizione tra copertura diretta e Voucher Fleequid® costituisce elemento essenziale del Servizio Fleequid Care® e che l’emissione del Voucher integra a tutti gli effetti la prestazione contrattuale di [-Fleequid® ai sensi dell’articolo 1176, comma 2, del Codice Civile.-]{+Fleequid®.+} L’emissione del Voucher equivale a piena e definitiva soddisfazione della corrispondente quota dell’indennizzo.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c09",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 98,
+      "new_idx": 99,
+      "prev_key": "6.8",
+      "new_key": "6.8",
+      "article": "6",
+      "anchor_prev_idx": null,
+      "prev_markup": "Durante la validità del Servizio, l’Acquirente si obbliga a non alterare, manomettere o disattivare i sistemi di diagnosi elettronica o i dispositivi di registrazione dei dati di bordo (OBD, ECU, sistemi telematici, contachilometri). Qualsiasi alterazione, manomissione o discrepanza documentale accertata comporta la decadenza immediata dalla garanzia.",
+      "new_markup": "Durante la validità del Servizio, l’Acquirente si obbliga a non alterare, manomettere o disattivare i sistemi di diagnosi elettronica o i dispositivi di registrazione dei dati di bordo (OBD, ECU, sistemi telematici, contachilometri). Qualsiasi alterazione, manomissione o discrepanza documentale accertata comporta la decadenza immediata dalla garanzia. L’Acquirente comunica tempestivamente a Fleequid® ogni guasto o sostituzione del contachilometri, indicando la percorrenza risultante al momento del fatto. Il guasto o la sostituzione non imputabili all’Acquirente e tempestivamente comunicati non comportano la decadenza prevista dal presente comma, restando fermo l’onere dell’Acquirente di dimostrare la percorrenza rilevante ai sensi dell’articolo 4.2.",
+      "word_diff": "Durante la validità del Servizio, l’Acquirente si obbliga a non alterare, manomettere o disattivare i sistemi di diagnosi elettronica o i dispositivi di registrazione dei dati di bordo (OBD, ECU, sistemi telematici, contachilometri). Qualsiasi alterazione, manomissione o discrepanza documentale accertata comporta la decadenza immediata dalla garanzia.{+ L’Acquirente comunica tempestivamente a Fleequid® ogni guasto o sostituzione del contachilometri, indicando la percorrenza risultante al momento del fatto. Il guasto o la sostituzione non imputabili all’Acquirente e tempestivamente comunicati non comportano la decadenza prevista dal presente comma, restando fermo l’onere dell’Acquirente di dimostrare la percorrenza rilevante ai sensi dell’articolo 4.2.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c10",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 105,
+      "new_idx": 106,
+      "prev_key": "7.3",
+      "new_key": "7.3",
+      "article": "7",
+      "anchor_prev_idx": null,
+      "prev_markup": "La denuncia del Guasto deve contenere almeno i seguenti elementi: dati identificativi dell’Acquirente e del Veicolo (targa, telaio/VIN, chilometraggio, data di consegna), descrizione sintetica dell’anomalia riscontrata con l’indicazione della data e delle circostanze di manifestazione, documentazione fotografica o video ove disponibile e ogni altro elemento utile alla valutazione preliminare, nonché, ove possibile, la documentazione attestante la manutenzione ordinaria o le ultime riparazioni eseguite.",
+      "new_markup": "La denuncia del Guasto deve contenere almeno i seguenti elementi: dati identificativi dell’Acquirente e del Veicolo (targa, telaio/VIN, chilometraggio, data di consegna), descrizione sintetica dell’anomalia riscontrata con l’indicazione della data e delle circostanze di manifestazione, documentazione fotografica o video ove disponibile e ogni altro elemento utile alla valutazione preliminare, nonché, ove possibile, la documentazione attestante la manutenzione ordinaria o le ultime riparazioni eseguite. L’Acquirente è tenuto a fornire, unitamente alla denuncia, evidenza documentale o fotografica del chilometraggio del Veicolo al momento della manifestazione del Guasto.",
+      "word_diff": "La denuncia del Guasto deve contenere almeno i seguenti elementi: dati identificativi dell’Acquirente e del Veicolo (targa, telaio/VIN, chilometraggio, data di consegna), descrizione sintetica dell’anomalia riscontrata con l’indicazione della data e delle circostanze di manifestazione, documentazione fotografica o video ove disponibile e ogni altro elemento utile alla valutazione preliminare, nonché, ove possibile, la documentazione attestante la manutenzione ordinaria o le ultime riparazioni eseguite.{+ L’Acquirente è tenuto a fornire, unitamente alla denuncia, evidenza documentale o fotografica del chilometraggio del Veicolo al momento della manifestazione del Guasto.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c11",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 118,
+      "new_idx": 119,
+      "prev_key": "8.8",
+      "new_key": "8.8",
+      "article": "8",
+      "anchor_prev_idx": null,
+      "prev_markup": "I componenti sostituiti restano di proprietà di Fleequid®, che potrà disporne liberamente per finalità di verifica tecnica, rigenerazione o smaltimento. Il Centro Autorizzato, ovvero l’Acquirente nel caso di riparazione espressamente autorizzate da Fleequid®, si impegna a conservarli per almeno trenta (30) giorni dalla chiusura della pratica, salvo diversa istruzione.",
+      "new_markup": "I componenti sostituiti restano di proprietà di Fleequid®, che potrà disporne liberamente per finalità di verifica tecnica, rigenerazione o smaltimento. Il Centro Autorizzato, ovvero l’Acquirente nel caso di riparazione espressamente autorizzata da Fleequid®, si impegna a conservarli per almeno trenta (30) giorni dalla chiusura della pratica, salvo diversa istruzione.",
+      "word_diff": "I componenti sostituiti restano di proprietà di Fleequid®, che potrà disporne liberamente per finalità di verifica tecnica, rigenerazione o smaltimento. Il Centro Autorizzato, ovvero l’Acquirente nel caso di riparazione espressamente [-autorizzate-]{+autorizzata+} da Fleequid®, si impegna a conservarli per almeno trenta (30) giorni dalla chiusura della pratica, salvo diversa istruzione.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c12",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 125,
+      "new_idx": 126,
+      "prev_key": "9.2.L1",
+      "new_key": "9.2.L1",
+      "article": "9",
+      "anchor_prev_idx": null,
+      "prev_markup": "Guasti preesistenti o manifesti al momento della consegna del Veicolo, già rilevati o dichiarati nel <i>TrustReport</i> o comunque noti all’Acquirente o al Venditore;",
+      "new_markup": "Guasti già manifesti al momento della consegna del Veicolo, nonché vizi, difetti o anomalie già rilevati, segnalati, evidenziati o dichiarati nel <i>TrustReport</i> o comunque noti all’Acquirente o al Venditore al momento della consegna;",
+      "word_diff": "Guasti [-preesistenti o-]{+già+} manifesti al momento della consegna del Veicolo, {+nonché vizi, difetti o anomalie +}già [-rilevati-]{+rilevati, segnalati, evidenziati+} o dichiarati nel TrustReport o comunque noti all’Acquirente o al [-Venditore;-]{+Venditore al momento della consegna;+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c13",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 138,
+      "new_idx": 139,
+      "prev_key": "9.4",
+      "new_key": "9.4",
+      "article": "9",
+      "anchor_prev_idx": null,
+      "prev_markup": "Resta espressamente esclusa qualsiasi copertura per danni verificatisi dopo la scadenza del periodo di validità del Servizio, anche se riferibili a Guasti o difetti sorti in epoca anteriore ma non ancora manifestatisi al momento della cessazione della garanzia.",
+      "new_markup": "Resta espressamente esclusa qualsiasi copertura per danni verificatisi dopo la cessazione della copertura ai sensi dell’art. 4.2, anche se riferibili a Guasti o difetti sorti in epoca anteriore ma non ancora manifestatisi al momento della cessazione della garanzia, fermo restando quanto previsto dal medesimo arti. 4.2 in ordine al Guasto manifestatosi entro i limiti ivi indicati e denunciato successivamente.",
+      "word_diff": "Resta espressamente esclusa qualsiasi copertura per danni verificatisi dopo la [-scadenza-]{+cessazione+} [-del-]{+della+} [-periodo-]{+copertura+} [-di-]{+ai+} [-validità-]{+sensi+} [-del-]{+dell’art.+} [-Servizio,-]{+4.2,+} anche se riferibili a Guasti o difetti sorti in epoca anteriore ma non ancora manifestatisi al momento della cessazione della [-garanzia.-]{+garanzia, fermo restando quanto previsto dal medesimo arti. 4.2 in ordine al Guasto manifestatosi entro i limiti ivi indicati e denunciato successivamente.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c14",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 169,
+      "new_idx": 170,
+      "prev_key": "12.4",
+      "new_key": "12.4",
+      "article": "12",
+      "anchor_prev_idx": null,
+      "prev_markup": "Qualora la procedura di mediazione non si concluda con un accordo amichevole entro novanta (90) giorni dal suo avvio, o qualora una delle Parti non vi partecipi, ogni controversia derivante dall’interpretazione, esecuzione, validità o cessazione delle presenti Condizioni Specifiche e, più in generale, del Servizio Fleequid Care®, sarà definita mediante arbitrato rituale, secondo diritto, da un Collegio Arbitrale composto da un unico arbitro, nominato in conformità al Regolamento della Camera Arbitrale di Milano, che le Parti dichiarano di accettare sin d’ora integralmente.",
+      "new_markup": "Qualora la procedura di mediazione non si concluda con un accordo amichevole entro novanta (90) giorni dal suo avvio, o qualora una delle Parti non vi partecipi, ogni controversia derivante dall’interpretazione, esecuzione, validità o cessazione delle presenti Condizioni Specifiche e, più in generale, del Servizio Fleequid Care®, sarà definita mediante arbitrato rituale, secondo diritto, da un arbitro unico, nominato in conformità al Regolamento della Camera Arbitrale di Milano, che le Parti dichiarano di accettare sin d’ora integralmente.",
+      "word_diff": "Qualora la procedura di mediazione non si concluda con un accordo amichevole entro novanta (90) giorni dal suo avvio, o qualora una delle Parti non vi partecipi, ogni controversia derivante dall’interpretazione, esecuzione, validità o cessazione delle presenti Condizioni Specifiche e, più in generale, del Servizio Fleequid Care®, sarà definita mediante arbitrato rituale, secondo diritto, da un [-Collegio-]{+arbitro+} [-Arbitrale composto da un unico arbitro,-]{+unico,+} nominato in conformità al Regolamento della Camera Arbitrale di Milano, che le Parti dichiarano di accettare sin d’ora integralmente.",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c15",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 178,
+      "new_idx": 179,
+      "prev_key": "13.5",
+      "new_key": "13.5",
+      "article": "13",
+      "anchor_prev_idx": null,
+      "prev_markup": "Resta inteso che l’esistenza di una causa di forza maggiore non esonera l’Acquirente dall’obbligo di corrispondere il prezzo del Servizio Fleequid Care®, né sospende la decorrenza del periodo di validità del Servizio prevista dall’articolo 4. Analogamente, eventuali ritardi nella riparazione dovuti a cause di forza maggiore che colpiscano il Centro Autorizzato non comportano proroga della durata del Servizio né responsabilità di Fleequid®",
+      "new_markup": "Resta inteso che l’esistenza di una causa di forza maggiore non esonera l’Acquirente dall’obbligo di corrispondere il prezzo del Servizio Fleequid Care®, né sospende la decorrenza del periodo di validità del Servizio prevista dall’articolo 4. Analogamente, eventuali ritardi nella riparazione dovuti a cause di forza maggiore che colpiscano il Centro Autorizzato non comportano proroga della durata del Servizio né responsabilità di Fleequid®.",
+      "word_diff": "Resta inteso che l’esistenza di una causa di forza maggiore non esonera l’Acquirente dall’obbligo di corrispondere il prezzo del Servizio Fleequid Care®, né sospende la decorrenza del periodo di validità del Servizio prevista dall’articolo 4. Analogamente, eventuali ritardi nella riparazione dovuti a cause di forza maggiore che colpiscano il Centro Autorizzato non comportano proroga della durata del Servizio né responsabilità di [-Fleequid®-]{+Fleequid®.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c16",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 194,
+      "new_idx": 195,
+      "prev_key": "15.3",
+      "new_key": "15.3",
+      "article": "15",
+      "anchor_prev_idx": null,
+      "prev_markup": "Le comunicazioni di Fleequid® verranno inoltrate ai recapiti, anche di e-mail ordinaria, indicati dall’Acquirente in fase di registrazione sul <i>Marketplace Fleequid®</i> o successivamente aggiornati, e si presumono note e pervenute al destinatario al momento della spedizione da parte di Fleequid®.",
+      "new_markup": "Le comunicazioni di Fleequid® verranno inoltrate ai recapiti, anche di e-mail ordinaria, indicati dall’Acquirente in fase di registrazione sul <i>Marketplace Fleequid®</i> o successivamente aggiornati, e si presumono note e pervenute al destinatario successivamente alla spedizione da parte di Fleequid®. È onere dell’Acquirente mantenere aggiornati i propri recapiti; qualsiasi modifica degli indirizzi di contatto deve essere comunicata per iscritto per essere considerata valida.",
+      "word_diff": "Le comunicazioni di Fleequid® verranno inoltrate ai recapiti, anche di e-mail ordinaria, indicati dall’Acquirente in fase di registrazione sul Marketplace Fleequid® o successivamente aggiornati, e si presumono note e pervenute al destinatario [-al-]{+successivamente+} [-momento della-]{+alla+} spedizione da parte di Fleequid®.{+ È onere dell’Acquirente mantenere aggiornati i propri recapiti; qualsiasi modifica degli indirizzi di contatto deve essere comunicata per iscritto per essere considerata valida.+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 0,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c17",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 8,
+      "new_idx": 9,
+      "prev_key": "TOC#8",
+      "new_key": "TOC#9",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>5.\tMassimali e modalità di indennizzo.</b>\t6",
+      "new_markup": "<b>5.\tMassimali e modalità di indennizzo.</b>\t7",
+      "word_diff": "5.\tMassimali e modalità di indennizzo.\t[-6-]{+7+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c18",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 9,
+      "new_idx": 10,
+      "prev_key": "TOC#9",
+      "new_key": "TOC#10",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>6.\tObblighi dell’Acquirente e condizioni di efficacia.</b>\t8",
+      "new_markup": "<b>6.\tObblighi dell’Acquirente e condizioni di efficacia.</b>\t9",
+      "word_diff": "6.\tObblighi dell’Acquirente e condizioni di efficacia.\t[-8-]{+9+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c19",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 12,
+      "new_idx": 13,
+      "prev_key": "TOC#12",
+      "new_key": "TOC#13",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>9.\tEsclusioni.</b>\t12",
+      "new_markup": "<b>9.\tEsclusioni.</b>\t13",
+      "word_diff": "9.\tEsclusioni.\t[-12-]{+13+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c20",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 14,
+      "new_idx": 15,
+      "prev_key": "TOC#14",
+      "new_key": "TOC#15",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>11.\tLimitazioni della responsabilità.</b>\t14",
+      "new_markup": "<b>11.\tLimitazioni della responsabilità.</b>\t15",
+      "word_diff": "11.\tLimitazioni della responsabilità.\t[-14-]{+15+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c21",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 16,
+      "new_idx": 17,
+      "prev_key": "TOC#16",
+      "new_key": "TOC#17",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>13.\tCause di forza maggiore.</b>\t16",
+      "new_markup": "<b>13.\tCause di forza maggiore.</b>\t17",
+      "word_diff": "13.\tCause di forza maggiore.\t[-16-]{+17+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c22",
+      "kind": "modify",
+      "toc": true,
+      "prev_idx": 17,
+      "new_idx": 18,
+      "prev_key": "TOC#17",
+      "new_key": "TOC#18",
+      "article": "",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>14.\tModifiche unilaterali.</b>\t17",
+      "new_markup": "<b>14.\tModifiche unilaterali.</b>\t18",
+      "word_diff": "14.\tModifiche unilaterali.\t[-17-]{+18+}",
+      "highlighted_new": true,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    }
+  ],
+  "highlighted_unchanged": [],
+  "typo_candidates": [
+    {
+      "id": "c05",
+      "key": "2.3",
+      "issue": "doppio spazio: «… delle Condizioni Generali  , e non sostituisce né mod…»"
+    },
+    {
+      "id": "c05",
+      "key": "2.3",
+      "issue": "spazio prima della punteggiatura: «…delle Condizioni Generali  , e non sostituisce né mod…»"
+    },
+    {
+      "id": "c13",
+      "key": "9.4",
+      "issue": "'arti.' (art.?): «…to previsto dal medesimo arti. 4.2 in ordine al Guasto …»"
+    }
+  ]
+}
