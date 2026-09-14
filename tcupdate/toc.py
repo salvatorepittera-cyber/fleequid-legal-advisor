@@ -17,17 +17,18 @@ SCRIPT = r'''
 on run argv
   set inPath to item 1 of argv
   set pdfPath to item 2 of argv
-
   set tmpPath to item 3 of argv
   with timeout of 300 seconds
     tell application "Microsoft Word"
-      set d to open file name (POSIX file inPath as text) without add to recent files
-      if (count of tables of contents of d) > 0 then
-        update table of contents 1 of d
+      open (POSIX file inPath)
+      delay 2
+      if (count of tables of contents of active document) > 0 then
+        update table of contents 1 of active document
       end if
-      save as d file name (POSIX file pdfPath as text) file format format PDF
-      save as d file name (POSIX file tmpPath as text) file format format document
-      close d saving no
+      save as active document file name pdfPath file format format PDF
+      delay 1
+      save as active document file name tmpPath file format format document
+      close active document saving no
     end tell
   end timeout
 end run

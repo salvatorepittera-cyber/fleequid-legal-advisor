@@ -4,33 +4,90 @@
   "c02": "<b><i>„Mangel/Mängel“</i></b> oder <b><i>„Funktionsstörung/en“</i></b>: Plötzliche/s, unvorhersehbare/s Ereignis/se, das/die nicht im TrustReport aufgeführt ist/sind und das/die einen vollständigen oder teilweisen Verlust der Funktionstüchtigkeit der in Artikel 3.3 dieser Besonderen Geschäftsbedingungen genannten abgedeckten Komponenten bedingt/bedingen, sodass deren Reparatur oder Austausch erforderlich wird. Fehler, Defekte oder Störungen, die bereits im TrustReport gemeldet oder erklärt wurden, solche, die auf normalen Verschleiß, unzureichende oder unregelmäßige Wartung, unsachgemäßen Gebrauch, Fahrlässigkeit oder Nichteinhaltung der Herstelleranweisungen zurückzuführen sind, solche, die durch Manipulationen, unbefugte Eingriffe oder nicht konforme Änderungen entstanden sind, oder solche, die auf zufällige oder äußere Ereignisse wie Unfälle, Stöße, Brände, Überschwemmungen, Naturkatastrophen oder andere Fälle höherer Gewalt zurückzuführen sind, fallen nicht unter diese Begriffsbestimmung und sind gemäß diesem Artikel daher von der Deckung ausgeschlossen. Die Einstufung des Mangels oder der Funktionsstörung und der damit verbundene Anspruch auf Deckung obliegt der technischen Bewertung durch Fleequid® oder den autorisierten Servicepartner gemäß dem in den Artikeln 7 und 8 dieser Besonderen Geschäftsbedingungen festgelegten Verfahren.",
   "c03": "<b><i>„Reklamation“</i></b>: Die schriftliche Mitteilung des Käufers an Fleequid® über die angegebenen offiziellen Kanäle (claims@fleequid.com oder das entsprechende Portal), mit der er einen Mangel meldet oder einen Garantieanspruch geltend macht, sowie alle nachfolgenden Streitigkeiten im Zusammenhang mit der Bearbeitung oder dem Ergebnis der Reklamation. Die Reklamation im Sinne dieser Besonderen Geschäftsbedingungen ist von der in Artikel 13 der Allgemeinen Geschäftsbedingungen geregelten Reklamation zu unterscheiden, ersetzt diese nicht und unterbricht oder verlängert deren Fristen nicht.",
   "c04": "Der Service Fleequid Care® stellt eine freiwillige Händlergarantie dar und gilt in keiner Weise als Versicherung, und zwar im Sinne von Artikel 1322 des italienischen Zivilgesetzbuches. Es handelt sich dabei weder um ein Versicherungsprodukt noch um einen Versicherungsvertrag, noch beinhaltet der Service die Übernahme zukünftiger oder unbestimmter Risiken. Das mit der Erbringung von Garantieleistungen verbundene finanzielle Risiko wird direkt vom Unternehmen Fleequid® (Adorea S.r.l.) übernommen, das in eigenem Namen und nicht als Vermittler oder Vertreter von Versicherungsgesellschaften handelt.",
-  "c05": "Die Garantie gilt ausschließlich für den Käufer. Der Service ist hinsichtlich Rechtsgrund und Inhalt als unabhängig und getrennt von den Kaufverträgen über das Fahrzeug zu betrachten, die gemäß den Allgemeinen Geschäftsbedingungen, gleich in welcher Form, geschlossen und ausgestaltet werden, und ersetzt oder ändert nicht die gesetzlichen Verpflichtungen des Verkäufers gemäß geltendem Recht oder den Allgemeinen Geschäftsbedingungen. Fleequid® übernimmt gegenüber dem Käufer ausschließlich für die in diesen Besonderen Geschäftsbedingungen vorgesehenen Serviceleistungen eine direkte und unabhängige Verpflichtung; die sich daraus ergebenden Verpflichtungen bleiben von denjenigen aus den vorgenannten Kaufverträgen getrennt und ändern deren Regelung nicht. Die Übertragbarkeit der Serviceleistung ist in Artikel 4.5 geregelt, auf den hier in vollem Umfang Bezug genommen wird.",
-  "c06": "Der <i>Service Fleequid Care®</i> beginnt automatisch mit dem <b>Datum der Fahrzeugübergabe an den Käufer</b>, wie in den von Fleequid® ausgestellten Verkaufs- und Transportunterlagen angegeben. Dieses Datum markiert den Beginn der Gültigkeitsdauer der Garantie. Bei der Übergabe wird der Kilometerstand des Fahrzeugs erfasst, der als Anfangskilometerstand für die Zwecke des nachfolgenden Artikels 4.2 gilt. Der Anfangskilometerstand wird im Übergabeprotokoll, sofern ein solches erstellt wird, vermerkt, das hierfür den vorrangigen Nachweis darstellt; andernfalls wird der Anfangskilometerstand anhand anderer dokumentarischer oder fotografischer Nachweise ermittelt, die zeitgleich mit der Übergabe erstellt wurden und von Fleequid® überprüfbar sind. Der im Auktionsblatt oder in den Technischen Spezifikationen angegebene Kilometerstand ist hierfür nicht maßgeblich.",
-  "c07": "Der Service gilt bis zum Ablauf von <b>drei (3) Monaten</b> ab dem Übergabedatum oder bis zum Erreichen von <b>fünfzehntausend (15.000) Kilometern</b>, die ab dem gemäß dem vorstehenden Artikel 4.1 erfassten Anfangskilometerstand zurückgelegt werden, <b>je nachdem, welche Grenze zuerst erreicht wird</b>, wobei keine stillschweigende Verlängerung oder automatische Erneuerung möglich ist. Der Service endet automatisch mit Erreichen der ersten Grenze, ohne dass eine Kündigung oder Benachrichtigung seitens Fleequid® oder des Käufers erforderlich ist. Gedeckt ist ein Mangel, der sich manifestiert hat, während sowohl die zeitliche Grenze als auch die Kilometergrenze eingehalten waren, sofern er gemäß Artikel 7 fristgerecht gemeldet wird, auch wenn der Service zum Zeitpunkt der Meldung durch das Erreichen einer oder beider Grenzen inzwischen beendet ist.",
+  "c05": "Die Garantie gilt ausschließlich für den Käufer. Der Service ist hinsichtlich Rechtsgrund und Inhalt als unabhängig und getrennt von den Kaufverträgen über das Fahrzeug zu betrachten, die, gleich auf welche Weise, gemäß den Allgemeinen Geschäftsbedingungen geschlossen und ausgestaltet werden, und ersetzt oder ändert nicht die gesetzlichen Verpflichtungen des Verkäufers gemäß geltendem Recht oder den Allgemeinen Geschäftsbedingungen. Fleequid® übernimmt gegenüber dem Käufer ausschließlich für die in diesen Besonderen Geschäftsbedingungen vorgesehenen Serviceleistungen eine direkte und unabhängige Verpflichtung; die sich daraus ergebenden Verpflichtungen bleiben von denjenigen aus den vorgenannten Kaufverträgen getrennt und ändern deren Regelung nicht. Die Übertragbarkeit der Serviceleistung ist in Artikel 4.5 geregelt, auf den hier in vollem Umfang Bezug genommen wird.",
+  "c06": "Der <i>Service Fleequid Care®</i> beginnt automatisch mit dem <b>Datum der Fahrzeugübergabe an den Käufer</b>, wie in den von Fleequid® ausgestellten Verkaufs- und Transportunterlagen angegeben. Dieses Datum markiert den Beginn der Gültigkeitsdauer der Garantie. Bei der Übergabe wird der Kilometerstand des Fahrzeugs erfasst, der als Anfangskilometerstand für die Zwecke des nachfolgenden Artikels 4.2 gilt. Der Anfangskilometerstand wird im Übergabeprotokoll vermerkt, sofern ein solches erstellt wird, wobei dieses den vorrangigen Nachweis dafür darstellt; andernfalls wird der Anfangskilometerstand anhand anderer dokumentarischer oder fotografischer Nachweise ermittelt, die zeitgleich mit der Übergabe erstellt wurden und von Fleequid® überprüfbar sind. Der im Auktionsblatt oder in den Technischen Spezifikationen angegebene Kilometerstand ist hierfür nicht maßgeblich.",
+  "c07": "Der Service gilt bis zum Ablauf von <b>drei (3) Monaten</b> ab dem Übergabedatum oder bis zum Erreichen von <b>fünfzehntausend (15.000) Kilometern</b>, die ab dem gemäß dem vorstehenden Artikel 4.1 erfassten Anfangskilometerstand zurückgelegt werden, <b>je nachdem, welche Grenze zuerst erreicht wird</b>, wobei keine stillschweigende Verlängerung oder automatische Erneuerung möglich ist. Der Service endet automatisch mit Erreichen der ersten Grenze, ohne dass eine Kündigung oder Benachrichtigung seitens Fleequid® oder des Käufers erforderlich ist. Abgedeckt ist ein Mangel, der sich manifestiert hat, während sowohl die zeitliche Grenze als auch die Kilometergrenze eingehalten waren, sofern er gemäß Artikel 7 fristgerecht gemeldet wird, auch wenn der Service zum Zeitpunkt der Meldung durch das Erreichen einer oder beider Grenzen inzwischen beendet ist.",
   "c08": "Der Käufer akzeptiert und erkennt an, dass die Aufteilung der Deckungssumme in direkte Deckung und Fleequid®-Gutschein einen wesentlichen Bestandteil der Serviceleistung Fleequid Care® darstellt und dass die Ausstellung des Gutscheins in jeder Hinsicht die Bereitstellung der vertraglichen Leistung seitens Fleequid® darstellt. Die Ausstellung des Gutscheins gilt als vollständige und endgültige Erfüllung des entsprechenden Teils der Entschädigung.",
-  "c09": "Während der Laufzeit des Service verpflichtet sich der Käufer, die elektronischen Diagnosesysteme oder die On-Board-Datenaufzeichnungsgeräte (OBD, Steuergerät, Telematiksysteme, Kilometerzähler) weder zu verändern noch zu manipulieren oder zu deaktivieren. Jegliche festgestellte Veränderung, Manipulation oder Unstimmigkeiten in den Unterlagen führt zum sofortigen Verfall der Garantie. Der Käufer teilt Fleequid® jeden Ausfall oder Austausch des Kilometerzählers unverzüglich mit und gibt dabei die zum Zeitpunkt des Ereignisses angezeigte Laufleistung an. Ein Ausfall oder Austausch, der nicht auf den Käufer zurückzuführen ist und unverzüglich mitgeteilt wird, führt nicht zu dem in diesem Absatz vorgesehenen Verfall; die Pflicht des Käufers, die gemäß Artikel 4.2 maßgebliche Laufleistung nachzuweisen, bleibt davon unberührt.",
+  "c09": "Während der Laufzeit des Service verpflichtet sich der Käufer, die elektronischen Diagnosesysteme oder die On-Board-Datenaufzeichnungsgeräte (OBD, Steuergerät, Telematiksysteme, Kilometerzähler) weder zu verändern noch zu manipulieren oder zu deaktivieren. Jegliche festgestellte Veränderung, Manipulation oder Unstimmigkeiten in den Unterlagen führt zum sofortigen Verfall der Garantie. Der Käufer teilt Fleequid® jeden Ausfall oder Austausch des Kilometerzählers unverzüglich mit und gibt dabei die sich zum Zeitpunkt des Ereignisses ergebende Laufleistung an. Ein Ausfall oder Austausch, der nicht auf den Käufer zurückzuführen ist und unverzüglich mitgeteilt wird, führt nicht zu dem in diesem Absatz vorgesehenen Verfall; die Beweislast des Käufers für die gemäß Artikel 4.2 maßgebliche Laufleistung bleibt davon unberührt.",
   "c10": "Die Meldung des Mangels muss mindestens folgende Informationen enthalten: Daten zur Identifizierung des Käufers und des Fahrzeugs (Kennzeichen, Fahrgestellnummer/Fahrzeug-Identifizierungsnummer FIN, Kilometerstand, Übergabedatum), eine zusammenfassende Beschreibung der festgestellten Anomalie mit Angabe des Datums und der Umstände ihres Auftretens, Foto- oder Videodokumentation, sofern vorhanden, und alle anderen Elemente, die für eine vorläufige Beurteilung nützlich sind, sowie, sofern möglich, Unterlagen, die die regelmäßige Wartung oder die zuletzt durchgeführten Reparaturen belegen. Der Käufer ist verpflichtet, zusammen mit der Meldung dokumentarische oder fotografische Nachweise über den Kilometerstand des Fahrzeugs zum Zeitpunkt des Auftretens des Mangels vorzulegen.",
   "c11": "Die ausgetauschten Komponenten gehen in das Eigentum des Unternehmens Fleequid® über, das über diese auch zu Zwecken der technischen Begutachtung, Wiederaufbereitung oder Entsorgung frei verfügen kann. Der autorisierte Servicepartner bzw. der Käufer, wenn die Reparatur von Fleequid® ausdrücklich genehmigt wurde, verpflichtet sich, diese bis mindestens dreißig (30) Tage nach Abschluss der Arbeiten aufzubewahren, sofern keine anders lautende Anweisung vorliegt.",
   "c12": "bereits offensichtliche Mängel zum Zeitpunkt der Fahrzeugübergabe sowie Fehler, Defekte oder Störungen, die bereits im <i>TrustReport</i> festgestellt, gemeldet, hervorgehoben oder erklärt wurden oder dem Käufer oder Verkäufer zum Zeitpunkt der Übergabe anderweitig bekannt waren;",
   "c13": "Jegliche Deckung für Schäden, die nach Beendigung des Deckungsschutzes gemäß Art. 4.2 entstehen, ist ausdrücklich ausgeschlossen, selbst wenn es sich um Mängel oder Defekte handelt, die zwar zuvor aufgetreten sind, sich aber zum Zeitpunkt des Erlöschens der Garantie noch nicht manifestiert hatten; die Bestimmungen desselben Art. 4.2 hinsichtlich eines Mangels, der sich innerhalb der dort genannten Grenzen manifestiert hat und nachträglich gemeldet wird, bleiben unberührt.",
   "c14": "Falls das Schlichtungsverfahren nicht innerhalb von neunzig (90) Tagen nach seiner Einleitung mit einer gütlichen Einigung abgeschlossen wird oder falls eine der Parteien nicht daran teilnimmt, werden alle Streitigkeiten, die sich aus der Auslegung, Umsetzung, Gültigkeit oder Aussetzung dieser Besonderen Geschäftsbedingungen und allgemeiner des Service Fleequid Care® ergeben, im Rahmen eines formellen Schiedsverfahrens gemäß den gesetzlichen Bestimmungen durch einen Einzelschiedsrichter entschieden, der gemäß der Verfahrensordnung der Mailänder Schiedskammer bestellt wird, wobei die Parteien diese hiermit uneingeschränkt akzeptieren.",
   "c15": "Es wird davon ausgegangen, dass das Vorliegen eines Falles höherer Gewalt den Käufer nicht von der Verpflichtung zur Zahlung des Preises für die Serviceleistung Fleequid Care® befreit und auch nicht die in Artikel 4 vorgesehene Gültigkeitsdauer der Serviceleistung unterbricht. Ebenso führen Verzögerungen bei der Reparatur aufgrund von höherer Gewalt, die den autorisierten Servicepartner betrifft, nicht zu einer Verlängerung der Laufzeit der Serviceleistung oder zu einer Haftung von Fleequid®.",
-  "c16": "Die Mitteilungen von Fleequid® werden von Fleequid an die vom Käufer bei der Registrierung auf der Plattform <i>Marketplace Fleequid®</i> angegebenen oder zu einem späteren Zeitpunkt aktualisierten Adressen, einschließlich der gewöhnlichen E-Mail-Adressen, gesendet und gelten nach Absendung durch Fleequid® als dem Adressaten bekannt und zugegangen. Es obliegt dem Käufer, seine Adressen stets auf dem aktuellen Stand zu halten; jede Änderung der Kontaktadressen muss schriftlich mitgeteilt werden, um als gültig zu gelten."
+  "c16": "Die Mitteilungen von Fleequid® werden von Fleequid an die vom Käufer bei der Registrierung auf der Plattform <i>Marketplace Fleequid®</i> angegebenen oder zu einem späteren Zeitpunkt aktualisierten Adressen, einschließlich der gewöhnlichen E-Mail-Adressen, gesendet und gelten nach Absendung durch Fleequid® als dem Adressaten bekannt und zugegangen. Es obliegt dem Käufer, seine Adressen auf dem aktuellen Stand zu halten; jede Änderung der Kontaktadressen muss schriftlich mitgeteilt werden, um als gültig zu gelten."
  },
  "new_terms": [
-  {"it": "verbale di consegna", "tr": "Übergabeprotokoll", "why": "AGB DE Art. 10.9 (IT „verbale di consegna“ → „Übergabeprotokoll“); coerente con „Übergabe“ = consegna in BGBFC. Le AGB DE usano altrove anche „Lieferprotokoll“ (es. Art. 11.8)."},
-  {"it": "Scheda d’Asta", "tr": "Auktionsblatt", "why": "AGB DE, definizione Art. 1.L27 „Auktionsblatt“ (nel corpo AGB compare anche „Versteigerungsblatt“; scelto il termine definito)."},
-  {"it": "Specifiche tecniche", "tr": "Technische Spezifikationen", "why": "AGB DE, definizione Art. 1.L29."},
-  {"it": "contratti di compravendita (del Veicolo)", "tr": "Kaufverträge (über das Fahrzeug)", "why": "AGB DE (Kaufvertrag/Kaufverträge) e BGBFC v1 Art. 2.3."},
-  {"it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali", "tr": "die in Artikel 13 der Allgemeinen Geschäftsbedingungen geregelte Reklamation", "why": "AGB DE Art. 13 „REKLAMATIONEN“; termine Reklamation già in glossario."},
-  {"it": "chilometraggio iniziale", "tr": "Anfangskilometerstand", "why": "Scelta mia: composto da „Kilometerstand“ (= chilometraggio in BGBFC 7.3 e AGB DE)."},
-  {"it": "contachilometri", "tr": "Kilometerzähler", "why": "Già in BGBFC v1 DE Art. 6.8."},
-  {"it": "percorrenza", "tr": "Laufleistung", "why": "Scelta mia: termine tecnico standard per i km percorsi; distinto da „Kilometerstand“ (= chilometraggio). Nota: le AGB DE rendono „percorrenza chilometrica“ con „Kilometerstand“."},
-  {"it": "limite temporale / limite chilometrico", "tr": "zeitliche Grenze / Kilometergrenze", "why": "Scelta mia, coerente con „Grenze“ usato nel documento."},
-  {"it": "prova primaria", "tr": "vorrangiger Nachweis", "why": "Scelta mia; „Nachweis“ come in AGB DE („dokumentarische/fotografische Nachweise“)."},
-  {"it": "evidenza documentale o fotografica", "tr": "dokumentarische oder fotografische Nachweise", "why": "AGB DE („dokumentarische Nachweise“, „fotografischen Nachweise“)."},
-  {"it": "arbitro unico", "tr": "Einzelschiedsrichter", "why": "Già in BGBFC v1 DE Art. 12.4."},
-  {"it": "titolo (quanto a titolo e contenuto)", "tr": "Rechtsgrund", "why": "Scelta mia, resa legale standard."}
+  {
+   "it": "verbale di consegna",
+   "tr": "Übergabeprotokoll",
+   "why": "AGB DE Art. 10.9 (IT „verbale di consegna“ → „Übergabeprotokoll“); coerente con „Übergabe“ = consegna in BGBFC. Le AGB DE usano altrove anche „Lieferprotokoll“ (es. Art. 11.8)."
+  },
+  {
+   "it": "Scheda d’Asta",
+   "tr": "Auktionsblatt",
+   "why": "AGB DE, definizione Art. 1.L27 „Auktionsblatt“ (nel corpo AGB compare anche „Versteigerungsblatt“; scelto il termine definito)."
+  },
+  {
+   "it": "Specifiche tecniche",
+   "tr": "Technische Spezifikationen",
+   "why": "AGB DE, definizione Art. 1.L29."
+  },
+  {
+   "it": "contratti di compravendita (del Veicolo)",
+   "tr": "Kaufverträge (über das Fahrzeug)",
+   "why": "AGB DE (Kaufvertrag/Kaufverträge) e BGBFC v1 Art. 2.3."
+  },
+  {
+   "it": "reclamo disciplinato dall’articolo 13 delle Condizioni Generali",
+   "tr": "die in Artikel 13 der Allgemeinen Geschäftsbedingungen geregelte Reklamation",
+   "why": "AGB DE Art. 13 „REKLAMATIONEN“; termine Reklamation già in glossario."
+  },
+  {
+   "it": "chilometraggio iniziale",
+   "tr": "Anfangskilometerstand",
+   "why": "Scelta mia: composto da „Kilometerstand“ (= chilometraggio in BGBFC 7.3 e AGB DE)."
+  },
+  {
+   "it": "contachilometri",
+   "tr": "Kilometerzähler",
+   "why": "Già in BGBFC v1 DE Art. 6.8."
+  },
+  {
+   "it": "percorrenza",
+   "tr": "Laufleistung",
+   "why": "Scelta mia: termine tecnico standard per i km percorsi; distinto da „Kilometerstand“ (= chilometraggio). Nota: le AGB DE rendono „percorrenza chilometrica“ con „Kilometerstand“. Revisione: in c09 la percorrenza „risultante“ è resa con „sich ergebende“ (non „angezeigte“, che presuppone un contachilometri funzionante)."
+  },
+  {
+   "it": "limite temporale / limite chilometrico",
+   "tr": "zeitliche Grenze / Kilometergrenze",
+   "why": "Scelta mia, coerente con „Grenze“ usato nel documento."
+  },
+  {
+   "it": "prova primaria",
+   "tr": "vorrangiger Nachweis",
+   "why": "Scelta mia; „Nachweis“ come in AGB DE („dokumentarische/fotografische Nachweise“)."
+  },
+  {
+   "it": "evidenza documentale o fotografica",
+   "tr": "dokumentarische oder fotografische Nachweise",
+   "why": "AGB DE („dokumentarische Nachweise“, „fotografischen Nachweise“)."
+  },
+  {
+   "it": "arbitro unico",
+   "tr": "Einzelschiedsrichter",
+   "why": "Già in BGBFC v1 DE Art. 12.4."
+  },
+  {
+   "it": "titolo (quanto a titolo e contenuto)",
+   "tr": "Rechtsgrund",
+   "why": "Scelta mia, resa legale standard."
+  },
+  {
+   "it": "onere (dell’Acquirente) di dimostrare",
+   "tr": "Beweislast (des Käufers)",
+   "why": "Revisione: „onere di dimostrare“ è onere probatorio, non obbligo; resa legale standard (termine assente in BGBFC v1 e AGB DE)."
+  }
  ],
  "notes": [
   "c02, c11, c15: correzioni di soli refusi IT; il DE precedente era già corretto (bedingt/bedingen; Genehmigung al singolare; punto finale presente) → restituito identico.",
@@ -39,5 +96,15 @@
   "c09: „guasto del contachilometri“ reso con „Ausfall“ (non con il termine definito „Mangel“, riservato al Guasto dei Componenti Coperti) per evitare confusione. „decadenza“ = „Verfall“ e „comma“ = „Absatz“ come nel documento.",
   "c07/c13: „manifestatosi“ reso con „sich manifestiert hat“, allineato a 9.4 v1 („manifestiert“); in c10 „manifestazione del Guasto“ reso con „Auftreten des Mangels“ come già in 7.3 v1 („Umstände ihres Auftretens“).",
   "c12: iniziale minuscola mantenuta come nel DE precedente (voce di elenco)."
+ ],
+ "review": [
+  "c05: „gemäß den Allgemeinen Geschäftsbedingungen, gleich in welcher Form, geschlossen“ → „, gleich auf welche Weise, gemäß den Allgemeinen Geschäftsbedingungen geschlossen“, perché „comunque conclusi e strutturati“ riguarda qualsiasi modalità/struttura contrattuale, non solo la forma (in DE „Form“ evoca la forma negoziale, es. Schriftform).",
+  "c06: „im Übergabeprotokoll, sofern ein solches erstellt wird, vermerkt, das hierfür den vorrangigen Nachweis darstellt“ → „im Übergabeprotokoll vermerkt, sofern ein solches erstellt wird, wobei dieses den vorrangigen Nachweis dafür darstellt“, perché il relativo „das“ dopo il verbo era sintatticamente ambiguo; significato invariato.",
+  "c07: „Gedeckt ist ein Mangel“ → „Abgedeckt ist ein Mangel“, perché la v1 DE rende sistematicamente „coperto/i“ con „abgedeckt“ (abgedeckte Komponenten, vom Service abgedeckt): priorità al termine v1.",
+  "c09: „angezeigte Laufleistung“ → „sich ergebende Laufleistung“, perché „percorrenza risultante“ non presuppone un contachilometri che la visualizzi (il caso è proprio il guasto del contachilometri); „angezeigt“ restringeva il senso.",
+  "c09: „die Pflicht des Käufers, … nachzuweisen“ → „die Beweislast des Käufers für …“, perché „onere di dimostrare“ è un onere probatorio e non un obbligo contrattuale (Pflicht).",
+  "c16: „stets auf dem aktuellen Stand“ → „auf dem aktuellen Stand“, perché „stets“ è un’aggiunta non presente nell’IT („mantenere aggiornati“).",
+  "Verificati senza modifiche: c02, c11, c15 identici alla v1 (refusi solo IT); c04, c08 rimozioni dei rinvii al c.c. recepite; c14 Einzelschiedsrichter + correzione refuso genitivo „Schiedsverfahrens“ ammessa; c03, c10, c12, c13 fedeli all’IT nuova con termini v1 (Reklamation, Meldung, Fehler/Defekte/Störungen, manifestiert). Tag <b>/<i> coerenti con l’IT nuova.",
+  "Segnalazione (non corretto, fuori diff): c14/12.4 „cessazione“ reso in v1 con „Aussetzung“ (= sospensione); sarebbe corretto „Beendigung“."
  ]
 }
