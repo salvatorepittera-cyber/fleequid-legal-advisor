@@ -62,6 +62,13 @@ Il revisore riceve brief e JSON e controlla paragrafo per paragrafo:
 
 Corregge direttamente il JSON, rilancia `checktr` e riporta ogni correzione motivata.
 
+## 5-bis. Correzioni fuori diff (difetti preesistenti della lingua)
+Solo se approvate dall'utente.
+- **Paragrafo già modificato nella nuova versione:** correggi direttamente `translations/<LANG>.json` e annota la correzione in `review`.
+- **Paragrafo non toccato:** usa `work/.../post_fixes/<LANG>.json` con la forma `[{"key","old","new","why"}]`, una voce per occorrenza.
+  - Il testo nuovo eredita il formato del primo run: se una sostituzione attraversa un cambio di corsivo o grassetto, spezzala in due voci.
+  - `inject` le applica e `verify` le riconosce.
+
 ## 6. Iniezione, indice, verifica
 ```
 python3 -m tcupdate inject --family "$F" --from $A --to $B

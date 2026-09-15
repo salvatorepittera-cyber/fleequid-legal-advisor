@@ -131,12 +131,18 @@ def cmd_prepare(c: Ctx):
     print("\n".join(summary))
 
 
+def _post_fixes(c: Ctx, lang: str) -> list:
+    p = c.work / "post_fixes" / f"{lang}.json"
+    return json.loads(p.read_text()) if p.exists() else []
+
+
 def _verify_one(c: Ctx, lang: str, it_prev: Docx, it_new_draft: Docx, it_new: Docx) -> tuple[list, list]:
     out = Docx(c.out_name(lang))
     if lang == "IT":
         return verify_mod.run(c.changes, it_prev, it_new_draft, it_new_draft, out, None, is_it=True)
     al = align_mod.load(c.work / f"alignment_{lang}.json")
-    return verify_mod.run(c.changes, it_prev, it_new, Docx(c.prev_docs[lang]), out, al)
+    return verify_mod.run(c.changes, it_prev, it_new, Docx(c.prev_docs[lang]), out, al,
+                          post_fix_keys={f["key"] for f in _post_fixes(c, lang)})
 
 
 def cmd_inject(c: Ctx, strict: bool):
@@ -152,7 +158,8 @@ def cmd_inject(c: Ctx, strict: bool):
             continue
         tr = json.loads(tp.read_text())["translations"]
         al = align_mod.load(c.work / f"alignment_{lang}.json")
-        log = inject_mod.run(c.changes, it_prev, it_new, Docx(c.prev_docs[lang]), al, tr, c.out_name(lang), strict)
+        log = inject_mod.run(c.changes, it_prev, it_new, Docx(c.prev_docs[lang]), al, tr, c.out_name(lang), strict,
+                              _post_fixes(c, lang))
         errs, warns = _verify_one(c, lang, it_prev, draft, it_new)
         ok &= not errs
         report.append(f"## {lang} — {'OK' if not errs else 'ERRORI'}\n\n`{c.out_name(lang).name}`\n\n" +

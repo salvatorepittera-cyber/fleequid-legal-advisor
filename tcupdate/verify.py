@@ -12,7 +12,7 @@ TEXT_KINDS = {"modify", "format", "whitespace", "insert"}
 
 
 def run(changes: dict, it_prev: Docx, it_new: Docx, prev: Docx, out: Docx, al: dict | None,
-        is_it: bool = False) -> tuple[list[str], list[str]]:
+        is_it: bool = False, post_fix_keys: set | None = None) -> tuple[list[str], list[str]]:
     errors, warns = [], []
     body = [c for c in changes["changes"] if not c["toc"]]
     n_ins = sum(1 for c in body if c["kind"] == "insert")
@@ -34,6 +34,7 @@ def run(changes: dict, it_prev: Docx, it_new: Docx, prev: Docx, out: Docx, al: d
                 t = al.get(c["prev_idx"], {}).get("target_idx")
                 if t is not None:
                     touched.add(t)
+        touched |= {p.idx for p in prev.paras if p.key in (post_fix_keys or set())}
         pa = [(p.idx, canonical(p.el)) for p in prev.paras if not p.in_toc]
         pb = [(p.idx, canonical(p.el)) for p in out.paras if not p.in_toc]
         sm = difflib.SequenceMatcher(None, [x for _, x in pa], [x for _, x in pb], autojunk=False)

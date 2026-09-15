@@ -27,7 +27,7 @@ def _ppr_model(it_prev: Docx, it_new: Docx, new_idx: int, al: dict, target: Docx
 
 
 def run(changes: dict, it_prev: Docx, it_new: Docx, target: Docx, al: dict,
-        translations: dict[str, str], out_path, strict: bool = True) -> list[str]:
+        translations: dict[str, str], out_path, strict: bool = True, post_fixes: list | None = None) -> list[str]:
     log = []
     low = []
     inserted_after: dict[int, object] = {}
@@ -86,6 +86,15 @@ def run(changes: dict, it_prev: Docx, it_new: Docx, target: Docx, al: dict,
             anchor_el.addnext(new_el)
             inserted_after[anchor] = new_el
             log.append(f"{c['id']} [{c['new_key']}] inserito" + (" (vuoto)" if new_is_empty else ""))
+    # correzioni fuori diff (difetti preesistenti della lingua, approvate): chiave della versione precedente
+    for fx in post_fixes or []:
+        tp = next((p for p in tparas if p.key == fx["key"]), None)
+        if tp is None:
+            raise SystemExit(f"Correzione fuori diff: chiave {fx['key']} inesistente")
+        for _ in range(fx.get("count", 1)):
+            if not replace_across_runs(tp.el, fx["old"], fx["new"]):
+                raise SystemExit(f"Correzione fuori diff [{fx['key']}]: «{fx['old']}» non trovato")
+        log.append(f"fuori diff [{fx['key']}] «{fx['old']}» → «{fx['new']}»")
     # intestazioni: codice versione
     vp, vn = changes.get("version_prev") or [], changes.get("version_new") or []
     if len(vp) == 1 and len(vn) == 1 and vp != vn:

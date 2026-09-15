@@ -242,3 +242,15 @@ Modifiche applicate: vedi `diff_report.md` (16 voci: 15 paragrafi + riga vuota; 
 - c14: eliminato „Rozhodčí soud složený z“ (Collegio Arbitrale); ora „jediným rozhodcem“. Il pronome finale è diventato „je“ (riferito a „pravidla“, il Regolamento) al posto di „jej“, che nella v1 si riferiva al collegio rimosso.
 - c16: aggiunto il corsivo su „online tržiště Fleequid®“ per ricalcare l'IT nuova (1 segmento <i>), assente nel CZ v1. „successivamente alla spedizione“ → „po odeslání“.
 - c04: il CZ v1 dice „občanského zákoníku“ senza „italského“: mantenuto come nella v1.
+
+## Correzioni di difetti preesistenti (richiesta utente, 2026-09-15)
+
+Per partire da versioni pulite alle prossime revisioni:
+- **DE 12.4**: «Aussetzung» (sospensione) → «Beendigung», traduzione corretta di «cessazione».
+- **PL 5.9**: «uzupełnienie świadczenia umownego» → «wykonanie świadczenia umownego»; l'IT «integra la prestazione» significa adempimento, non completamento.
+- **PT, uniformità terminologica in tutto il documento** (`post_fixes/PT.json`, 26 interventi con accordi di genere):
+  - Condizioni Specifiche = «Condições Específicas», resa unica, compresa la definizione nell'art. 1;
+  - Condizioni Generali = «Termos e Condições Gerais» / «TCG» (termine definito 1.L3);
+  - eliminati «Condições Particulares» e «Termos e Condições Específicos»;
+  - corretto il doppio punto in 3.8.
+- **RU 15.3**: «Fleequid®Marketplace» → «Торговая площадка Fleequid®» (confermato).
