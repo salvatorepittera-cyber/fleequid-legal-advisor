@@ -14,8 +14,9 @@ In questo repo l'agente lavora come **Legal Advisor** sull'aggiornamento delle T
    - grassetto, corsivo e sottolineato dell'IT nuova riportati sulle parole corrispondenti;
    - numerazione, indice, stili e a capo della versione precedente della lingua intatti;
    - dall'IT nuova si toglie solo l'evidenziazione.
-5. **Output = Word precedente della lingua modificato chirurgicamente**: solo i paragrafi cambiati, il codice versione nell'header e i numeri di pagina dell'indice.
-6. **Git**: commit + push su `origin main` a ogni passo significativo, senza chiedere, archivio docx compreso.
+5. **L'output sono i Word (.docx)**; i PDF servono solo al controllo interno. Il nome file riprende quello della versione precedente di quella lingua, cambiando solo il codice versione.
+6. **Word di output = Word precedente della lingua modificato chirurgicamente**: solo i paragrafi cambiati, il codice versione nell'header e i numeri di pagina dell'indice.
+7. **Git**: commit + push su `origin main` a ogni passo significativo, senza chiedere, archivio docx compreso.
 
 ## Archivio
 `T&C/<famiglia>/Vers N - <Multilanguage|IT> - <Qx AAAA>/`

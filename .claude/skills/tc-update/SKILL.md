@@ -87,3 +87,41 @@ python3 -m tcupdate verify --family "$F" --from $A --to $B
   - modifiche applicate;
   - termini nuovi introdotti per lingua;
   - punti da far validare allo studio.
+
+---
+
+# Runbook: com'è andata su Fleequid Care v2 (2026-09-15)
+
+Sequenza esatta, da ripetere uguale. `F="Fleequid Care" A=1 B=2`.
+
+```
+python3 -m tcupdate inventory
+python3 -m tcupdate diff     --family "$F" --from $A --to $B     # 16 modifiche, 2 non evidenziate
+# checkpoint utente: conferma modifiche + refusi -> work/fleequid-care/v2/it_fixes.json
+python3 -m tcupdate clean-it --family "$F" --from $A --to $B
+python3 -m tcupdate prepare  --family "$F" --from $A --to $B     # 10 brief + glossari + allineamenti "key"
+# 10 subagenti traduttori in parallelo (prompt al § 4), poi commit dello stato pre-revisione
+# 10 subagenti revisori in parallelo (prompt al § 5)
+python3 -m tcupdate inject   --family "$F" --from $A --to $B
+python3 -m tcupdate toc      --family "$F" --from $A --to $B
+python3 -m tcupdate verify   --family "$F" --from $A --to $B
+```
+
+Tempi: traduttori e revisori circa 3 minuti ciascuno, tutti in parallelo. Il resto è immediato.
+
+## Prompt revisore (§ 5), versione usata
+> Sei il REVISORE legale madrelingua LANG delle T&C Fleequid. Leggi tutto `briefs/LANG.md` e rivedi `translations/LANG.json`.
+> 1. Equivalenza con l'IT nuova: nessuna omissione né aggiunta, rimozioni recepite.
+> 2. Dove l'IT non cambia, il testo deve essere la copia letterale della versione precedente. Scostamenti ammessi solo se richiesti dal diff, se correggono un refuso evidente o se allineano B/I/U all'IT nuova. Ogni altra riscrittura va annullata.
+> 3. Priorità terminologica: (1) termine già usato nella v1 di QUESTO documento, anche nello stesso paragrafo; (2) T&C Generali della lingua; (3) scelta nuova. Ripristina le sostituzioni indebite.
+> 4. Registro, grammatica, tipografia. 5. Tag B/I/U sulle parole giuste.
+> Correggi il JSON, aggiungi la lista `review` con "cNN: prima → dopo, perché", rilancia `checktr` fino a OK. Nessun commit. Riporta correzioni e punti da far validare allo studio.
+
+## Cose imparate, da non riscoprire
+- **Le evidenziazioni non bastano**: in Care v2 due rimozioni (artt. 1487 e 1176 c.c.) non erano evidenziate. Vale il diff.
+- **Nome file**: si riprende quello della versione precedente di quella lingua cambiando solo il codice versione. Su Care sono stati normalizzati due refusi dei vecchi nomi (`.docx.docx` del PL, spazio invece di underscore nel DE).
+- **Output = docx.** I PDF servono solo al controllo e restano in `work/<fam>/v<N>/pdf/`.
+- **Indice**: lo ricalcola Word. Nella v1 polacca tutte le voci puntavano a pagina 1, ed è stato corretto qui.
+- **Word/AppleScript**: `open` non restituisce il documento, serve `active document`; i percorsi vanno passati come POSIX e i file temporanei devono stare nel container di Word. Se va in timeout, c'è una finestra di dialogo da chiudere a mano.
+- **I traduttori tendono a preferire i termini delle T&C Generali**: il revisore deve riportarli a quelli della v1 del documento (successo su NL "koopovereenkomst" e CZ "závada").
+- **Difetti preesistenti**: si correggono solo su richiesta dell'utente, con `post_fixes` (§ 5-bis) e annotati nel report.
