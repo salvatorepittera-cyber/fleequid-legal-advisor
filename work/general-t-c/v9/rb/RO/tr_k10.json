@@ -77,12 +77,12 @@
   },
   {
    "it": "intestazione forzosa",
-   "tr": "înscriere silită a titularului",
-   "why": "Costruito su «înscrierea titularului» (k07 art. 16.4) e NOTE_LINGUA."
+   "tr": "înscriere silită pe numele titularului",
+   "why": "NOTE_LINGUA: intestazione = înscriere pe numele titularului."
   },
   {
    "it": "facoltà cautelare di sospensione",
-   "tr": "dreptul de suspendare cu titlu de măsură de precauție",
+   "tr": "facultatea de suspendare cu titlu de măsură de precauție",
    "why": "k08 (art. 17.8: «caracter de măsură de precauție»)."
   },
   {
@@ -102,8 +102,8 @@
   },
   {
    "it": "devoluzione esclusiva alla giurisdizione / Foro di Como / foro concorrente",
-   "tr": "atribuirea exclusivă ... jurisdicției / instanțele din Como / autoritate judiciară concurentă",
-   "why": "Riprende k09 art. 23.2."
+   "tr": "supunerea exclusivă ... jurisdicției / instanțele din Como / instanță concurentă",
+   "why": "Riprende alla lettera k09 art. 23.2 revisionato."
   },
   {
    "it": "inopponibilità della mancata conoscenza",
@@ -129,16 +129,66 @@
    "it": "PEC",
    "tr": "PEC",
    "why": "Sigla italiana lasciata invariata, senza glossa."
+  },
+  {
+   "it": "facoltà (di Annullamento, di sospendere, di limitare...)",
+   "tr": "facultate",
+   "why": "Resa unica in tutto il documento («drept» = diritto); l'elenco segue l'IT dell'elenco anche dove l'articolo richiamato dice «diritto»."
+  },
+  {
+   "it": "recapiti (dell'Utente)",
+   "tr": "date de contact",
+   "why": "Come artt. 5.4, 5.11, 5.12 e 24.7; «adresă» resta per «al seguente recapito» (indirizzo di Adorea, art. 24.2)."
+  },
+  {
+   "it": "criteri di integrazione del rifiuto (art. 8.11)",
+   "tr": "criteriile potrivit cărora refuzul se consideră intervenit",
+   "why": "Riprende l'art. 8.11 revisionato («refuzul se consideră intervenit»); stessa formula all'art. 16.9."
+  },
+  {
+   "it": "ivi previsto/a",
+   "tr": "acolo prevăzut(ă)",
+   "why": "Come k09 art. 22.6."
   }
  ],
  "notes": [
   "u324-u328: la v8 RO aveva il blocco recapiti su 3 righe; qui una riga per unità come nell'IT v9, con le stesse parole della v8 («Cod fiscal și cod TVA», «Tel.», «e-mail»).",
-  "u330: «recapiti» reso «adresele» / «adreselor de contact» come nella v8 (frase ripresa); negli artt. 5.4 (k03) e 24.7 è «date de contact». Da uniformare in armonizzazione.",
+  "u330: «recapiti» uniformato in «date de contact» (artt. 5.4, 24.7) al posto di «adresele / adreselor de contact» della v8.",
   "u334: separatore ripreso dalla v8 RO (asterischi separati da uno spazio).",
   "u335-u356: la clausola di approvazione della v8 RO era un paragrafo unico sulla numerazione v8, con le clausole delle 1 Euro Auctions: sostituita per intero dalla struttura v9. Titoli degli articoli = tabella k01.",
   "u338 (5.7/5.8): «reziliere» per la risoluzione dell'art. 5.7, come da NOTE_LINGUA.",
-  "u347 (16.7): «efectele restitutorii» come k05/k06; k07 ha «efecte de restituire»: da uniformare.",
-  "u349 (18.7): «cumpărare pentru stoc» come k08 (art. 18.2); k04 u142 ha ancora «cumpărare din stoc».",
-  "u348/u349: «salvo il venduto» lasciato in italiano tra virgolette come nella v8 e in k08, senza la glossa (che k08 mette solo alla prima occorrenza, art. 17.6)."
+  "u348/u349: «salvo il venduto» lasciato in italiano tra virgolette come nella v8 e in k08, senza la glossa (che k08 mette solo alla prima occorrenza, art. 17.6).",
+  "Revisione finale: l'elenco delle clausole è stato riallineato agli articoli richiamati così come tradotti (facultate, activitatea profilului, persoana desemnată pentru ridicare, instanțe concurente, criteriile refuzului, date de contact, autorizație prealabilă)."
+ ],
+ "harmonization": [
+  "fatto salvo il risarcimento del maggior danno: fără a aduce atingere dreptului la despăgubiri pentru (eventualul) prejudiciu suplimentar (eliminati «daune suplimentare», «daunele suplimentare»; blocchi toccati: k05)",
+  "facoltà: facultate (eliminato «drept(ul)» dove l'IT ha «facoltà»; «drept» resta per «diritto»; blocchi toccati: k02, k03, k04, k05, k07, k10)",
+  "regime cauzionale: regim al Depozitului de garanție (eliminato «regim de garanție», riservato all'art. 19; blocchi toccati: k03)",
+  "recesso / comunicazione di recesso: denunțare unilaterală / notificare de denunțare unilaterală (eliminati «retragere», «notificare de retragere»; blocchi toccati: k03)",
+  "effetti restitutori: efecte restitutorii (eliminato «efecte de restituire»; blocchi toccati: k07)",
+  "custodia, conservazione, conformità e non alterazione (rinvii all'art. 8.12): custodie, conservare, conformitate și nemodificare; custodire = a păstra în custodie (eliminati «păstrare … nealterare», «custodie și păstrare»; blocchi toccati: k04, k05, k08)",
+  "operatività (dell'Utente, dell'account, del profilo): activitate (eliminato «funcționalitatea profilului»; blocchi toccati: k05, k10)",
+  "pavimento economico / soglia minima: nivel economic minim / prag minim (eliminato «prag economic minim»; blocchi toccati: k06)",
+  "sciogliersi (Contratto, operazione, vendita): a se desființa (eliminati «nu încetează automat», «se desface»; blocchi toccati: k06, k07)",
+  "collaborazione: cooperare (eliminato «colaborare»; resa v8; blocchi toccati: k06, k08)",
+  "manlevare: a despăgubi și a exonera de răspundere / obligație de despăgubire (eliminato «exonerând … de răspunderea» all'art. 5.4; blocchi toccati: k03)",
+  "aggirare (Fleequid, l'intervento di Fleequid): a ocoli; elusivo/elusione = de eludare (eliminato «să eludeze intervenția» all'art. 8.11; blocchi toccati: k04)",
+  "onere (di fare): îndatorire; oneri (pesi economici): obligații (eliminati «obligația de a verifica» all'art. 8.2, «sarcinile financiare» all'art. 15.7; blocchi toccati: k04, k06)",
+  "fermo quanto previsto da: rămânând aplicabile prevederile; fatto salvo: fără a aduce atingere (corretti i residui «fără a aduce atingere prevederilor» per «fermo quanto previsto»; blocchi toccati: k03, k04, k06, k07, k09)",
+  "criterio di integrazione del rifiuto (art. 8.11): criteriul potrivit căruia refuzul se consideră intervenit (eliminato «criteriul / criteriile de realizare a refuzului»; blocchi toccati: k07, k10)",
+  "termine ordinario / disciplina ordinaria / in via ordinaria: termen obișnuit / reglementare obișnuită / în mod obișnuit (eliminato «termenul ordinar»; blocchi toccati: k08)",
+  "versare il Deposito cauzionale: a plăti Depozitul de garanție (eliminato «a constitui»; blocchi toccati: k02)",
+  "Veicoli destinati alla demolizione / rottamazione: destinate casării (eliminato «destinate dezmembrării» all'art. 6.2; blocchi toccati: k03)",
+  "commerciabilità: caracterul comercializabil (eliminato «comercializarea» nella definizione di Sarcină; blocchi toccati: k01)",
+  "a titolo esemplificativo e non esaustivo: cu titlu exemplificativ și fără caracter limitativ (eliminato «inclusiv, dar fără a se limita la»; blocchi toccati: k01)",
+  "a propria discrezione: la propria discreție (eliminato «la discreția sa» all'art. 4.2; blocchi toccati: k02)",
+  "recapiti: date de contact (eliminati «adresele», «adreselor de contact», «ultima adresă»; blocchi toccati: k10)",
+  "soggetto legittimato / incaricato del ritiro: persoana îndreptățită / desemnată (eliminato «entitatea» negli artt. 22.10 e 24; blocchi toccati: k09, k10)",
+  "Foro di Como / altro foro concorrente: instanțele din Como / altă instanță concurentă (eliminato «autorități judiciare concurente» nell'elenco; blocchi toccati: k10)",
+  "regime di garanzia: regim de garanție (eliminato «regimul garanției» all'art. 17.13; blocchi toccati: k08)",
+  "importi in lettere: 3.000,00 € (trei mii/00 euro) (eliminato «(trei mii de euro/00)»; blocchi toccati: k03)",
+  "rinvii normativi con comma: art. 1515, alin. 3, din Codul civil italian; art. 1341, alin. 2 (eliminata la forma senza virgole; blocchi toccati: k08, k10)",
+  "solleciti: atenționări; solleciti di pagamento: atenționări de plată (eliminato «de plată» aggiunto all'art. 17.4; blocchi toccati: k08)",
+  "Stato Opzionato (in costrutto): în Statutul Opționat (eliminato «în Statut Opționat»; blocchi toccati: k03)"
  ]
 }
