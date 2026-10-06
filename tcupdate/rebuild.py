@@ -6,6 +6,7 @@ dello studio; la resa precedente della lingua resta il riferimento vincolante pe
 
 python3 -m tcupdate.rebuild <comando> --family "General T&C" --from 8 --to 9 --draft <bozza> [--lang EN] [--chunk k01]
 
+  it-links  porta su /it/ i link al sito dell'IT pulita (prima di prepare)
   prepare   units.json + chunks.json (provenienza dal redline: --redline <file>)
   brief     brief per blocco di articoli della lingua
   check     controlla le traduzioni di un blocco (o di tutti)
@@ -41,6 +42,11 @@ LOCALES = {"EN": "en-GB", "DE": "de-DE", "ES": "es-ES", "FR": "fr-FR", "NL": "nl
 # dicitura dell'intestazione già usata nella versione precedente di ogni lingua
 HEADER_LABEL = {"EN": "Version no", "DE": "Version Nr.", "ES": "Versión n.º", "FR": "Version n°", "NL": "Versie nr.",
                 "PL": "Wersja nr.", "PT": "Versão n.", "RO": "Versiunea nr.", "RU": "Версия номер", "CZ": "Verze č."}
+# sul sito gli slug sono uguali in tutte le lingue: cambia solo il codice nel percorso (ceco = cs)
+SITE_CODE = {"IT": "it", "EN": "en", "DE": "de", "ES": "es", "FR": "fr", "NL": "nl", "PL": "pl", "PT": "pt",
+             "RO": "ro", "RU": "ru", "CZ": "cs"}
+SITE_RE = re.compile(r"(fleequid\.com/)(?:it|en)/")
+RELS = "word/_rels/document.xml.rels"
 LINK_RE = re.compile(r"https?://[^\s<>»”)]+[^\s<>»”).,;:]|[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
 
 
@@ -225,7 +231,10 @@ def write_briefs(c, lang: str, only: str | None = None) -> list[Path]:
     it_prev = Docx(c.prev_docs["IT"])
     tgt = Docx(c.prev_docs[lang])
     al = align_mod.align(it_prev, tgt)
-    gl = brief_mod.build_glossary(it_prev, tgt, al, lang, f"{c.family} v{c.v_from}")
+    # il glossario si legge soltanto: nell'art. 1 le definizioni sono in ordine alfabetico per lingua, quindi
+    # l'abbinamento per posizione IT↔lingua lì non vale e non può alimentare il glossario
+    gp = brief_mod.GLOSSARY_DIR / f"{lang}.json"
+    gl = json.loads(gp.read_text()) if gp.exists() else []
     ref = f"work/refs/general_{lang}.txt"
     brief_mod.general_text_dump(c.prev_docs[lang], ROOT / ref)
     terms = _terms(work, lang)
@@ -276,8 +285,17 @@ def write_briefs(c, lang: str, only: str | None = None) -> list[Path]:
                     L.append(f"**IT v{c.v_from} [{pp.key}]:**\n\n{pp.markup}\n")
                     if u["cat"] != "riscritto":
                         L.append(f"**Diff IT:**\n\n{wdiff(pp.text, strip_markup(u['markup']))}\n")
-                L.append(f"**{lang} v{c.v_from} (abbinamento {a.get('confidence', 'none')}):**\n\n"
-                         f"{tp or '(non abbinato: cercalo nel testo completo)'}\n")
+                if pp.article == "1" and pp.level != 0:
+                    L.append(f"**{lang} v{c.v_from}:** vedi la definizione corrispondente nel blocco "
+                             f"«Art. 1 {lang} v{c.v_from}» in fondo (ordine alfabetico diverso dall'IT).\n")
+                else:
+                    L.append(f"**{lang} v{c.v_from} (abbinamento {a.get('confidence', 'none')}):**\n\n"
+                             f"{tp or '(non abbinato: cercalo nel testo completo)'}\n")
+        if ch["id"] == "k01":
+            L.append(f"\n## Art. 1 {lang} v{c.v_from} (definizioni pubblicate: rese vincolanti)\n")
+            L.append(brief_mod.article_block(tgt, "1") + "\n")
+            L.append(f"\n## Art. 1 IT v{c.v_from}\n")
+            L.append(brief_mod.article_block(it_prev, "1") + "\n")
         L.append("\n## Output richiesto\n")
         L.append(f"File `{(out_dir / ('tr_' + ch['id'] + '.json')).relative_to(ROOT)}` (UTF-8) con questa forma:\n")
         L.append("```json\n" + json.dumps({
@@ -410,6 +428,22 @@ def _set_markup(p, markup: str):
             r.getparent().remove(r)
 
 
+def localize_links(d: Docx, lang: str) -> int:
+    """Porta i link al sito sulla lingua del documento: testo visibile e destinazione."""
+    code = SITE_CODE[lang]
+    n = 0
+    for p in d.body.iter(wtag("p")):
+        full = "".join(t.text or "" for t in p.iter(wtag("t")))
+        for m in sorted(set(SITE_RE.findall(full) and [x.group(0) for x in SITE_RE.finditer(full)])):
+            new = SITE_RE.sub(rf"\g<1>{code}/", m)
+            while m != new and replace_across_runs(p, m, new):
+                n += 1
+    rels = d.parts[RELS].decode()
+    d.parts[RELS] = SITE_RE.sub(rf"\g<1>{code}/", rels).encode()
+    d.mark_dirty("word/document.xml")
+    return n
+
+
 def merged_translations(work: Path, lang: str) -> dict[str, str]:
     out = {}
     for ch in json.loads((work / "chunks.json").read_text()):
@@ -443,6 +477,7 @@ def build_docx(c, lang: str) -> tuple[Path, list[str]]:
                 raise SystemExit(f"Indice: titolo dell'art. {m.group(1)} non trovato nella voce")
             n_toc += 1
     log.append(f"indice: {n_toc} voci tradotte")
+    log.append(f"link localizzati su /{SITE_CODE[lang]}/: {localize_links(d, lang)}")
     for el in list(d.body.iter(wtag("lang"))):
         el.getparent().remove(el)
     hit = False
@@ -474,7 +509,8 @@ def verify_docx(c, lang: str) -> list[str]:
     if [p.key for p in it.paras] != [p.key for p in out.paras]:
         errs.append("numerazione/chiavi diverse dall'IT")
     for a, b in zip(it.paras, out.paras):
-        if a.ppr_xml() != b.ppr_xml():
+        # la lingua di correzione (w:lang) cambia per costruzione: non conta come differenza
+        if re.sub(rb"<w:lang [^>]*/>", b"", a.ppr_xml()) != re.sub(rb"<w:lang [^>]*/>", b"", b.ppr_xml()):
             errs.append(f"[{a.key}] proprietà di paragrafo diverse dall'IT")
         if a.empty != b.empty:
             errs.append(f"[{a.key}] vuoto/non vuoto diverso dall'IT")
@@ -482,7 +518,7 @@ def verify_docx(c, lang: str) -> list[str]:
         if u["key"] == "TOC":
             continue
         po = out.paras[u["idx"]]
-        if norm(po.text) != norm(strip_markup(tr[u["id"]])):
+        if norm(po.text) != norm(SITE_RE.sub(rf"\g<1>{SITE_CODE[lang]}/", strip_markup(tr[u["id"]]))):
             errs.append(f"{u['id']} [{u['key']}]: testo nel Word diverso dalla traduzione")
         if fmt_signature(po.segs) != fmt_signature(it.paras[u["idx"]].segs):
             errs.append(f"{u['id']} [{u['key']}]: B/I/U diverso dall'IT")
@@ -495,11 +531,16 @@ def verify_docx(c, lang: str) -> list[str]:
         errs.append(f"header: atteso «{HEADER_LABEL[lang]} {vn}», trovato «{htxt}»")
     if any(p.highlighted for p in out.paras):
         errs.append("testo evidenziato")
+    links = " ".join(SITE_RE.findall(out.parts[RELS].decode()) and
+                     [m.group(0) for m in re.finditer(r"fleequid\.com/[a-z]{2}/", out.parts[RELS].decode() + " ".join(p.text for p in out.paras))])
+    wrong = set(links.split()) - {f"fleequid.com/{SITE_CODE[lang]}/"}
+    if wrong:
+        errs.append(f"link non localizzati: {sorted(wrong)}")
     with zipfile.ZipFile(it.path) as za, zipfile.ZipFile(out.path) as zb:
         if set(za.namelist()) != set(zb.namelist()):
             errs.append("parti zip diverse dall'IT")
         for n in za.namelist():
-            if n in ("word/document.xml", "word/styles.xml") or n.startswith(("word/header", "word/footer")):
+            if n in ("word/document.xml", "word/styles.xml", RELS) or n.startswith(("word/header", "word/footer")):
                 continue
             if za.read(n) != zb.read(n):
                 errs.append(f"parte modificata inattesa: {n}")
@@ -512,7 +553,7 @@ def main(argv=None):
 
     ap = argparse.ArgumentParser(prog="tcupdate.rebuild", description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["prepare", "brief", "check", "terms", "build"])
+    ap.add_argument("command", choices=["it-links", "prepare", "brief", "check", "terms", "build"])
     ap.add_argument("--family", required=True)
     ap.add_argument("--from", dest="from_", type=int, required=True)
     ap.add_argument("--to", type=int, required=True)
@@ -523,6 +564,11 @@ def main(argv=None):
     a = ap.parse_args(argv)
     a.langs = a.lang
     c = Ctx(a)
+    if a.command == "it-links":
+        d = Docx(c.it_new_clean())
+        print(f"IT: link portati su /it/: {localize_links(d, 'IT')}")
+        d.save(c.it_new_clean())
+        return
     if a.command == "prepare":
         it_prev, it_new = Docx(c.prev_docs["IT"]), Docx(c.it_new_clean())
         units = build_units(it_prev, it_new, Path(a.redline) if a.redline else None, c.changes)
