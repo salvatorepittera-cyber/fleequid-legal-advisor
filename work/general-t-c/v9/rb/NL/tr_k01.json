@@ -1,0 +1,441 @@
+{
+ "lang": "NL",
+ "chunk": "k01",
+ "translations": {
+  "u001": "<b>Algemene Voorwaarden - Marketplace Fleequid®</b>",
+  "u002": "<i>Inhoudsopgave</i>",
+  "u003": "<b>Definities</b>.",
+  "u004": "In aanvulling op de overige definities in deze Algemene Voorwaarden hebben de onderstaande termen, wanneer zij met een hoofdletter worden geschreven, de hieronder toegekende betekenis. De definities stellen de betekenis van de termen vast en vervangen noch herhalen de regeling die is opgenomen in de artikelen die de afzonderlijke onderwerpen beheersen en waarnaar wordt verwezen.",
+  "u005": "<i>“</i><b><i>1 Euro Auction</i></b>”: een bijzondere categorie Veiling die door Fleequid wordt georganiseerd en als zodanig wordt gekwalificeerd, die, naargelang het toepasselijke Verkoopmodel, zowel in het kader van de Commissieverkoop als in het kader van Dealer Sales kan worden gebruikt, gekenmerkt door specifieke wijzen van prijsbepaling en door specifieke economische voorwaarden, geregeld door de desbetreffende Bijzondere Verkoopvoorwaarden en beheerst door art. 9.4, letter d).",
+  "u006": "<i>“</i><b><i>Bindende Overeenstemming</i></b>”: de overeenstemming waarmee, op de in art. 10.2 bepaalde wijze, de Koopovereenkomst met betrekking tot het Voertuig tot stand komt en voor de Koper de verplichting ontstaat het Totaal Verschuldigd Bedrag te voldoen. De totstandkoming van de Bindende Overeenstemming is niet afhankelijk van de betaling en vormt geen Definitieve Toewijzing.",
+  "u007": "“<b><i>Koper(s)</i></b>”: de Bieder ten gunste van wie de Bindende Overeenstemming tot stand is gekomen en die derhalve gehouden is tot betaling van het Totaal Verschuldigd Bedrag, ongeacht het type Verkoopevenement en ongeacht of de betaling heeft plaatsgevonden. Bij de Commissieverkoop, ongeacht of deze door middel van Wederverkoop wordt uitgevoerd dan wel Fleequid optreedt als louter Tussenpersoon, verwijst de term steeds naar de daadwerkelijke Koper, een partij die verschilt van Fleequid; bij Dealer Sales is de Koper de partij die het Voertuig van Fleequid koopt. Bij transacties waarbij gebruik wordt gemaakt van een Financieringsoplossing kan de Koper de Financier zijn, in de gevallen en onder de voorwaarden bepaald in art. 22.5.",
+  "u008": "“<b><i>Definitieve Toewijzing</i></b>”: de gebeurtenis, uitsluitend eigen aan Veilingen, die intreedt met de volledige nakoming van de betalingsverplichting overeenkomstig art. 12.2 en die, samen met de aanvang van de uitvoeringsfase van de transactie, daarvan het gevolg vormt. De Definitieve Toewijzing vormt niet het moment van totstandkoming van de Overeenkomst, die tot stand komt met de Bindende Overeenstemming, en het uitblijven ervan laat het bestaan van de reeds tot stand gekomen Overeenkomst onverlet. Bij andere Verkoopevenementen dan Veilingen volgt de aanvang van de uitvoeringsfase uit de volledige nakoming van de betalingsverplichting, zonder dat dit tot een Definitieve Toewijzing leidt.",
+  "u009": "“<b><i>Annulering van de verkoop</i></b>”: de contractuele rechtsfiguur, in algemene zin geregeld in art. 14, waarmee Fleequid in de daartoe voorziene gevallen bepaalt dat de transactie niet wordt uitgevoerd of niet langer wordt uitgevoerd, geheel of beperkt tot een of meer Voertuigen. De concrete rechtsgrond van de Annulering hangt af van het geval dat daartoe aanleiding geeft; wanneer zij het gevolg is van een tekortkoming waarvoor een uitdrukkelijk ontbindingsbeding geldt, werkt zij als ontbinding overeenkomstig art. 1456 van het Italiaans Burgerlijk Wetboek.",
+  "u010": "“<b><i>Veiling</i></b>”: Verkoopevenement dat bestaat in een proces van elektronische verkoop dat via de Marketplace wordt uitgevoerd, waarbij een of meer Biedingen worden uitgebracht en dat, in de gevallen en onder de voorwaarden bepaald in deze Algemene Voorwaarden, eindigt met de totstandkoming van de Bindende Overeenstemming ten gunste van de hoogste Bieder.",
+  "u011": "“<b><i>Veilingbasis</i></b>”: de begin- of minimumprijs van het Voertuig vanaf welke de Bieders, indien de toepasselijke vorm van Verkoopevenement daarin voorziet, Biedingen kunnen uitbrengen of verhogingen kunnen doen.",
+  "u012": "“<b><i>Gebruikersclassificatie</i></b>”: de interne, operationele en dynamische status die Fleequid aan de Gebruiker toekent op basis van objectieve gegevens betreffende diens voorgeschiedenis en het door hem vertoonde gedrag, met de gevolgen en binnen de grenzen bepaald in art. 6.",
+  "u013": "“<b><i>Commissies</i></b>”: de vergoedingen die de Verkoper en de Koper aan Fleequid verschuldigd zijn voor de aan- en verkoop van Voertuigen via de Marketplace of de door Fleequid aangeboden handelsdiensten en -systemen, uitsluitend in de Verkoopmodellen die daarin voorzien. Tenzij schriftelijk anders is overeengekomen of tenzij anders bepaald in de Bijzondere Verkoopvoorwaarden, worden de Commissies bepaald overeenkomstig het Fleequid-tarief. Bij de Commissieverkoop worden voor de berekening van de Reserveprijs uitsluitend de Commissies in aanmerking genomen die contractueel ten laste van de Verkoper komen. Het verschuldigd worden van de Commissies is geregeld in art. 12.4. Bij Dealer Sales zijn geen Commissies verschuldigd en vormt het economische resultaat van de aan- en verkoopactiviteit van Fleequid geen Commissie.",
+  "u014": "“<b><i>Koop-nu</i></b>”: de vorm van Verkoopevenement, zelfstandig dan wel gekoppeld aan een Veiling met opbieding, geregeld in art. 9.4, letter b), waarbij het Bod wordt uitgebracht tegen de voor het Voertuig vermelde prijs voor onmiddellijke aankoop.",
+  "u015": "“<b><i>Algemene Voorwaarden</i></b>” of “<b><i>AV</i></b>”: deze algemene voorwaarden, die kunnen worden geraadpleegd in de daartoe bestemde sectie van de Marketplace, die de rechtsverhouding tussen Fleequid en alle Gebruikers regelen en de algemene contractuele architectuur vormen volgens de in art. 4.3 bedoelde rangorde.",
+  "u016": "“<b><i>Bijzondere Verkoopvoorwaarden</i></b>”: de contractuele voorwaarden die de parameters, de voorwaarden en de uitdrukkelijke afwijkingen vaststellen met betrekking tot de afzonderlijke transactie of het afzonderlijke Verkoopevenement en die van toepassing zijn overeenkomstig de artt. 4.3, 4.4 en 4.5.",
+  "u017": "“<b><i>Specifieke Voorwaarden</i></b>”: de contractuele voorwaarden, in aanvulling op deze AV, die de bijzondere, gestandaardiseerde en terugkerende regeling bevatten voor een identificeerbare categorie van transacties, Diensten, producten of onderwerpen en die van toepassing zijn overeenkomstig de artt. 4.3 en 4.4.",
+  "u018": "“<b><i>Consument</i></b>”: de natuurlijke persoon die handelt voor doeleinden die geen verband houden met enige bedrijfs-, handels-, ambachts- of beroepsactiviteit die hij eventueel uitoefent, in de zin van art. 3 van Wetgevingsdecreet nr. 206 van 6 september 2005.",
+  "u019": "“<b><i>Overeenkomst</i></b>”: naargelang het geval, elk van de contractuele rechtsverhoudingen die relevant zijn in de zin van deze Algemene Voorwaarden en die mede worden beheerst door de eventuele Specifieke Voorwaarden, Bijzondere Verkoopvoorwaarden en Individuele Overeenkomsten, en in het bijzonder: (i) bij de Commissieverkoop die door middel van Wederverkoop wordt uitgevoerd, de verkoop van het Voertuig door de Verkoper aan Fleequid en de daaropvolgende Wederverkoop aan de Koper; (ii) bij de Commissieverkoop die door Fleequid als louter Tussenpersoon wordt uitgevoerd, de rechtstreekse verkoop van het Voertuig door de Verkoper aan de Koper; (iii) bij Dealer Sales, de verkoop van het Voertuig door de Verkoper aan Fleequid en de daaropvolgende verkoop van hetzelfde Voertuig door Fleequid aan de Koper, als afzonderlijke en zelfstandige overeenkomsten; alsmede de rechtsverhouding inzake vermarkting die overeenkomstig de artt. 8.7 en 8.8 tussen de Verkoper en Fleequid tot stand komt. De totstandkoming van de Bindende Overeenstemming met betrekking tot de verkoop aan de Koper is geregeld in art. 10.2; de rechtsverhoudingen inzake aankoop, verkoop en overdracht van het Voertuig zijn, naargelang het toepasselijke Verkoopmodel en de gekozen wijze van uitvoering, geregeld in de artt. 8.8, 16, 17 en 18 en in de overige toepasselijke bepalingen. Wat de vorm van de Koopovereenkomsten betreft, blijft het bepaalde in art. 10.2, laatste volzin, onverminderd van toepassing.",
+  "u020": "“<b><i>Individuele Overeenkomst</i></b>”: de schriftelijk geformaliseerde en door Fleequid goedgekeurde overeenkomst met een of meer bepaalde Gebruikers, die overeenkomstig art. 4.3 de eerste plaats inneemt in de rangorde van de contractuele bronnen.",
+  "u021": "“<b><i>Dealer Sales</i></b>”: het Verkoopmodel, geregeld in de artt. 2.7 en 18, waarbij Fleequid het Voertuig in eigen naam en voor eigen rekening van de Verkoper koopt en het in eigen naam en voor eigen rekening aan de Koper doorverkoopt, en daarbij daadwerkelijk partij is bij beide, afzonderlijke en zelfstandige, koopovereenkomsten.",
+  "u022": "<b>“</b><b><i>Waarborgsom</i></b><b>”</b>: het geldbedrag dat de Bieder, in de gevallen en in de omvang bepaald in art. 6, aan Fleequid dient te voldoen tot zekerheid voor de nakoming van de aangegane verbintenissen en voor de vorderingen van Fleequid met betrekking tot de specifieke transactie. De Waarborgsom vormt geen boete en is geen zelfstandige grond voor het in rekening brengen van bedragen.",
+  "u023": "“<b><i>Verkoopevenement</i></b>”: elk door Fleequid georganiseerd of beheerd commercieel proces dat gericht is op de verkoop van een of meer Voertuigen, volgens de in art. 9.4 bepaalde vormen, en met name de Veiling, de Koop-nu, zowel als zelfstandige vorm als gekoppeld aan een Veiling met opbieding, de Gereserveerde Verkoop, de Onderhandeling en de Verkoop buiten veiling.",
+  "u024": "“<b><i>Financier</i></b>”: de derde die in het kader van een Financieringsoplossing een financiering aan de Gebruiker toekent of verstrekt en die, naargelang het gekozen product en de toepasselijke Specifieke Voorwaarden, kan optreden als betalende partij, als geadresseerde van de factuur dan wel als Koper overeenkomstig art. 22.5.",
+  "u025": "“<b><i>Fleequid</i></b>”: verwijst voornamelijk naar de vennootschap Adorea S.r.l., met statutaire zetel in Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), fiscaal nummer en btw-nummer 04114790134, ingeschreven in het handelsregister van Como onder nr. 420825, e-mail info@fleequid.com, houder van het merk Fleequid®. De term kan ook verwijzen naar andere rechtspersonen die gelieerd zijn aan of door Adorea S.r.l. zijn aangewezen voor de vermarkting van Voertuigen, overeenkomstig art. 2.9. Fleequid beheert de Marketplace en stelt de Diensten ter beschikking; de hoedanigheid waarin zij bij de afzonderlijke transactie optreedt, hangt af van het toepasselijke Verkoopmodel en, bij de Commissieverkoop, van de gekozen wijze van uitvoering, overeenkomstig de artt. 2.3-2.8, 3, 17 en 18. De positie van Fleequid met betrekking tot Voertuigen die als VFU of anderszins als afval kunnen worden aangemerkt, is geregeld in de artt. 16.13 en 18.8.",
+  "u026": "“<b><i>Bezwaring</i></b>”: elke vorm van last of beperking, zekerheidsrecht, pandrecht, executoriaal beslag, contractuele verplichting, eigendomsvoorbehoud, verplichting inzake belastingen of rechten, hypotheek of andere bezwaring, van welke aard dan ook, die op het Voertuig rust en die het juridische verkeer of de verkoopbaarheid ervan kan verhinderen of bemoeilijken. Elk kenmerk van het Voertuig dat het vrije verkeer ervan binnen de Europese Unie verhindert, dan wel het ontbreken van de CE-certificering overeenkomstig de toepasselijke wetgeving van de Europese Unie, indien vereist, wordt beschouwd als een Bezwaring.",
+  "u027": "“<b><i>Totaal Verschuldigd Bedrag</i></b><i>”</i>: het totale bedrag dat de Koper met betrekking tot de specifieke transactie verschuldigd is, met inbegrip, naargelang het toepasselijke Verkoopmodel en de gekozen wijze van uitvoering, van de Verkoopprijs voor de Koper, de Commissies, de Tarieven, de eventuele kostenvergoedingen en de btw, indien verschuldigd. Het Totaal Verschuldigd Bedrag wordt vermeld in de Proforma, behoudens kennelijke materiële vergissing; wanneer Fleequid optreedt als louter Tussenpersoon, vermeldt de Proforma afzonderlijk de bestanddelen die aan de Verkoper en die welke aan Fleequid verschuldigd zijn.",
+  "u028": "“<b><i>Advertentie</i></b><i>” (of “</i><b><i>Veilingblad</i></b><i>”)</i>: de informatieve en beschrijvende inhoud met betrekking tot het Voertuig en de specifieke transactie, met inbegrip van, bij wijze van voorbeeld en zonder beperking, de Technische Specificaties, de afbeeldingen, het technisch dossier, het eventuele TrustReport en alle andere informatie die aan de Gebruikers ter beschikking wordt gesteld, en die tevens tot functie heeft de Bijzondere Verkoopvoorwaarden te bevatten, aan te duiden of ernaar te verwijzen en de in art. 3.2 bedoelde elementen kenbaar te maken, overeenkomstig het bepaalde in art. 4.6.",
+  "u029": "<b>“</b><b><i>Louter Tussenpersoon</i></b><b>”</b>: de wijze van uitvoering van de Commissieverkoop, geregeld in de artt. 2.6 en 17.10 en volgende, waarbij Fleequid geen Wederverkoop verricht, het Voertuig niet koopt of verkoopt en de koopovereenkomst niet sluit, noch in eigen naam noch als partij, en mogelijk maakt dat de overdracht en de facturering van het Voertuig rechtstreeks van de Verkoper aan de Koper plaatsvinden. Het optreden als louter Tussenpersoon vormt geen zelfstandig Verkoopmodel en blijft een interne wijze van uitvoering van de Commissieverkoop.",
+  "u030": "“<b><i>Marketplace</i></b>”: de veilingplatformen en andere soorten platformen, de apps, de websites en de geïntegreerde diensten die een onlinemarkt vormen waar Gebruikers, in de gevallen en onder de voorwaarden vastgesteld in deze AV en in de overige toepasselijke bronnen, Voertuigen kunnen kopen en verkopen, alsook de overige door Fleequid aangeboden Diensten kunnen aanvragen en gebruiken, waaronder in het bijzonder de website van Fleequid, die toegankelijk is via het volgende adres: https://www.fleequid.com.",
+  "u031": "“<b><i>Verkoopmodel</i></b>”: de juridische structuur volgens welke Fleequid de afzonderlijke verkooptransactie organiseert, overeenkomstig art. 3 vastgesteld uit de enige twee in art. 2.3 voorziene Modellen, te weten de Commissieverkoop en Dealer Sales.",
+  "u032": "“<b><i>Onderhandeling</i></b>”: de vorm van Verkoopevenement, geregeld in art. 9.4, letter e), die bestaat in onderhandelingen in het kader waarvan Biedingen en tegenvoorstellen kunnen worden gedaan en waarbij de Bindende Overeenstemming tot stand komt met de aanvaarding van het Bod dan wel van het tegenvoorstel.",
+  "u033": "“<b><i>Bieder</i></b>”: elke Professionele Gebruiker die aan een Verkoopevenement deelneemt door een of meer Biedingen uit te brengen. De Bieder verkrijgt de hoedanigheid van Koper op het moment waarop de Bindende Overeenstemming te zijnen gunste tot stand komt.",
+  "u034": "“<b><i>Bod</i></b>”: de wilsuiting waarmee de Bieder in het kader van een Verkoopevenement de aankoop van het Voertuig tegen een bepaalde prijs voorstelt. Het Bod is bindend en onherroepelijk onder de voorwaarden bepaald in de artt. 10.1 en 10.5 en veronderstelt dat het toepasselijke Verkoopmodel vooraf overeenkomstig art. 3 is vastgesteld en kenbaar is.",
+  "u035": "“<b><i>Aanbetaling</i></b>”: de vooraf te verrichten betaling, ter hoogte van 30% van het Totaal Verschuldigd Bedrag, die van de Koper kan worden verlangd bij transacties waarbij het Voertuig tijdelijk bij de Verkoper in gebruik blijft, overeenkomstig art. 13. De Aanbetaling wordt verricht als voorschot op de prijs en vormt geen bevestigend handgeld en evenmin rouwgeld.",
+  "u036": "<i>“</i><b><i>Partijen</i></b>”: betekent gezamenlijk Fleequid, de Verkoper, de Bieder en de Koper. De Financier is geen Partij bij deze Algemene Voorwaarden, tenzij hij overeenkomstig art. 22.5 de hoedanigheid van Koper verkrijgt.",
+  "u037": "“<b><i>PMIV</i></b>” of <b><i>“Minimum Verkoopverbintenisprijs”</i></b>: de in euro’s uitgedrukte prijs die door de Verkoper bij het doen van het Verkoopvoorstel wordt vastgesteld en die de minimale netto-opbrengst vertegenwoordigt die de Verkoper met de verkoop van het Voertuig wenst te realiseren. De PMIV is bindend en kan uitsluitend vóór de aanvang van het desbetreffende Verkoopevenement worden gewijzigd; bij herziening met het oog op een volgende verkooppoging is het bepaalde in art. 8.10 van toepassing.",
+  "u038": "“<b><i>Aankoopprijs</i></b>”: de prijs van het Voertuig die bij Dealer Sales aan de Verkoper verschuldigd is en die overeenkomstig art. 18.3 zelfstandig tussen Fleequid en de Verkoper wordt overeengekomen.",
+  "u039": "“<b><i>Netto-aankoopprijs</i></b>”: de prijs van het Voertuig die Fleequid aan de Verkoper verschuldigd is bij de Commissieverkoop die door middel van Wederverkoop wordt uitgevoerd, overeenkomend met de Verkoopprijs voor de Koper na aftrek van de Commissies ten laste van de Verkoper, de Tarieven en elk ander bedrag dat de Verkoper aan Fleequid verschuldigd is, en die wordt vastgesteld en opeisbaar is overeenkomstig art. 17.4.",
+  "u040": "“<b><i>Reserveprijs</i></b><i>”</i> of “<b><i>PR</i></b>”<i>:</i> de brutowaarde die door Fleequid wordt vastgesteld op basis van de door de Verkoper bepaalde PMIV en de ten laste van de Verkoper komende Commissies zoals vastgesteld in het Fleequid-tarief, en die bij de Commissieverkoop de prijsdrempel vertegenwoordigt waartegen of waarboven de Verkoper onherroepelijk instemt met de verkoop van het Voertuig, zodat hem een netto-opbrengst wordt verzekerd die ten minste gelijk is aan de PMIV. Bij Dealer Sales heeft de eventuele Reserveprijs uitsluitend betrekking op de doorverkoop van het Voertuig door Fleequid aan de Koper en wordt hij door Fleequid zelfstandig vastgesteld overeenkomstig art. 9.5.",
+  "u041": "“<b><i>Verkoopprijs voor de Koper</i></b>”: de prijs van het Voertuig die voortvloeit uit de Bindende Overeenstemming, ongeacht de wijze waarop deze volgens de toepasselijke vorm van Verkoopevenement tot stand is gekomen, die door de Koper verschuldigd is en deel uitmaakt van het Totaal Verschuldigd Bedrag.",
+  "u042": "“<b><i>Professional</i></b>”: iedere natuurlijke of rechtspersoon die handelt in de uitoefening van zijn of haar handels-, bedrijfs-, ambachts- of beroepsactiviteiten, of een tussenpersoon daarvan, met uitzondering van Consumenten. Onder deze definitie vallen tevens “micro-ondernemingen”, d.w.z. entiteiten, vennootschappen of verenigingen die, ongeacht hun rechtsvorm, een economische activiteit uitoefenen, ook op individuele of familiebasis, waarbij minder dan tien personen werkzaam zijn en waarvan de jaarlijkse omzet of het jaarlijkse balanstotaal niet hoger is dan 2 miljoen euro, overeenkomstig artikel 2, lid 3, van de bijlage bij Aanbeveling nr. 2003/361/EG van de Commissie van 6 mei 2003, en art. 18, lid 1, letter d-bis, van Wetgevingsdecreet nr. 206/2005 (Consumentenwetboek).",
+  "u043": "“<b><i>Proforma</i></b>”: het document waarmee Fleequid de Koper in kennis stelt van het Totaal Verschuldigd Bedrag en van het einde van de Betalingstermijn en waarmee, bij de Commissieverkoop, de gekozen wijze van uitvoering wordt vastgelegd, overeenkomstig art. 11.4. De Proforma is een uitvoerend en declaratoir document dat volgt op de Bindende Overeenstemming, is geen contractuele bron, vormt geen fiscaal document en doet geen nieuwe verplichtingen ontstaan.",
+  "u044": "“<b><i>Verkoopvoorstel</i></b>”: de wilsuiting waarmee de Verkoper aan Fleequid de opdracht verleent over te gaan tot de vermarkting en de verkoop van een of meer Voertuigen via de Marketplace of op de andere beschikbare wijzen. De vorm, de minimuminhoud, de werking en het bindende karakter van het Verkoopvoorstel zijn geregeld in art. 8.1.",
+  "u045": "<b>“</b><b><i>Hoogste bod</i></b>”: het hoogste bedrag van alle Biedingen die door de Bieders aan het einde van de Veiling zijn uitgebracht, inclusief eventuele verhogingen. Indien Fleequid tot Annulering van de verkoop is overgegaan, wordt het Hoogste bod vastgesteld met uitsluiting van de waarde van de Biedingen die betrekking hebben op de geannuleerde verkopen.",
+  "u046": "“<b><i>Wederverkoop</i></b>”: de wijze van uitvoering van de Commissieverkoop, geregeld in de artt. 2.5 en 17.3 en volgende, die ook kan plaatsvinden in de vormen bedoeld in art. 1395 van het Italiaans Burgerlijk Wetboek, waarbij Fleequid, ter uitvoering van de commissieopdrachten tot verkoop en tot aankoop, het Voertuig van de Verkoper koopt en aan de Koper overdraagt teneinde de koop en verkoop aan de respectieve opdrachtgevers toe te rekenen. De Wederverkoop vindt geen toepassing bij Dealer Sales.",
+  "u047": "“<b><i>Diensten</i></b>”: de diensten, offline en online, die door Fleequid aan Gebruikers ter beschikking worden gesteld en die onderworpen zijn aan Tarieven, zoals, bij wijze van voorbeeld, transport- en logistieke diensten voor Voertuigen en de andere diensten die op de Marketplace worden vermeld, met uitsluiting van de bemiddelingsactiviteit bij de aan- en verkoop van Voertuigen, die onderworpen is aan Commissies.",
+  "u048": "“<b><i>Financieringsoplossingen</i></b>”: de door derden aangeboden producten voor financiering, financiële lease of een andere vorm van verschaffing van financiële middelen, die via de Marketplace beschikbaar worden gesteld of onder de aandacht worden gebracht, geregeld in art. 22 en in de desbetreffende Specifieke Voorwaarden.",
+  "u049": "“<b><i>Technische Specificaties</i></b>”: het geheel van informatie die door de Verkoper wordt verstrekt, of door Fleequid wordt vermeld en door de Verkoper is goedgekeurd, betreffende de technische en administratieve kenmerken van elk van de Voertuigen die te koop worden aangeboden.",
+  "u050": "“<b><i>Optiestatus</i></b>”: de status van het Voertuig na de totstandkoming van de Bindende Overeenstemming en vóór de volledige nakoming van de betalingsverplichting en de aanvang van de uitvoeringsfase dan wel vóór de Annulering van de verkoop, met de gevolgen bepaald in art. 11. De Optiestatus beschrijft een fase van het verkoopproces, verleent de Koper geen enkele bevoegdheid om naderhand te kiezen of hij koopt, vormt geen onherroepelijk aanbod en levert geen optieovereenkomst op in de zin van art. 1331 van het Italiaans Burgerlijk Wetboek.",
+  "u051": "<b><i>“Fleequid-tarief”</i></b>: het geheel van voorwaarden dat de berekening regelt, ook uitgedrukt als een percentage van de Verkoopprijs voor de Koper, van de Commissies die door de Verkoper en door de Koper aan Fleequid verschuldigd zijn, alsmede van de overige daarin vermelde bedragen, en dat kan worden geraadpleegd via de volgende links: <b>https://fleequid.com/it/pricing-seller</b> en <b>https://fleequid.com/it/pricing-buyer</b>.",
+  "u052": "“<b><i>Tarieven</i></b>”: de vergoedingen, te onderscheiden van Commissies, die aan Fleequid verschuldigd zijn voor de levering van een of meer Diensten.",
+  "u053": "“<b><i>Betalingstermijn</i></b>”: de termijn waarbinnen de Koper het Totaal Verschuldigd Bedrag volledig dient te voldoen, vastgesteld overeenkomstig art. 11.5 en, in de daarin voorziene gevallen, overeenkomstig de artt. 11.6, 11.7, 13 en 22.7.",
+  "u054": "“<b><i>TrustReport</i></b>”: het door Fleequid opgestelde of in haar opdracht door derden opgestelde verificatiedocument betreffende het Voertuig, dat een uitsluitend informatief karakter heeft binnen de reikwijdte en met de gevolgen bepaald in art. 19.5. Het TrustReport vormt geen garantie of certificering van de staat van het Voertuig, vervangt de inspectie door de Koper niet en ontslaat de Verkoper niet van zijn aansprakelijkheid en zijn verplichtingen.",
+  "u055": "“<b><i>Gebruiker</i></b>”: elke Professional, eenmanszaak of rechtspersoon die het registratieproces op de Marketplace heeft voltooid, of zich daar anderszins bij heeft aangesloten door deze Algemene Voorwaarden te aanvaarden, teneinde toegang te krijgen tot de Marketplace, deze te bekijken en te gebruiken, deel te nemen aan de Verkoopevenementen met als doel de aankoop of verkoop van Voertuigen voor te stellen en gebruik te maken van de aangeboden Diensten, waaronder Verkopers, Bieders en Kopers.",
+  "u056": "“<b><i>Voertuig(en)</i></b>”: elk motorvoertuig, nieuw of gebruikt, dat op de Marketplace wordt verkocht of geplaatst dan wel anderszins via Fleequid wordt vermarkt, met inbegrip van, bij wijze van voorbeeld en zonder beperking, bussen, vrachtwagens, bestelwagens, personenauto's en andere vervoermiddelen.",
+  "u057": "“<b><i>Afgedankt(e) Voertuig(en)</i></b>” of “<b><i>VFU</i></b>”: ieder Voertuig dat op grond van de milieuwetgeving die van toepassing is in het land waar het goed zich bevindt op het moment van overdracht, als afval kan worden aangemerkt dan wel bestemd is voor demontage en terugwinning van materialen. De desbetreffende regeling is opgenomen in de artt. 8.3, 16.13, 18.8 en 20.8.",
+  "u058": "“<b><i>Verkoop buiten veiling</i></b>”: de vorm van Verkoopevenement, geregeld in art. 9.4, letter f), waarbij de verkoop buiten het Veilingproces om wordt gesloten.",
+  "u059": "“<b><i>Commissieverkoop</i></b>”: het Verkoopmodel, geregeld in de artt. 2.3, 2.4, 2.5, 2.6 en 17, waarbij Fleequid, in onherroepelijke opdracht van de Gebruikers, voor hun rekening zorg draagt voor de verkoop en de aankoop van het Voertuig en waarbij de transactie wordt uitgevoerd hetzij door middel van Wederverkoop, hetzij doordat Fleequid optreedt als louter Tussenpersoon. De kwalificatie van Fleequid als commissionair die in eigen naam handelt in de zin van art. 1731 van het Italiaans Burgerlijk Wetboek geldt uitsluitend bij de Wederverkoop, overeenkomstig art. 2.5; wanneer Fleequid optreedt als louter Tussenpersoon, wordt de koopovereenkomst rechtstreeks tussen de Verkoper en de Koper gesloten overeenkomstig de artt. 2.6 en 17.10.",
+  "u060": "“<b><i>Gereserveerde Verkoop</i></b>”: de vorm van Verkoopevenement, geregeld in art. 9.4, letter c), die bestemd is voor een of meer door Fleequid aangewezen Gebruikers en niet zichtbaar is voor de Gebruikers van de Marketplace in het algemeen.",
+  "u061": "“<b><i>Verkoper(s)</i></b>”: elke Professional die gebruik maakt van de verkoopdiensten van Fleequid en die zijn Voertuigen te koop aanbiedt. De term verwijst altijd naar de daadwerkelijke Verkoper, een andere partij dan Fleequid; bij de Commissieverkoop die door middel van Wederverkoop wordt uitgevoerd, wordt Fleequid, wanneer zij de rol van formele verkoper op zich neemt, steeds aangeduid als Fleequid. Bij Dealer Sales is de Verkoper de partij van wie Fleequid het Voertuig koopt; bij de daaropvolgende doorverkoop aan de Koper is Fleequid de verkoper overeenkomstig de artt. 2.7 en 18.1.",
+  "u062": "Elke verwijzing in deze AV naar “<b><i>dagen</i></b>” moet worden verstaan als een verwijzing naar werkdagen, waarbij onder “<b><i>werkdagen</i></b>” moet worden verstaan: de weekdagen van maandag tot vrijdag, van 8:30 tot 12:30 uur en van 14:00 tot 18:00 uur, met uitzondering van nationale feestdagen in Italië. De toepasselijke tijdzone is die van de statutaire zetel van Fleequid. Deze wijze van berekening geldt voor alle termijnen waarin deze Algemene Voorwaarden voorzien, met inbegrip van de Betalingstermijn, de in art. 12.7 bedoelde maximumtermijn en de boetes die per dag vertraging worden bepaald.",
+  "u063": "<b>Doelstellingen, rol van Fleequid en Verkoopmodellen</b>.",
+  "u076": "<b>Vaststelling en kenbaarheid van het Verkoopmodel.</b>",
+  "u091": "<b>Contractuele bronnen, Advertentie en voorwaarden die op de specifieke transactie van toepassing zijn</b>.",
+  "u101": "<b>Registratie en toegestaan gebruik van de Marketplace.</b>",
+  "u119": "<b>Gebruikersclassificatie en Waarborgsom.</b>",
+  "u126": "<b>Verwerking van persoonsgegevens van Gebruikers.</b>",
+  "u130": "<b>Verkoopvoorstel van Voertuigen op Veilingen en verplichtingen van de Verkoper.</b>",
+  "u145": "<b>Verkoopevenementen en Advertentie.</b>",
+  "u160": "<b>Biedingen, onderhandeling en Bindende Overeenstemming.</b>",
+  "u174": "<b>Optiestatus, Proforma en Betalingstermijn.</b>",
+  "u184": "<b>Betaling, Definitieve Toewijzing bij Veilingen, vertraging en Annulering van de verkoop.</b>",
+  "u196": "<b>Uitgestelde verkoop: aanbetaling en tijdelijk bij de Verkoper in gebruik blijvend Voertuig.</b>",
+  "u206": "<b>Annulering van de verkoop: algemene regeling en vermindering van het voorwerp.</b>",
+  "u215": "<b>Vermogensrechtelijke gevolgen: restituties, herstel en economische afstemming.</b>",
+  "u224": "<b>Uitvoeringsfase ten aanzien van de Koper: facturering, eigendomsoverdracht, risico, levering en afhaling.</b>",
+  "u239": "<b>Commissieverkoop: gemeenschappelijke regeling, Wederverkoop en optreden als louter Tussenpersoon.</b>",
+  "u256": "<b>Dealer Sales.</b>",
+  "u266": "<b>Garanties, uitsluitingen en beperkingen.</b>",
+  "u290": "<b>Klachten.</b>",
+  "u299": "<b>Verbindingsclausule.</b>",
+  "u304": "<b>Door derden aangeboden Financieringsoplossingen.</b>",
+  "u316": "<b>Toepasselijk recht, taal en bevoegde rechtbank.</b>",
+  "u320": "<b>Communicatie.</b>"
+ },
+ "new_terms": [
+  {
+   "it": "Accordo vincolante",
+   "tr": "Bindende Overeenstemming",
+   "why": "Termine nuovo. Evitato 'Bindende Overeenkomst' perché 'Overeenkomst' è già il termine definito per Contratto (v8) e l'Accordo vincolante è il momento del consenso da cui nasce il Contratto: 'overeenstemming' (wilsovereenstemming) è il concetto giuridico olandese corrispondente. Verbo fisso: 'tot stand komen' / 'totstandkoming' per perfezionarsi/perfezionamento. Da validare (alternativa: 'Bindend Akkoord')."
+  },
+  {
+   "it": "Aggiudicazione definitiva",
+   "tr": "Definitieve Toewijzing",
+   "why": "v8 NL: 'definitieve Toewijzing' (5 occorrenze; def. Bieder, art. 8.1). 'Toewijzing' è la resa v8 di Aggiudicazione."
+  },
+  {
+   "it": "Annullamento della vendita (forma breve: Annullamento)",
+   "tr": "Annulering van de verkoop (forma breve: Annulering)",
+   "why": "v8 NL 6.8.3, 6.14, 9.4, 10.3: 'annulering van de verkoop', 'de verkoop te annuleren'. Maiuscola solo sulla prima parola come in IT."
+  },
+  {
+   "it": "Classificazione dell'Utente",
+   "tr": "Gebruikersclassificatie",
+   "why": "Termine nuovo; composto naturale in olandese (anche nel titolo art. 6)."
+  },
+  {
+   "it": "Compra-Subito",
+   "tr": "Koop-nu",
+   "why": "v8 NL 7.8.2: 'Koop-nu', 'Koop-nu-optie'. Genere: 'de Koop-nu'."
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Bijzondere Verkoopvoorwaarden",
+   "why": "Sostituisce 'Condizioni particolari d'asta' = v8 'Bijzondere Veilingvoorwaarden' (23 occ. con questa grafia): stessa struttura con Verkoop- al posto di Veiling-."
+  },
+  {
+   "it": "Condizioni Specifiche",
+   "tr": "Specifieke Voorwaarden",
+   "why": "v8 NL (10 occ. 'Specifieke Voorwaarden' contro 1 'Specifieke voorwaarden' nella definizione)."
+  },
+  {
+   "it": "Condizioni Generali / CG",
+   "tr": "Algemene Voorwaarden / AV",
+   "why": "v8 NL: 60 occ. 'Algemene Voorwaarden' contro 6 'Algemene voorwaarden' (grafia del glossario Care). Scelta la grafia prevalente delle Generali, coerente con Specifieke/Bijzondere ...Voorwaarden."
+  },
+  {
+   "it": "Contratto individuale",
+   "tr": "Individuele Overeenkomst",
+   "why": "v8 NL 3.3: 'individuele overeenkomsten'; ora termine definito, maiuscole come Overeenkomst."
+  },
+  {
+   "it": "Contratto di compravendita",
+   "tr": "Koopovereenkomst",
+   "why": "Glossario ('koopovereenkomsten') e v8 NL (23 occ. 'koopovereenkomst'; la v8 alterna con 'Verkoopovereenkomst', 17 occ., da non usare più). 'compravendita' minuscolo = 'koopovereenkomst' / 'koop en verkoop' / 'aan- en verkoop' (v8)."
+  },
+  {
+   "it": "Dealer Sales",
+   "tr": "Dealer Sales",
+   "why": "Nome commerciale inglese nell'IT: invariato. Costruzione senza articolo: 'bij Dealer Sales'."
+  },
+  {
+   "it": "Evento di vendita",
+   "tr": "Verkoopevenement",
+   "why": "v8 NL 7.8.3: 'speciale verkoopevenementen'."
+  },
+  {
+   "it": "modalità di Evento di vendita",
+   "tr": "vorm van Verkoopevenement",
+   "why": "v8 NL 7.8.3: 'verkoopvormen'."
+  },
+  {
+   "it": "Finanziatore",
+   "tr": "Financier",
+   "why": "Termine nuovo; in olandese 'financier' copre banca, società di leasing e altri finanziatori (art. 22)."
+  },
+  {
+   "it": "Soluzioni di finanziamento",
+   "tr": "Financieringsoplossingen",
+   "why": "Termine nuovo; resa standard."
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Totaal Verschuldigd Bedrag",
+   "why": "Termine nuovo; resa standard ('het Totaal Verschuldigd Bedrag')."
+  },
+  {
+   "it": "Inserzione (o Scheda d'Asta)",
+   "tr": "Advertentie (of Veilingblad)",
+   "why": "v8 NL art. 1: 'Veilingblad (of Advertentie)'; glossario Scheda d'Asta = Veilingblad. La v8 usa anche 'Veilingformulier' (7 occ.) per Scheda d'Asta: da non usare più."
+  },
+  {
+   "it": "Modello di Vendita",
+   "tr": "Verkoopmodel",
+   "why": "Termine nuovo; resa standard. 'Modelli' (forma breve) = 'Modellen'."
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Commissieverkoop",
+   "why": "Termine nuovo; v8 NL usa 'commissionair', 'verkoopcommissionair'. Composto unico più maneggevole di 'Verkoop in commissie' nelle frasi ricorrenti ('de Commissieverkoop die door middel van Wederverkoop wordt uitgevoerd')."
+  },
+  {
+   "it": "modalità di esecuzione (della Vendita in commissione)",
+   "tr": "wijze van uitvoering",
+   "why": "v8 NL art. 1 (Veilingblad): 'wijze van uitvoering'."
+  },
+  {
+   "it": "fase esecutiva",
+   "tr": "uitvoeringsfase",
+   "why": "Locuzione nuova ricorrente (titolo art. 16); coerente con 'uitvoering'."
+  },
+  {
+   "it": "Negoziazione",
+   "tr": "Onderhandeling",
+   "why": "v8 NL 7.3, 7.8.3: 'onderhandeling'."
+  },
+  {
+   "it": "controproposta",
+   "tr": "tegenvoorstel",
+   "why": "v8 NL art. 1 (Koper, Toewijzingsprijs): 'tegenvoorstel'. La v8 usa altrove anche 'tegenbod' (8 occ.): scelto 'tegenvoorstel' perché 'bod' è riservato al termine definito Bod/Offerta."
+  },
+  {
+   "it": "Pagamento anticipato (art. 13)",
+   "tr": "Aanbetaling",
+   "why": "Termine nuovo. È un acconto del 30% sul prezzo con saldo successivo: 'aanbetaling' è il termine olandese esatto. Evitato 'Vooruitbetaling', che indicherebbe un pagamento integrale anticipato e si confonderebbe con l'art. 22.9."
+  },
+  {
+   "it": "pagamento anticipato (minuscolo, art. 22.9: Fleequid paga il Venditore prima dell'incasso)",
+   "tr": "vervroegde betaling",
+   "why": "Significato diverso dal termine definito: resa volutamente distinta da 'Aanbetaling'."
+  },
+  {
+   "it": "versamento anticipato / acconto sul prezzo / saldo",
+   "tr": "vooraf te verrichten betaling / voorschot op de prijs / saldo",
+   "why": "Locuzioni dell'art. 13 collegate ad Aanbetaling."
+  },
+  {
+   "it": "caparra confirmatoria / caparra penitenziale",
+   "tr": "bevestigend handgeld / rouwgeld",
+   "why": "Istituti italiani (artt. 1385-1386 c.c.) senza equivalente codificato nel diritto olandese: 'handgeld' e 'rouwgeld' sono i termini storici corrispondenti."
+  },
+  {
+   "it": "Vendita differita",
+   "tr": "Uitgestelde verkoop",
+   "why": "Denominazione nuova (titolo art. 13 e art. 13.1); resa standard, maiuscola solo sulla prima parola come in IT."
+  },
+  {
+   "it": "Prezzo di acquisto",
+   "tr": "Aankoopprijs",
+   "why": "Termine nuovo; resa standard."
+  },
+  {
+   "it": "Prezzo di acquisto netto",
+   "tr": "Netto-aankoopprijs",
+   "why": "Termine nuovo; coerente con Aankoopprijs."
+  },
+  {
+   "it": "Prezzo di vendita all'Acquirente",
+   "tr": "Verkoopprijs voor de Koper",
+   "why": "Termine nuovo; sostituisce di fatto 'Prezzo di aggiudicazione' (v8 'Toewijzingsprijs'), che nella v9 non esiste più. 'voor de Koper' più idiomatico di 'aan de Koper' dopo 'prijs'."
+  },
+  {
+   "it": "Proforma",
+   "tr": "Proforma",
+   "why": "Nome del documento, invariato ('de Proforma')."
+  },
+  {
+   "it": "Stato Opzionato",
+   "tr": "Optiestatus",
+   "why": "Termine nuovo; in olandese 'in optie' indica un bene provvisoriamente riservato. La definizione esclude che sia una 'optieovereenkomst'."
+  },
+  {
+   "it": "Termine di pagamento",
+   "tr": "Betalingstermijn",
+   "why": "v8 NL 11.2: 'betalingstermijn'. 'scadenza del Termine di pagamento' = 'het einde/verstrijken van de Betalingstermijn'."
+  },
+  {
+   "it": "TrustReport",
+   "tr": "TrustReport",
+   "why": "Marchio, invariato (glossario). Genere: 'het TrustReport'."
+  },
+  {
+   "it": "VFU (sigla di Veicolo/i Fuori Uso)",
+   "tr": "VFU (termine esteso: Afgedankt(e) Voertuig(en), v8)",
+   "why": "La v8 NL abbreviava 'Afgedankt(e) Voertuig(en)' con '(AV)', che coincide con 'AV' = Algemene Voorwaarden (31 occ.). Nella v9 la sigla è un termine definito autonomo: mantenuta la sigla italiana, come la v8 NL fa già per PMIV e PR. Nel testo v8 il concetto era reso anche con 'autowrakken' (8 occ.): da uniformare ad 'Afgedankte Voertuigen' / 'VFU'."
+  },
+  {
+   "it": "Vendita fuori asta",
+   "tr": "Verkoop buiten veiling",
+   "why": "Termine nuovo; resa letterale, maiuscola solo sulla prima parola come in IT."
+  },
+  {
+   "it": "Vendita riservata",
+   "tr": "Gereserveerde Verkoop",
+   "why": "v8 NL 7.8.3 e 8.1: 'Gereserveerde Verkopen'. Revisore: mantenuto per continuità con la v8 (denominazione già pubblicata); in olandese giuridico la resa naturale sarebbe 'Besloten Verkoop'."
+  },
+  {
+   "it": "Asta a rilancio",
+   "tr": "Veiling met opbieding",
+   "why": "v8 NL 7.8.2: 'Veiling met opbieding'. Revisore: mantenuto per continuità, benché il termine olandese d'uso sia 'veiling bij opbod'."
+  },
+  {
+   "it": "rilancio/i",
+   "tr": "verhoging(en)",
+   "why": "v8 NL art. 1 (Hoogste bod): 'verhogingen'."
+  },
+  {
+   "it": "Deposito cauzionale",
+   "tr": "Waarborgsom",
+   "why": "La v8 NL è incoerente: 'Zekerheidsstelling' nella definizione e nell'art. 4.5 (3 occ.), 'Waarborgsom' negli artt. 7.5 e 8.4 (8 occ.). Scelta la resa prevalente, che è anche quella giuridicamente esatta per una somma di denaro versata a garanzia. Revisore: confermato. 'Zekerheidsstelling' indica genericamente il prestare una garanzia (anche fideiussione), mentre la definizione parla di 'somma di denaro'; anche le condizioni NL „1 Euro Auctions” pubblicate usano 'Waarborgsom'."
+  },
+  {
+   "it": "Intermediario puro",
+   "tr": "louter Tussenpersoon (a inizio frase/lemma: Louter Tussenpersoon)",
+   "why": "v8 NL: 'louter Tussenpersoon' (11 occ.). 'operare quale Intermediario puro' = 'optreden als louter Tussenpersoon'."
+  },
+  {
+   "it": "Puntata massima",
+   "tr": "Hoogste bod",
+   "why": "v8 NL: 'Hoogste bod' (21 occ.)."
+  },
+  {
+   "it": "Offerta/e",
+   "tr": "Bod / Biedingen",
+   "why": "v8 NL: 'Bod(en)'; plurale usato nel testo v8: 'Biedingen'."
+  },
+  {
+   "it": "commercializzazione",
+   "tr": "vermarkting (verbo: vermarkten)",
+   "why": "Concetto nuovo ricorrente; 'rapporto di commercializzazione' = 'rechtsverhouding inzake vermarkting'."
+  },
+  {
+   "it": "commissioni di vendita e di acquisto (incarichi, non corrispettivi)",
+   "tr": "commissieopdrachten tot verkoop en tot aankoop",
+   "why": "Per non confonderle con 'Commissies' (corrispettivi)."
+  },
+  {
+   "it": "committente/i",
+   "tr": "opdrachtgever(s)",
+   "why": "v8 NL art. 1 (Overeenkomst): 'opdrachtgever'."
+  },
+  {
+   "it": "operazione",
+   "tr": "transactie",
+   "why": "v8 NL: 'transactie'."
+  },
+  {
+   "it": "sostanziale (Acquirente/Venditore/parte sostanziale)",
+   "tr": "daadwerkelijke",
+   "why": "v8 NL: 'daadwerkelijke Koper' (15 occ. di 'daadwerkelijke'); la v8 aveva 'materiële Verkoper' solo nella definizione di Verkoper: uniformato."
+  },
+  {
+   "it": "rivendere / rivendita (minuscolo, Dealer Sales)",
+   "tr": "doorverkopen / doorverkoop",
+   "why": "Distinto da 'Wederverkoop' (termine definito, che non si applica al Dealer Sales); v8 NL usa 'doorverkoopt', 'doorverkoop'."
+  },
+  {
+   "it": "gerarchia (delle fonti contrattuali)",
+   "tr": "rangorde (van de contractuele bronnen)",
+   "why": "Termine giuridico olandese standard; v8 NL 'contractuele bronnen' per 'fonti negoziali'."
+  },
+  {
+   "it": "clausola risolutiva espressa",
+   "tr": "uitdrukkelijk ontbindingsbeding",
+   "why": "v8 NL (5 occ.)."
+  },
+  {
+   "it": "penale",
+   "tr": "boete",
+   "why": "v8 NL (46 occ.)."
+  },
+  {
+   "it": "c.c.",
+   "tr": "Italiaans Burgerlijk Wetboek",
+   "why": "v8 NL (22 occ.)."
+  },
+  {
+   "it": "D.Lgs.",
+   "tr": "Wetgevingsdecreet",
+   "why": "v8 NL alterna 'Wetsdecreet' e 'Wetgevingsdecreet' per lo stesso D.Lgs. 206/2005: uniformato su 'Wetgevingsdecreet' ('wetsdecreet' è il decreto-legge)."
+  },
+  {
+   "it": "art. / artt. / lett. / ultimo periodo / e seguenti",
+   "tr": "art. / artt. / letter / laatste volzin / en volgende",
+   "why": "v8 NL: 'art.' e 'letter x)'; 'artt.' è il plurale d'uso nei testi giuridici olandesi."
+  },
+  {
+   "it": "Sommario",
+   "tr": "Inhoudsopgave",
+   "why": "Revisore: la v8 NL aveva 'Samenvatting' (= riassunto), errore evidente per il titolo dell'indice; il termine olandese è 'Inhoudsopgave'."
+  },
+  {
+   "it": "Scopi (titolo art. 2)",
+   "tr": "Doelstellingen",
+   "why": "v8 NL titolo art. 2 ('DSTELLINGEN', refuso di 'DOELSTELLINGEN'); l'indice v8 aveva 'Doeleinden'."
+  },
+  {
+   "it": "1 Euro Auction",
+   "tr": "1 Euro Auction (plurale: 1 Euro Auctions)",
+   "why": "Revisore: nome commerciale lasciato in inglese nell'IT. La v8 NL era incoerente: '1 Euro Veiling' solo nel lemma dell'art. 1, '1 Euro Auctions' nel corpo (3 occ.) e nelle Bijzondere Veilingvoorwaarden „1 Euro Auctions” pubblicate (29 occ.). Uniformato sul nome usato ovunque altrove."
+  },
+  {
+   "it": "PMIV / Prezzo minimo di impegno alla vendita",
+   "tr": "PMIV / Minimum Verkoopverbintenisprijs",
+   "why": "Revisore: sigla PMIV invariata (v8). Forma estesa: la v8 NL ne aveva tre ('Minimum Verkoopverplichting' nel lemma, 'Minimale verkoopverplichting' e 'Minimum Verkoopverbintenisprijs' nel corpo); le prime due omettono 'prezzo' e significano 'obbligo minimo di vendita' (errore evidente per un termine che definisce un prezzo). Scelta l'unica variante v8 corretta."
+  },
+  {
+   "it": "fonte negoziale / fonti contrattuali",
+   "tr": "contractuele bron / contractuele bronnen",
+   "why": "v8 NL 'contractuele bronnen' per 'fonti negoziali'; una sola resa per fonte negoziale/contrattuale."
+  },
+  {
+   "it": "errore materiale manifesto",
+   "tr": "kennelijke materiële vergissing",
+   "why": "v8 NL (ex art. 7): 'materiële vergissing' per 'errore materiale'; aggiunto 'kennelijke' per 'manifesto'. Indica l'errore evidente di scrittura/calcolo, non il vizio del consenso ('dwaling')."
+  },
+  {
+   "it": "ritardo (distinto da mora)",
+   "tr": "vertraging",
+   "why": "Titolo art. 12 e art. 1 ('per dag vertraging'). L'IT distingue ritardo e mora: per 'mora' usare una resa diversa ('verzuim')."
+  },
+  {
+   "it": "perfezionarsi / perfezionamento (dell'Accordo vincolante, del Contratto)",
+   "tr": "tot stand komen / totstandkoming",
+   "why": "Verbo fisso per tutto il documento."
+  },
+  {
+   "it": "integrale adempimento dell'obbligo di pagamento",
+   "tr": "volledige nakoming van de betalingsverplichting",
+   "why": "Locuzione ricorrente (Aggiudicazione definitiva, Stato Opzionato)."
+  }
+ ],
+ "notes": [
+  "u022/u119 Deposito cauzionale: scelto 'Waarborgsom' (8 occ. v8, giuridicamente esatto) invece di 'Zekerheidsstelling' (lemma della definizione v8, 3 occ.). Se si preferisce la continuità del lemma, sostituire ovunque.",
+  "u057/u025 VFU: la sigla v8 '(AV)' collide con AV = Algemene Voorwaarden; usata la sigla italiana 'VFU' (come PMIV e PR). Alternativa da valutare: 'ELV'.",
+  "u006 Accordo vincolante = 'Bindende Overeenstemming' (non 'Bindende Overeenkomst', per non confonderlo con Overeenkomst = Contratto): da far validare.",
+  "u035 caparra confirmatoria/penitenziale = 'bevestigend handgeld'/'rouwgeld': istituti senza equivalente codificato nel diritto olandese; valutare con lo studio se aggiungere tra parentesi i termini italiani (non aggiunti per la regola 'nessuna aggiunta').",
+  "u018 Consument: unità sostanzialmente invariata in IT; ripresa la v8 correggendo due difetti: aggiunto 'ambachts-' (artigianale, omesso nella v8) e 'Wetsdecreet' -> 'Wetgevingsdecreet'.",
+  "u015, u030: riprese le rese v8 correggendo la sintassi (v8: frase relativa spezzata; 'een online Marketplace vormen' circolare -> 'een onlinemarkt vormen').",
+  "u061 IT: nella definizione di Venditore manca la punteggiatura tra 'soggetto diverso rispetto a Fleequid' e 'nella Vendita in commissione eseguita mediante Rivendita, ove Fleequid assuma il ruolo di venditore formale, essa è sempre indicata come Fleequid'. Tradotto leggendo un punto e virgola dopo 'Fleequid'.",
+  "u046 IT: il paragrafo inizia con due spazi; non riportati.",
+  "u196 titolo art. 13: 'pagamento anticipato' è minuscolo nell'IT pur riferendosi al termine definito; reso 'aanbetaling' minuscolo per rispecchiare l'IT.",
+  "u316: mantenuto 'taal' minuscolo come nella v8 NL (IT 'Lingua' maiuscolo).",
+  "REVISIONE u002: 'Samenvatting' corretto in 'Inhoudsopgave' (errore evidente della v8).",
+  "REVISIONE u005: lemma '1 Euro Veiling' della v8 sostituito da '1 Euro Auction' (v8 incoerente: nel corpo e nelle condizioni particolari NL pubblicate è sempre '1 Euro Auction(s)'; nome commerciale non tradotto nell'IT).",
+  "REVISIONE u037: forma estesa di PMIV corretta in 'Minimum Verkoopverbintenisprijs' (variante già presente nella v8, l'unica che contiene 'prijs'). Da far validare.",
+  "Da valutare con lo studio (non modificati per continuità con la v8): 'Gereserveerde Verkoop' (più naturale 'Besloten Verkoop'), 'Veiling met opbieding' (uso NL: 'veiling bij opbod'), 'kennelijke materiële vergissing' (uso NL: 'kennelijke schrijf- of rekenfout'), 'vermarkting' per commercializzazione (alternativa: 'verhandeling')."
+ ],
+ "review": [
+  "u002: Samenvatting → Inhoudsopgave — 'samenvatting' significa riassunto; errore evidente della v8 nel titolo dell'indice.",
+  "u005: 1 Euro Veiling → 1 Euro Auction — nome commerciale non tradotto nell'IT; la v8 NL usa '1 Euro Auctions' nel corpo e nelle condizioni particolari pubblicate, il lemma tradotto era l'unica eccezione.",
+  "u013: koop- en verkoopactiviteit → aan- en verkoopactiviteit — stessa resa di 'compravendita' usata nella prima frase della definizione (v8: 'aan- en verkoop').",
+  "u037: Minimum Verkoopverplichting → Minimum Verkoopverbintenisprijs — la v8 aveva tre varianti; quella del lemma ometteva 'prezzo' (significava 'obbligo minimo di vendita'). Sigla PMIV invariata.",
+  "u043: is geen bron van contractuele verbintenissen → is geen contractuele bron — 'fonte negoziale' reso come nelle altre occorrenze ('contractuele bronnen', v8 e titolo art. 4)."
+ ]
+}

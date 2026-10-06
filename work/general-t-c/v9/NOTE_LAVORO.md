@@ -96,3 +96,15 @@ PMIV=MVP ovunque; Versteigerung; Vertragsgrundlagen (non "vertragliche Quellen")
   difetti = "Defekte" (v8); Tariffario = "Gebührenverzeichnis Fleequid"; importi "150,00 € (einhundertfünfzig/00 Euro)";
   esclusiva: Exklusivität/Exklusivrecht/Ausschließlichkeitspflicht da uniformare; coordinate bancarie Bankverbindung/Bankdaten;
   acquisto da stock / sul venduto: resa del revisore k08; consegna: resa del revisore k04; sistema reclami art. 5.9 = termine v8 art. 4.9.
+
+## STATO AL MOMENTO DELLO STOP PER LIMITE DI UTILIZZO (notte 6→7 ottobre 2026)
+- IT: pulita, indice ricalcolato. FATTO.
+- EN: Word costruito, verificato, indice ricalcolato, committato. FATTO.
+- DE: k01..k09 tradotti e revisionati, k10 tradotto; armonizzazione finale LANCIATA (agente in corso). Poi: `rebuild build --lang DE`, `tcupdate toc --langs DE`, commit.
+- FR: k01 tradotto e revisionato, terms.json e brief generati; k02..k07, k09, k10 tradotti; k08 in traduzione; revisioni k02, k03, k04, k05, k06, k07, k09 LANCIATE. Poi: revisione k08, armonizzazione (rivede anche k10), build, toc, commit.
+- ES: k01 tradotto, revisione k01 LANCIATA. Poi: terms, brief, k02..k10, revisioni, armonizzazione, build.
+- NL: k01 tradotto e revisionato (Inhoudsopgave, 1 Euro Auction, Minimum Verkoopverbintenisprijs, Waarborgsom, Bindende Overeenstemming). Poi: `rebuild terms --lang NL`, `rebuild brief --lang NL`, k02..k10 ecc.
+- PL, PT: traduzione k01 LANCIATA.
+- RO, RU, CZ: da iniziare (brief k01).
+Gli agenti lanciati scrivono direttamente in work/general-t-c/v9/rb/<LANG>/tr_kNN.json: alla ripresa controllare con
+`python3 -m tcupdate.rebuild check --lang <LANG> ...` quali blocchi sono OK e se hanno la lista `review`.
