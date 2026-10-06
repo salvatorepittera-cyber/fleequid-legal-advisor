@@ -54,3 +54,13 @@ Aggiungi in `tr_k10.json` una lista `harmonization` con voci "locuzione IT: resa
 ## Letture obbligatorie aggiuntive
 Prima di iniziare leggi anche `work/general-t-c/v9/rb/NOTE_COMUNI.md` (note valide per tutte le lingue) e, se esiste, `work/general-t-c/v9/rb/LANG/NOTE_LINGUA.md` (decisioni già prese per la tua lingua: vincolanti).
 Nella risposta elenca le locuzioni ricorrenti non in tabella con la resa scelta: servono all'armonizzazione.
+
+## Modo di lavoro obbligatorio (per non andare in timeout)
+Lavora a PICCOLI PASSI, salvando su file a ogni passo. Non riscrivere mai i JSON a mano per intero: applica le
+modifiche con brevi script Python (carica il JSON, sostituisci il testo delle unità interessate, salva con
+`ensure_ascii=False, indent=1` conservando l'ordine delle chiavi), una locuzione o un piccolo gruppo per volta.
+Per trovare le varianti usa ricerche mirate (grep / script) sui dieci `tr_kNN.json` invece di ricopiare i testi
+nella risposta. Dopo ogni gruppo di modifiche lancia il check. Tieni brevi le risposte intermedie.
+Ordine: (1) decisioni vincolanti di `LANG/NOTE_LINGUA.md`; (2) punti "da uniformare"; (3) revisione piena di k10 e
+allineamento dell'elenco delle clausole ex artt. 1341-1342 agli articoli richiamati; (4) tipografia; (5) lista
+`harmonization` e `new_terms`.
