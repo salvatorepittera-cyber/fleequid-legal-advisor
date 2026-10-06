@@ -9,6 +9,7 @@ import re
 import shutil
 import subprocess
 import tempfile
+import zipfile
 from pathlib import Path
 
 from .docx_model import Docx, wtag
@@ -58,6 +59,19 @@ def _set_page(p_el, page: str) -> bool:
     return False
 
 
+def _copy_writable(src: Path, dst: Path):
+    """Copia di lavoro senza "sola lettura consigliata": con quel flag Word apre in sola lettura e non aggiorna l'indice.
+
+    Il flag resta nel documento originale, che Word non risalva.
+    """
+    with zipfile.ZipFile(src) as zin, zipfile.ZipFile(dst, "w", zipfile.ZIP_DEFLATED) as zout:
+        for info in zin.infolist():
+            data = zin.read(info.filename)
+            if info.filename == "word/settings.xml":
+                data = re.sub(rb"<w:writeProtection\b[^>]*/>", b"", data)
+            zout.writestr(info, data)
+
+
 def update(docx_path: Path, pdf_path: Path) -> list[str]:
     docx_path, pdf_path = Path(docx_path).resolve(), Path(pdf_path).resolve()
     pdf_path.parent.mkdir(parents=True, exist_ok=True)
@@ -67,7 +81,7 @@ def update(docx_path: Path, pdf_path: Path) -> list[str]:
     with tempfile.TemporaryDirectory(dir=word_tmp) as td:
         src = Path(td) / "in.docx"
         tmp_out = Path(td) / "word_refreshed.docx"
-        shutil.copy(docx_path, src)
+        _copy_writable(docx_path, src)
         tmp_pdf = Path(td) / "out.pdf"
         r = subprocess.run(["osascript", "-", str(src), str(tmp_pdf), str(tmp_out)],
                            input=SCRIPT, text=True, capture_output=True, timeout=400)
