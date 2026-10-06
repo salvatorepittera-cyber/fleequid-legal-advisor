@@ -94,8 +94,8 @@
   },
   {
    "it": "manleva / manlevare e tenere indenne",
-   "tr": "garantie / garantir et tenir indemne",
-   "why": "Formula standard delle clausole di garanzia nei contratti B2B francesi; assente nella v8 FR."
+   "tr": "garantie d'indemnisation / garantir et tenir indemne",
+   "why": "Formula standard delle clausole di garanzia nei contratti B2B francesi; assente nella v8 FR. [aggiornato in armonizzazione]"
   },
   {
    "it": "diritto di regresso",
@@ -104,8 +104,8 @@
   },
   {
    "it": "rimedi",
-   "tr": "recours",
-   "why": "Resa corrente nei contratti; alternativa dottrinale 'remèdes'."
+   "tr": "remèdes",
+   "why": "Resa corrente nei contratti; alternativa dottrinale 'remèdes'. [aggiornato in armonizzazione]"
   },
   {
    "it": "diffida scritta",
