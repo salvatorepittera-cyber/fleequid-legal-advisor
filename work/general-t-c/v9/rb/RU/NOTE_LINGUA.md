@@ -13,7 +13,10 @@
   maturare (penali, interessi) = «начисляться» / «начисление»; maturazione delle Commissioni / presupposti di maturazione = «возникновение права на Комиссионные» / «условия возникновения права» (come k01);
   a carico di (Commissioni, costi) = «возлагаемые на …» (NON «за счет», che vale "per conto di"); la compravendita è conclusa = «договор купли-продажи заключается»;
   a propria insindacabile discrezione = «по своему исключительному усмотрению»; neutralizzare le Offerte = «лишать силы Предложения»; disposizione inderogabile = «императивная норма»;
-  manlevare e tenere indenne = «освободить от ответственности и возместить потери»; acquisto da stock = «покупка на склад»; penale residuale = «остаточный штраф»;
+  manlevare e tenere indenne = «освободить от ответственности и возместить убытки» (NON «возместить потери»); acquisto da stock = «покупка на склад»; acquisto sul venduto = «покупка под заказ» (anche nei richiami degli artt. 8, 13, 14, 15);
+  denuncia (dei vizi) = «уведомление о дефектах» / «уведомить»; vizi apparenti / occulti = «явные / скрытые дефекты», difetti = «недостатки», difformità = «несоответствия»; nota di credito = «кредит-нота» (NON «кредитовое авизо»);
+  custodia / deposito / parcheggio / sosta = «хранение» / «складирование» / «стоянка» / «простой»; mancata collaborazione = «неоказание содействия»; clausola di collegamento = «оговорка о договорной связи»;
+  rimedi = «средства правовой защиты» (non «средства защиты»); art. 1515, comma 3, c.c. = «абз. 3 ст. 1515 Гражданского кодекса Италии»; penale residuale = «остаточный штраф»;
   medesimo fatto materiale = «одно и то же фактическое обстоятельство»; movimentazione / trasferimento fisico = «передвижение» / «перемещение»; importi = «3 000,00 € (три тысячи евро/00)»; a titolo di penale = «в качестве штрафа»;
   soglia minima / pavimento economico = «минимальный порог» / «нижний экономический предел»; componente penale = «штрафная составляющая»;
   parametro convenzionale = «условный параметр»; rimedi = «средства правовой защиты»; buon fine dell'operazione = «успешное завершение сделки»;

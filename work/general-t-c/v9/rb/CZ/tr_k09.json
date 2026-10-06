@@ -36,8 +36,322 @@
   "u300": "Ustanovení tohoto článku se použijí výlučně na transakce strukturované podle Komisního prodeje a prováděné formou Dalšího prodeje. Nepoužijí se na transakce prováděné společností Fleequid jako Čistým zprostředkovatelem ani na Dealer Sales a nelze je na tyto případy použít analogicky.",
   "u301": "Není-li reklamace vyřešena smírně a nepřistoupí-li společnost Fleequid ke Zrušení prodeje podle čl. 20.8, Prodávající a Kupující v rámci Komisního prodeje prováděného formou Dalšího prodeje uznávají, že nákup Vozidla společností Fleequid a následný Další prodej jsou funkčně propojeny v rámci téže komisionářské transakce a uskutečňují se výlučně za účelem umožnění převodu Vozidla z Prodávajícího na Kupujícího, aniž společnost Fleequid uplatňuje přirážku ke kupní ceně Vozidla.",
   "u302": "Z důvodu tohoto propojení, a to pouze pokud jde o práva a povinnosti týkající se záruky, shody, vad, závad a jakosti Vozidla, převádí společnost Fleequid na Kupujícího, který to přijímá, své hmotněprávní postavení vůči Prodávajícímu, přičemž Kupující je oprávněn uplatnit přímo vůči Prodávajícímu jakýkoli požadavek, žalobu, námitku, obranu a prostředek nápravy, a to i restituční povahy nebo jinak ovlivňující účinnost nebo ekonomické účinky propojeného vztahu; Prodávající toto přiznání bere na vědomí a souhlasí s ním. Příslušné nároky se proto uplatňují přímo mezi Prodávajícím a Kupujícím, přičemž jakákoli odpovědnost společnosti Fleequid je vyloučena, s výjimkou toho, co společnost Fleequid výslovně převzala nebo co stanoví kogentní ustanovení zákona.",
-  "u303": "Výkon práv a prostředků nápravy podle tohoto článku a jeho důsledky pro propojené vztahy nemají vliv na Provize, na něž společnosti Fleequid již vznikl nárok podle čl. 12.4; tyto Provize jí nadále s konečnou platností náležejí a nepodléhají vrácení ani zániku. V mezích povolených zákonem Prodávající a Kupující odškodní společnost Fleequid a zprostí ji odpovědnosti ve vztahu k jakémukoli nároku, nákladu, zátěži nebo důsledku vyplývajícímu z toho, že mezi sebou uvedená práva a prostředky nápravy uplatní, aniž je dotčena výlučně odpovědnost přímo přičitatelná společnosti Fleequid za povinnosti, které výslovně převzala nebo které vyplývají z kogentních ustanovení zákona."
+  "u303": "Výkon práv a prostředků nápravy podle tohoto článku a jeho důsledky pro propojené vztahy nemají vliv na Provize, na něž společnosti Fleequid již vznikl nárok podle čl. 12.4; tyto Provize jí nadále s konečnou platností náležejí a nepodléhají vrácení ani zániku. V mezích povolených zákonem Prodávající a Kupující odškodní společnost Fleequid a zprostí ji odpovědnosti ve vztahu k jakémukoli nároku, nákladu, zátěži nebo důsledku vyplývajícímu z toho, že mezi sebou uvedená práva a prostředky nápravy uplatní, aniž je dotčena výlučně odpovědnost přímo přičitatelná společnosti Fleequid za povinnosti, které výslovně převzala nebo které vyplývají z kogentních ustanovení zákona.",
+  "u305": "Společnost Fleequid může Uživatelům zpřístupnit Řešení financování nabízená třetími osobami pro nákup Vozidel nebo je na ně upozornit. Příslušná smlouva o financování, o finančním leasingu nebo o jiné formě opatření finančních prostředků existuje výlučně mezi Uživatelem a Poskytovatelem financování, a to za podmínek jím uplatňovaných. Společnost Fleequid financování neposkytuje, nezaručuje jeho dostupnost, schválení, lhůty ani ekonomické podmínky a neodpovídá za porušení povinností Poskytovatelem financování. Ustanovení tohoto článku obsahují výlučně zvláštnosti vyplývající z účasti Poskytovatele financování jako třetí osoby a neodchylují se, leda ve výslovně stanovených mezích, od úpravy Proformy, platby, převodu vlastnictví, rizika, Prodejních modelů a korespondence.",
+  "u306": "Společnost Fleequid může shromažďovat žádosti o informace, o kontakt nebo o financování projevené Uživateli a předávat je dotčeným Poskytovatelům financování. Sdělování příslušných údajů probíhá v souladu se Zásadami ochrany osobních údajů, na které odkazuje čl. 7.",
+  "u307": "Žádost o financování, zahájení posuzování žádosti, předběžné schválení ani kladné rozhodnutí Poskytovatele financování nepozastavují povinnosti Kupujícího ani běh Lhůty splatnosti a nerovnají se zaplacení. Nedotčena zůstávají případná odlišná ustanovení Zvláštních podmínek použitelných na Řešení financování.",
+  "u308": "Zůstává-li Kupující stranou nákupu a prodeje a účastní-li se Poskytovatel financování pouze jako platící subjekt, trvá platební povinnost Kupujícího až do skutečného úplného obdržení dlužných částek příslušnými příjemci podle čl. 12.2, ledaže použitelné Zvláštní podmínky výslovně přiznávají neodvolatelnému závazku Poskytovatele financování podle čl. 22.6 předčasný liberační účinek.",
+  "u309": "Zvláštní podmínky mohou stanovit, že na základě volby původního Kupujícího nabude postavení Kupujícího Poskytovatel financování, přičemž původní Kupující zůstane uživatelem Vozidla. Tytéž Zvláštní podmínky určí okamžik a účinky tohoto vstupu do postavení Kupujícího, od něhož zaniká platební povinnost původního Kupujícího. S touto možností je umožněno seznámit se před podáním Nabídky podle čl. 3.2 písm. d) a tato možnost musí být slučitelná s použitelným Prodejním modelem. Působí-li společnost Fleequid jako Čistý zprostředkovatel, uděluje Prodávající podáním Návrhu prodeje již nyní souhlas s tím, aby Poskytovatel financování vstoupil do postavení původního Kupujícího, a to v případech a způsobem stanovenými použitelnými Zvláštními podmínkami. Vstup do postavení nabývá účinnosti vůči Prodávajícímu okamžikem, kdy mu jej společnost Fleequid oznámí podle čl. 24.",
+  "u310": "Pro účely čl. 12.2 mohou Zvláštní podmínky přiznat neodvolatelnému závazku Poskytovatele financování, který splňuje tam stanovené požadavky, účinek rovnocenný úplnému splnění platební povinnosti a určit okamžik, od něhož tento účinek nastává. Není-li to výslovně stanoveno, jsou rozhodné výlučně platby skutečně obdržené příslušnými příjemci.",
+  "u311": "U transakcí, při nichž je využito Řešení financování, je Lhůtou splatnosti lhůta uvedená v použitelných Zvláštních podmínkách nebo v Proformě, a to podle čl. 11.6 písm. a).",
+  "u312": "U transakcí, při nichž je využito Řešení financování, se sled úkonů nákupu od Prodávajícího, přepisu, vydání dokladu o registraci Vozidla, fakturace, převodu vlastnictví, platby a dodání může lišit od běžného sledu, a to podle použitelných Zvláštních podmínek. Platí přitom, že provedení dokladových úkonů nebo úkonů přepisu ve prospěch Poskytovatele financování samo o sobě nevede k převodu vlastnictví Vozidla ani, v případě Aukcí, ke Konečnému přiklepnutí, a to podle čl. 16.4.",
+  "u313": "V rámci Komisního prodeje prováděného formou Dalšího prodeje mohou použitelné Zvláštní podmínky výslovně odchylně od čl. 17.4 a pouze v rozsahu tam stanoveném určit, že společnost Fleequid vyplatí Prodávajícímu Čistou nákupní cenu dříve, než v plné výši obdrží částky dlužné Kupujícím nebo Poskytovatelem financování. Tato předčasná výplata sama o sobě nevede k zahájení fáze plnění transakce, neuspíší převod vlastnictví Vozidla na Kupujícího a v případě Aukcí nevede ke Konečnému přiklepnutí.",
+  "u314": "U transakcí, při nichž postavení Kupujícího nabývá Poskytovatel financování, určí Zvláštní podmínky osobu oprávněnou: a) k převzetí Vozidla a k podpisu předávacího protokolu podle čl. 16.7 a 16.10; b) ke kontrolám při dodání podle čl. 16.12; c) k podání a vyřizování reklamace podle čl. 20; d) k přijetí případně vracených částek podle čl. 15.4.",
+  "u315": "Případné úplaty náležející společnosti Fleequid za Služby spojené s Řešeními financování jsou uvedeny v použitelných Zvláštních podmínkách nebo v Sazebníku Fleequid. Jednotlivá Řešení financování mohou být upravena Zvláštními podmínkami, které doplňují tyto Všeobecné obchodní podmínky a v případě rozporu mají přednost pouze v otázkách, které zvlášť upravují, a to podle čl. 4.3 a 4.4.",
+  "u317": "Tyto Všeobecné obchodní podmínky, Smlouvy a všechny podmínky, kterými se řídí jakýkoli vztah mezi společností Fleequid a Uživateli nebo mezi Uživatelem a jiným Uživatelem, podléhají a budou podléhat výhradně italskému právu, s výslovným vyloučením použití Úmluvy Organizace spojených národů o smlouvách o mezinárodní koupi zboží, uzavřené ve Vídni dne 11. dubna 1980 (CISG).",
+  "u318": "Veškeré spory týkající se platnosti, výkladu, použití nebo ukončení, z jakéhokoli důvodu, těchto Všeobecných obchodních podmínek, Zvláštních podmínek, Zvláštních prodejních podmínek, Individuálních smluv, Kupních smluv a dalších transakcí uzavřených prostřednictvím Online tržiště nebo jakéhokoli dalšího právního úkonu s nimi spojeného spadají výlučně do pravomoci italských soudů a v jejím rámci do výlučné místní příslušnosti soudu v Comu, s vyloučením jakéhokoli jiného souběžně příslušného soudu, aniž je dotčena příslušnost stanovená kogentními ustanoveními zákona.",
+  "u319": "Smluvním jazykem je italština. Pokud jsou tyto VOP vyhotoveny i v jiných jazycích, je závazná pouze italská verze."
  },
- "new_terms": [],
- "notes": []
+ "new_terms": [
+  {
+   "it": "garanzia / regime di garanzia / rapporto di garanzia",
+   "tr": "záruka / režim záruky / záruční vztah",
+   "why": "v8 CZ ex art. 12 «záruka»; «režim záruky» come k05 e k07."
+  },
+  {
+   "it": "decadenza / termini convenzionali di decadenza / a pena di decadenza",
+   "tr": "prekluze / smluvené prekluzivní lhůty / pod sankcí zániku práva",
+   "why": "v8 CZ «pod sankcí zániku» (completato con «práva»); «prekluze» è il termine tecnico ceco per la decadenza; convenzionale = smluvený (NOTE_LINGUA)."
+  },
+  {
+   "it": "rinuncia a eccezioni o decadenze",
+   "tr": "vzdání se námitek nebo práva dovolat se prekluze",
+   "why": "In ceco non ci si «vzdává prekluze»: resa esplicativa minima."
+  },
+  {
+   "it": "denuncia (di vizi) / termini di denuncia",
+   "tr": "oznámení (vad) / lhůty pro oznámení",
+   "why": "v8 CZ ex art. 13.9 «lhůt pro oznámení»."
+  },
+  {
+   "it": "vizi, difetti, difformità, mancanze di qualità, anomalie, guasti, mancanze",
+   "tr": "vady, závady, neshody, nedostatky jakosti, anomálie, poruchy, chybějící položky",
+   "why": "Serie di k07 (art. 16.12) e k04 (art. 8.13); qualità = jakost, caratteristiche = vlastnosti."
+  },
+  {
+   "it": "carenze di conformità / carenze funzionali",
+   "tr": "nedostatky shody / funkční nedostatky",
+   "why": "Termine nuovo; resa letterale."
+  },
+  {
+   "it": "riduzione del prezzo",
+   "tr": "sleva z ceny",
+   "why": "Termine di legge ceco (§ 2106 cod. civ. ceco)."
+  },
+  {
+   "it": "indennizzo o risarcimento",
+   "tr": "odškodnění nebo náhrada škody",
+   "why": "Come k05-k07 («odškodnění ani náhradu škody»)."
+  },
+  {
+   "it": "stato d'uso / condizioni d'uso",
+   "tr": "míra užívání / provozní podmínky",
+   "why": "«provozní podmínky» da v8 CZ ex art. 12.4; «míra užívání» nuovo, distinto da opotřebení (usura)."
+  },
+  {
+   "it": "clausola «visto, piaciuto ed accettato», «così come sono», «come disponibili»",
+   "tr": "„viděno, vyzkoušeno a přijato“, „tak, jak jsou“, „tak, jak jsou k dispozici“",
+   "why": "Prima formula da v8 CZ ex art. 12.3; le altre due sono nuove (as is / as available)."
+  },
+  {
+   "it": "nello stato di fatto e di diritto in cui si trovano",
+   "tr": "ve faktickém a právním stavu, v jakém se nacházejí",
+   "why": "v8 CZ ex art. 12.3 «ve stavu, v jakém se nachází»."
+  },
+  {
+   "it": "onere di esame e di ispezione",
+   "tr": "povinnost prostudování a kontroly",
+   "why": "Evitato «břemeno», che coincide con il termine definito Břemeno (Gravame)."
+  },
+  {
+   "it": "visionare, ispezionare e provare il Veicolo / ispezione e prova",
+   "tr": "Vozidlo si prohlédnout, podrobit je kontrole a vyzkoušet / kontrola a vyzkoušení (zkouška)",
+   "why": "k04 art. 8 «prohlídka a vyzkoušení Vozidel»."
+  },
+  {
+   "it": "tolleranza (chilometraggio)",
+   "tr": "tolerance",
+   "why": "Come k06 («tolerancí»)."
+  },
+  {
+   "it": "prima immatricolazione",
+   "tr": "první registrace",
+   "why": "immatricolazione = registrace (k04, k07)."
+  },
+  {
+   "it": "Venditore sostanziale / venditore sostanziale",
+   "tr": "skutečný Prodávající / skutečný prodávající",
+   "why": "NOTE_LINGUA: sostanziale = skutečný; maiuscola come nell'IT."
+  },
+  {
+   "it": "Venditore originario",
+   "tr": "původní Prodávající",
+   "why": "Termine nuovo; stesso aggettivo di «původní Kupující» (Acquirente originario, art. 22.5)."
+  },
+  {
+   "it": "autonoma garanzia",
+   "tr": "samostatná záruka",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "commissionaria",
+   "tr": "komisionář",
+   "why": "k01, k02."
+  },
+  {
+   "it": "garante (art. 20.1)",
+   "tr": "poskytovatel záruky",
+   "why": "Evitato «ručitel» (fideiussore): qui è chi presta la garanzia per vizi."
+  },
+  {
+   "it": "manleve (sostantivo plurale)",
+   "tr": "závazky k odškodnění",
+   "why": "Da k04 «závazek k odškodnění»."
+  },
+  {
+   "it": "diritti di rimborso e regresso",
+   "tr": "práva na náhradu nákladů a na regres",
+   "why": "k04 «právo na regres»; k06 «náhrada nákladů»."
+  },
+  {
+   "it": "accettazione senza riserve",
+   "tr": "přijetí bez výhrad",
+   "why": "k07."
+  },
+  {
+   "it": "contestazioni",
+   "tr": "výtky",
+   "why": "k07 art. 16.12 («výtky»)."
+  },
+  {
+   "it": "in quanto compatibili",
+   "tr": "přiměřeně",
+   "why": "Formula legislativa ceca standard."
+  },
+  {
+   "it": "evizione derivante da fatto proprio",
+   "tr": "evikce vyplývající z vlastního jednání",
+   "why": "Termine nuovo; istituto italiano (art. 1487 c.c.)."
+  },
+  {
+   "it": "in mala fede taciuto",
+   "tr": "ve zlé víře zamlčel",
+   "why": "Resa letterale dell'art. 1490 c.c."
+  },
+  {
+   "it": "delimitazioni convenzionali della garanzia",
+   "tr": "smluvní vymezení záruky",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "applicazione analogica (art. 19.7, 21.1)",
+   "tr": "použít analogicky",
+   "why": "Qui è l'analogia giuridica (diversa da «approvazione analogica» dell'art. 5.3)."
+  },
+  {
+   "it": "istruttoria (del reclamo) / all'esito dell'istruttoria",
+   "tr": "prošetření / po skončení prošetření",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "proposte conciliative / definizione bonaria",
+   "tr": "smírné návrhy / smírné vyřešení",
+   "why": "v8 CZ ex art. 13.7 «smírné vyřešení»."
+  },
+  {
+   "it": "perizie",
+   "tr": "znalecká posouzení",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "archiviazione (del reclamo)",
+   "tr": "odložení (reklamace)",
+   "why": "La v8 CZ aveva «zamítnout», che ora serve per «rigetto/respingere» (art. 20.3, 20.6)."
+  },
+  {
+   "it": "motivatamente respingere",
+   "tr": "s uvedením důvodů zamítnout",
+   "why": "NOTE_COMUNI; la v8 CZ aveva «důvodně zamítnuta»."
+  },
+  {
+   "it": "ripristino del Veicolo (art. 20.3)",
+   "tr": "uvedení Vozidla do řádného stavu",
+   "why": "Distinto da oprava (riparazione), ora elencata a parte; la v8 aveva «oprava»."
+  },
+  {
+   "it": "ripristino dell'operazione (art. 20.8)",
+   "tr": "obnovení původního stavu (transakce)",
+   "why": "Titolo art. 15 in tabella."
+  },
+  {
+   "it": "preventivi di riparazione / fattura quietanzata",
+   "tr": "odhady opravy / faktura s potvrzením o úhradě",
+   "why": "«odhad opravy» da v8; la v8 aveva «faktury s potvrzením o přijetí» (errore: quietanzata = pagata)."
+  },
+  {
+   "it": "carattere riservato e confidenziale",
+   "tr": "neveřejné a důvěrné",
+   "why": "v8 «důvěrné»; aggiunto il secondo aggettivo dell'IT."
+  },
+  {
+   "it": "operazione commissionale",
+   "tr": "komisionářská transakce",
+   "why": "Da «komisionářská smlouva» (k04)."
+  },
+  {
+   "it": "funzionalmente collegati / rapporto collegato / collegamento",
+   "tr": "funkčně propojeny / propojený vztah / propojení",
+   "why": "k07 «funkčně propojené převody»."
+  },
+  {
+   "it": "maggiorazione sul prezzo",
+   "tr": "přirážka k ceně",
+   "why": "Termine nuovo; la v8 aveva «zvýšení prodejní ceny»."
+  },
+  {
+   "it": "posizione sostanziale (art. 21.3)",
+   "tr": "hmotněprávní postavení",
+   "why": "Qui «sostanziale» = di diritto sostanziale; «skutečné postavení» sarebbe fuorviante. Da validare."
+  },
+  {
+   "it": "caducazione (delle Commissioni)",
+   "tr": "zánik",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "segnalare (Soluzioni di finanziamento)",
+   "tr": "upozornit na",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "altra forma di provvista",
+   "tr": "jiná forma opatření finančních prostředků",
+   "why": "k01 (definizione Soluzioni di finanziamento)."
+  },
+  {
+   "it": "apertura dell'istruttoria, pre-delibera, delibera favorevole",
+   "tr": "zahájení posuzování žádosti, předběžné schválení, kladné rozhodnutí",
+   "why": "Termini nuovi; lessico bancario ceco corrente."
+  },
+  {
+   "it": "mero soggetto pagatore",
+   "tr": "pouze platící subjekt",
+   "why": "k01 (definizione Finanziatore: «platící subjekt»)."
+  },
+  {
+   "it": "impegno irrevocabile del Finanziatore",
+   "tr": "neodvolatelný závazek Poskytovatele financování",
+   "why": "Termine nuovo; da allineare con l'art. 12.2 (k05)."
+  },
+  {
+   "it": "effetto liberatorio anticipato",
+   "tr": "předčasný liberační účinek",
+   "why": "Termine nuovo; «liberační účinek» è corrente nella dottrina ceca."
+  },
+  {
+   "it": "subentro (del Finanziatore)",
+   "tr": "vstup do postavení (Kupujícího)",
+   "why": "Termine nuovo; «nabýt postavení Kupujícího» per «assumere la qualità» come k02 art. 3.2."
+  },
+  {
+   "it": "utilizzatore del Veicolo",
+   "tr": "uživatel Vozidla (minuscolo)",
+   "why": "Minuscolo per non confonderlo con Uživatel (Utente)."
+  },
+  {
+   "it": "intestazione / documento di circolazione",
+   "tr": "přepis / doklad o registraci Vozidla",
+   "why": "«přepis» come k07 art. 16.4; «doklad o registraci» nuovo."
+  },
+  {
+   "it": "operazioni assistite da una Soluzione di finanziamento",
+   "tr": "transakce, při nichž je využito Řešení financování",
+   "why": "k01, k07."
+  },
+  {
+   "it": "pagamento anticipato (art. 22.9)",
+   "tr": "předčasná výplata",
+   "why": "NOTE_LINGUA."
+  },
+  {
+   "it": "giurisdizione / competenza territoriale esclusiva / foro concorrente",
+   "tr": "pravomoc (italských soudů) / výlučná místní příslušnost / souběžně příslušný soud",
+   "why": "v8 CZ aveva «výlučné pravomoci soudu v Comu» e «konkurenčního soudu»: resi con i termini processuali cechi."
+  },
+  {
+   "it": "negozio giuridico",
+   "tr": "právní úkon",
+   "why": "v8 CZ ex art. 15.2."
+  },
+  {
+   "it": "Convenzione di Vienna (CISG)",
+   "tr": "Úmluva Organizace spojených národů o smlouvách o mezinárodní koupi zboží",
+   "why": "Titolo ufficiale ceco (č. 160/1991 Sb.)."
+  }
+ ],
+ "notes": [
+  "u292 (20.2), u293 (20.3), u296 (20.6), u298 (20.8): tolte le frasi della v8 CZ senza riscontro nell'IT v9: «pod sankcí zániku» riferito ai 5 giorni (20.2), consenso «písemného» e «pod sankcí zániku práv spojených s reklamací» (20.3), coda sull'inutilizzabilità in giudizio o arbitrato (20.6), rinuncia finale a eccezioni (20.8).",
+  "u292: nella v8 CZ l'e-mail claims@fleequid.com era in grassetto+sottolineato e spostata a fine paragrafo; ora è nel testo con il solo grassetto dell'IT v9.",
+  "u297: la v8 CZ rendeva «fattura quietanzata» con «faktury s potvrzením o přijetí» (fattura con conferma di ricezione): corretto in «s potvrzením o úhradě». Tolto anche il residuo «3434» a inizio paragrafo.",
+  "u296: «motivatamente respingere» era «důvodně zamítnuta» (= fondatamente): corretto in «s uvedením důvodů».",
+  "u292/u287: «archiviazione» reso «odložit» perché «zamítnout» è riservato a rigetto/respingere.",
+  "u269: «onere» reso «povinnost» per evitare «břemeno» (= Gravame, termine definito).",
+  "u302 (21.3): «posizione sostanziale» reso «hmotněprávní postavení»: da validare (altrove sostanziale = skutečný).",
+  "u286 (19.7.2): rubrica non in grassetto come nell'IT (incongruenza già nota).",
+  "u313 (22.9): «limitatamente a quanto ivi previsto» è ambiguo (art. 17.4 o Condizioni Specifiche): reso «v rozsahu tam stanoveném», che conserva l'ambiguità.",
+  "u318 (23.2): «Contratti di compravendita» reso con il termine di tabella «Kupní smlouvy»; «Foro di Como» = «soud v Comu» (v8).",
+  "u319 (23.3): unico cambio IT fossero→siano: «Pokud by byly» → «Pokud jsou»; resto v8 alla lettera (sigla VOP mantenuta come CG).",
+  "Recesso/risoluzione: nel blocco compare solo «risoluzione» (u285, u298) = «odstoupení od smlouvy»; nessun punto con recesso e risoluzione insieme.",
+  "Formula «riconosce e accetta»: usata la resa v8 «bere na vědomí a souhlasí s tím»; k07 ha «uznává a přijímá»: da armonizzare."
+ ]
 }
