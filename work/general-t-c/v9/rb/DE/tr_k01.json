@@ -1,0 +1,330 @@
+{
+ "lang": "DE",
+ "chunk": "k01",
+ "translations": {
+  "u001": "<b>Allgemeine Geschäftsbedingungen - Marketplace Fleequid®</b>",
+  "u002": "<i>Inhalt</i>",
+  "u003": "<b>Begriffsbestimmungen</b>.",
+  "u004": "Zusätzlich zu den anderen in diesen Allgemeinen Geschäftsbedingungen enthaltenen Begriffsbestimmungen haben die nachstehend aufgeführten Begriffe, wenn sie mit großem Anfangsbuchstaben wiedergegeben werden, die ihnen hier zugewiesene Bedeutung. Die Begriffsbestimmungen legen die Bedeutung der Begriffe fest; sie ersetzen und wiederholen nicht die Regelung, die in den die einzelnen Sachgebiete regelnden Artikeln enthalten ist und auf die verwiesen wird.",
+  "u005": "<i>„</i><b><i>1-Euro-Auktion</i></b>“: Besondere Kategorie von Versteigerung, die von Fleequid organisiert und als solche qualifiziert wird, die je nach anwendbarem Verkaufsmodell sowohl im Rahmen des Kommissionsverkaufs als auch bei Dealer Sales eingesetzt werden kann, die durch besondere Modalitäten der Preisbestimmung und durch besondere wirtschaftliche Bedingungen gekennzeichnet ist, den entsprechenden Besonderen Verkaufsbedingungen unterliegt und in Art. 9.4 Buchst. d) geregelt ist.",
+  "u006": "<i>„</i><b><i>Verbindliche Vereinbarung</i></b>“: Die Vereinbarung, mit der nach Maßgabe von Art. 10.2 der Kaufvertrag über das Fahrzeug zustande kommt und für den Käufer die Pflicht zur Zahlung des Geschuldeten Gesamtbetrags entsteht. Das Zustandekommen der Verbindlichen Vereinbarung hängt nicht von der Zahlung ab und stellt keine Endgültige Zuschlagserteilung dar.",
+  "u007": "„<b><i>Käufer</i></b>“: Der Bietende, zu dessen Gunsten die Verbindliche Vereinbarung zustande gekommen ist und der daher zur Zahlung des Geschuldeten Gesamtbetrags verpflichtet ist, unabhängig von der Art der Verkaufsveranstaltung und davon, ob die Zahlung erfolgt ist. Beim Kommissionsverkauf bezieht sich der Begriff, gleich ob dieser mittels Weiterverkauf ausgeführt wird oder Fleequid als reiner Vermittler auftritt, immer auf den eigentlichen Käufer, der nicht Fleequid ist; bei Dealer Sales ist der Käufer derjenige, der das Fahrzeug von Fleequid erwirbt. Bei Transaktionen, die durch eine Finanzierungslösung unterstützt werden, kann der Käufer in den Fällen und nach Maßgabe von Art. 22.5 der Finanzierungsgeber sein.",
+  "u008": "„<b><i>Endgültige Zuschlagserteilung</i></b>“: Das ausschließlich den Versteigerungen eigene Ereignis, das mit der vollständigen Erfüllung der Zahlungspflicht gemäß Art. 12.2 eintritt und das zusammen mit dem Beginn der Abwicklungsphase der Transaktion die Wirkung dieser Erfüllung darstellt. Die Endgültige Zuschlagserteilung ist nicht der Zeitpunkt des Zustandekommens des Vertrags, der mit der Verbindlichen Vereinbarung zustande kommt, und ihr Ausbleiben berührt nicht das Bestehen des bereits zustande gekommenen Vertrags. Bei anderen Verkaufsveranstaltungen als Versteigerungen folgt der Beginn der Abwicklungsphase auf die vollständige Erfüllung der Zahlungspflicht, ohne dass es zu einer Endgültigen Zuschlagserteilung kommt.",
+  "u009": "„<b><i>Stornierung des Verkaufs</i></b>“: Das in Art. 14 allgemein geregelte vertragliche Rechtsinstitut, mittels dessen Fleequid in den vorgesehenen Fällen bestimmt, dass die Transaktion ganz oder beschränkt auf ein oder mehrere Fahrzeuge nicht ausgeführt wird oder nicht weiter ausgeführt wird. Der konkrete Rechtsgrund der Stornierung hängt von dem Sachverhalt ab, der sie auslöst; folgt sie auf eine Nichterfüllung, für die eine ausdrückliche Auflösungsklausel gilt, wirkt sie als Auflösung gemäß Art. 1456 des italienischen Zivilgesetzbuches.",
+  "u010": "„<b><i>Versteigerung</i></b>“: Verkaufsveranstaltung in Form eines telematischen Verkaufsprozesses, der über die Plattform Marketplace abgewickelt wird, ein oder mehrere Gebote umfasst und in den Fällen und unter den Bedingungen, die in diesen Allgemeinen Geschäftsbedingungen vorgesehen sind, mit dem Zustandekommen der Verbindlichen Vereinbarung zugunsten des Höchstbietenden endet.",
+  "u011": "„<b><i>Mindestgebot</i></b>“: Der Anfangs- oder Mindestpreis des Fahrzeugs, ab dem die Bietenden, sofern dies in der Modalität der anwendbaren Verkaufsveranstaltung vorgesehen ist, Gebote oder Gebotserhöhungen abgeben können.",
+  "u012": "„<b><i>Nutzereinstufung</i></b>“: Der interne, operative und dynamische Status, den Fleequid dem Nutzer anhand objektiver Umstände in Bezug auf dessen Historie und dessen Verhalten zuweist, mit den Wirkungen und in den Grenzen, die in Art. 6 vorgesehen sind.",
+  "u013": "„<b><i>Provisionen</i></b>“: Die Entgelte, die der Verkäufer und der Käufer dem Unternehmen Fleequid für den Kauf und Verkauf von Fahrzeugen schulden, der über die Plattform Marketplace oder die Handelsdienstleistungen und -systeme von Fleequid abgewickelt wird, und zwar nur in den Verkaufsmodellen, die sie vorsehen. Soweit nichts anderes schriftlich vereinbart wurde oder in den Besonderen Verkaufsbedingungen nichts anderes angegeben ist, werden die Provisionen gemäß dem Gebührenverzeichnis von Fleequid festgelegt. Beim Kommissionsverkauf sind für die Berechnung des Reservepreises nur die dem Verkäufer vertraglich in Rechnung gestellten Provisionen relevant. Das Entstehen des Anspruchs auf die Provisionen ist in Art. 12.4 geregelt. Bei Dealer Sales werden keine Provisionen geschuldet, und das wirtschaftliche Ergebnis der Kauf- und Verkaufstätigkeit von Fleequid stellt keine Provision dar.",
+  "u014": "„<b><i>Sofortkauf</i></b>“: Die eigenständige oder mit einer gebotsbasierten Versteigerung verbundene Modalität der Verkaufsveranstaltung, die in Art. 9.4 Buchst. b) geregelt ist und bei der das Gebot zu dem für das Fahrzeug angegebenen Sofortkaufpreis abgegeben wird.",
+  "u015": "„<b><i>Allgemeine Geschäftsbedingungen</i></b>“ oder „<b><i>AGB</i></b>“: Die vorliegenden allgemeinen Vertragsbedingungen, die im entsprechenden Bereich der Plattform Marketplace eingesehen werden können, die Beziehung zwischen Fleequid und der Allgemeinheit der Nutzer regeln und nach der Rangfolge gemäß Art. 4.3 die allgemeine Vertragsarchitektur bilden.",
+  "u016": "„<b><i>Besondere Verkaufsbedingungen</i></b>“: Die Vertragsbedingungen, die die Parameter, die Bedingungen und die ausdrücklichen Abweichungen für die einzelne Transaktion oder die einzelne Verkaufsveranstaltung festlegen und nach Maßgabe der Art. 4.3, 4.4 und 4.5 anwendbar sind.",
+  "u017": "„<b><i>Besondere Geschäftsbedingungen</i></b>“: Die zusätzlich zu diesen AGB geltenden Vertragsbedingungen, die die besondere, standardisierte und wiederkehrende Regelung enthalten, die auf eine bestimmbare Kategorie von Transaktionen, Dienstleistungen, Produkten oder Sachgebieten anwendbar ist, und die nach Maßgabe der Art. 4.3 und 4.4 anwendbar sind.",
+  "u018": "„<b><i>Verbraucher</i></b>“: Die natürliche Person, die zu Zwecken handelt, die nicht im Zusammenhang mit einer gegebenenfalls ausgeübten unternehmerischen, gewerblichen, handwerklichen oder beruflichen Tätigkeit stehen, im Sinne von Art. 3 des gesetzesvertretenden Dekrets Nr. 206 vom 6. September 2005.",
+  "u019": "„<b><i>Vertrag</i></b>“: Bezeichnet je nach Einzelfall jedes der Vertragsverhältnisse, die im Sinne dieser Allgemeinen Geschäftsbedingungen relevant sind und auch durch etwaige Besondere Geschäftsbedingungen, Besondere Verkaufsbedingungen und Einzelverträge geregelt werden, und insbesondere: (i) beim mittels Weiterverkauf ausgeführten Kommissionsverkauf den Kauf und Verkauf des Fahrzeugs vom Verkäufer an Fleequid und den anschließenden Weiterverkauf an den Käufer; (ii) beim Kommissionsverkauf, den Fleequid als reiner Vermittler ausführt, den direkten Kauf und Verkauf des Fahrzeugs vom Verkäufer an den Käufer; (iii) bei Dealer Sales den Kauf und Verkauf des Fahrzeugs vom Verkäufer an Fleequid und den anschließenden Kauf und Verkauf desselben Fahrzeugs von Fleequid an den Käufer als getrennte und eigenständige Verträge; sowie das zwischen dem Verkäufer und Fleequid gemäß den Art. 8.7 und 8.8 begründete Vermarktungsverhältnis. Das Zustandekommen der Verbindlichen Vereinbarung über den Verkauf an den Käufer ist in Art. 10.2 geregelt; die Rechtsverhältnisse betreffend den Kauf, den Verkauf und die Übertragung des Fahrzeugs sind je nach anwendbarem Verkaufsmodell und gewählter Ausführungsmodalität in den Art. 8.8, 16, 17 und 18 sowie in den weiteren anwendbaren Bestimmungen geregelt. Hinsichtlich der Form der Kaufverträge bleibt Art. 10.2 letzter Satz unberührt.",
+  "u020": "„<b><i>Einzelvertrag</i></b>“: Die schriftlich niedergelegte und von Fleequid genehmigte Vereinbarung mit einem oder mehreren bestimmten Nutzern, die gemäß Art. 4.3 in der Rangfolge der Vertragsgrundlagen an erster Stelle steht.",
+  "u021": "„<b><i>Dealer Sales</i></b>“: Das in den Art. 2.7 und 18 geregelte Verkaufsmodell, bei dem Fleequid das Fahrzeug im eigenen Namen und auf eigene Rechnung vom Verkäufer erwirbt und es im eigenen Namen und auf eigene Rechnung an den Käufer weiterveräußert, wobei Fleequid eigentliche Partei beider getrennter und eigenständiger Kaufverträge ist.",
+  "u022": "<b>„</b><b><i>Kaution</i></b><b>“</b>: Der Geldbetrag, den der Bietende in den Fällen und in der Höhe, die in Art. 6 vorgesehen sind, an Fleequid zu zahlen hat, als Sicherheit für die Erfüllung der übernommenen Verpflichtungen und für die Forderungen von Fleequid in Bezug auf die jeweilige Transaktion. Die Kaution stellt keine Vertragsstrafe dar und ist kein eigenständiger Rechtsgrund für eine Inrechnungstellung.",
+  "u023": "„<b><i>Verkaufsveranstaltung</i></b>“: Jeder von Fleequid organisierte oder durchgeführte geschäftliche Prozess, der auf den Verkauf eines oder mehrerer Fahrzeuge gerichtet ist, gemäß den in Art. 9.4 vorgesehenen Modalitäten, und namentlich die Versteigerung, der Sofortkauf, sowohl als eigenständige Modalität als auch in Verbindung mit einer gebotsbasierten Versteigerung, der Privatverkauf, die Verhandlung und der Verkauf außerhalb der Versteigerung.",
+  "u024": "„<b><i>Finanzierungsgeber</i></b>“: Der Dritte, der dem Nutzer im Rahmen einer Finanzierungslösung eine Finanzierung gewährt oder auszahlt und der je nach gewähltem Produkt und anwendbaren Besonderen Geschäftsbedingungen als Zahler, als Rechnungsempfänger oder als Käufer gemäß Art. 22.5 auftreten kann.",
+  "u025": "„<b><i>Fleequid</i></b>“: Bezieht sich hauptsächlich auf die Gesellschaft Adorea S.r.l. mit Sitz in Via Provinciale per Bizzarone 43 – 22077 Olgiate Comasco (CO), Steuernummer und Umsatzsteuer-Identifikationsnummer 04114790134, Eintragung im Handelsregister von Como unter der Nummer 420825, E-Mail info@fleequid.com, Inhaber der Marke Fleequid®. Der Begriff kann sich auch auf andere juristische Personen beziehen, die mit der Gesellschaft Adorea S.r.l. verbunden sind oder von ihr mit der Vermarktung von Fahrzeugen beauftragt wurden, nach Maßgabe von Art. 2.9. Fleequid betreibt die Plattform Marketplace und stellt die Dienstleistungen bereit; die Eigenschaft, in der Fleequid an der einzelnen Transaktion beteiligt ist, hängt vom anwendbaren Verkaufsmodell und beim Kommissionsverkauf von der gewählten Ausführungsmodalität ab, nach Maßgabe der Art. 2.3-2.8, 3, 17 und 18. Die Stellung von Fleequid in Bezug auf Fahrzeuge, die als Altfahrzeuge oder jedenfalls als Abfall einzustufen sind, ist in den Art. 16.13 und 18.8 geregelt.",
+  "u026": "„<b><i>Belastung</i></b>“: Jede Bindung oder Last, jedes Garantierecht, jedes Pfandrecht, jeder Zwangsvollstreckungstitel, jede vertragliche Verpflichtung, jeder Eigentumsvorbehalt, jede Verpflichtung in Bezug auf Steuern oder Abgaben, jede Hypothek oder sonstige Belastung jeglicher Art, die auf dem Fahrzeug lastet und geeignet ist, dessen rechtliche Verkehrs- und Marktfähigkeit zu verhindern oder zu erschweren. Jedes Merkmal des Fahrzeugs, das dessen freien Verkehr innerhalb der Europäischen Union nicht zulässt, oder das Fehlen der CE-Zertifizierung gemäß der geltenden Gesetzgebung der Europäischen Union, sofern erforderlich, gilt als Belastung.",
+  "u027": "„<b><i>Geschuldeter Gesamtbetrag</i></b><i>“</i>: Der vom Käufer in Bezug auf die jeweilige Transaktion insgesamt geschuldete Betrag, der je nach anwendbarem Verkaufsmodell und gewählter Ausführungsmodalität den Verkaufspreis gegenüber dem Käufer, die Provisionen, die Gebühren, etwaige Auslagenerstattungen und, soweit geschuldet, die Umsatzsteuer umfasst. Der Geschuldete Gesamtbetrag wird, vorbehaltlich offenbarer Unrichtigkeiten, in der Proforma angegeben; tritt Fleequid als reiner Vermittler auf, weist die Proforma die dem Verkäufer und die Fleequid geschuldeten Bestandteile getrennt aus.",
+  "u028": "„<b><i>Inserat</i></b><i>“ (oder „</i><b><i>Auktionsblatt</i></b><i>“)</i>: Der informative und beschreibende Inhalt in Bezug auf das Fahrzeug und die jeweilige Transaktion, einschließlich, jedoch nicht beschränkt auf, die Technischen Spezifikationen, die Bilder, das technische Dossier, den etwaigen TrustReport und alle sonstigen Informationen, die den Nutzern zur Verfügung gestellt werden; er hat zudem die Funktion, die Besonderen Verkaufsbedingungen zu enthalten, zu bezeichnen oder in Bezug zu nehmen und die in Art. 3.2 vorgesehenen Angaben erkennbar zu machen, nach Maßgabe von Art. 4.6.",
+  "u029": "<b>„</b><b><i>Reiner Vermittler</i></b><b>“</b>: Die in den Art. 2.6 und 17.10 ff. geregelte Ausführungsmodalität des Kommissionsverkaufs, bei der Fleequid keinen Weiterverkauf durchführt, das Fahrzeug weder kauft noch verkauft und den Kaufvertrag weder im eigenen Namen noch als Partei abschließt und ermöglicht, dass die Übertragung und die Rechnungsstellung des Fahrzeugs direkt vom Verkäufer an den Käufer erfolgen. Der reine Vermittler stellt kein eigenständiges Verkaufsmodell dar und bleibt eine interne Ausführungsmodalität des Kommissionsverkaufs.",
+  "u030": "„<b><i>Plattform Marketplace</i></b>“: Die Versteigerungsplattformen und anderen Plattformen, die Apps, die Websites und die integrierten Dienste, die einen Online-Marktplatz bilden, auf dem die Nutzer in den Fällen und unter den Bedingungen, die in diesen AGB und in den weiteren anwendbaren Vertragsgrundlagen festgelegt sind, Fahrzeuge kaufen und verkaufen sowie die anderen von Fleequid bereitgestellten Dienstleistungen beantragen und nutzen können, darunter insbesondere die Website von Fleequid, die unter folgender Adresse zu finden ist: https://www.fleequid.com.",
+  "u031": "„<b><i>Verkaufsmodell</i></b>“: Die rechtliche Struktur, nach der Fleequid die einzelne Verkaufstransaktion organisiert und die gemäß Art. 3 unter den beiden einzigen in Art. 2.3 vorgesehenen Modellen bestimmt wird, nämlich dem Kommissionsverkauf und Dealer Sales.",
+  "u032": "„<b><i>Verhandlung</i></b>“: Die in Art. 9.4 Buchst. e) geregelte Modalität der Verkaufsveranstaltung, die in Vertragsverhandlungen besteht, in deren Rahmen Gebote und Gegenangebote abgegeben werden können, und bei der die Verbindliche Vereinbarung mit der Annahme des Gebots oder des Gegenangebots zustande kommt.",
+  "u033": "„<b><i>Bietender</i></b>“: Jeder gewerbetreibende Nutzer, der an einer Verkaufsveranstaltung teilnimmt, indem er ein oder mehrere Gebote abgibt. Der Bietende erlangt die Eigenschaft des Käufers, sobald die Verbindliche Vereinbarung zu seinen Gunsten zustande kommt.",
+  "u034": "„<b><i>Gebot</i></b>“: Die Willenserklärung, mit der der Bietende im Rahmen einer Verkaufsveranstaltung den Kauf des Fahrzeugs zu einem bestimmten Preis anbietet. Das Gebot ist nach Maßgabe der Art. 10.1 und 10.5 verbindlich und unwiderruflich und setzt die vorherige Bestimmung und Erkennbarkeit des anwendbaren Verkaufsmodells gemäß Art. 3 voraus.",
+  "u035": "„<b><i>Anzahlung</i></b>“: Die im Voraus zu leistende Zahlung in Höhe von 30 % des Geschuldeten Gesamtbetrags, die vom Käufer bei Transaktionen verlangt werden kann, bei denen das Fahrzeug vorübergehend beim Verkäufer in Nutzung verbleibt, nach Maßgabe von Art. 13. Die Anzahlung wird als Teilzahlung auf den Preis geleistet und stellt weder ein Bestätigungsangeld noch ein Reugeld dar.",
+  "u036": "<i>„</i><b><i>Parteien</i></b>“: Bezeichnet gemeinsam Fleequid, den Verkäufer, den Bietenden und den Käufer. Der Finanzierungsgeber ist nicht Partei dieser Allgemeinen Geschäftsbedingungen, es sei denn, er erlangt gemäß Art. 22.5 die Eigenschaft des Käufers.",
+  "u037": "„<b><i>MVP</i></b>“ oder <b><i>„Mindestverkaufspreis“</i></b>: Der vom Verkäufer zum Zeitpunkt des Verkaufsangebots festgelegte Preis in Euro, der den Mindestnettoerlös darstellt, den der Verkäufer aus dem Verkauf des Fahrzeugs erzielen möchte. Der MVP ist verbindlich und kann nur vor Beginn der betreffenden Verkaufsveranstaltung geändert werden; bei einer Anpassung im Hinblick auf einen späteren Verkaufsversuch gilt Art. 8.10.",
+  "u038": "„<b><i>Ankaufspreis</i></b>“: Der dem Verkäufer bei Dealer Sales geschuldete Preis des Fahrzeugs, der zwischen Fleequid und dem Verkäufer gemäß Art. 18.3 eigenständig vereinbart wird.",
+  "u039": "„<b><i>Nettoankaufspreis</i></b>“: Der Preis des Fahrzeugs, den Fleequid dem Verkäufer beim mittels Weiterverkauf ausgeführten Kommissionsverkauf schuldet und der dem Verkaufspreis gegenüber dem Käufer abzüglich der vom Verkäufer zu tragenden Provisionen, der Gebühren und aller sonstigen vom Verkäufer an Fleequid geschuldeten Beträge entspricht; er wird nach Maßgabe von Art. 17.4 bestimmt und fällig.",
+  "u040": "„<b><i>Reservepreis</i></b><i>“</i> oder „<b><i>RP</i></b>“<i>:</i> Der Bruttowert, der von Fleequid auf Grundlage des vom Verkäufer festgelegten MVP und der vom Verkäufer gemäß dem Gebührenverzeichnis von Fleequid zu zahlenden Provisionen ermittelt wird und der beim Kommissionsverkauf die Preisschwelle darstellt, bei der oder über der der Verkäufer dem Verkauf des Fahrzeugs unwiderruflich zustimmt, wobei ihm ein Nettoerlös gesichert wird, der mindestens dem MVP entspricht. Bei Dealer Sales betrifft der etwaige Reservepreis ausschließlich die Weiterveräußerung des Fahrzeugs von Fleequid an den Käufer und wird von Fleequid gemäß Art. 9.5 eigenständig bestimmt.",
+  "u041": "„<b><i>Verkaufspreis gegenüber dem Käufer</i></b>“: Der Preis des Fahrzeugs, der sich aus der Verbindlichen Vereinbarung ergibt, gleich wie diese nach der Modalität der anwendbaren Verkaufsveranstaltung zustande gekommen ist, der vom Käufer geschuldet wird und in den Geschuldeten Gesamtbetrag einfließt.",
+  "u042": "„<b><i>Gewerbetreibender</i></b>“: Die natürliche oder juristische Person, die in Ausübung ihrer unternehmerischen, gewerblichen, handwerklichen oder beruflichen Tätigkeit handelt, oder ihr Vermittler, mit Ausnahme von Verbrauchern. Unter diese Begriffsbestimmung fallen auch „Kleinstunternehmen“, d. h. Einrichtungen, Gesellschaften oder Vereinigungen, die unabhängig von ihrer Rechtsform und auch auf Einzel- oder Familienbasis eine wirtschaftliche Tätigkeit ausüben, wobei sie weniger als zehn Personen beschäftigen und einen Jahresumsatz oder eine Jahresbilanzsumme von höchstens zwei Millionen Euro erzielen, und zwar gemäß Artikel 2 Absatz 3 des Anhangs zur Empfehlung der Kommission Nr. 2003/361/EG vom 6. Mai 2003 und Artikel 18 Absatz 1 Buchstabe d-bis des gesetzesvertretenden Dekrets Nr. 206/2005 (Verbrauchergesetzbuch).",
+  "u043": "„<b><i>Proforma</i></b>“: Das Dokument, mit dem Fleequid dem Käufer den Geschuldeten Gesamtbetrag und den Ablauf der Zahlungsfrist mitteilt und beim Kommissionsverkauf die gewählte Ausführungsmodalität festschreibt, nach Maßgabe von Art. 11.4. Die Proforma ist ein der Verbindlichen Vereinbarung nachfolgendes Durchführungsdokument mit rein feststellendem Charakter, ist keine rechtsgeschäftliche Grundlage, stellt keine steuerrechtliche Unterlage dar und begründet keine neuen Pflichten.",
+  "u044": "„<b><i>Verkaufsangebot</i></b>“: Die Willenserklärung, mit der der Verkäufer Fleequid beauftragt, die Vermarktung und den Verkauf eines oder mehrerer Fahrzeuge über die Plattform Marketplace oder über die anderen verfügbaren Modalitäten vorzunehmen. Form, Mindestinhalt, Wirksamkeit und Verbindlichkeit des Verkaufsangebots sind in Art. 8.1 geregelt.",
+  "u045": "<b>„</b><b><i>Höchstgebot</i></b>“: Der höchste Wert aller Gebote, die von den Bietenden bis zum Ende der Versteigerung abgegeben werden, auch nach etwaigen Gebotserhöhungen. Hat Fleequid die Stornierung des Verkaufs vorgenommen, wird das Höchstgebot unter Ausschluss des Werts der Gebote für die stornierten Verkäufe ermittelt.",
+  "u046": "„<b><i>Weiterverkauf</i></b>“: Die in den Art. 2.5 und 17.3 ff. geregelte Ausführungsmodalität des Kommissionsverkaufs, die auch in den in Art. 1395 des italienischen Zivilgesetzbuches vorgesehenen Formen durchgeführt werden kann und mittels derer Fleequid in Ausführung der Verkaufs- und der Einkaufskommission das Fahrzeug vom Verkäufer erwirbt und es auf den Käufer überträgt, um den Kauf und Verkauf den jeweiligen Auftraggebern zuzurechnen. Der Weiterverkauf findet bei Dealer Sales keine Anwendung.",
+  "u047": "„<b><i>Dienstleistungen</i></b>“: Die Dienstleistungen, die den Nutzern von Fleequid offline und online zur Verfügung gestellt werden und gebührenpflichtig sind, wie beispielsweise die Transport- und Logistikdienstleistungen für Fahrzeuge und die anderen auf der Plattform Marketplace angegebenen Dienstleistungen, mit Ausnahme der provisionspflichtigen Vermittlungstätigkeit beim Kauf und Verkauf von Fahrzeugen.",
+  "u048": "„<b><i>Finanzierungslösungen</i></b>“: Die von Dritten angebotenen Finanzierungs-, Finanzierungsleasing- oder sonstigen Mittelbeschaffungsprodukte, die über die Plattform Marketplace bereitgestellt werden oder auf die dort hingewiesen wird und die in Art. 22 sowie in den entsprechenden Besonderen Geschäftsbedingungen geregelt sind.",
+  "u049": "„<b><i>Technische Spezifikationen</i></b>“: Alle vom Verkäufer zur Verfügung gestellten oder von Fleequid angegebenen und vom Verkäufer genehmigten Informationen zu den technischen und administrativen Merkmalen jedes der zum Verkauf angebotenen Fahrzeuge.",
+  "u050": "„<b><i>Status Optioniert</i></b>“: Der Status des Fahrzeugs nach dem Zustandekommen der Verbindlichen Vereinbarung und vor der vollständigen Erfüllung der Zahlungspflicht und dem Beginn der Abwicklungsphase oder vor der Stornierung des Verkaufs, mit den in Art. 11 vorgesehenen Wirkungen. Der Status Optioniert beschreibt eine Phase des Verkaufsprozesses, räumt dem Käufer keinerlei Befugnis ein, nachträglich zu entscheiden, ob er kauft, stellt kein unwiderrufliches Angebot dar und begründet keinen Optionsvertrag im Sinne von Art. 1331 des italienischen Zivilgesetzbuches.",
+  "u051": "<b><i>„Gebührenverzeichnis Fleequid“</i></b>: Die Gesamtheit der Bedingungen, die die Berechnung der Fleequid vom Verkäufer und vom Käufer geschuldeten Provisionen, auch als Prozentsatz des Verkaufspreises gegenüber dem Käufer, sowie der weiteren dort angegebenen Beträge regeln und die unter folgenden Links eingesehen werden kann: <b>https://fleequid.com/it/pricing-seller</b> und <b>https://fleequid.com/it/pricing-buyer</b>.",
+  "u052": "„<b><i>Gebühren</i></b>“: Die Entgelte, mit Ausnahme der Provisionen, die Fleequid für die Bereitstellung einer oder mehrerer Dienstleistungen zustehen.",
+  "u053": "„<b><i>Zahlungsfrist</i></b>“: Die Frist, innerhalb derer der Käufer den Geschuldeten Gesamtbetrag vollständig zu zahlen hat und die gemäß Art. 11.5 sowie in den dort vorgesehenen Fällen gemäß den Art. 11.6, 11.7, 13 und 22.7 bestimmt wird.",
+  "u054": "„<b><i>TrustReport</i></b>“: Das von Fleequid erstellte oder von Fleequid bei Dritten in Auftrag gegebene Prüfdokument zum Fahrzeug, das ausschließlich informativen Charakter hat, in dem Umfang und mit den Wirkungen, die in Art. 19.5 vorgesehen sind. Der TrustReport stellt weder eine Garantie noch eine Zertifizierung des Zustands des Fahrzeugs dar, ersetzt nicht die Inspektion durch den Käufer und befreit den Verkäufer nicht von seiner Haftung und seinen Pflichten.",
+  "u055": "„<b><i>Nutzer</i></b>“: Jede/r Gewerbetreibende, jedes Einzelunternehmen oder jede juristische Person, die den Prozess zur Registrierung für die Plattform Marketplace abgeschlossen hat oder der Plattform anderweitig durch die Annahme dieser Allgemeinen Geschäftsbedingungen beigetreten ist, um auf die Plattform Marketplace zuzugreifen, sie anzuzeigen und zu verwenden, an den Verkaufsveranstaltungen teilzunehmen, um den Kauf oder Verkauf von Fahrzeugen vorzuschlagen, und die angebotenen Dienstleistungen in Anspruch zu nehmen, einschließlich Verkäufer, Bietende und Käufer.",
+  "u056": "„<b><i>Fahrzeug/e</i></b>“: Jedes neue oder gebrauchte Kraftfahrzeug, das über die Plattform Marketplace verkauft oder angeboten oder anderweitig über Fleequid vermarktet wird, einschließlich, aber nicht beschränkt auf Busse, Lastwagen, Lieferwagen, Autos und andere Transportmittel.",
+  "u057": "„<b><i>Altfahrzeug(e)</i></b>“ oder „<b><i>VFU</i></b>“: Jedes Fahrzeug, das nach den im Land des Standorts der Sache zum Zeitpunkt der Veräußerung geltenden Umweltvorschriften als Abfall einzustufen ist oder für die Verschrottung und die Verwertung von Materialien bestimmt ist. Die entsprechende Regelung ist in den Art. 8.3, 16.13, 18.8 und 20.8 enthalten.",
+  "u058": "„<b><i>Verkauf außerhalb der Versteigerung</i></b>“: Die in Art. 9.4 Buchst. f) geregelte Modalität der Verkaufsveranstaltung, bei der der Verkauf außerhalb des Versteigerungsverfahrens abgeschlossen wird.",
+  "u059": "„<b><i>Kommissionsverkauf</i></b>“: Das in den Art. 2.3, 2.4, 2.5, 2.6 und 17 geregelte Verkaufsmodell, bei dem Fleequid im unwiderruflichen Auftrag der Nutzer für deren Rechnung den Verkauf und den Kauf des Fahrzeugs besorgt und bei dem die Transaktion alternativ mittels Weiterverkauf oder dadurch ausgeführt wird, dass Fleequid als reiner Vermittler auftritt. Die Einstufung von Fleequid als im eigenen Namen handelnder Kommissionär im Sinne von Art. 1731 des italienischen Zivilgesetzbuches gilt ausschließlich beim Weiterverkauf, nach Maßgabe von Art. 2.5; tritt Fleequid als reiner Vermittler auf, wird der Kauf und Verkauf gemäß den Art. 2.6 und 17.10 direkt zwischen dem Verkäufer und dem Käufer abgeschlossen.",
+  "u060": "„<b><i>Privatverkauf</i></b>“: Die in Art. 9.4 Buchst. c) geregelte Modalität der Verkaufsveranstaltung, die einem oder mehreren von Fleequid benannten Nutzern vorbehalten und für die Allgemeinheit der Nutzer der Plattform Marketplace nicht sichtbar ist.",
+  "u061": "„<b><i>Verkäufer</i></b>“: Jeder Gewerbetreibende, der die Verkaufsdienste von Fleequid nutzt und seine Fahrzeuge zum Verkauf anbietet. Der Begriff bezieht sich immer auf den eigentlichen Verkäufer, der nicht Fleequid ist; übernimmt Fleequid beim mittels Weiterverkauf ausgeführten Kommissionsverkauf die Rolle des formellen Verkäufers, wird immer die Bezeichnung Fleequid gewählt. Bei Dealer Sales ist der Verkäufer derjenige, von dem Fleequid das Fahrzeug erwirbt; bei der anschließenden Weiterveräußerung an den Käufer ist Fleequid gemäß den Art. 2.7 und 18.1 die verkaufende Partei.",
+  "u062": "Wenn in diesen AGB von „<b><i>Tagen</i></b>“ die Rede ist, sind damit Werktage gemeint, wobei unter „<b><i>Werktagen</i></b>“ die Wochentage von Montag bis Freitag von 8:30 bis 12:30 Uhr und von 14:00 bis 18:00 Uhr zu verstehen sind, ausgenommen gesetzliche Feiertage in Italien. Es gilt die Zeitzone, in der sich der eingetragene Firmensitz von Fleequid befindet. Dieses Berechnungskriterium gilt für alle in diesen Allgemeinen Geschäftsbedingungen vorgesehenen Fristen, einschließlich der Zahlungsfrist, der Höchstfrist gemäß Art. 12.7 und der für jeden Tag der Verzögerung bestimmten Vertragsstrafen.",
+  "u063": "<b>Zwecke, Rolle von Fleequid und Verkaufsmodelle</b>.",
+  "u076": "<b>Bestimmung und Erkennbarkeit des Verkaufsmodells.</b>",
+  "u091": "<b>Vertragsgrundlagen, Inserat und auf die jeweilige Transaktion anwendbare Bedingungen</b>.",
+  "u101": "<b>Registrierung und zulässige Nutzung der Plattform Marketplace.</b>",
+  "u119": "<b>Nutzereinstufung und Kaution.</b>",
+  "u126": "<b>Verarbeitung der personenbezogenen Daten der Nutzer.</b>",
+  "u130": "<b>Verkaufsangebot für Fahrzeuge im Zuge einer Versteigerung und Pflichten des Verkäufers.</b>",
+  "u145": "<b>Verkaufsveranstaltungen und Inserat.</b>",
+  "u160": "<b>Gebote, Verhandlung und Verbindliche Vereinbarung.</b>",
+  "u174": "<b>Status Optioniert, Proforma und Zahlungsfrist.</b>",
+  "u184": "<b>Zahlung, Endgültige Zuschlagserteilung bei Versteigerungen, Verzögerung und Stornierung des Verkaufs.</b>",
+  "u196": "<b>Aufgeschobener Verkauf: Anzahlung und vorübergehend beim Verkäufer in Nutzung verbleibendes Fahrzeug.</b>",
+  "u206": "<b>Stornierung des Verkaufs: allgemeine Regelung und Reduzierung des Gegenstands.</b>",
+  "u215": "<b>Vermögensrechtliche Wirkungen: Rückerstattungen, Rückabwicklung und wirtschaftliche Koordinierung.</b>",
+  "u224": "<b>Abwicklungsphase gegenüber dem Käufer: Rechnungsstellung, Eigentumsübertragung, Risiko, Lieferung und Abholung.</b>",
+  "u239": "<b>Kommissionsverkauf: gemeinsame Regelung, Weiterverkauf und Tätigkeit als reiner Vermittler.</b>",
+  "u256": "<b>Dealer Sales.</b>",
+  "u266": "<b>Gewährleistungen, Ausschlüsse und Beschränkungen.</b>",
+  "u290": "<b>Reklamationen.</b>",
+  "u299": "<b>Anschlussklausel.</b>",
+  "u304": "<b>Von Dritten angebotene Finanzierungslösungen.</b>",
+  "u316": "<b>Anwendbares Recht, Sprache und Gerichtsstand.</b>",
+  "u320": "<b>Mitteilungen.</b>"
+ },
+ "new_terms": [
+  {
+   "it": "Accordo vincolante",
+   "tr": "Verbindliche Vereinbarung",
+   "why": "Nuovo. Resa legale standard; 'verbindlich' è già l'aggettivo usato nella v8 DE per 'vincolante'. Aggettivo maiuscolo come negli altri termini definiti composti (Besondere Geschäftsbedingungen, Technische Spezifikationen)."
+  },
+  {
+   "it": "Aggiudicazione definitiva",
+   "tr": "Endgültige Zuschlagserteilung",
+   "why": "v8 DE: 'Zuschlagserteilung' (def. 1.L2) e 'endgültige Zuschlagserteilung' nel corpo (art. 1.L18, 7.8, 8.1). Ora termine definito, aggettivo maiuscolo."
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Stornierung des Verkaufs",
+   "why": "v8 DE corpo: 'Stornierung des Verkaufs' / 'den Verkauf stornieren' (art. 9, 10.3, 11.2, 13.9). Preferito ad 'Annullierung' (anch'esso presente nella v8) perché non evoca l'invalidità/Anfechtung, coerente con la definizione."
+  },
+  {
+   "it": "Classificazione dell’Utente",
+   "tr": "Nutzereinstufung",
+   "why": "Nuovo, non presente nella v8. 'Einstufung' è il termine corrente per uno stato/rating interno; composto per poterlo declinare come termine definito."
+  },
+  {
+   "it": "Compra-Subito",
+   "tr": "Sofortkauf",
+   "why": "v8 DE art. 7.1 e 7.8 ('Sofortkauf', 'Sofortkauf-Option'). Prezzo di acquisto immediato = Sofortkaufpreis."
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Besondere Verkaufsbedingungen",
+   "why": "Sostituisce 'Condizioni particolari d’asta' = 'Besondere Auktionsbedingungen' (v8 1.L8): stessa struttura, 'asta' → 'vendita'."
+  },
+  {
+   "it": "Contratto individuale",
+   "tr": "Einzelvertrag",
+   "why": "v8 DE art. 3.3 ('Einzelverträge')."
+  },
+  {
+   "it": "Dealer Sales",
+   "tr": "Dealer Sales",
+   "why": "Nome commerciale inglese, invariato. Uso: 'bei Dealer Sales', senza articolo."
+  },
+  {
+   "it": "Evento di vendita",
+   "tr": "Verkaufsveranstaltung",
+   "why": "v8 DE art. 7.8 ('besondere Verkaufsveranstaltungen')."
+  },
+  {
+   "it": "Finanziatore",
+   "tr": "Finanzierungsgeber",
+   "why": "Nuovo. Termine neutro che copre banca, società di leasing e altri finanziatori."
+  },
+  {
+   "it": "Soluzioni di finanziamento",
+   "tr": "Finanzierungslösungen",
+   "why": "Nuovo. Resa commerciale-legale standard. 'locazione finanziaria' = Finanzierungsleasing; 'provvista' = Mittelbeschaffung."
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Geschuldeter Gesamtbetrag",
+   "why": "Nuovo. v8 DE usa 'Gesamtbeträge ... geschuldeten Beträgen' (art. 11.2)."
+  },
+  {
+   "it": "Modello di Vendita",
+   "tr": "Verkaufsmodell",
+   "why": "Nuovo. Resa letterale e standard."
+  },
+  {
+   "it": "Negoziazione",
+   "tr": "Verhandlung",
+   "why": "v8 DE art. 7.8 ('Verhandlungs- und Gegenangebotsregeln'). 'trattativa' = Vertragsverhandlungen; 'controproposta' = Gegenangebot (v8)."
+  },
+  {
+   "it": "Pagamento anticipato",
+   "tr": "Anzahlung",
+   "why": "Nuovo. È un acconto parziale (30%) sul prezzo: 'Anzahlung' è il termine tecnico; 'Vorauszahlung' suggerirebbe il pagamento integrale anticipato. 'in acconto sul prezzo' = als Teilzahlung auf den Preis (non 'Abschlag', che significa anche sconto); caparra confirmatoria/penitenziale = Bestätigungsangeld/Reugeld (terminologia della versione tedesca ufficiale del codice civile italiano, artt. 1385-1386)."
+  },
+  {
+   "it": "Prezzo di acquisto",
+   "tr": "Ankaufspreis",
+   "why": "Nuovo. Prezzo pagato da Fleequid al Venditore nel Dealer Sales; 'Ankauf' evita la confusione con il prezzo pagato dall'Acquirente ('Kaufpreis')."
+  },
+  {
+   "it": "Prezzo di acquisto netto",
+   "tr": "Nettoankaufspreis",
+   "why": "Nuovo, derivato da Ankaufspreis."
+  },
+  {
+   "it": "Prezzo di vendita all’Acquirente",
+   "tr": "Verkaufspreis gegenüber dem Käufer",
+   "why": "Nuovo. Sostituisce nell'uso il 'Prezzo di aggiudicazione' (Zuschlagspreis) della v8, che non è più definito. Revisore: 'Verkaufspreis an den Käufer' è sgrammaticato e ambiguo accanto ai dativi ('Provisionen ... an den Käufer'); 'gegenüber dem Käufer' si declina senza equivoci."
+  },
+  {
+   "it": "Proforma",
+   "tr": "Proforma (die)",
+   "why": "Nuovo, invariato; femminile ('die Proforma'). Non 'Proforma-Rechnung' perché la definizione esclude la natura di documento fiscale."
+  },
+  {
+   "it": "Stato Opzionato",
+   "tr": "Status Optioniert",
+   "why": "Nuovo. Etichetta di stato del Veicolo, indeclinabile ('den Status Optioniert', 'während des Status Optioniert'); evitato 'Optionsstatus' perché la definizione esclude il contratto di opzione."
+  },
+  {
+   "it": "Termine di pagamento",
+   "tr": "Zahlungsfrist",
+   "why": "v8 DE art. 11.2."
+  },
+  {
+   "it": "TrustReport",
+   "tr": "TrustReport (der)",
+   "why": "Marchio, invariato (glossario)."
+  },
+  {
+   "it": "Vendita fuori asta",
+   "tr": "Verkauf außerhalb der Versteigerung",
+   "why": "Nuovo. Resa trasparente costruita sul termine definito 'Versteigerung'. Alternativa tecnica: 'Freihändiger Verkauf'."
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Kommissionsverkauf",
+   "why": "Nuovo come termine definito; v8 DE usa Kommissionär / Verkaufskommissionär / Einkaufskommissionär."
+  },
+  {
+   "it": "Vendita riservata",
+   "tr": "Privatverkauf",
+   "why": "v8 DE art. 7.8 rende 'Vendite Riservate' con 'Privatverkäufe': mantenuto per continuità (vedi notes)."
+  },
+  {
+   "it": "Vendita differita (art. 13)",
+   "tr": "Aufgeschobener Verkauf",
+   "why": "Nuovo (titolo art. 13 e art. 13.1). Resa letterale standard."
+  },
+  {
+   "it": "fase esecutiva",
+   "tr": "Abwicklungsphase",
+   "why": "Nuovo, non definito ma ricorrente (art. 16). 'Abwicklung' è il termine d'uso per l'esecuzione di una compravendita."
+  },
+  {
+   "it": "modalità di esecuzione (della Vendita in commissione)",
+   "tr": "Ausführungsmodalität",
+   "why": "v8 DE 1.L27 'Modalität der Ausführung'."
+  },
+  {
+   "it": "operazione",
+   "tr": "Transaktion",
+   "why": "v8 DE 1.L13 ('an der Transaktion beteiligten')."
+  },
+  {
+   "it": "commercializzazione / rapporto di commercializzazione",
+   "tr": "Vermarktung / Vermarktungsverhältnis",
+   "why": "Nuovo, resa standard."
+  },
+  {
+   "it": "rivendita / rivendere (minuscolo, nel Dealer Sales)",
+   "tr": "Weiterveräußerung / weiterveräußern",
+   "why": "In tedesco la maiuscola non distingue il termine definito: 'Weiterverkauf' resta riservato alla Rivendita definita (che non si applica nel Dealer Sales)."
+  },
+  {
+   "it": "conoscibilità / rendere conoscibile",
+   "tr": "Erkennbarkeit / erkennbar machen",
+   "why": "Nuovo, ricorrente (art. 3)."
+  },
+  {
+   "it": "fonti contrattuali",
+   "tr": "Vertragsgrundlagen",
+   "why": "Revisore: 'vertragliche Quellen' (una sola occorrenza v8, clausola di approvazione specifica, non definito) è un calco; in tedesco la gerarchia è 'Rangfolge der Vertragsgrundlagen'. 'fonte negoziale' = 'rechtsgeschäftliche Grundlage'."
+  },
+  {
+   "it": "clausola risolutiva espressa / risoluzione",
+   "tr": "ausdrückliche Auflösungsklausel / Auflösung",
+   "why": "v8 DE passim."
+  },
+  {
+   "it": "c.c.",
+   "tr": "des italienischen Zivilgesetzbuches",
+   "why": "v8 DE passim."
+  },
+  {
+   "it": "fonte negoziale",
+   "tr": "rechtsgeschäftliche Grundlage",
+   "why": "Revisore: coerente con Vertragsgrundlagen; distinta da 'fonti contrattuali'."
+  },
+  {
+   "it": "ritardo (dell'Acquirente nel pagamento) / mora",
+   "tr": "Verzögerung / Verzug",
+   "why": "Revisore: v8 DE 'für jeden Tag der Verzögerung'; l'IT v9 distingue ritardo da (costituzione in) mora = Verzug / Inverzugsetzung (v8)."
+  },
+  {
+   "it": "committenti",
+   "tr": "Auftraggeber",
+   "why": "v8 DE art. 2."
+  },
+  {
+   "it": "ripristino (art. 15)",
+   "tr": "Rückabwicklung",
+   "why": "Nuovo: ripristino della situazione anteriore dopo l'esecuzione."
+  },
+  {
+   "it": "documento fiscale",
+   "tr": "steuerrechtliche Unterlage",
+   "why": "v8 DE 1.L13 'steuerrechtliche Unterlagen'."
+  }
+ ],
+ "notes": [
+  "PMIV: la definizione v8 DE usa 'Mindestverkaufspreis' / 'MVP' e l'ho mantenuta, ma nel corpo della v8 DE compare più spesso 'PMIV' (13 volte contro 10 'MVP'). Per il resto del documento la resa vincolante è 'MVP'; da confermare.",
+  "Vendita riservata = 'Privatverkauf' (v8). In tedesco 'Privatverkauf' indica di norma la vendita da parte di un privato: resa ambigua in un contesto B2B. Alternativa consigliata se lo studio accetta il cambio: 'Geschlossener Verkauf'.",
+  "1 Euro Auction: mantenuto il termine definito v8 '1-Euro-Auktion' (il corpo v8 usa anche '1 Euro Auctions'). Nel testo della definizione ho reso 'Asta' con 'Versteigerung' (termine definito) e non con 'Auktion' come nella v8.",
+  "Marketplace = 'Plattform Marketplace' (termine definito v8, 113 occorrenze) anche nel titolo dell'art. 5; nel frontespizio resta 'Marketplace Fleequid®' come nella v8.",
+  "Intermediario puro: termine definito 'Reiner Vermittler'; nel testo corrente minuscolo 'als reiner Vermittler' come nella v8.",
+  "Scheda d'Asta = 'Auktionsblatt' (definizione v8); il corpo v8 usa anche 'Versteigerungsblatt'. Inserzione = 'Inserat'.",
+  "VFU: la v8 DE non riporta la sigla. Nella definizione ho messo 'Altfahrzeug(e)' oder 'VFU' per rispettare i due segmenti formattati; nel corpo 'VFU' va reso 'Altfahrzeug(e)'.",
+  "Termini definiti senza più '/i' nell'IT: resi al singolare/plurale semplice (Versteigerung, Belastung, Gebot, Bietender, Gewerbetreibender, Vertrag, Dienstleistungen). 'Fahrzeug/e' e 'Altfahrzeug(e)' invariati perché l'IT mantiene '/i'.",
+  "u018 Consumatore: copiata alla lettera la resa v8, che omette 'eventualmente svolta' e ha il verbo al singolare ('steht'). Da correggere solo su indicazione.",
+  "u047 Servizi: la v8 rendeva 'soggetti a Commissioni' con 'gebührenpflichtigen' (errore: Gebühren = Tariffe). Corretto in 'provisionspflichtigen'.",
+  "u030 Marketplace: la v8 rendeva 'Servizi' (definito) con 'Dienste'; allineato al termine definito 'Dienstleistungen'.",
+  "u004: 'quando riportati con iniziale maiuscola' reso alla lettera, ma in tedesco tutti i sostantivi hanno la maiuscola: il criterio non distingue i termini definiti.",
+  "u061 Venditore: nell'IT v9 manca la punteggiatura dopo 'soggetto diverso rispetto a Fleequid' (frase fusa con la successiva). Tradotto con punto e virgola, leggendo 'nella Vendita in commissione eseguita mediante Rivendita' come riferito a Fleequid venditore formale.",
+  "u130 titolo art. 8: la v8 rendeva 'Proposta di vendita' in modo descrittivo ('Anbieten von Fahrzeugen zum Verkauf'); ora uso il termine definito 'Verkaufsangebot'.",
+  "Il termine v8 'Zuschlagspreis' (Prezzo di aggiudicazione) e 'Zuschlagserteilung' semplice non sono più definiti nell'IT v9.",
+  "REVISORE — decisioni sui dubbi: PMIV = 'MVP / Mindestverkaufspreis' confermato (definizione v8 1.L21: „Mindestverkaufspreis“ (MVP)); le 13 occorrenze 'PMIV' del corpo v8 vanno uniformate a 'MVP' nei blocchi successivi.",
+  "REVISORE: 'Privatverkauf' confermato per continuità (v8 art. 7.8, nome dato all'evento); la definizione v9 ne chiarisce il senso. Resta da validare.",
+  "REVISORE: 'Anzahlung' confermato (acconto del 30%, art. 13.1-13.3, con saldo successivo). Il 'pagamento anticipato' minuscolo dell'art. 22.9 (Fleequid paga il Venditore prima dell'incasso) NON è l'Anzahlung: lì va reso 'vorzeitige Zahlung'.",
+  "REVISORE: 'Verkauf außerhalb der Versteigerung' confermato; 'Freihändiger Verkauf' scartato perché in tedesco designa qualsiasi vendita non all'asta e coprirebbe anche Sofortkauf, Privatverkauf e Verhandlung.",
+  "REVISORE: 'Endgültige Zuschlagserteilung', 'Stornierung des Verkaufs', 'Status Optioniert', 'Bestätigungsangeld / Reugeld', 'Altfahrzeug(e)' oder 'VFU' confermati. Nel corpo 'VFU' → 'Altfahrzeug(e)'.",
+  "REVISORE: 'Auktion' resta solo nei composti definiti v8 '1-Euro-Auktion' e 'Auktionsblatt'; in ogni altro caso Asta = 'Versteigerung' ('Asta a rilancio' = 'gebotsbasierte Versteigerung', v8 7.8)."
+ ],
+ "review": [
+  "u004: 'ersetzen oder wiederholen nicht' → 'sie ersetzen und wiederholen nicht' — negazione coordinata corretta (né... né).",
+  "u009: 'Vertragsinstitut ... verfügt' → 'vertragliche Rechtsinstitut ... bestimmt' — 'Vertragsinstitut' non è in uso; 'verfügen' in diritto civile tedesco indica l'atto di disposizione.",
+  "u018: resa v8 'Tätigkeit im Sinne von Art. 3 ... steht' → '... gegebenenfalls ausgeübten ... Tätigkeit stehen, im Sinne von Art. 3 ...' — errore evidente della v8 (verbo al singolare, omissione di 'eventualmente svolta') e virgola aggiunta nell'IT v9 che stacca il rinvio normativo.",
+  "u019: 'Verhältnisse betreffend den Ankauf' → 'Rechtsverhältnisse betreffend den Kauf' — 'Ankauf' resta riservato al termine definito Ankaufspreis (Dealer Sales); qui 'acquisto' è generico.",
+  "u020: 'schriftlich formalisierte' → 'schriftlich niedergelegte' (calco); 'Rangfolge der vertraglichen Quellen' → 'Rangfolge der Vertragsgrundlagen'.",
+  "u023: 'verwaltete' → 'durchgeführte' — 'gestito' riferito a un processo di vendita non è 'verwaltet'.",
+  "u027, u039, u041, u051: 'Verkaufspreis an den Käufer' → 'Verkaufspreis gegenüber dem Käufer' — termine definito nuovo, costruzione sgrammaticata e ambigua.",
+  "u028: 'zu bestimmen' → 'zu bezeichnen' — 'individuare' le Condizioni particolari, non determinarle.",
+  "u030, u091: 'Quellen' / 'Vertragliche Quellen' → 'Vertragsgrundlagen' — calco; termine tedesco d'uso per le fonti del rapporto contrattuale.",
+  "u035: 'als Abschlag auf den Preis' → 'als Teilzahlung auf den Preis' — 'Abschlag auf den Preis' si legge come sconto sul prezzo.",
+  "u043: 'Durchführungs- und Feststellungsdokument, ist keine rechtsgeschäftliche Quelle, stellt kein Steuerdokument dar' → 'Durchführungsdokument mit rein feststellendem Charakter, ist keine rechtsgeschäftliche Grundlage, stellt keine steuerrechtliche Unterlage dar' — 'ricognitivo' = dichiarativo; 'documenti fiscali' già 'steuerrechtliche Unterlagen' nella v8.",
+  "u184: 'Verzug' → 'Verzögerung' — 'ritardo' è reso 'Verzögerung' nella v8 e in u062; 'Verzug' resta per 'mora'."
+ ]
+}

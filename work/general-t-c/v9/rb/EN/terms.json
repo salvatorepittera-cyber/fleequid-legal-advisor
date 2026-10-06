@@ -1,0 +1,422 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Definitions"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Binding Agreement"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Buyer(s)"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Final Award"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Cancellation of the Sale"
+ },
+ {
+  "it": "Asta",
+  "tr": "Auction"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Starting Price"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "User Classification"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Commissions"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Buy Now"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "General Terms and Conditions"
+ },
+ {
+  "it": "CG",
+  "tr": "GTC"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Special Sale Terms and Conditions"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Specific Terms and Conditions"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consumer"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Contract"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Individual Contract"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Security Deposit"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Sales Event"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financier"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Encumbrance"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Total Amount Due"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Listing"
+ },
+ {
+  "it": "(o",
+  "tr": "(or"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Auction data sheet"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Pure Intermediary"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Marketplace"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Sales Model"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Negotiation"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Bidder"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Bid"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Advance Payment"
+ },
+ {
+  "it": "Parti",
+  "tr": "Parties"
+ },
+ {
+  "it": "PMIV",
+  "tr": "MCSP"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Minimum Commitment to Sell Price"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Purchase Price"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Net Purchase Price"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Reserve Price"
+ },
+ {
+  "it": "PR",
+  "tr": "RP"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Sale Price to the Buyer"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Professional"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Offer to Sell"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Highest Bid"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Resale"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Services"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Financing Solutions"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technical Specifications"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Optioned Status"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Fleequid Fee Schedule"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Fees"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Payment Period"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "User"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Vehicle"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "End-of-Life Vehicle(s)"
+ },
+ {
+  "it": "VFU",
+  "tr": "ELV"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Off-Auction Sale"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Commission Sale"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Private Sale"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Seller"
+ },
+ {
+  "it": "giorni",
+  "tr": "days"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "working days"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Purposes, role of Fleequid and Sales Models"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Determination and disclosure of the Sales Model"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Contractual sources, Listing and conditions applicable to the specific transaction"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Registration and permitted use of the Marketplace"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "User Classification and Security Deposit"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Processing of Users' personal data"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Offer to Sell Vehicles at Auction and obligations of the Seller"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Sales Events and Listing"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Bids, negotiation and Binding Agreement"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Optioned Status, Proforma and Payment Period"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Payment, Final Award in Auctions, delay and Cancellation of the Sale"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Deferred Sale: advance payment and Vehicle temporarily in use by the Seller"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Cancellation of the Sale: general rules and reduction of the subject matter"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Financial effects: restitution, reinstatement and financial coordination"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Performance phase vis-à-vis the Buyer: invoicing, transfer of ownership, risk, delivery and collection"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Commission Sale: common rules, Resale and operation as Pure Intermediary"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Warranties, exclusions and limitations"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Complaints"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Linking clause"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Financing Solutions offered by third parties"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Applicable Law, Language and Jurisdiction"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Communication"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "User Classification"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Sales Contract"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "Sales Event method"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Listing (or Auction data sheet)"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "method of performance"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "performance phase"
+ },
+ {
+  "it": "controproposta",
+  "tr": "counter-offer"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Sale Price to the Buyer"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso (VFU)",
+  "tr": "End-of-Life Vehicle(s) (ELV)"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Bidding Auction"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Deferred Sale"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "marketing"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Contents"
+ }
+]

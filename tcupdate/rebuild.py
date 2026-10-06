@@ -50,6 +50,14 @@ RELS = "word/_rels/document.xml.rels"
 LINK_RE = re.compile(r"https?://[^\s<>»”)]+[^\s<>»”).,;:]|[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
 
 
+_NUM_RE = re.compile(r"\d{1,3}(?:[ \u00a0\u202f.,’']\d{3})+(?:[.,]\d{1,2})?(?!\d)|\d+(?:[.,]\d+)*")
+
+
+def nums(text: str) -> set[str]:
+    """Numeri del testo senza separatori: «€ 5.000,00», «€5,000.00» e «5 000,00 €» sono lo stesso numero."""
+    return {re.sub(r"\D", "", m) for m in _NUM_RE.findall(text)}
+
+
 def norm(s: str) -> str:
     return " ".join(s.split())
 
@@ -344,10 +352,10 @@ def check_chunk(work: Path, lang: str, chunk_id: str) -> list[str]:
         if "\n" in text or "\t" in text:
             errs.append(f"{uid} [{u['key']}]: a capo o tabulazione non ammessi")
         if uid not in waived:
-            miss = numbers(it_text) - numbers(text)
+            miss = nums(it_text) - nums(text)
             if miss:
                 errs.append(f"{uid} [{u['key']}]: numeri/rinvii mancanti {sorted(miss)}")
-            extra = numbers(text) - numbers(it_text)
+            extra = nums(text) - nums(it_text)
             if extra:
                 errs.append(f"{uid} [{u['key']}]: numeri/rinvii non presenti nell'IT {sorted(extra)}")
         for link in LINK_RE.findall(it_text):

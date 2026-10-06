@@ -1,0 +1,534 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Définitions"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Accord contraignant"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Acheteur(s)"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Adjudication définitive"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Annulation de la vente"
+ },
+ {
+  "it": "Asta",
+  "tr": "Vente aux enchères"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Prix de départ"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Classification de l'Utilisateur"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Commissions"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Achat immédiat"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Conditions générales"
+ },
+ {
+  "it": "CG",
+  "tr": "CG"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Conditions Particulières de Vente"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Conditions spécifiques"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consommateur"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Contrat"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Contrat individuel"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Dépôt de garantie"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Événement de vente"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financeur"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Charge"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Montant total dû"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Annonce"
+ },
+ {
+  "it": "(o",
+  "tr": "(ou"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Fiche d’Enchère"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Simple intermédiaire"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Place de marché"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Modèle de vente"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Négociation"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Enchérisseur"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Offre"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Acompte"
+ },
+ {
+  "it": "Parti",
+  "tr": "Parties"
+ },
+ {
+  "it": "PMIV",
+  "tr": "PMIV"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Prix minimum d'engagement de la vente"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Prix d'achat"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Prix d'achat net"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Prix de réserve"
+ },
+ {
+  "it": "PR",
+  "tr": "PR"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Prix de vente à l'Acheteur"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Professionnel"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Proposition de vente"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Mise maximale"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Revente"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Services"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Solutions de financement"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Spécifications techniques"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Statut optionné"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Grille tarifaire Fleequid"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Tarifs"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Délai de paiement"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Utilisateur"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Véhicule(s)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Véhicule(s) Hors d’Usage"
+ },
+ {
+  "it": "VFU",
+  "tr": "VHU"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Vente hors enchères"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Vente en commission"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Vente réservée"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Vendeur(s)"
+ },
+ {
+  "it": "giorni",
+  "tr": "jours"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "ouvrables"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Objets, rôle de Fleequid et Modèles de vente"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Détermination du Modèle de vente et possibilité d'en prendre connaissance"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Sources contractuelles, Annonce et conditions applicables à l'opération concernée"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Inscription et utilisation autorisée de la Place de marché"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Classification de l'Utilisateur et Dépôt de garantie"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Traitement des données à caractère personnel des Utilisateurs"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Proposition de vente de Véhicules aux enchères et obligations du Vendeur"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Événements de vente et Annonce"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Offres, négociation et Accord contraignant"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Statut optionné, Proforma et Délai de paiement"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Paiement, Adjudication définitive dans les Ventes aux enchères, retard et Annulation de la vente"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Vente différée : acompte et Véhicule temporairement en usage chez le Vendeur"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Annulation de la vente : régime général et réduction de l'objet"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Effets patrimoniaux : restitutions, rétablissement de la situation antérieure et coordination économique"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Phase d'exécution à l'égard de l'Acheteur : facturation, transfert de propriété, risques, livraison et retrait"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Vente en commission : régime commun, Revente et intervention en tant que Simple intermédiaire"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Garanties, exclusions et limitations"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Réclamations"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Clause de rattachement"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Solutions de financement proposées par des tiers"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Droit applicable, langue et juridiction"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Communications"
+ },
+ {
+  "it": "perfezionamento / perfezionarsi (dell'Accordo vincolante, del Contratto)",
+  "tr": "formation / se former, être formé"
+ },
+ {
+  "it": "Annullamento della vendita (forma breve: Annullamento)",
+  "tr": "Annulation de la vente (forma breve: Annulation)"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Classification de l'Utilisateur"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Contrat de vente"
+ },
+ {
+  "it": "compravendita (di Veicoli, attività di)",
+  "tr": "vente / la vente et l'achat / achat-vente (attività, sistemi)"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "modalité d'Événement de vente"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Vente aux enchères ascendantes"
+ },
+ {
+  "it": "rilancio/i",
+  "tr": "surenchère(s) (minuscolo)"
+ },
+ {
+  "it": "locazione finanziaria",
+  "tr": "crédit-bail"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Annonce (ou Fiche d’Enchère)"
+ },
+ {
+  "it": "commissione di vendita / di acquisto; committente",
+  "tr": "commission de vente / d'achat; commettant"
+ },
+ {
+  "it": "incarico irrevocabile",
+  "tr": "mandat irrévocable"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "modalité d'exécution"
+ },
+ {
+  "it": "eseguita mediante Rivendita",
+  "tr": "exécutée par voie de Revente"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "phase d'exécution"
+ },
+ {
+  "it": "controproposta",
+  "tr": "contre-proposition"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "arrhes confirmatoires / arrhes de dédit"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Prix de vente à l'Acheteur"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma (femminile: la Proforma)"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Vente différée"
+ },
+ {
+  "it": "commercializzazione / rapporto di commercializzazione",
+  "tr": "commercialisation / relation de commercialisation"
+ },
+ {
+  "it": "conoscibilità (del Modello di Vendita)",
+  "tr": "possibilité d'en prendre connaissance; « reso conoscibile » = « porté à la connaissance de » / « mis à même de prendre connaissance »; « rendere conoscibili » = « permettre de prendre connaissance de"
+ },
+ {
+  "it": "fonte negoziale / fonti contrattuali",
+  "tr": "source contractuelle / sources contractuelles"
+ },
+ {
+  "it": "documento attuativo e ricognitivo",
+  "tr": "document d'exécution et récognitif"
+ },
+ {
+  "it": "maturazione delle Commissioni",
+  "tr": "acquisition du droit aux Commissions"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "rémunérations"
+ },
+ {
+  "it": "parte sostanziale / Acquirente, Venditore sostanziale",
+  "tr": "partie effective / Acheteur, Vendeur effectif"
+ },
+ {
+  "it": "venditore formale",
+  "tr": "vendeur officiel"
+ },
+ {
+  "it": "ritiro (del Veicolo)",
+  "tr": "retrait"
+ },
+ {
+  "it": "consegna (del Veicolo)",
+  "tr": "livraison"
+ },
+ {
+  "it": "ripristino (art. 15: della situazione anteriore)",
+  "tr": "rétablissement (de la situation antérieure); « remise en état » solo per il ripristino materiale/riparazione del Veicolo (art. 20)"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction (plurale: 1 Euro Auctions)"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Sommaire"
+ },
+ {
+  "it": "Termini e Condizioni Generali - Marketplace Fleequid®",
+  "tr": "Conditions générales - Place de marché Fleequid®"
+ },
+ {
+  "it": "art. / artt. / lett. / ultimo periodo / c.c. / D.Lgs",
+  "tr": "art. (anche al plurale) / lettre x) / dernière phrase / Code civil italien (article NNNN du Code civil italien) / décret législatif"
+ },
+ {
+  "it": "operatività quale Intermediario puro / operando quale Intermediario puro",
+  "tr": "intervention en tant que Simple intermédiaire / lorsque Fleequid agit en tant que Simple intermédiaire"
+ },
+ {
+  "it": "pagamento anticipato (minuscolo, art. 22.9: pagamento di Fleequid al Venditore prima dell'incasso)",
+  "tr": "paiement anticipé (minuscolo)"
+ },
+ {
+  "it": "in acconto sul prezzo",
+  "tr": "à valoir sur le prix"
+ },
+ {
+  "it": "saldo",
+  "tr": "solde"
+ },
+ {
+  "it": "Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Véhicule temporairement en usage chez le Vendeur"
+ },
+ {
+  "it": "disciplina (di una materia, relativa disciplina)",
+  "tr": "régime"
+ }
+]
