@@ -119,3 +119,6 @@ Fatti: IT, EN, DE (Word committati).
 - RU, RO, CZ: k01 tradotti, revisione k01 lanciata. Poi per ciascuna: scrivere `rb/<LANG>/NOTE_LINGUA.md` dalle decisioni del revisore, `rebuild terms`, `rebuild brief`, k02..k10.
 Vincolo: massimo 20 agenti in parallelo. Prompt brevi: vedi ISTRUZIONI_*.md (leggono NOTE_COMUNI.md e <LANG>/NOTE_LINGUA.md).
 Nei brief il glossario Care è mostrato solo in k01 e marcato come secondario (prevale la v8 delle Generali).
+
+## Da fare alla fine (richiesta di Salvatore, 2026-10-06)
+- Word aggiuntivo per il legale con TUTTE le incongruenze rilevate nella IT v9 (da questa nota + risposte di traduttori/revisori/armonizzatori di tutte le lingue), nella cartella della v9. Aggiunte recenti: art. 10.4 "precedenti commi" ma la verifica riguarda anche il 10.5; art. 12.2 "1 (un) giorno" senza "lavorativo"; art. 6.2 antecedente ambiguo di "che prevale in ogni caso sui valori ordinariamente applicati".

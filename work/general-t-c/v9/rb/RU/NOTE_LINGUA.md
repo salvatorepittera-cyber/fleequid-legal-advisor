@@ -4,4 +4,23 @@
 - Pagamento anticipato (termine definito, art. 13) = "Авансовый платеж"; "pagamento anticipato" minuscolo dell'art. 22.9 = "досрочная выплата"; caparra confirmatoria/penitenziale = подтверждающий / отступной задаток.
 - sostanziale = фактический (mai "основной"); formale = формальный (mai "официальный"); committente/mandante = комитент (mai "заказчик"); penale = штраф (v8); consegna/ritiro = поставка / получение (v8; "передача" = trasferimento; "акт приема-передачи" resta); incasso del prezzo = поступление (денежных средств); commercializzazione = реализация; perfezionamento = заключение; operazione specifica/singola = конкретная / отдельная сделка; modalità di esecuzione = способ исполнения; fase esecutiva = стадия исполнения; modalità di Evento di vendita = способ проведения Процедуры продажи; conoscibilità = возможность ознакомления; fonti contrattuali = договорные источники; clausola risolutiva espressa = оговорка о расторжении ipso jure (v8); errore materiale manifesto = явная техническая ошибка; ritardo = просрочка, mora del creditore = просрочка кредитора; ripristino (art. 15) = восстановление прежнего положения; controproposta = встречное предложение; rilancio = повышение; incasso netto = чистая выручка; vendita obbligatoria ex art. 1478 c.c. = vendita a effetti obbligatori (la v8 "принудительная продажа" è un errore).
 - Rinvii: ст. / лит. / абз. (comma) / последнее предложение; c.c. = Гражданский кодекс Италии; D.Lgs. = Законодательный декрет.
+- Locuzioni ricorrenti fissate dopo k03 e k05 (vincolanti per tutti i blocchi; l'armonizzatore le applica dove mancano):
+  maggior danno = «убытки в большем размере» («без ущерба для права на возмещение убытков в большем размере»; NON «большего ущерба»);
+  regime cauzionale (di primo/secondo livello) = «депозитный режим (первого / второго уровня)» (NON «режим обеспечения»);
+  dolo o colpa grave = «умысел или грубая неосторожность»; per fatto imputabile a = «по обстоятельствам, за которые отвечает …»;
+  recesso (4.2, 5.11, 8.8) = «отказ от договора» / «уведомление об отказе от договора» (la v8 «выход» è un calco);
+  approvazione analogica = «одобрение на бумажном носителе»; interessi moratori = «проценты за просрочку»; penale giornaliera = «ежедневный штраф»;
+  maturare (penali, interessi) = «начисляться» / «начисление»; maturazione delle Commissioni / presupposti di maturazione = «возникновение права на Комиссионные» / «условия возникновения права» (come k01);
+  a carico di (Commissioni, costi) = «возлагаемые на …» (NON «за счет», che vale "per conto di"); la compravendita è conclusa = «договор купли-продажи заключается»;
+  a propria insindacabile discrezione = «по своему исключительному усмотрению»; neutralizzare le Offerte = «лишать силы Предложения»; disposizione inderogabile = «императивная норма»;
+  manlevare e tenere indenne = «освободить от ответственности и возместить потери»; acquisto da stock = «покупка на склад»; penale residuale = «остаточный штраф»;
+  medesimo fatto materiale = «одно и то же фактическое обстоятельство»; movimentazione / trasferimento fisico = «передвижение» / «перемещение»; importi = «3 000,00 € (три тысячи евро/00)»; a titolo di penale = «в качестве штрафа»;
+  soglia minima / pavimento economico = «минимальный порог» / «нижний экономический предел»; componente penale = «штрафная составляющая»;
+  parametro convenzionale = «условный параметр»; rimedi = «средства правовой защиты»; buon fine dell'operazione = «успешное завершение сделки»;
+  stato di venduto = «статус проданного»; disservizio = «сбой (в работе)»; credenziali = «учетные данные»; profilo / account = «профиль» / «учетная запись»;
+  manlevare (e tenere indenne) = «освобождать от ответственности (и возмещать убытки)»; in via ordinaria = «по общему правилу»;
+  resta fermo = «сохраняет силу» / «остаются в силе положения ст. …»; presente comma / periodo = «настоящий абзац» / «предложение»;
+  intestazione del Veicolo = «регистрация Транспортного средства (на имя …)»; locazione finanziaria = «договор финансовой аренды (лизинга)»;
+  comunicazione = «уведомление»; importi = «150,00 € (сто пятьдесят евро/00)»; Fleequid femminile («компания Fleequid» dove serve il caso);
+  rivendita minuscolo nel Dealer Sales = «дальнейшая продажа» (per non confonderla con il termine definito «Перепродажа»).
 - Non copiare dal corpo v8: "Общие положения", "Профессиональный пользователь", "профессионал" minuscolo, "контрпредложение", "Аукцион за 1 евро", "источники переговоров", "доставка" per consegna, "задержка" per ritardo con penale, "статья N / буква", "Гражданского кодекса" senza "Италии", virgolette dritte, lettera ё.
