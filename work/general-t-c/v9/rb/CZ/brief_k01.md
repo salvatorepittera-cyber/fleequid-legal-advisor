@@ -1,62 +1,65 @@
-# Brief PL — blocco k01 (articoli: 0, 1, titoli; 3488 parole IT)
+# Brief CZ — blocco k01 (articoli: 0, 1, titoli; 3488 parole IT)
 
 Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura ampia).
 - Testo completo IT v9: `work/general-t-c/v9/it_new.txt`
 - Testo completo IT v8: `work/refs/general_IT_v8.txt`
-- Testo completo PL v8: `work/refs/general_PL.txt`
+- Testo completo CZ v8: `work/refs/general_CZ.txt`
 
 ## Regole (vincolanti)
-1. Traduci OGNI paragrafo per intero in linguaggio tecnico-legale-commerciale polacco, quello di un contratto B2B
+1. Traduci OGNI paragrafo per intero in linguaggio tecnico-legale-commerciale ceco, quello di un contratto B2B
    redatto da un giurista madrelingua: preciso, formale, senza calchi dall'italiano. Nessuna omissione, nessuna aggiunta,
    nessuna spiegazione. Il senso giuridico deve essere equivalente all'IT v9.
-2. Continuità con la versione precedente PL (v8), che è già pubblicata e vincolante:
-   - paragrafo "identico": copia ALLA LETTERA la resa v8 PL;
-   - "ritoccato"/"modificato": parti dalla resa v8 PL e cambia solo ciò che il diff IT richiede
+2. Continuità con la versione precedente CZ (v8), che è già pubblicata e vincolante:
+   - paragrafo "identico": copia ALLA LETTERA la resa v8 CZ;
+   - "ritoccato"/"modificato": parti dalla resa v8 CZ e cambia solo ciò che il diff IT richiede
      (aggiunte, sostituzioni, RIMOZIONI [-...-]);
-   - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v8 PL.
-   L'abbinamento con la resa v8 è automatico: se il testo PL mostrato non corrisponde all'IT v8 indicato,
-   cerca il paragrafo giusto in `work/refs/general_PL.txt` e usa quello.
-3. Terminologia: i termini contrattuali già usati nella v8 PL NON cambiano (la tabella termini sotto, se
-   presente, è vincolante; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_PL.txt`; se non c'è scegli la resa legale
+   - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v8 CZ.
+   L'abbinamento con la resa v8 è automatico: se il testo CZ mostrato non corrisponde all'IT v8 indicato,
+   cerca il paragrafo giusto in `work/refs/general_CZ.txt` e usa quello.
+3. Terminologia: i termini contrattuali già usati nella v8 CZ NON cambiano (glossario e tabella termini sotto
+   sono vincolanti; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_CZ.txt`; se non c'è scegli la resa legale
    standard nella lingua e riportala in "new_terms". Un termine definito con iniziale maiuscola in IT resta un termine
-   definito (maiuscola secondo l'uso già adottato nella v8 PL), sempre reso allo stesso modo.
+   definito (maiuscola secondo l'uso già adottato nella v8 CZ), sempre reso allo stesso modo.
 4. Formattazione: riporta <b>, <i>, <u> sulle parole corrispondenti, con lo STESSO numero di segmenti dell'IT v9.
    Nessun altro tag, nessun a capo aggiunto.
 5. Numeri, importi, termini in giorni, rinvii ad articoli ("art. 12.6"), riferimenti normativi italiani ed europei,
    nomi propri, marchi (Fleequid®, Fleequid Care®, TrustReport...), e-mail e URL: invariati nel valore. Importi e
-   migliaia con la convenzione tipografica della v8 PL. I rinvii ad articoli seguono la numerazione dell'IT v9.
+   migliaia con la convenzione tipografica della v8 CZ. I rinvii ad articoli seguono la numerazione dell'IT v9.
 6. Non tradurre i nomi commerciali lasciati in inglese nell'IT (es. Buy Now, Dealer Sales, Marketplace) salvo che la
-   v8 PL li traduca già.
+   v8 CZ li traduca già.
 
-## Glossario cumulativo (IT → PL) — secondario: prevale la v8 PL di questo documento
+## Glossario dalle versioni pubblicate (IT → CZ)
 
-- Acquirente → Kupujący  [VAS - Fleequid Care v1]
-- Centro Autorizzato → Centrum Autoryzowane  [VAS - Fleequid Care v1]
-- Condizioni Generali → Warunki Ogólne  [VAS - Fleequid Care v1]
-- CG → WO  [VAS - Fleequid Care v1]
-- Fleequid Care → Fleequid Care  [VAS - Fleequid Care v1]
-- Servizio Fleequid Care → Usługa Fleequid Care  [VAS - Fleequid Care v1]
-- Guasto/i → Awaria(-e)  [VAS - Fleequid Care v1]
-- Malfunzionamento/i → Uszkodzenie(-a)  [VAS - Fleequid Care v1]
-- Reclamo → Reklamacja  [VAS - Fleequid Care v1]
-- TrustReport → TrustReport  [VAS - Fleequid Care v1]
-- Venditore → Sprzedający  [VAS - Fleequid Care v1]
-- Veicolo → Pojazd  [VAS - Fleequid Care v1]
-- Voucher Fleequid → Bon kompensacyjny Fleequid  [VAS - Fleequid Care v1]
-- Voucher → Voucher  [VAS - Fleequid Care v1]
-- chilometraggio iniziale → przebieg początkowy  [Fleequid Care v2 (nuovo)]
-- verbale di consegna → protokół zdawczo-odbiorczy  [Fleequid Care v2 (nuovo)]
-- contachilometri → licznik kilometrów  [Fleequid Care v2 (nuovo)]
-- Scheda d’Asta → Karta Aukcyjna  [Fleequid Care v2 (nuovo)]
-- Specifiche tecniche → Specyfikacje techniczne  [Fleequid Care v2 (nuovo)]
-- contratti di compravendita (del Veicolo) → umowy kupna-sprzedaży (Pojazdu)  [Fleequid Care v2 (nuovo)]
-- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reklamacja uregulowana w art. 13 Warunków Ogólnych  [Fleequid Care v2 (nuovo)]
-- limite temporale / limite chilometrico → limit czasowy / limit kilometrowy  [Fleequid Care v2 (nuovo)]
-- evidenza documentale o fotografica → dowody w postaci dokumentów lub zdjęć  [Fleequid Care v2 (nuovo)]
-- arbitro unico → pojedynczy arbiter  [Fleequid Care v2 (nuovo)]
+- Acquirente → Kupující
+- Centro Autorizzato → Autorizovaný servis
+- Condizioni Generali → Všeobecné obchodní podmínky
+- CG → VOP
+- Fleequid Care → Fleequid Care
+- Servizio Fleequid Care → Služba Fleequid Care
+- Guasto/i → Porucha(y)
+- Malfunzionamento/i → Závada(y)
+- Reclamo → Reklamace
+- TrustReport → TrustReport
+- Venditore → Prodávající
+- Veicolo → Vozidlo
+- Voucher Fleequid → Fleequid Voucher
+- Voucher → Voucher
+- chilometraggio (iniziale) → (počáteční) počet najetých kilometrů
+- verbale di consegna → dodací protokol
+- contachilometri → počítadlo najetých kilometrů
+- Scheda d’Asta → Aukční list
+- Specifiche tecniche → Technické specifikace
+- contratti di compravendita → kupní smlouvy
+- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reklamace upravená článkem 13 Všeobecných obchodních podmínek
+- percorrenza / chilometri percorsi → počet najetých kilometrů (percorrenza) / kilometry ujeté od… (chilometri percorsi, solo 4.2)
+- prova primaria → primární důkaz
+- evidenza documentale o fotografica → listinný nebo fotografický důkaz
+- titolo (quanto a titolo e contenuto) → právní titul
+- Guasto (in 7.3 e 9.4) → závada
+- vizi, difetti o anomalie (9.2.L1) → vady, nedostatky nebo anomálie
 
 ## Nota sul blocco k01
-Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: le rese scelte qui diventano vincolanti per il resto del documento. In "new_terms" elenca OGNI termine definito nuovo rispetto alla v8 con la resa scelta e la fonte. L'unità con chiave TOC è il titolo dell'indice: usa la parola già usata nella v8 PL.
+Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: le rese scelte qui diventano vincolanti per il resto del documento. In "new_terms" elenca OGNI termine definito nuovo rispetto alla v8 con la resa scelta e la fonte. L'unità con chiave TOC è il titolo dell'indice: usa la parola già usata nella v8 CZ.
 
 
 ## Paragrafi da tradurre
@@ -75,9 +78,9 @@ Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: l
 
 Termini e Condizioni Generali {+- Marketplace Fleequid®+}
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Marketplace Fleequid®
+Online tržiště Fleequid®
 
 ### u002 — [TOC] (nuovo)
 
@@ -91,9 +94,9 @@ Marketplace Fleequid®
 
 <b>Definizioni</b>.
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Definicje.
+Definice.
 
 ### u004 — [1~0] (riscritto, 24% dal testo v8)
 
@@ -105,7 +108,7 @@ In aggiunta alle altre definizioni contenute nelle presenti Condizioni Generali,
 
 In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Generali”, i seguenti termini avranno il significato di seguito riportato:
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u005 — [1.L1] (riscritto, 14% dal testo v8)
 
@@ -117,7 +120,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Acquirente/i</i></b>”: indica l’Offerente che, al termine dell'Asta, ha presentato l'Offerta più alta (Puntata massima) e ha ricevuto la conferma di Aggiudicazione da parte di Fleequid, previa verifica del superamento del Prezzo di riserva o l'accettazione, da parte dell'Offerente stesso, dell’eventuale controproposta avanzata dal Venditore. Tale soggetto diviene così l’effettivo compratore del Veicolo tramite l’acquisto di tale Veicolo da Fleequid in qualità di commissionario di vendita del Venditore o, nei casi in cui Fleequid opera come Intermediario puro, acquistandolo direttamente dal Venditore. Tale termine è sempre riferito all’Acquirente sostanziale, soggetto diverso rispetto a Fleequid.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u006 — [1.L2] (riscritto, 7% dal testo v8)
 
@@ -129,7 +132,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Aggiudicazione/i</i></b>”: indica la condizione dell’Offerente al termine di un’Asta in cui lo stesso ha formulato l’Offerta, anche a seguito di eventuali rilanci, più alta (Puntata massima). Il processo di aggiudicazione è compiutamente regolato dall’art. 8) delle presenti Condizioni Generali. 
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u007 — [1.L3] (riscritto, 19% dal testo v8)
 
@@ -141,7 +144,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Acquirente/i</i></b>”: indica l’Offerente che, al termine dell'Asta, ha presentato l'Offerta più alta (Puntata massima) e ha ricevuto la conferma di Aggiudicazione da parte di Fleequid, previa verifica del superamento del Prezzo di riserva o l'accettazione, da parte dell'Offerente stesso, dell’eventuale controproposta avanzata dal Venditore. Tale soggetto diviene così l’effettivo compratore del Veicolo tramite l’acquisto di tale Veicolo da Fleequid in qualità di commissionario di vendita del Venditore o, nei casi in cui Fleequid opera come Intermediario puro, acquistandolo direttamente dal Venditore. Tale termine è sempre riferito all’Acquirente sostanziale, soggetto diverso rispetto a Fleequid.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u008 — [1.L4] (riscritto, 4% dal testo v8)
 
@@ -153,7 +156,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Aggiudicazione/i</i></b>”: indica la condizione dell’Offerente al termine di un’Asta in cui lo stesso ha formulato l’Offerta, anche a seguito di eventuali rilanci, più alta (Puntata massima). Il processo di aggiudicazione è compiutamente regolato dall’art. 8) delle presenti Condizioni Generali. 
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u009 — [1.L5] (riscritto, 4% dal testo v8)
 
@@ -165,7 +168,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Base d’asta</i></b>”: il prezzo minimo del Veicolo al di sopra del quale i potenziali Acquirenti possono inserire Offerte o effettuare rilanci sul Marketplace.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u010 — [1.L6] (modificato, 52% dal testo v8)
 
@@ -181,7 +184,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Asta/e”:-] {+“Asta”: Evento di vendita consistente in un+} processo di vendita telematica [-operata-] {+operato+} tramite il [-Marketplace-] {+Marketplace,+} che prevede una o più Offerte e [-che-] si [-conclude con l’Aggiudicazione, da cui consegue,-] {+conclude,+} nei casi e alle condizioni [-indicate-] {+previste+} dalle presenti [-CG, la vendita-] {+Condizioni Generali, con il perfezionamento dell'Accordo vincolante in favore+} del [-Veicolo al miglior-] {+migliore+} Offerente.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u011 — [1.L7] (riscritto, 7% dal testo v8)
 
@@ -193,7 +196,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Condizioni Generali</i></b>” o “<b><i>CG</i></b>”: le presenti condizioni generali di contratto, consultabili nell’apposita sezione del Marketplace, che regolano i rapporti tra Fleequid e la generalità degli Utenti.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u012 — [1.L8] (riscritto, 12% dal testo v8)
 
@@ -205,7 +208,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Condizioni particolari d’asta</i></b>”: eventuali condizioni contrattuali particolari che specificano, anche in deroga alle presenti CG, le regole di aggiudicazione di determinati Veicoli nell’ambito delle specifiche sezioni del Marketplace dedicate ad una o più Aste. Le Condizioni particolari d’asta, quando presenti, sono consultabili nella sezione del Marketplace dedicata all’Asta, possono prevedere, a titolo esemplificativo ma non esaustivo, particolari condizioni della garanzia, limitazione alla presentazione di Offerte da parte di Utenti in possesso di determinati requisiti soggettivi, specifici termini o modalità di consegna dei Veicoli oppure speciali Commissioni o spese che regolano la specifica Asta. Il rapporto gerarchico delle Condizioni particolari d’asta con le presenti CG e con eventuali altre Condizioni specifiche o altri rapporti contrattuali è disciplinato dall’art. 3.3) delle presenti CG.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u013 — [1.L9] (modificato, 47% dal testo v8)
 
@@ -221,7 +224,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Commissioni”: [-le commissioni dovute sia-] {+i corrispettivi dovuti a Fleequid+} dal Venditore [-che dall’Acquirente a Fleequid-] {+e dall'Acquirente+} per la compravendita di Veicoli realizzata con [-l’impiego-] {+l'impiego+} del Marketplace ovvero dei servizi e {+dei+} sistemi di compravendita di [-Fleequid.-] {+Fleequid, nei soli Modelli di Vendita che le prevedono.+} Salvo diverso accordo scritto [-tra Fleequid e le parti,-] ovvero diversa indicazione delle Condizioni particolari [-d’asta, tali-] {+di vendita, le+} Commissioni sono determinate [-da Fleequid-] in base al Tariffario [-Fleequid pubblicato e reso consultabile sul Marketplace-] {+Fleequid. Nella Vendita in commissione,+} ai [-seguenti links: https://fleequid.com/en/pricing-seller e https://fleequid.com/en/pricing-buyer. Con riferimento al-] {+fini del+} calcolo del Prezzo di [-riserva,-] {+riserva+} rilevano esclusivamente le Commissioni poste contrattualmente a carico del [-Venditore, come determinate dal Tariffario Fleequid.-] {+Venditore. La maturazione delle Commissioni è disciplinata dall'art. 12.4. Nel Dealer Sales non sono dovute Commissioni e il risultato economico dell'attività di compravendita di Fleequid non costituisce Commissione.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u014 — [1.L10] (riscritto, 9% dal testo v8)
 
@@ -233,7 +236,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Contratto/i</i></b>”: a seconda dei casi, designa i rapporti contrattuali, regolati dalle presenti CG nonché da eventuali Condizioni particolari d’asta e Condizioni specifiche. Il Contratto regola la compravendita di Veicoli da parte del Venditore a Fleequid, quale commissionario di vendita dell’Acquirente, ovvero la rivendita dei Veicoli operata da Fleequid, quale commissionario di acquisto, all’Acquirente committente di acquisto. Il Contratto può anche regolare il trasferimento diretto dei Veicoli dal Venditore all’Acquirente nei casi in cui Fleequid opera come Intermediario puro. È da notare che tali contratti possono essere conclusi verbalmente o mediante altri mezzi di manifestazione della volontà, e non necessariamente Fleequid richiede che gli stessi debbano essere conclusi in forma scritta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u015 — [1.L11] (modificato, 66% dal testo v8)
 
@@ -249,7 +252,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Condizioni Generali” o “CG”: le presenti condizioni generali di contratto, consultabili nell’apposita sezione del Marketplace, che regolano i rapporti tra Fleequid e la generalità degli [-Utenti.-] {+Utenti e costituiscono l'architettura contrattuale generale secondo la gerarchia di cui all'art. 4.3.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u016 — [1.L12] (riscritto, 22% dal testo v8)
 
@@ -261,7 +264,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Condizioni particolari d’asta</i></b>”: eventuali condizioni contrattuali particolari che specificano, anche in deroga alle presenti CG, le regole di aggiudicazione di determinati Veicoli nell’ambito delle specifiche sezioni del Marketplace dedicate ad una o più Aste. Le Condizioni particolari d’asta, quando presenti, sono consultabili nella sezione del Marketplace dedicata all’Asta, possono prevedere, a titolo esemplificativo ma non esaustivo, particolari condizioni della garanzia, limitazione alla presentazione di Offerte da parte di Utenti in possesso di determinati requisiti soggettivi, specifici termini o modalità di consegna dei Veicoli oppure speciali Commissioni o spese che regolano la specifica Asta. Il rapporto gerarchico delle Condizioni particolari d’asta con le presenti CG e con eventuali altre Condizioni specifiche o altri rapporti contrattuali è disciplinato dall’art. 3.3) delle presenti CG.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u017 — [1.L13] (riscritto, 22% dal testo v8)
 
@@ -273,7 +276,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Condizioni specifiche</i></b>”: condizioni generali di contratto, aggiuntive alle presenti CG, specifiche per talune categorie di Veicoli o Servizi presenti sul Marketplace. Il rapporto delle Condizioni specifiche con le presenti CG ed eventuali altre fonti negoziali è disciplinato dall’art. 3.3) delle presenti CG. 
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u018 — [1.L14] (riscritto, 4% dal testo v8)
 
@@ -285,7 +288,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Gravame/i</i></b>”: vincolo o peso, diritto di garanzia, pegno, mandati esecutivi, obblighi contrattuali, riserva di proprietà, obblighi relativi a imposte o dazi, ipoteche, pegni oppure altri gravami, di qualsivoglia natura, gravanti sul Veicolo e che ne possono impedire o rendere più difficoltosa la circolazione giuridica e la commerciabilità. È da considerarsi Gravame qualsivoglia specifica dei Veicoli che non consenta la "libera circolazione" all'interno dell'Unione europea dei Veicoli o l’assenza di "certificazione CE" conformemente alla legislazione dell'Unione europea applicabile, se richiesta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u019 — [1.L15] (riscritto, 4% dal testo v8)
 
@@ -297,7 +300,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Contratto/i</i></b>”: a seconda dei casi, designa i rapporti contrattuali, regolati dalle presenti CG nonché da eventuali Condizioni particolari d’asta e Condizioni specifiche. Il Contratto regola la compravendita di Veicoli da parte del Venditore a Fleequid, quale commissionario di vendita dell’Acquirente, ovvero la rivendita dei Veicoli operata da Fleequid, quale commissionario di acquisto, all’Acquirente committente di acquisto. Il Contratto può anche regolare il trasferimento diretto dei Veicoli dal Venditore all’Acquirente nei casi in cui Fleequid opera come Intermediario puro. È da notare che tali contratti possono essere conclusi verbalmente o mediante altri mezzi di manifestazione della volontà, e non necessariamente Fleequid richiede che gli stessi debbano essere conclusi in forma scritta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u020 — [1.L16] (riscritto, 14% dal testo v8)
 
@@ -309,7 +312,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b>Consumatore/i</b>”: la persona fisica che agisce per scopi estranei all'attività imprenditoriale, commerciale, artigianale o professionale eventualmente svolta ai sensi dell’art. 3 del D.lgs. 6 settembre 2005, n. 206.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u021 — [1.L17] (riscritto, 2% dal testo v8)
 
@@ -321,7 +324,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Offerta/e</i></b>”: le offerte di acquisto formulate dagli Offerenti partecipanti all’Asta finalizzate a proporre l’acquisto del Veicolo ad un prezzo determinato.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u022 — [1.L18] (riscritto, 22% dal testo v8)
 
@@ -333,7 +336,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 <b>“Deposito cauzionale”</b>: somma di denaro che l’Offerente deve versare a Fleequid al momento della formulazione di un'Offerta in Asta, come garanzia della serietà dell'offerta stessa.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u023 — [1.L19] (riscritto, 2% dal testo v8)
 
@@ -345,7 +348,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 "<b>Parti</b>”: indica congiuntamente Fleequid, il Venditore, l’Offerente e/o l’Acquirente.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u024 — [1.L20] (riscritto, 9% dal testo v8)
 
@@ -357,7 +360,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Prezzo di aggiudicazione</i></b>”: prezzo corrispondente alla Puntata massima, pari o superiore al Prezzo di riserva determinato da Fleequid sulla base del PMIV fissato dal Venditore o comunque successivamente accettata dal Venditore o dall’Acquirente (in caso di accettazione da parte dell’Offerente di un’eventuale controproposta del Venditore), in corrispondenza della quale Fleequid opera l’Aggiudicazione vincolante sia per il Venditore che per l’Acquirente al termine dell'Asta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u025 — [1.L21] (modificato, 52% dal testo v8)
 
@@ -373,7 +376,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Fleequid”: designa principalmente la Società Adorea S.r.l., con sede legale in Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), Codice Fiscale e Partita IVA 04114790134, iscrizione Registro Imprese di Como n. 420825, e-mail info@fleequid.com, titolare del marchio Fleequid®. Il termine può inoltre riferirsi ad altre entità giuridiche, affiliate o designate da Adorea S.r.l. per la [-compravendita-] {+commercializzazione+} di [-Veicoli. Qualora una vendita venga effettuata tramite un’entità giuridica diversa da Adorea S.r.l.,-] {+Veicoli, secondo quanto previsto dall’art. 2.9.+} Fleequid [-si impegna a comunicare agli Utenti, nei relativi documenti contrattuali-] {+gestisce il Marketplace+} e [-fiscali,-] {+rende disponibili+} i [-dettagli identificativi dell’entità coinvolta-] {+Servizi; la veste+} nella [-transazione. Questi dettagli potranno essere definiti, a esclusiva discrezione-] {+quale essa interviene nella singola operazione dipende dal Modello+} di [-Fleequid: Preventivamente, comunicandoli al Venditore al momento dell’accettazione della Proposta-] {+Vendita applicabile e, nella Vendita in commissione, dalla modalità+} di [-vendita-] {+esecuzione prescelta, secondo quanto previsto dagli artt. 2.3-2.8, 3, 17+} e [-all’Acquirente nella scheda d’Asta; Oppure successivamente, al momento della conclusione del Contratto, mediante semplice-] {+18. La posizione di Fleequid con+} riferimento [-all’entità giuridica nei documenti fiscali della compravendita. Gli Utenti accettano che tale struttura operativa possa includere, a titolo esemplificativo, filiali, affiliate-] {+ai Veicoli qualificabili come VFU+} o [-altre società formalmente costituite-] {+comunque come rifiuti è disciplinata dagli artt. 16.13+} e [-riconducibili a Fleequid, anche con sede in Paesi esteri. Inoltre, le vendite saranno regolate dalla normativa fiscale applicabile nel Paese in cui ha sede l’entità giuridica coinvolta nella specifica transazione. Infine, nel contesto della Rivendita, qualora Fleequid sia indicata come acquirente o venditore formale, essa non deve mai essere confusa con l’Acquirente o il Venditore sostanziale. In ogni caso, Fleequid – quale che sia l’entità giuridica coinvolta nella specifica operazione – opera esclusivamente quale gestore di marketplace digitale e facilitatore della compravendita di Veicoli e non assume alcun ruolo operativo nella gestione, detenzione, trasporto, recupero o smaltimento di rifiuti o Veicoli Fuori Uso (VFU), né organizza o coordina tali attività, salvo quanto eventualmente imposto da disposizioni inderogabili di legge applicabili nel Paese interessato.-] {+18.8.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u026 — [1.L22] (modificato, 65% dal testo v8)
 
@@ -389,7 +392,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Gravame/i”:-] {+“Gravame”: qualsiasi+} vincolo o peso, diritto di garanzia, pegno, [-mandati esecutivi, obblighi contrattuali,-] {+mandato esecutivo, obbligo contrattuale,+} riserva di proprietà, [-obblighi relativi-] {+obbligo relativo+} a imposte o dazi, [-ipoteche, pegni oppure altri gravami,-] {+ipoteca o altro gravame,+} di qualsivoglia natura, [-gravanti-] {+gravante+} sul Veicolo e [-che ne possono-] {+idoneo a+} impedire o {+a+} rendere più difficoltosa la circolazione giuridica e la commerciabilità. È da considerarsi Gravame qualsivoglia [-specifica dei Veicoli-] {+caratteristica del Veicolo+} che non {+ne+} consenta la [-"libera circolazione"-] {+libera circolazione+} all'interno dell'Unione europea [-dei Veicoli o l’assenza di "certificazione CE"-] {+ovvero l'assenza della certificazione CE+} conformemente alla legislazione dell'Unione europea applicabile, se richiesta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u027 — [1.L23] (riscritto, 4% dal testo v8)
 
@@ -401,7 +404,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b>Professionista/i</b>”: la persona fisica o giuridica che agisce nell'esercizio della propria attività imprenditoriale, commerciale, artigianale o professionale, ovvero un suo intermediario, con esclusione dei Consumatori. Rientrano altresì in questa definizione le “microimprese”, ossia le entità, società o associazioni che, a prescindere dalla forma giuridica, esercitano un'attività economica, anche a titolo individuale o familiare, occupando meno di dieci persone e realizzando un fatturato annuo oppure un totale di bilancio annuo non superiori a due milioni di euro, ai sensi dell'articolo 2, paragrafo 3, dell'allegato alla Raccomandazione n. 2003/361/CE della Commissione, del 6 maggio 2003 e dal D. Lgs. n. 206/2005, art. 18, lett. d-bis (Codice del Consumo). 
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u028 — [1.L24] (riscritto, 10% dal testo v8)
 
@@ -413,7 +416,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Proposta di vendita</i></b>”: la manifestazione di volontà con cui il Venditore conferisce a Fleequid l’incarico di procedere alla vendita di uno o più Veicoli tramite il Marketplace o attraverso altre modalità di vendita disponibili. La Proposta di vendita può essere formulata direttamente dal Venditore mediante l’utilizzo degli strumenti informatici messi a disposizione da Fleequid, oppure con il supporto di quest’ultima, attraverso qualsiasi canale idoneo a esprimere in modo inequivoco la volontà di vendere, inclusi, a titolo esemplificativo, comunicazioni via e-mail, comunicazioni orali, sistemi di messaggistica istantanea, documenti condivisi o altri mezzi equivalenti. In ogni caso, la Proposta deve consentire l’identificazione dei Veicoli oggetto di vendita, anche tramite VIN o dati equivalenti, nonché l’indicazione del Prezzo minimo di impegno alla vendita (PMIV). La Proposta di vendita può essere formulata e confermata dal Venditore mediante strumenti informatici o digitali, inclusi il Marketplace e le relative funzionalità di approvazione, ovvero mediante strumenti analogici o altri mezzi equivalenti, purché idonei a documentare la volontà del Venditore. La Proposta di vendita è valida ed efficace nei termini delle presenti CG e vincola il Venditore sin dal momento in cui la stessa è formulata o confermata, anche qualora non sia ancora stata pubblicata sul Marketplace, non sia stato predisposto il dossier tecnico o non sia stata ancora completata la relativa Scheda d’Asta.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u029 — [1.L25] (riscritto, 24% dal testo v8)
 
@@ -425,7 +428,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 <b>“Intermediario puro”</b>: la condizione in cui Fleequid opera esclusivamente come facilitatore del processo d'Asta, non operando la Rivendita e consentendo quindi il trasferimento e la fatturazione dei Veicoli direttamente dal Venditore all'Acquirente.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u030 — [1.L26] (modificato, 77% dal testo v8)
 
@@ -441,7 +444,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Marketplace”: {+le+} piattaforme d'asta e [-piattaforme-] di altra natura, {+le+} app, {+i+} siti e {+i+} servizi integrati [-(disponibili all’interno di app, siti e servizi di altre società)-] che costituiscono un mercato online [-in cui-] {+nel quale+} gli Utenti possono, nei casi e alle condizioni fissate dalle presenti CG e [-da ogni altro regolamento negoziale preventivamente approvato ed applicabile,-] {+dalle ulteriori fonti applicabili,+} acquistare e vendere Veicoli nonché richiedere [-e/o-] {+ed+} utilizzare gli altri Servizi messi a disposizione da [-Fleequid. Tra questi,-] {+Fleequid, tra i quali,+} in [-particolar modo,-] {+particolare,+} il sito internet di Fleequid raggiungibile al seguente indirizzo: https://www.fleequid.com.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u031 — [1.L27] (riscritto, 11% dal testo v8)
 
@@ -453,7 +456,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Scheda d’Asta” (o “Inserzione”): il contenuto informativo e descrittivo relativo al Veicolo oggetto della Proposta di vendita, comprensivo, a titolo esemplificativo e non esaustivo, delle Specifiche tecniche, delle immagini, del dossier tecnico, delle condizioni di vendita e di ogni altra informazione resa disponibile agli Utenti tramite il Marketplace o altri canali di comunicazione. La Scheda d’Asta può essere predisposta da Fleequid, anche per conto del Venditore e sulla base delle informazioni da quest’ultimo fornite o comunque nella sua disponibilità, e costituisce una modalità di esecuzione della Proposta di vendita, senza che la sua predisposizione o pubblicazione incida sulla validità ed efficacia della Proposta stessa, che resta disciplinata dalle presenti CG.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u032 — [1.L28] (riscritto, 8% dal testo v8)
 
@@ -465,7 +468,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Servizio/i</i></b>”: i servizi, sia offline che online, eventualmente messi a disposizione da Fleequid agli Utenti e soggetti a Tariffe (come, ad esempio, servizi di trasporto e di logistica dei Veicoli, e altri servizi indicati sul Marketplace), con esclusione di quelli di intermediazione nella compravendita di Veicoli sul Marketplace, che sono soggetti a Commissioni.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u033 — [1.L29] (modificato, 52% dal testo v8)
 
@@ -481,7 +484,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Offerente/i”:-] {+“Offerente”:+} ogni Utente Professionista che partecipa [-all’Asta,-] {+ad un Evento di vendita+} formulando una o più [-Offerte finalizzate all’Aggiudicazione-] {+Offerte. L’Offerente assume la qualità+} di [-uno o più Veicoli. L’Offerente diventa-] Acquirente nel momento in cui [-consegue l’Aggiudicazione definitiva del Veicolo-] {+si perfeziona+} in suo [-favore.-] {+favore l’Accordo vincolante.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u034 — [1.L30] (riscritto, 6% dal testo v8)
 
@@ -493,7 +496,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 <b><i>“Tariffario Fleequid”</i></b>: insieme delle condizioni che regolano il calcolo, anche in termini di percentuale sul Prezzo di aggiudicazione, delle Commissioni spettanti a Fleequid, tanto dal Venditore quanto dall’Acquirente, in caso e al momento dell’Aggiudicazione di una o più Aste. Il Tariffario Fleequid è consultabile ai seguenti links: <b>https://fleequid.com/en/pricing-seller</b> e <b>https://fleequid.com/en/pricing-buyer</b>.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u035 — [1.L31] (riscritto, 2% dal testo v8)
 
@@ -505,7 +508,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Tariffe</i></b>”: il compenso, diverso dalle Commissioni, spettante a Fleequid per la fornitura di uno o più Servizi richiesti dagli Utenti.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u036 — [1.L32] (riscritto, 21% dal testo v8)
 
@@ -517,7 +520,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 "<b>Parti</b>”: indica congiuntamente Fleequid, il Venditore, l’Offerente e/o l’Acquirente.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u037 — [1.L33] (modificato, 52% dal testo v8)
 
@@ -533,7 +536,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 {+“PMIV” o+} “Prezzo minimo di impegno alla [-vendita” (PMIV):-] {+vendita”:+} il prezzo, espresso in [-euro,-] {+Euro,+} stabilito dal Venditore all’atto della Proposta di vendita, che rappresenta l’incasso minimo netto che il Venditore intende conseguire dalla vendita del Veicolo. Il PMIV [-deve-] {+è vincolante e può+} essere [-comunicato a Fleequid al momento della Proposta-] {+modificato esclusivamente prima dell'avvio del relativo Evento di vendita; in caso di revisione in vista di un successivo tentativo+} di vendita [-ed è vincolante; eventuali modifiche possono essere effettuate esclusivamente per iscritto e solo prima dell’avvio dell’Asta.-] {+si applica quanto previsto dall'art. 8.10.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u038 — [1.L34] (riscritto, 12% dal testo v8)
 
@@ -545,7 +548,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b>Veicolo/i Fuori Uso (VFU)</b>”: qualsiasi Veicolo che, ai sensi della normativa ambientale applicabile nel Paese di ubicazione del bene al momento della cessione, è qualificabile come rifiuto o destinato alla demolizione e al recupero dei materiali. Ai fini delle presenti Condizioni Generali, il detentore giuridico del Veicolo Fuori Uso resta in ogni fase il Venditore fino alla consegna del Veicolo all’Acquirente autorizzato alla demolizione o al trattamento del rifiuto, momento a partire dal quale tale qualifica si trasferisce all’Acquirente. Fleequid, quale gestore del Marketplace, non assume in alcuna fase la qualifica di produttore, detentore, trasportatore, intermediario operativo o gestore del rifiuto e non organizza né coordina le attività di trasporto, trattamento, recupero o smaltimento dei Veicoli Fuori Uso.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u039 — [1.L35] (riscritto, 9% dal testo v8)
 
@@ -557,7 +560,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “<b><i>Venditore/i</i></b>”: qualsiasi Professionista che utilizza i servizi di vendita di Fleequid e che si offre di vendere i propri Veicoli. Tale termine è sempre riferito al Venditore sostanziale, soggetto diverso rispetto a Fleequid. Nel caso in cui Fleequid assuma il ruolo di venditore formale nel processo di Rivendita, sarà sempre indicata come Fleequid.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u040 — [1.L36] (modificato, 56% dal testo v8)
 
@@ -573,7 +576,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Prezzo di riserva” [-(PR):-] {+o “PR”:+} il valore [-d’asta-] lordo, determinato da Fleequid sulla base del PMIV fissato dal Venditore e delle Commissioni a carico del Venditore previste dal Tariffario [-Fleequid. Il PR rappresenta-] {+Fleequid, che rappresenta, nella Vendita in commissione,+} la soglia di prezzo [-minimo-] in corrispondenza della quale, o al di sopra della quale, il Venditore acconsente [-certamente e-] irrevocabilmente alla vendita del [-Veicolo al termine dell’Asta, garantendo che, al superamento del PR, l’incasso-] {+Veicolo, assicurandogli un incasso+} netto [-del Venditore sia-] almeno pari al PMIV. {+Nel Dealer Sales l'eventuale Prezzo di riserva riguarda esclusivamente la rivendita del Veicolo da Fleequid all'Acquirente ed è determinato autonomamente da Fleequid ai sensi dell'art. 9.5.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u041 — [1.L37] (nuovo)
 
@@ -595,7 +598,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Professionista/i”:-] {+“Professionista”:+} la persona fisica o giuridica che agisce nell'esercizio della propria attività imprenditoriale, commerciale, artigianale o professionale, ovvero un suo intermediario, con esclusione dei Consumatori. Rientrano altresì in questa definizione le “microimprese”, ossia le entità, società o associazioni che, a prescindere dalla forma giuridica, esercitano un'attività economica, anche a titolo individuale o familiare, occupando meno di dieci persone e realizzando un fatturato annuo oppure un totale di bilancio annuo non superiori a due milioni di euro, ai sensi dell'articolo 2, paragrafo 3, dell'allegato alla Raccomandazione n. 2003/361/CE della Commissione, del 6 maggio [-2003-] {+2003,+} e [-dal D. Lgs.-] {+dell'art. 18, comma 1, lett. d-bis, del D.Lgs.+} n. [-206/2005, art. 18, lett. d-bis-] {+206/2005+} (Codice del Consumo).
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u043 — [1.L39] (nuovo)
 
@@ -617,7 +620,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Proposta di vendita”: la manifestazione di volontà con [-cui-] {+la quale+} il Venditore conferisce a Fleequid l’incarico di procedere {+alla commercializzazione e+} alla vendita di uno o più Veicoli tramite il Marketplace o attraverso {+le+} altre modalità [-di vendita-] disponibili. La {+forma, il contenuto minimo, l'efficacia e la vincolatività della+} Proposta di vendita [-può essere formulata direttamente dal Venditore mediante l’utilizzo degli strumenti informatici messi a disposizione da Fleequid, oppure con il supporto di quest’ultima, attraverso qualsiasi canale idoneo a esprimere in modo inequivoco la volontà di vendere, inclusi, a titolo esemplificativo, comunicazioni via e-mail, comunicazioni orali, sistemi di messaggistica istantanea, documenti condivisi o altri mezzi equivalenti. In ogni caso, la Proposta deve consentire l’identificazione dei Veicoli oggetto di vendita, anche tramite VIN o dati equivalenti, nonché l’indicazione del Prezzo minimo di impegno alla vendita (PMIV). La Proposta di vendita può essere formulata e confermata dal Venditore mediante strumenti informatici o digitali, inclusi il Marketplace e le relative funzionalità di approvazione, ovvero mediante strumenti analogici o altri mezzi equivalenti, purché idonei a documentare la volontà del Venditore. La Proposta di vendita è valida ed efficace nei termini delle presenti CG e vincola il Venditore sin dal momento in cui la stessa è formulata o confermata, anche qualora non sia ancora stata pubblicata sul Marketplace, non sia stato predisposto il dossier tecnico o non sia stata ancora completata la relativa Scheda d’Asta.-] {+sono disciplinati dall'art. 8.1.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u045 — [1.L41] (ritoccato, 80% dal testo v8)
 
@@ -633,7 +636,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Puntata massima”: il valore più elevato tra tutte le Offerte presentate dagli Offerenti al termine dell’Asta, anche dopo eventuali rilanci. [-Nel caso in cui, in conformità alle presenti CG,-] {+Qualora+} Fleequid [-ha il diritto di annullare una o più Aggiudicazioni,-] {+abbia proceduto all'Annullamento della vendita,+} la Puntata massima è determinata escludendo il valore delle Offerte relative [-a precedenti Aggiudicazioni-] {+alle vendite+} annullate.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u046 — [1.L42] (riscritto, 34% dal testo v8)
 
@@ -645,7 +648,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
   “<b><i>Rivendita</i></b>”: al termine dell’Asta dalla quale consegua un’incondizionata promessa di vendita da parte del Venditore ed una incondizionata promessa di acquisto da parte dell’Acquirente, il processo, che può essere attuato anche nelle forme di cui all’art. 1395 c.c., per mezzo del quale Fleequid, nel caso in cui il Veicolo non fosse già di sua proprietà e nel caso in cui non operi come Intermediario puro, acquista al Prezzo di aggiudicazione il Veicolo dal Venditore e lo rivende all’Acquirente finale. 
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u047 — [1.L43] (modificato, 71% dal testo v8)
 
@@ -661,7 +664,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Servizio/i”:-] {+“Servizi”:+} i servizi, [-sia-] offline [-che-] {+e+} online, [-eventualmente-] messi a disposizione da Fleequid agli Utenti e soggetti a [-Tariffe (come, ad esempio,-] {+Tariffe, quali, a titolo esemplificativo, i+} servizi di trasporto e di logistica dei [-Veicoli,-] {+Veicoli+} e {+gli+} altri servizi indicati sul [-Marketplace),-] {+Marketplace,+} con esclusione [-di quelli-] {+dell'attività+} di intermediazione nella compravendita di [-Veicoli sul Marketplace, che sono soggetti-] {+Veicoli, soggetta+} a Commissioni.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u048 — [1.L44] (nuovo)
 
@@ -683,7 +686,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Specifiche tecniche”: [-insieme-] {+l’insieme+} delle informazioni, fornite dal [-Venditore,-] {+Venditore+} ovvero indicate da Fleequid e dal Venditore approvate, concernenti le caratteristiche, [-sia-] tecniche [-che amministrative,-] {+e amministrative+} di ciascuno dei Veicoli offerti in [-vendita sul Marketplace.-] {+vendita.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u050 — [1.L46] (nuovo)
 
@@ -705,7 +708,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Tariffario Fleequid”: [-insieme-] {+l’insieme+} delle condizioni che regolano il calcolo, anche in termini di percentuale sul Prezzo di [-aggiudicazione,-] {+vendita all’Acquirente,+} delle Commissioni spettanti a [-Fleequid, tanto-] {+Fleequid+} dal Venditore [-quanto dall’Acquirente, in caso-] e [-al momento dell’Aggiudicazione di una o più Aste. Il Tariffario Fleequid è-] {+dall'Acquirente, nonché degli ulteriori importi ivi indicati,+} consultabile ai seguenti [-links: https://fleequid.com/en/pricing-seller-] {+link: https://fleequid.com/it/pricing-seller+} e [-https://fleequid.com/en/pricing-buyer.-] {+https://fleequid.com/it/pricing-buyer.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u052 — [1.L48] (modificato, 71% dal testo v8)
 
@@ -721,7 +724,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Tariffe”: [-il compenso, diverso-] {+i corrispettivi, diversi+} dalle Commissioni, [-spettante-] {+spettanti+} a Fleequid per la fornitura di uno o più [-Servizi richiesti dagli Utenti.-] {+Servizi.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u053 — [1.L49] (nuovo)
 
@@ -749,7 +752,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 [-“Utente/i”:-] {+“Utente”:+} qualsiasi Professionista, ditta individuale ovvero persona giuridica che abbia completato il processo di registrazione al Marketplace, ovvero vi abbia comunque aderito mediante l’approvazione delle presenti Condizioni Generali, al fine di accedere, visualizzare, [-utilizzare,-] {+utilizzare il Marketplace,+} partecipare [-alle Aste presenti sul Marketplace-] {+agli Eventi+} di [-Fleequid-] {+vendita+} per proporre [-l’acquisto-] {+l'acquisto+} o la vendita di [-Veicoli,-] {+Veicoli e+} fruire dei Servizi offerti, inclusi Venditori, Offerenti e Acquirenti.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u056 — [1.L52] (modificato, 74% dal testo v8)
 
@@ -765,7 +768,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Veicolo/i”: qualsiasi veicolo a motore, nuovo o usato, venduto o pubblicato [-dai Venditori-] sul [-Marketplace, inclusi-] {+Marketplace ovvero comunque commercializzato tramite Fleequid, inclusi,+} a titolo esemplificativo [-ma-] {+e+} non [-esaustivo-] {+esaustivo,+} autobus, autocarri, furgoni, automobili e altri mezzi di trasporto.
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u057 — [1.L53] (modificato, 68% dal testo v8)
 
@@ -781,7 +784,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Veicolo/i Fuori [-Uso (VFU)”:-] {+Uso” o “VFU”:+} qualsiasi Veicolo che, ai sensi della normativa ambientale applicabile nel Paese di ubicazione del bene al momento della cessione, è qualificabile come rifiuto [-o-] {+ovvero è+} destinato alla demolizione e al recupero dei materiali. [-Ai fini delle presenti Condizioni Generali, il detentore giuridico del Veicolo Fuori Uso resta in ogni fase il Venditore fino alla consegna del Veicolo all’Acquirente autorizzato alla demolizione o al trattamento del rifiuto, momento a partire dal quale tale qualifica si trasferisce all’Acquirente. Fleequid, quale gestore del Marketplace, non assume in alcuna fase la qualifica di produttore, detentore, trasportatore, intermediario operativo o gestore del rifiuto-] {+La relativa disciplina è contenuta negli artt. 8.3, 16.13, 18.8+} e [-non organizza né coordina le attività di trasporto, trattamento, recupero o smaltimento dei Veicoli Fuori Uso.-] {+20.8.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u058 — [1.L54] (nuovo)
 
@@ -815,7 +818,7 @@ In aggiunta alle altre definizioni contenute nelle presenti “Condizioni Genera
 
 “Venditore/i”: qualsiasi Professionista che utilizza i servizi di vendita di Fleequid e che si offre di vendere i propri Veicoli. [-Tale-] {+Il+} termine è sempre riferito al Venditore sostanziale, soggetto diverso rispetto a [-Fleequid. Nel caso-] {+Fleequid nella Vendita+} in [-cui-] {+commissione eseguita mediante Rivendita, ove+} Fleequid assuma il ruolo di venditore [-formale nel processo di Rivendita, sarà-] {+formale, essa è+} sempre indicata come Fleequid. {+Nel Dealer Sales il Venditore è il soggetto dal quale Fleequid acquista il Veicolo; nella successiva rivendita all'Acquirente il venditore è Fleequid ai sensi degli artt. 2.7 e 18.1.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u062 — [1~1] (modificato, 62% dal testo v8)
 
@@ -831,7 +834,7 @@ Ogni riferimento contenuto nelle presenti CG ai “<b><i>giorni</i></b>” è da
 
 Ogni riferimento contenuto nelle presenti CG ai “giorni” è da intendersi riferito a giorni lavorativi, ove per “lavorativi” sono da intendersi i giorni della settimana dal lunedì al venerdì, dalle ore 8:30 alle ore 12:30 e dalle ore 14:00 alle ore 18:00, con esclusione di ogni giorno festivo in Italia. Il fuso orario applicabile è quello della sede legale di Fleequid. {+Tale criterio di computo si applica a tutti i termini previsti dalle presenti Condizioni Generali, ivi compresi il Termine di pagamento, il termine massimo di cui all'art. 12.7 e le penali determinate per ciascun giorno di ritardo.+}
 
-**PL v8:** vedi la definizione corrispondente nel blocco «Art. 1 PL v8» in fondo (ordine alfabetico diverso dall'IT).
+**CZ v8:** vedi la definizione corrispondente nel blocco «Art. 1 CZ v8» in fondo (ordine alfabetico diverso dall'IT).
 
 ### u063 — [2] (riscritto, 0% dal testo v8)
 
@@ -843,9 +846,9 @@ Ogni riferimento contenuto nelle presenti CG ai “giorni” è da intendersi ri
 
 <b>Scopi</b>.
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-<b>CELE</b>.
+<b>ÚČEL</b>.
 
 ### u076 — [3] (riscritto, 0% dal testo v8)
 
@@ -857,9 +860,9 @@ Ogni riferimento contenuto nelle presenti CG ai “giorni” è da intendersi ri
 
 <b>Le presenti Condizioni Generali</b>.
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Niniejsze Warunki Ogólne.
+Všeobecné obchodní podmínky.
 
 ### u091 — [4] (riscritto, 0% dal testo v8)
 
@@ -871,9 +874,9 @@ Niniejsze Warunki Ogólne.
 
 <b>Le presenti Condizioni Generali</b>.
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Niniejsze Warunki Ogólne.
+Všeobecné obchodní podmínky.
 
 ### u101 — [5] (identico, 100% dal testo v8)
 
@@ -881,9 +884,9 @@ Niniejsze Warunki Ogólne.
 
 <b>Registrazione e uso consentito del Marketplace.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Rejestracja i dozwolone korzystanie z platformy Marketplace.
+Registrace a povolené používání online tržiště.
 
 ### u119 — [6] (nuovo)
 
@@ -897,9 +900,9 @@ Rejestracja i dozwolone korzystanie z platformy Marketplace.
 
 <b>Trattamento dei dati personali degli Utenti.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Przetwarzanie danych osobowych użytkowników.
+Zpracování osobních údajů uživatelů.
 
 ### u130 — [8] (modificato, 55% dal testo v8)
 
@@ -915,9 +918,9 @@ Przetwarzanie danych osobowych użytkowników.
 
 [-Condizioni che regolano la-] Proposta di vendita di Veicoli in [-Asta.-] {+Asta e obblighi del Venditore.+}
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Warunki regulujące ofertę sprzedaży pojazdów na aukcji.
+Podmínky upravující návrh prodeje vozidel v aukci.
 
 ### u145 — [9] (riscritto, 0% dal testo v8)
 
@@ -929,9 +932,9 @@ Warunki regulujące ofertę sprzedaży pojazdów na aukcji.
 
 <b>Asta.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-<b>AUKCJA.</b>
+<b>AUKCE.</b>
 
 ### u160 — [10] (riscritto, 0% dal testo v8)
 
@@ -943,9 +946,9 @@ Warunki regulujące ofertę sprzedaży pojazdów na aukcji.
 
 <b>Aggiudicazione.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Zasądzenie.
+Přiklepnutí.
 
 ### u174 — [11] (nuovo)
 
@@ -993,9 +996,9 @@ Zasądzenie.
 
 <b>Condizioni che regolano la Rivendita dei veicoli da parte di Fleequid all’acquirente finale effettivo.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Warunki regulujące odsprzedaż pojazdów przez Fleequid faktycznemu nabywcy końcowemu.
+Podmínky upravující další prodej vozidel ze strany společnosti Fleequid skutečnému konečnému kupujícímu.
 
 ### u256 — [18] (nuovo)
 
@@ -1013,9 +1016,9 @@ Warunki regulujące odsprzedaż pojazdów przez Fleequid faktycznemu nabywcy ko�
 
 <b>Esclusione di garanzia e manleva da responsabilità di Fleequid per il processo di Rivendita dei Veicoli.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Wyłączenie gwarancji i odpowiedzialności Fleequid za proces
+Vyloučení záruky a odpovědnosti společnosti Fleequid za proces
 
 ### u290 — [20] (identico, 100% dal testo v8)
 
@@ -1023,9 +1026,9 @@ Wyłączenie gwarancji i odpowiedzialności Fleequid za proces
 
 <b>Reclami.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-<b>ZAŻALENIA</b>
+<b>REKLAMACE.</b>   
 
 ### u299 — [21] (identico, 100% dal testo v8)
 
@@ -1033,9 +1036,9 @@ Wyłączenie gwarancji i odpowiedzialności Fleequid za proces
 
 <b>Clausola di collegamento.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Klauzula łącząca.
+Kolizní norma.
 
 ### u304 — [22] (nuovo)
 
@@ -1049,9 +1052,9 @@ Klauzula łącząca.
 
 <b>Legge applicabile, Lingua e Foro competente.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Prawo właściwe, język i jurysdykcja
+Rozhodné právo, jazyk a soudní příslušnost.
 
 ### u320 — [24] (identico, 100% dal testo v8)
 
@@ -1059,62 +1062,60 @@ Prawo właściwe, język i jurysdykcja
 
 <b>Comunicazioni.</b>
 
-**PL v8 (abbinamento key):**
+**CZ v8 (abbinamento key):**
 
-Korespondencja.
+Korespondence.
 
 
-## Art. 1 PL v8 (definizioni pubblicate: rese vincolanti)
+## Art. 1 CZ v8 (definizioni pubblicate: rese vincolanti)
 
-[1] Definicje.
-[1~0] Poza innymi definicjami zawartymi w niniejszych "Ogólnych Warunkach", poniższe terminy mają znaczenie określone poniżej:
-[1.L1] "<b>Nabywca (y</b><b><i>)</i></b>": oznacza Oferenta, który na koniec Aukcji złożył najwyższą Ofertę (Najwyższą licytację) i otrzymał potwierdzenie Zasądzenia od Fleequid, po wcześniejszym sprawdzeniu, że została przekroczona cena minimalna lub że sam Oferent zaakceptował
-[1~1] <b>22</b>każdą kontrofertę złożoną przez Sprzedającego. Podmiot ten staje się w ten sposób rzeczywistym nabywcą pojazdu, dokonując jego zakupu od Fleequid działającego w charakterze komisarza sprzedaży w imieniu sprzedającego lub – w przypadkach, gdy Fleequid działa jako czysty pośrednik – nabywając pojazd bezpośrednio od Sprzedawcy. Termin ten zawsze odnosi się do faktycznego Nabywcy, podmiotu innego niż Fleequid.
+[1] Definice.
+[1~0] Kromě dalších definic obsažených v těchto "Všeobecných obchodních podmínkách" mají následující pojmy níže uvedený význam:
+[1.L1] „<b><i>Kupující</i></b>“: označuje nabízejícího, který na konci aukce předložil nejvyšší nabídku (nejvyšší příhoz) a obdržel od společnosti Fleequid potvrzení o přiklepnutí po ověření překročení rezervační ceny nebo o akceptaci jakéhokoliv protinávrhu ze strany prodávajícího.
+[1~1] <b>22</b> Tento subjekt se tak stává skutečným kupujícím vozidla tím, že si toto vozidlo koupí od společnosti Fleequid jako komisionáře prodávajícího, nebo v případech, kdy společnost Fleequid působí pouze jako čistý zprostředkovatel, tím, že si jej koupí přímo od prodávajícího. Tento termín se vždy vztahuje na skutečného kupujícího, což je jiný subjekt než společnost Fleequid.
 [1~2] <b>2</b>
 [1~3] <b>2</b>
-[1.L2] "<b><i>Zasądzenie/a</i></b>": oznacza sytuację Oferenta po zakończeniu aukcji, w której złożył on – także w wyniku ewentualnych przebitek – najwyższą ofertę (Najwyższą stawkę). Proces zasądzenia jest całkowicie regulowany przez art. 8) niniejszych Ogólnych Warunków Umowy.
-[1.L3] "<b><i>Aukcja(e)</i></b>": proces telematycznej sprzedaży prowadzonej za pośrednictwem platformy Marketplace obejmujący jedną lub więcej Ofert i kończący się Zasądzeniem, z którego wynika sprzedaż Pojazdu Oferentowi, który złożył najwyższą Ofertę, w przypadkach i na warunkach wskazanych w niniejszych OWH.
-[1.L4] „<b>Aukcja za 1 Euro</b>”: szczególna kategoria Aukcji organizowana i kwalifikowana jako taka przez Fleequid w Marketplace, charakteryzująca się szczególnymi zasadami ustalania ceny oraz szczególną strukturą prowizji, uregulowana odrębnymi Szczególnymi Warunkami Aukcji publikowanymi oddzielnie i stosowanymi automatycznie, gdy Aukcja zostanie wyraźnie zakwalifikowana jako taka w odpowiedniej Karcie Aukcyjnej dostępnej w Marketplace, również za pomocą odznaki, etykiety identyfikacyjnej lub innego oznaczenia graficznego bądź tekstowego właściwego do jednoznacznego wskazania jej charakteru. Taka kwalifikacja powoduje automatyczne zastosowanie odpowiednich Szczególnych Warunków Aukcji, które uznaje się za znane i zaakceptowane przez Użytkowników, ponieważ są udostępnione do wglądu w odpowiedniej sekcji Marketplace.
-[1.L5] "<b><i>Cena wywoławcza</i></b>": oznacza minimalną cenę pojazdu, powyżej której potencjalni nabywcy mogą składać oferty lub dokonywać przebitek na platformie Marketplace.
-[1.L6] "<b><i>Prowizje</i></b>": oznaczają prowizje należne zarówno od Sprzedawcy, jak i od Nabywcy na rzecz Fleequid z tytułu sprzedaży pojazdów przeprowadzonej za pośrednictwem platformy Marketplace lub przy użyciu usług i systemów sprzedażowych Fleequid.. O ile Fleequid i strony nie postanowią inaczej w formie pisemnej lub nie zostanie to inaczej określone w Szczególnych warunkach aukcji, wysokość tych prowizji ustalana jest przez Fleequid na podstawie Cennika Fleequid, opublikowanego i dostępnego do wglądu na platformie Marketplace pod linkami: <b><u>https://fleequid.com/en/pricing-seller</u></b> e <b><u>https://fleequid.com/en/pricing- buyer</u></b>. W kwestii obliczania ceny rezerwowej, brane są pod uwagę wyłącznie prowizje, zgodnie z umową obciążają Sprzedawcę, zgodnie z wysokością określoną w Cenniku Fleequid.
-[1.L7] "<b><i>Ogólne warunki umowy</i></b>" lub " <b><i>OWU</i></b>": niniejsze ogólne warunki umowy, z którymi można zapoznać się w odpowiedniej sekcji platformy Marketplace, regulujące relacje między Fleequid a ogółem Użytkowników.
-[1.L8] "<b><i>Szczegółowe warunki aukcji</i></b>": wszelkie szczególne warunki umowne, które określają, nawet w drodze odstępstwa od niniejszych OWU, zasady przyznawania określonych Pojazdów w określonych sekcjach Rynku poświęconych jednej lub większej liczbie Aukcji. Szczególne warunki aukcji, jeśli występują, są dostępne w sekcji platformy Marketplace poświęconej danej aukcji i mogą przewidywać – tytułem przykładu, lecz nie wyczerpująco – szczególne warunki gwarancji, ograniczenia w możliwości składania ofert przez użytkowników posiadających określone cechy lub spełniających konkretne kryteria, specyficzne terminy lub sposoby dostawy pojazdów, a także inne szczególne postanowienia.Opłaty lub wydatki związane z daną aukcją. Hierarchia pomiędzy Szczególnymi warunkami aukcji a niniejszymi Ogólnymi Warunkami (OWU) oraz ewentualnymi innymi warunkami szczegółowymi lub innymi stosunkami umownymi regulowana jest postanowieniami art. 3.3 niniejszych OWU.
-[1.L9] "<b><i>Szczegółowe warunki</i></b>": ogólne warunki umowy, uzupełniające niniejsze Ogólne Warunki (OW), określone dla niektórych kategorii pojazdów lub usług dostępnych na platformie Marketplace. Związek Warunków Szczegółowych z niniejszymi OWU i wszelkimi innymi źródłami negocjacji jest regulowany przez art. 3.3) niniejszych OWU. 
-[1.L10] <b>33</b>"<b><i>Umowa(y)</i></b>": oznacza, w zależności od przypadku, stosunki umowne regulowane niniejszymi OWU, jak również wszelkimi Warunkami Szczególnymi. Umowa reguluje zakup i sprzedaż Pojazdów przez Sprzedającego na rzecz Fleequid, działającego jako komisant sprzedaży w imieniu Nabywcy, lub odsprzedaż pojazdów dokonywaną przez Fleequid, działającego jako komisant zakupu, na rzecz Nabywcy będącego zleceniodawcą zakupu. Umowa może również regulować bezpośredni transfer Pojazdów od Sprzedającego do Nabywcy  w przypadkach, gdy Fleequid działa jako czysty Pośrednik. Należy zauważyć, że takie umowy mogą być zawierane ustnie lub w inny sposób wyrażający wolę, a Fleequid niekoniecznie wymaga, aby były one zawierane na piśmie. 
+[1.L2] „<b><i>Přiklepnutí</i></b>“: označuje stav nabízejícího na konci aukce, ve které předložil nejvyšší nabídku (nejvyšší příhoz), a to i po případných příhozech. Postup přiklepnutí se plně řídí článkem 8) těchto všeobecných podmínek.
+[1.L3] „<b><i>Aukce</i></b>“: proces telematického prodeje provozovaný prostřednictvím online tržiště, který zahrnuje jednu nebo více nabídek a končí přiklepnutím, z něhož vyplývá prodej vozidla nejvyšší nabídce v případech a za podmínek uvedených v těchto VOP.
+[1.L4] <b>„Aukce za 1 euro“</b>: zvláštní kategorie Aukce organizovaná a jako taková kvalifikovaná společností Fleequid na Marketplace, vyznačující se specifickými způsoby určení ceny a specifickou strukturou provizí, upravená samostatnými Zvláštními aukčními podmínkami zveřejněnými odděleně a automaticky použitelnými, pokud je Aukce výslovně kvalifikována jako taková v příslušném Aukčním listu dostupném na Marketplace, a to i prostřednictvím badge, identifikačního štítku nebo jiného grafického či textového označení způsobilého jasně signalizovat její povahu. Tato kvalifikace má za následek automatické použití příslušných Zvláštních aukčních podmínek, které se považují za známé a přijaté Uživateli, neboť jsou zpřístupněny k nahlédnutí v příslušné sekci Marketplace.
+[1.L5] „<b><i>Vyvolávací cena</i></b>“: minimální cena vozidla, nad kterou mohou potenciální kupující podávat nabídky nebo přihazovat na online tržišti.
+[1.L6] „<b><i>Provize</i></b>“: provize, které prodávající i kupující platí společnosti Fleequid za prodej a nákup vozidel uskutečněný prostřednictvím online tržiště nebo obchodních služeb a systémů společnosti Fleequid. Není-li mezi společností Fleequid a stranami písemně dohodnuto jinak nebo není-li ve Zvláštních podmínkách aukce uvedeno jinak, stanoví společnost Fleequid tyto provize v souladu se sazebníkem společnosti Fleequid, který je zveřejněn a zpřístupněn na online tržišti na následujících odkazech: <b><u>https://fleequid.com/en/pricing-seller</u></b> a <b><u>https://fleequid.com/en/pricing- buyer</u></b>. V souvislosti s výpočtem rezervační ceny jsou relevantní pouze provize smluvně účtované prodávajícímu, jak je určuje sazebník Fleequid.
+[1.L7] „<b><i>Všeobecné obchodní podmínky</i></b>“ nebo „<b><i>VOP</i></b>“: tyto všeobecné obchodní podmínky, které jsou k dispozici v příslušné sekci tržiště a které upravují vztah mezi společností Fleequid a většinou uživatelů.
+[1.L8] „<b><i>Zvláštní podmínky aukce</i></b>“: případné zvláštní smluvní podmínky, které určují, a to i odchylně od těchto VOP, pravidla pro přiklepnutí určitých vozidel v rámci konkrétních sekcí online tržiště věnovaných jedné nebo více aukcím. Zvláštní podmínky aukce, pokud jsou k dispozici, jsou k nahlédnutí v sekci online tržiště věnované aukci a mohou stanovit například, nikoli však výlučně, zvláštní podmínky záruky, omezení pro podávání nabídek ze strany uživatelů, kteří mají určité subjektivní požadavky, zvláštní podmínky nebo způsoby dodání vozidel nebo zvláštní podmínky pro Provize nebo výdaje, kterými se řídí konkrétní aukce. Hierarchický vztah zvláštních podmínek aukce k těmto VOP a případným dalším zvláštním podmínkám nebo jiným smluvním vztahům se řídí čl. 3.3) těchto VOP.
+[1.L9] „<b><i>Specifické obchodní podmínky</i></b>“: obecné obchodní podmínky, které doplňují tyto VOP a jsou specifické pro určité kategorie vozidel nebo služeb na online tržišti. Vztah zvláštních obchodních podmínek k těmto VOP a dalším zdrojům jednání se řídí čl. 3.3) těchto VOP.
+[1.L10] <b>33</b>„<b><i>Smlouva(y)</i></b>“ označuje případné jednotlivé smluvní vztahy, které se řídí těmito VOP, jakož i případnými zvláštními podmínkami. Smlouva upravuje prodej vozidel prodávajícím společnosti Fleequid jako prodejnímu komisionáři kupujícího nebo další prodej vozidel organizovaný společností Fleequid jako komisionářem nákupu kupujícímu zákazníkovi. Smlouva může rovněž upravovat přímý převod vozidel z prodávajícího na kupujícího v případech, kdy společnost Fleequid vystupuje pouze jako zprostředkovatel. Je třeba poznamenat, že tyto smlouvy mohou být uzavřeny ústně nebo jiným způsobem projevu vůle a společnost Fleequid nevyžaduje, aby byly nutně uzavřeny písemně.
 [1~4] <b>3</b>
 [1~5] <b>3</b>
-[1.L11] "<b>Konsument(ci)</b>": osoba fizyczna działająca w celach niezwiązanych z jakąkolwiek działalnością gospodarczą, handlową, rzemieślniczą lub zawodową prowadzoną w rozumieniu art. 3 dekretu ustawodawczego nr 206 z 6 września 2005 r. 
-[1.L12] <b>"Depozyt zabezpieczający"</b>: suma pieniędzy wpłacana przez Oferenta na rzecz Fleequid w momencie złożenia oferty w aukcji, stanowiącą zabezpieczenie rzetelności i wiarygodności samej oferty. 
-[1.L13] „<b><i>Fleequid</i></b>”: oznacza spółkę Adorea S.r.l. z siedzibą przy Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), numer identyfikacji podatkowej i numer NIP 04114790134, wpisaną do rejestru przedsiębiorstw w Como pod nr 420825, e-mail <u>info@fleequid.com</u>, właściciel marki Fleequid®. Termin ten może również odnosić się do innych podmiotów prawnych, powiązanych lub wyznaczonych przez Adorea S.r.l. do zakupu i sprzedaży Pojazdów. Jeśli sprzedaż odbywa się za pośrednictwem podmiotu prawnego innego niż Adorea S.r.l., Fleequid zobowiązuje się do przekazania Użytkownikom, w odpowiednich dokumentach umownych i podatkowych, danych identyfikacyjnych podmiotu zaangażowanego w transakcję. Szczegóły te mogą zostać ustalone według wyłącznego uznania Fleequid: Uprzednio, przez przekazanie ich Sprzedawcy w chwili przyjęcia propozycji sprzedaży oraz Nabywcy w karcie aukcji; lub później, w momencie zawarcia umowy, poprzez proste odniesienie do podmiotu prawnego w dokumentach podatkowych dotyczących transakcji sprzedaży. Użytkownicy akceptują, że taka struktura operacyjna może obejmować, bez ograniczeń, spółki zależne, stowarzyszone lub inne spółki formalnie ustanowione i identyfikowalne z Fleequid, w tym spółki z siedzibą w innych krajach. Ponadto sprzedaż będzie podlegać przepisom podatkowym obowiązującym w kraju, w którym siedzibę ma podmiot prawny zaangażowany w daną transakcję. W kontekście Odsprzedaży, jeśli Fleequid jest określany jako formalny Nabywca lub Sprzedawca, nigdy nie należy go mylić z faktycznym Nabywcą lub Sprzedawcą. 
-[1.L14] "<b><i>Obciążenie (a)</i></b>" ograniczenie lub obciążenie, prawo zabezpieczenia, zastaw, nakazy egzekucyjne, zobowiązania umowne, zastrzeżenie własności, zobowiązania podatkowe lub celne, hipoteki, zastawy lub inne obciążenia jakiegokolwiek rodzaju, ciążące na pojeździe, które mogą uniemożliwiać lub utrudniać jego obrót prawny i sprzedaż handlową. Wszelkie specyfikacje Pojazdów, które nie pozwalają na "swobodny obrót" Pojazdami w Unii Europejskiej lub brak "certyfikatu WE" zgodnie z obowiązującymi przepisami Unii Europejskiej, jeśli jest wymagany, należy uznać za Obciążenie. 
-[1.L15] <b>44"Czysty Pośrednik"</b>: warunek, w którym Fleequid działa wyłącznie jako pośrednik w procesie aukcyjnym, nie obsługując Odsprzedaży, a tym samym umożliwiając przekazywanie i fakturowanie Pojazdów bezpośrednio od Sprzedającego do Nabywcy .
-[1~6] <b>4</b>
-[1~7] <b>4</b>
-[1.L16] "<b><i>Marketplace</i></b>": Platformy aukcyjne i inne platformy, aplikacje, strony internetowe oraz usługi zintegrowane (dostępne w aplikacjach, serwisach i usługach innych podmiotów), które tworzą rynek internetowy, na którym Użytkownicy, w przypadkach i na warunkach określonych w niniejszych Ogólnych Warunkach (OWU) oraz w każdym innym uprzednio zatwierdzonym i mającym zastosowanie regulaminie umownym, mogą kupować i sprzedawać pojazdy, a także żądać lub korzystać z innych usług udostępnianych przez Fleequid. Strona internetowa Fleequid jest dostępna pod następującym adresem: <u>https://www.fleequid.com</u>. 
-[1.L17] "<b><i>Oferta (y)</i></b>": oferty zakupu złożone przez Oferentów uczestniczących w Aukcji, mające na celu zaproponowanie zakupu Pojazdu po określonej cenie. 
-[1.L18] "<b>Oferent(-ci)</b>": każdy Profesjonalny Użytkownik, który bierze udział w Aukcji poprzez złożenie jednej lub kilku Ofert mających na celu zasądzenie jednego lub więcej Pojazdów. Oferent staje się Nabywcą w momencie ostatecznego Zasądzenia Pojazdu na jego rzecz. 
-[1.L19] "<b>Strony</b>": łącznie oznacza Fleequid, Sprzedającego, Oferującego i/lub Nabywcy . 
-[1.L20] "<b><i>Cena Zasądzenia</i></b>" oznacza cenę odpowiadającą najwyższej ofercie, równą lub wyższą od ceny rezerwowej ustalonej przez Fleequid na podstawie PMIV (minimalnej ceny sprzedaży ustalonej przez Sprzedawcę) lub następnie zaakceptowanej przez Sprzedawcę bądź Nabywcę (w przypadku przyjęcia przez Oferenta ewentualnej kontroferty Sprzedawcy); na jej podstawie Fleequid dokonuje Zasądzenia, które jest wiążące zarówno dla Sprzedawcy, jak i dla Nabywcy po zakończeniu aukcji. 
-[1.L21] <b><i>"Minimalna cena zobowiązująca do sprzedaży" (PMIV)</i></b>: cena wyrażona w euro, ustalona przez Sprzedającego w momencie składania Propozycji sprzedaży, stanowiąca minimalne wpływy netto, które Sprzedający zamierza uzyskać ze sprzedaży Pojazdu. O wielkości PMIV należy poinformować Fleequid w momencie składania Oferty sprzedaży i jest wiążąca; wszelkie zmiany mogą być dokonywane wyłącznie w formie pisemnej i wyłącznie przed rozpoczęciem Aukcji. 
-[1.L22] "<b><i>Cena rezerwowa</i></b><i>"</i> <b><i>(PR)</i></b><i>:</i> wartość aukcyjna brutto, określona przez Fleequid na podstawie PMIV ustalonego przez Sprzedającego i Opłat Sprzedającego określonych w Taryfikatorze Fleequid. Cena rezerwowa stanowi minimalny próg cenowy, przy którym lub powyżej którego Sprzedający z pewnością i nieodwołalnie wyraża zgodę na sprzedaż Pojazdu po zakończeniu aukcji, gwarantując jednocześnie, że po przekroczeniu ceny rezerwowej jego dochód netto będzie co najmniej równy wartości minimalnej ceny sprzedaży ustalonej przez Sprzedawcę (PMIV). 
-[1.L23] <b>55</b>"<b>Profesjonalista(-ci)</b>" oznacza każdą osobę fizyczną lub prawną działającą w ramach swojej działalności handlowej, gospodarczej, rzemieślniczej lub zawodowej, lub jej pośrednika, z wyłączeniem Konsumentów. Definicja ta obejmuje również "mikro przedsiębiorstwa", tj.  podmioty, spółki lub stowarzyszenia, które, niezależnie od formy prawnej, prowadzą działalność gospodarczą, także indywidualnie lub w ramach działalności rodzinnej, zatrudniając mniej niż dziesięć osób i osiągając roczny obrót lub całkowity bilans roczny nieprzekraczający dwóch milionów euro, zgodnie z art. 2 par. 3 załącznika do Zalecenia Komisji nr 2003/361/WE z 6 maja 2003 r. oraz z dekretem ustawodawczym nr 206/2005, art. 18, lit. d-bis (Kodeks Konsumenta).
-[1~8] <b>5</b>
-[1~9] <b>5</b>
-[1.L24] "<b><i>Oferta sprzedaży</i></b>": ogłoszenie, za pomocą którego Sprzedający, samodzielnie lub przy wsparciu Fleequid, oferuje jeden lub więcej Pojazdów na sprzedaż na Aukcji lub w ramach innej procedury na platformie Marketplace.
-[1.L25] <b>"Najwyższa oferta</b>": najwyższa wartość ze wszystkich Ofert złożonych przez Oferentów na koniec Aukcji, w tym po wszelkich podbiciach. W przypadku gdy, zgodnie z niniejszymi Ogólnymi Warunkami (OWU), Fleequid ma prawo unieważnić jedno lub więcej Zasądzeń, maksymalna oferta jest ustalana z wyłączeniem wartości ofert dotyczących wcześniej unieważnionych Zasądzeń.
-[1.L26] "<b><i>Odsprzedaż</i></b>": po zakończeniu Aukcji, w wyniku której powstaje bezwarunkowa obietnica sprzedaży ze strony Sprzedawcy oraz bezwarunkowa obietnica zakupu ze strony Nabywcy, proces ten – który może być realizowany również w formach przewidzianych w art. 1395 włoskiego kodeksu cywilnego, polega na tym, że Fleequid, w przypadku gdy pojazd nie jest jeszcze jego własnością i nie działa jako czysty pośrednik, nabywa pojazd od Sprzedawcy po cenie Zasądzenia i odsprzedaje go ostatecznemu Nabywcy. 
-[1.L27] „<b>Karta Aukcyjna” (lub „Ogłoszenie”)</b>: treść informacyjna i opisowa dotycząca Pojazdu będącego przedmiotem Propozycji sprzedaży, obejmująca, tytułem przykładu i bez ograniczeń, Specyfikacje techniczne, zdjęcia, dokumentację techniczną, warunki sprzedaży oraz wszelkie inne informacje udostępnione Użytkownikom za pośrednictwem Marketplace lub innych kanałów komunikacji. Karta Aukcyjna może zostać przygotowana przez Fleequid, również na rachunek Sprzedającego i na podstawie informacji przekazanych przez tego ostatniego lub w każdym razie pozostających w jego dyspozycji, i stanowi sposób wykonania Propozycji sprzedaży, przy czym jej przygotowanie lub publikacja nie wpływa na ważność i skuteczność samej Propozycji, która pozostaje regulowana niniejszymi Ogólnymi Warunkami.
-[1.L28] "<b><i>Usługa(i)</i></b>": usługi, zarówno offline, jak i online, które mogą być udostępniane przez Fleequid Użytkownikom i podlegają opłatom; na przykład usługi transportu i logistyki pojazdów oraz inne usługi wskazane na platformie Marketplace – z wyłączeniem usług pośrednictwa w kupnie i sprzedaży pojazdów na Marketplace, które podlegają prowizjom. 
-[1.L29] "<b><i>Specyfikacje techniczne</i></b>": wszystkie informacje dostarczone przez Sprzedawcę lub wskazane przez Fleequid i zatwierdzone przez Sprzedawcę, dotyczące charakterystyki, zarówno technicznej, jak i administracyjnej, każdego z Pojazdów oferowanych do sprzedaży na platformie Marketplace. 
-[1.L30] <b><i>"Taryfikator Fleequid"</i></b>: zbiór warunków regulujących sposób obliczania, również w ujęciu procentowym w stosunku do ceny Zasądzenia, prowizji należnych Fleequid, zarówno od Sprzedawcy, jak i od Nabywcy, w przypadku oraz w momencie przyznania Zasądzenia jednej lub kilku aukcji. Taryfikator Fleequid można znaleźć pod poniższymi linkami: <b><u>https://fleequid.com/en/pricing-seller</u></b> i <b><u>https://fleequid.com/en/pricing-buyer</u></b>. 
-[1.L31] "<b><i>Opłaty</i></b>": opłata, inna niż Prowizje, należna Fleequid za świadczenie jednej lub większej liczby Usług zamówionych przez Użytkowników. 
-[1.L32] "<b><i>Użytkownik/Użytkownicy</i></b>": każdy przedsiębiorca, jednoosobowa działalność gospodarcza lub osoba prawna, która ukończyła proces rejestracji na platformie Marketplace lub w inny sposób przystąpiła do niej poprzez akceptację niniejszych Ogólnych Warunków, w celu uzyskania dostępu, możliwości przeglądania, korzystania, uczestniczenia w aukcjach dostępnych na platformie Marketplace Fleequid, wystawiania ofert kupna lub sprzedaży pojazdów, a także korzystania z oferowanych usług, w tym sprzedawcy, oferenci i nabywcy. 
-[1.L33] <b>66</b>"<b><i>Pojazd(y)</i></b>" oznacza każdy pojazd silnikowy, nowy lub używany, sprzedawany lub wystawiany przez Sprzedawców na platformie Marketplace, w tym między innymi autobusy, ciężarówki, samochody dostawcze, samochody osobowe i inne środki transportu.
-[1~10] <b>6</b>
-[1~11] <b>6</b>
-[1.L34] „<b>Pojazd/Pojazdy Wycofane z Eksploatacji (PWE)</b>”: każdy Pojazd, który zgodnie z przepisami ochrony środowiska obowiązującymi w kraju położenia rzeczy w chwili zbycia kwalifikuje się jako odpad albo jest przeznaczony do demontażu i odzysku materiałów. Na potrzeby niniejszych Ogólnych Warunków prawnym posiadaczem Pojazdu Wycofanego z Eksploatacji pozostaje na każdym etapie Sprzedający aż do wydania Pojazdu Kupującemu uprawnionemu do demontażu lub przetwarzania odpadu, z którym to momentem status ten przechodzi na Kupującego. Fleequid, jako operator Marketplace, na żadnym etapie nie przyjmuje statusu wytwórcy, posiadacza, przewoźnika, pośrednika operacyjnego ani podmiotu zarządzającego odpadem, ani nie organizuje ani nie koordynuje czynności transportu, przetwarzania, odzysku lub unieszkodliwiania Pojazdów Wycofanych z Eksploatacji. 
-[1.L35] "<b><i>Sprzedawca(y)</i></b>": każdy Przedsiębiorca, który korzysta z usług sprzedaży Fleequid i oferuje sprzedaż swoich Pojazdów. Termin ten zawsze odnosi się do Sprzedającego, podmiotu innego niż Fleequid. W przypadku, gdy Fleequid przyjmie rolę formalnego sprzedawcy w procesie odsprzedaży, zawsze będzie określany jako Fleequid.
-[1~12] Wszelkie odniesienia w niniejszych OWU do "<b><i>dni</i></b>" należy rozumieć jako dni robocze, gdzie "<b><i>dni robocze</i></b>" należy rozumieć jako dni tygodnia od poniedziałku do piątku, od 8:30 do 12:30 i od 14:00 do 18:00, z wyłączeniem dni ustawowo wolnych od pracy we Włoszech. Obowiązującą strefą czasową jest strefa czasowa siedziby Fleequid.
+[1.L11] „<b>Spotřebitel</b>“: fyzická osoba jednající za účelem nesouvisejícím s podnikatelskou, obchodní, řemeslnou nebo odbornou činností vykonávanou ve smyslu čl. 3 legislativního nařízení ze dne 6. září 2005, č. 206.
+[1.L12] „<b>Kauce</b>“: peněžní částka, kterou nabízející zaplatí společnosti Fleequid v okamžiku podání nabídky v aukci jako záruku vážnosti předložené nabídky.
+[1.L13] „<b>Fleequid</b>“: označuje především společnost Adorea S.r.l. se sídlem na adrese Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), IČO a DIČ 04114790134, zapsanou v obchodním rejstříku v Comu pod číslem 420825, e-mail info@fleequid.com, která je držitelem značky Fleequid®. Tento termín se může vztahovat i na jiné právnické osoby, které jsou se společností Adorea S.r.l. spojeny nebo které společnost Adorea S.r.l. pověřila nákupem a prodejem vozidel. Pokud je prodej uskutečněn prostřednictvím jiného právního subjektu než společnosti Adorea S.r.l., společnost Fleequid se zavazuje sdělit uživatelům v příslušných smluvních a daňových dokumentech identifikační údaje subjektu zapojeného do transakce. Tyto podrobnosti mohou být stanoveny podle uvážení společnosti Fleequid: předem, a to tak, že je sdělí prodávajícímu v okamžiku přijetí návrhu prodeje a kupujícímu v aukčním formuláři; nebo později, v okamžiku uzavření smlouvy, prostým odkazem na právnickou osobu v daňových dokladech o prodeji. Uživatelé berou na vědomí, že taková provozní struktura může zahrnovat mimo jiné dceřiné společnosti, přidružené společnosti nebo jiné společnosti formálně založené mající vztah ke společnosti Fleequid, včetně společností se sídlem v cizích zemích. Kromě toho se prodej řídí daňovými zákony platnými v zemi, kde má sídlo právnická osoba, která se účastní konkrétní transakce. A konečně, pokud je v souvislosti s dalším prodejem společnost Fleequid označována jako formální kupující nebo prodávající, nesmí být nikdy zaměňována se skutečným kupujícím nebo prodávajícím.
+[1.L14] "<b><i>Břemeno (a)</i></b>" znamená jakýkoliv závazek nebo břemeno, zajišťovací nebo zástavní právo, exekuční příkaz, smluvní závazek, výhradu vlastnictví, daňovou nebo celní povinnost, hypotéku, zástavy nebo jiné zatížení jakékoli povahy, které může bránit nebo ztěžovat právní převoditelnost a prodejnost vozidla. Jakákoli specifikace vozidel, která neumožňuje „volný oběh“ vozidel v rámci Evropské unie, nebo absence „certifikace ES“ v souladu s platnými právními předpisy Evropské unie, je-li vyžadována, se považuje za břemeno.
+[1.L15] „<b>Čistý</b> zprostředkovatel“: stav, kdy společnost Fleequid působí pouze jako zprostředkovatel aukčního procesu, neprovozuje další prodej a umožňuje tak převod a fakturaci vozidel přímo od prodávajícího na kupujícího.
+[1.L16] „<b><i>Online tržiště</i></b>“: aukční platformy a další platformy, aplikace, stránky a integrované služby (dostupné v rámci aplikací, stránek a služeb jiných společností) tvořící online tržiště, kde mohou uživatelé v případech a za podmínek stanovených v těchto VOP a dalších dříve schválených a platných předpisech pro jednání nakupovat a prodávat vozidla a žádat o další Služby zpřístupněné společností Fleequid a/nebo jich dále využívat. Webové stránky společnosti Fleequid naleznete na následující adrese: <u>https://www.fleequid.com</u>.
+[1.L17] „<b>Nabídka(y)</b>“: nabídky na koupi učiněné nabízejícími účastnícími se aukce, jejichž cílem je navrhnout koupi vozidla za danou cenu.
+[1.L18] „<b>Nabízející</b>“: každý profesionální uživatel, který se účastní aukce podáním jedné nebo více nabídek zaměřených na přiklepnutí jednoho nebo více vozidel. Nabízející se stává kupujícím v okamžiku konečného přiklepnutí vozidla v jeho prospěch.
+[1.L19] „<b><i>Strany</i></b>“: společně znamenají Fleequid, prodávajícího, nabízejícího a/nebo kupujícího.
+[1.L20] „<b><i>Příklepová cena</i></b>“ znamená cenu odpovídající nejvyšší nabídce, která je rovna nebo vyšší než rezervační cena určená společností Fleequid na základě MZPC stanovené prodávajícím nebo jinak následně akceptované prodávajícím nebo kupujícím (v případě akceptace jakéhokoli protinávrhu prodávajícího ze strany nabízejícího), za kterou společnost Fleequid na konci aukce učiní přiklepnutí závazným pro prodávajícího i kupujícího. 
+[1.L21] <b><i>„Minimální závazná prodejní cena“ (MZPC)</i></b>: cena vyjádřená v eurech, stanovená prodávajícím v době podání návrhu prodeje, která představuje minimální čistý výnos, který prodávající hodlá získat z prodeje vozidla. MZPC musí být společnosti Fleequid sdělena v okamžiku návrhu prodeje a je závazná; jakékoli změny lze provést pouze písemně a pouze před zahájením aukce. 
+[1.L22] „<b><i>Rezervační cena</i></b>“ <b><i>(RC)</i></b><i>:</i> hrubá aukční hodnota stanovená společností Fleequid na základě MZPC stanovené prodávajícím a provizí prodávajícího uvedených v sazebníku společnosti Fleequid. RC představuje minimální cenovou hranici, za kterou nebo nad kterou prodávající s jistotou a neodvolatelně souhlasí s prodejem vozidla kupujícímu na konci aukce, čímž se zajistí, že po překročení RC se čistý výnos prodávajícího bude rovnat alespoň MZPC. 
+[1.L23] <b>55</b>„<b>Profesionál(ové)</b>“: jakákoli fyzická nebo právnická osoba, která vykonává svou obchodní, podnikatelskou, řemeslnou nebo odbornou činnost, nebo její zprostředkovatel, s výjimkou spotřebitelů. Do této definice jsou zahrnuty také „mikropodniky“, tj. subjekty, společnosti nebo sdružení, které bez ohledu na svou právní formu vykonávají hospodářskou činnost, a to i na individuálním nebo rodinném základě, zaměstnávají méně než deset osob a jejichž roční obrat nebo roční bilanční suma nepřesahuje dva miliony eur podle čl. 2 odst. 3 přílohy doporučení Komise č. 2003/361/ES ze dne 6. května 2003 a legislativního nařízení č. 206/2005, čl. 18 písm. d)a (spotřebitelský zákoník). 
+[1~6] <b>5</b>
+[1~7] <b>5</b>
+[1.L24] „<b><i>Návrh prodeje</i></b>“: inzerát, kterým prodávající samostatně nebo s podporou společnosti Fleequid nabízí jedno nebo více vozidel k prodeji v aukci nebo jiným postupem na tržišti. 
+[1.L25] <b>„Nejvyšší nabídka</b>“: nejvyšší hodnota všech nabídek podaných účastníky aukce na konci aukce, a to i po případných dalších příhozech. V případě, že má společnost Fleequid v souladu s těmito VOP právo zrušit jedno nebo více přiklepnutí, je nejvyšší nabídka stanovena tak, že se vyloučí hodnota nabídek týkajících se předchozích přiklepnutí. 
+[1.L26] „<b><i>Prodej</i></b>“: proces na konci aukce, z níž vyplývá bezpodmínečný příslib prodeje ze strany prodávajícího a bezpodmínečný příslib koupě ze strany kupujícího,, který může být realizován také ve formách stanovených v článku 1395 italského občanského zákoníku, jehož prostřednictvím společnost Fleequid, v případě, že vozidlo již není v jejím vlastnictví, a v případě, že společnost Fleequid nepůsobí jako čistý zprostředkovatel, koupí vozidlo od prodávajícího za příklepovou cenu a dále jej prodá konečnému kupujícímu. 
+[1.L27] <b>„Aukční list“</b> (nebo <b>„Inzerát“</b>): informační a popisný obsah týkající se Vozidla, které je předmětem Prodejního návrhu, zahrnující, nikoli však výlučně, Technické specifikace, fotografie, technickou dokumentaci, prodejní podmínky a jakékoli další informace zpřístupněné Uživatelům prostřednictvím Marketplace nebo jiných komunikačních kanálů. Aukční list může být připraven společností Fleequid, a to i na účet Prodávajícího a na základě informací poskytnutých Prodávajícím nebo jinak dostupných Prodávajícímu, a představuje způsob provedení Prodejního návrhu, aniž by jeho příprava nebo zveřejnění měly vliv na platnost a účinnost samotného Prodejního návrhu, který se nadále řídí těmito Všeobecnými podmínkami.
+[1.L28] „<b>Služba(y)</b>“: služby offline i online, které může společnost Fleequid poskytnout uživatelům a které podléhají poplatkům (jako jsou například přepravní a logistické služby pro vozidla a další služby uvedené na online tržišti), s výjimkou služeb zprostředkování nákupu a prodeje vozidel na tržišti, které podléhají provizi. 
+[1.L29] „<b><i>Technické specifikace</i></b>“: veškeré informace poskytnuté prodávajícím nebo uvedené společností Fleequid a schválené prodávajícím, které se týkají technických a administrativních vlastností každého z vozidel nabízených k prodeji na online tržišti. 
+[1.L30] „<b><i>Sazebník poplatků společnosti Fleequid</i></b>“: soubor podmínek, kterými se řídí výpočet provize splatné společnosti Fleequid ze strany prodávajícího i ze strany kupujícího v případě a v okamžiku přiklepnutí jedné nebo více aukcí, a to i v procentech z příklepové ceny. Sazebník Fleequid je k dispozici na následujících odkazech:<b><u>https://fleequid.com/en/pricing-seller</u></b> a <b><u>https://fleequid.com/en/pricing-buyer</u></b>. 
+[1.L31] „<b><i>Poplatky</i></b>“: odměna odlišná od poplatků, splatná společnosti Fleequid za poskytnutí jedné nebo více služeb požadovaných uživateli. 
+[1.L32] „<b><i>Uživatel/é</i></b>“: každý profesionál, živnostník nebo právnická osoba, která dokončila proces registrace na online tržišti nebo se k němu jinak připojila odsouhlasením těchto všeobecných obchodních podmínek, aby měla přístup k aukcím na online tržišti společnosti Fleequid, mohla je prohlížet, používat, účastnit se jich, nabízet nákup nebo prodej vozidel, využívat nabízené služby, včetně prodávajících, nabízejících a kupujících. 
+[1.L33] <b>66</b>„<b><i>Vozidlo(a)</i></b>“: znamená jakékoli motorové vozidlo, nové nebo použité, prodávané nebo zveřejněné prodávajícími na online tržišti, mimo jiné včetně autobusů, nákladních vozidel, dodávek, osobních automobilů a jiných dopravních prostředků.
+[1~8] <b>6</b>
+[1~9] <b>6</b>
+[1.L34] „<b>Vozidlo/a s ukončenou životností (VUŽ)</b>”: jakékoli Vozidlo, které je podle právních předpisů v oblasti životního prostředí použitelných v zemi umístění věci v okamžiku převodu kvalifikovatelné jako odpad nebo je určeno k demontáži a využití materiálů. Pro účely těchto Všeobecných podmínek zůstává právním držitelem Vozidla s ukončenou životností v každé fázi Prodávající až do předání Vozidla Kupujícímu oprávněnému k demontáži nebo zpracování odpadu, od kteréhožto okamžiku tato kvalifikace přechází na Kupujícího. Fleequid jako provozovatel Marketplace v žádné fázi nepřebírá postavení původce, držitele, dopravce, provozního zprostředkovatele ani osoby nakládající s odpadem a neorganizuje ani nekoordinuje činnosti přepravy, zpracování, využití nebo odstranění Vozidel s ukončenou životností. 
+[1.L35] „<b><i>Prodávající</i></b>“: každý profesionál, který využívá prodejní služby společnosti Fleequid a nabízí prodej svých vozidel. Tento termín se vždy vztahuje na skutečného prodávajícího, což je jiný subjekt než společnost Fleequid. V případě, že společnost Fleequid převezme v procesu dalšího prodeje roli formálního prodávajícího, bude vždy označována jako Fleequid.
+[1~10] Jakýkoli odkaz v těchto VOP na „<b><i>dny</i></b>“ je třeba chápat jako odkaz na pracovní dny, přičemž „<b><i>pracovní dny</i></b>“ je třeba chápat jako dny v týdnu od pondělí do pátku, od 8:30 do 12:30 hodin a od 14:00 do 18:00 hodin, s výjimkou všech svátků v Itálii. Platí časové pásmo sídla společnosti Fleequid.
 
 
 ## Art. 1 IT v8
@@ -1161,11 +1162,11 @@ Korespondencja.
 
 ## Output richiesto
 
-File `work/general-t-c/v9/rb/PL/tr_k01.json` (UTF-8) con questa forma:
+File `work/general-t-c/v9/rb/CZ/tr_k01.json` (UTF-8) con questa forma:
 
 ```json
 {
- "lang": "PL",
+ "lang": "CZ",
  "chunk": "k01",
  "translations": {
   "u001": "<paragrafo completo con eventuali <b>/<i>/<u>>",

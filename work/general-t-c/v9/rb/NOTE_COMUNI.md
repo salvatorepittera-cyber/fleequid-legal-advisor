@@ -45,3 +45,15 @@ Definizione "Venditore" senza punteggiatura dopo "soggetto diverso rispetto a Fl
 art. 16.4 rinvio a "lett. b)" su elenco (i)-(iii); art. 12.5 "ultimo periodo" dell'art. 12.9; art. 12.7 "3 giorni"
 contro 11.5 "giorni lavorativi"; art. 5.6 "account" contro "profilo"; art. 19.7.2 rubrica non in grassetto;
 art. 17.8 / 17.14 rinvii diversi all'art. 8.11; art. 7.1 "GDPR -Regolamento".
+
+## Priorità terminologica (vale soprattutto per il blocco k01)
+Il "Glossario dalle versioni pubblicate" mostrato nei brief deriva dalle T&C del servizio Fleequid Care, NON da questo
+documento. Per le T&C Generali la priorità è:
+1. termine DEFINITO nell'art. 1 della v8 di questo documento nella lingua (`work/refs/general_LANG.txt`), salvo errore
+   evidente o incoerenza interna della v8 (definizione smentita dall'uso nettamente prevalente nel corpo: conta le occorrenze);
+2. uso prevalente nel corpo v8 della lingua;
+3. glossario Care;
+4. scelta nuova.
+Casi ricorrenti in più lingue: il nome "1 Euro Auction(s)" è spesso tradotto solo nella definizione v8 e lasciato in
+inglese nel corpo e nelle condizioni particolari dedicate (in FR, ES, NL si è tenuto l'inglese); il titolo dell'indice
+(verifica che la parola v8 significhi davvero "indice/sommario"); sigle (PMIV, PR, VFU) incoerenti tra definizione e corpo.

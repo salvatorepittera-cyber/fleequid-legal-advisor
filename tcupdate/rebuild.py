@@ -212,8 +212,8 @@ RULES = """## Regole (vincolanti)
    - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v{old} {lang}.
    L'abbinamento con la resa v{old} è automatico: se il testo {lang} mostrato non corrisponde all'IT v{old} indicato,
    cerca il paragrafo giusto in `{ref}` e usa quello.
-3. Terminologia: i termini contrattuali già usati nella v{old} {lang} NON cambiano (glossario e tabella termini sotto
-   sono vincolanti; mai sinonimi). Per un concetto nuovo cerca prima in `{ref}`; se non c'è scegli la resa legale
+3. Terminologia: i termini contrattuali già usati nella v{old} {lang} NON cambiano (la tabella termini sotto, se
+   presente, è vincolante; mai sinonimi). Per un concetto nuovo cerca prima in `{ref}`; se non c'è scegli la resa legale
    standard nella lingua e riportala in "new_terms". Un termine definito con iniziale maiuscola in IT resta un termine
    definito (maiuscola secondo l'uso già adottato nella v{old} {lang}), sempre reso allo stesso modo.
 4. Formattazione: riporta <b>, <i>, <u> sulle parole corrispondenti, con lo STESSO numero di segmenti dell'IT v{new}.
@@ -262,8 +262,11 @@ def write_briefs(c, lang: str, only: str | None = None) -> list[Path]:
              f"- Testo completo IT v{c.v_from}: `work/refs/general_IT_v{c.v_from}.txt`",
              f"- Testo completo {lang} v{c.v_from}: `{ref}`\n",
              RULES.format(lang=lang, name=LANG_NAMES[lang], old=c.v_from, new=c.v_to, ref=ref)]
-        L.append(f"## Glossario dalle versioni pubblicate (IT → {lang})\n")
-        L += [f"- {strip_markup(g['it'])} → {strip_markup(g['tr'])}" for g in gl]
+        if ch["id"] == "k01" or not terms:
+            # il glossario cumulativo può venire da un'altra famiglia di T&C: vale solo dove non contrasta
+            # con la versione precedente di QUESTO documento
+            L.append(f"## Glossario cumulativo (IT → {lang}) — secondario: prevale la v{c.v_from} {lang} di questo documento\n")
+            L += [f"- {strip_markup(g['it'])} → {strip_markup(g['tr'])}  [{g.get('source', '')}]" for g in gl]
         if terms and ch["id"] != "k01":
             L.append(f"\n## Tabella termini v{c.v_to} già fissati per {lang} (art. 1 e titoli: vincolante)\n")
             L += [f"- {t['it']} → {t['tr']}" for t in terms]

@@ -1,0 +1,534 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Definities"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Bindende Overeenstemming"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Koper(s)"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Definitieve Toewijzing"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Annulering van de verkoop"
+ },
+ {
+  "it": "Asta",
+  "tr": "Veiling"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Veilingbasis"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Gebruikersclassificatie"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Commissies"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Koop-nu"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Algemene Voorwaarden"
+ },
+ {
+  "it": "CG",
+  "tr": "AV"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Bijzondere Verkoopvoorwaarden"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Specifieke Voorwaarden"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consument"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Overeenkomst"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Individuele Overeenkomst"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Waarborgsom"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Verkoopevenement"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financier"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Bezwaring"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Totaal Verschuldigd Bedrag"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Advertentie"
+ },
+ {
+  "it": "(o",
+  "tr": "(of"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Veilingblad"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Louter Tussenpersoon"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Marketplace"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Verkoopmodel"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Onderhandeling"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Bieder"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Bod"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Aanbetaling"
+ },
+ {
+  "it": "Parti",
+  "tr": "Partijen"
+ },
+ {
+  "it": "PMIV",
+  "tr": "PMIV"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Minimum Verkoopverbintenisprijs"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Aankoopprijs"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Netto-aankoopprijs"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Reserveprijs"
+ },
+ {
+  "it": "PR",
+  "tr": "PR"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Verkoopprijs voor de Koper"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Professional"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Verkoopvoorstel"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Hoogste bod"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Wederverkoop"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Diensten"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Financieringsoplossingen"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technische Specificaties"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Optiestatus"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Fleequid-tarief"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Tarieven"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Betalingstermijn"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Gebruiker"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Voertuig(en)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Afgedankt(e) Voertuig(en)"
+ },
+ {
+  "it": "VFU",
+  "tr": "VFU"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Verkoop buiten veiling"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Commissieverkoop"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Gereserveerde Verkoop"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Verkoper(s)"
+ },
+ {
+  "it": "giorni",
+  "tr": "dagen"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "werkdagen"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Doelstellingen, rol van Fleequid en Verkoopmodellen"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Vaststelling en kenbaarheid van het Verkoopmodel"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Contractuele bronnen, Advertentie en voorwaarden die op de specifieke transactie van toepassing zijn"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Registratie en toegestaan gebruik van de Marketplace"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Gebruikersclassificatie en Waarborgsom"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Verwerking van persoonsgegevens van Gebruikers"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Verkoopvoorstel van Voertuigen op Veilingen en verplichtingen van de Verkoper"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Verkoopevenementen en Advertentie"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Biedingen, onderhandeling en Bindende Overeenstemming"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Optiestatus, Proforma en Betalingstermijn"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Betaling, Definitieve Toewijzing bij Veilingen, vertraging en Annulering van de verkoop"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Uitgestelde verkoop: aanbetaling en tijdelijk bij de Verkoper in gebruik blijvend Voertuig"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Annulering van de verkoop: algemene regeling en vermindering van het voorwerp"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Vermogensrechtelijke gevolgen: restituties, herstel en economische afstemming"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Uitvoeringsfase ten aanzien van de Koper: facturering, eigendomsoverdracht, risico, levering en afhaling"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Commissieverkoop: gemeenschappelijke regeling, Wederverkoop en optreden als louter Tussenpersoon"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Garanties, uitsluitingen en beperkingen"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Klachten"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Verbindingsclausule"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Door derden aangeboden Financieringsoplossingen"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Toepasselijk recht, taal en bevoegde rechtbank"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Communicatie"
+ },
+ {
+  "it": "Annullamento della vendita (forma breve: Annullamento)",
+  "tr": "Annulering van de verkoop (forma breve: Annulering)"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Gebruikersclassificatie"
+ },
+ {
+  "it": "Condizioni Generali / CG",
+  "tr": "Algemene Voorwaarden / AV"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Koopovereenkomst"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "vorm van Verkoopevenement"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Advertentie (of Veilingblad)"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "wijze van uitvoering"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "uitvoeringsfase"
+ },
+ {
+  "it": "controproposta",
+  "tr": "tegenvoorstel"
+ },
+ {
+  "it": "Pagamento anticipato (art. 13)",
+  "tr": "Aanbetaling"
+ },
+ {
+  "it": "pagamento anticipato (minuscolo, art. 22.9: Fleequid paga il Venditore prima dell'incasso)",
+  "tr": "vervroegde betaling"
+ },
+ {
+  "it": "versamento anticipato / acconto sul prezzo / saldo",
+  "tr": "vooraf te verrichten betaling / voorschot op de prijs / saldo"
+ },
+ {
+  "it": "caparra confirmatoria / caparra penitenziale",
+  "tr": "bevestigend handgeld / rouwgeld"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Uitgestelde verkoop"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Verkoopprijs voor de Koper"
+ },
+ {
+  "it": "VFU (sigla di Veicolo/i Fuori Uso)",
+  "tr": "VFU (termine esteso: Afgedankt(e) Voertuig(en), v8)"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Veiling met opbieding"
+ },
+ {
+  "it": "rilancio/i",
+  "tr": "verhoging(en)"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "louter Tussenpersoon (a inizio frase/lemma: Louter Tussenpersoon)"
+ },
+ {
+  "it": "Offerta/e",
+  "tr": "Bod / Biedingen"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "vermarkting (verbo: vermarkten)"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi, non corrispettivi)",
+  "tr": "commissieopdrachten tot verkoop en tot aankoop"
+ },
+ {
+  "it": "committente/i",
+  "tr": "opdrachtgever(s)"
+ },
+ {
+  "it": "operazione",
+  "tr": "transactie"
+ },
+ {
+  "it": "sostanziale (Acquirente/Venditore/parte sostanziale)",
+  "tr": "daadwerkelijke"
+ },
+ {
+  "it": "rivendere / rivendita (minuscolo, Dealer Sales)",
+  "tr": "doorverkopen / doorverkoop"
+ },
+ {
+  "it": "gerarchia (delle fonti contrattuali)",
+  "tr": "rangorde (van de contractuele bronnen)"
+ },
+ {
+  "it": "clausola risolutiva espressa",
+  "tr": "uitdrukkelijk ontbindingsbeding"
+ },
+ {
+  "it": "penale",
+  "tr": "boete"
+ },
+ {
+  "it": "c.c",
+  "tr": "Italiaans Burgerlijk Wetboek"
+ },
+ {
+  "it": "D.Lgs",
+  "tr": "Wetgevingsdecreet"
+ },
+ {
+  "it": "art. / artt. / lett. / ultimo periodo / e seguenti",
+  "tr": "art. / artt. / letter / laatste volzin / en volgende"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Inhoudsopgave"
+ },
+ {
+  "it": "Scopi (titolo art. 2)",
+  "tr": "Doelstellingen"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction (plurale: 1 Euro Auctions)"
+ },
+ {
+  "it": "PMIV / Prezzo minimo di impegno alla vendita",
+  "tr": "PMIV / Minimum Verkoopverbintenisprijs"
+ },
+ {
+  "it": "fonte negoziale / fonti contrattuali",
+  "tr": "contractuele bron / contractuele bronnen"
+ },
+ {
+  "it": "errore materiale manifesto",
+  "tr": "kennelijke materiële vergissing"
+ },
+ {
+  "it": "ritardo (distinto da mora)",
+  "tr": "vertraging"
+ },
+ {
+  "it": "perfezionarsi / perfezionamento (dell'Accordo vincolante, del Contratto)",
+  "tr": "tot stand komen / totstandkoming"
+ },
+ {
+  "it": "integrale adempimento dell'obbligo di pagamento",
+  "tr": "volledige nakoming van de betalingsverplichting"
+ }
+]

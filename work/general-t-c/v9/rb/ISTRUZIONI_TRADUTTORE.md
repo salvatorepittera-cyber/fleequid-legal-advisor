@@ -40,3 +40,7 @@ Lavora SOLO nella cartella del worktree indicata nel prompt. Niente `cd` altrove
 - termini nuovi scelti (IT → LANG → motivo), solo quelli non già in tabella;
 - punti da far validare allo studio;
 - incongruenze trovate nell'IT.
+
+## Letture obbligatorie aggiuntive
+Prima di iniziare leggi anche `work/general-t-c/v9/rb/NOTE_COMUNI.md` (note valide per tutte le lingue) e, se esiste, `work/general-t-c/v9/rb/LANG/NOTE_LINGUA.md` (decisioni già prese per la tua lingua: vincolanti).
+Nella risposta elenca le locuzioni ricorrenti non in tabella con la resa scelta: servono all'armonizzazione.

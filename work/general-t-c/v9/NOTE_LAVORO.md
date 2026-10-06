@@ -108,3 +108,14 @@ PMIV=MVP ovunque; Versteigerung; Vertragsgrundlagen (non "vertragliche Quellen")
 - RO, RU, CZ: da iniziare (brief k01).
 Gli agenti lanciati scrivono direttamente in work/general-t-c/v9/rb/<LANG>/tr_kNN.json: alla ripresa controllare con
 `python3 -m tcupdate.rebuild check --lang <LANG> ...` quali blocchi sono OK e se hanno la lista `review`.
+
+## STATO AL SECONDO STOP PER LIMITE DI UTILIZZO
+Fatti: IT, EN, DE (Word committati).
+- FR: 10 blocchi tradotti, k01-k09 revisionati; ARMONIZZAZIONE finale lanciata. Poi: `rebuild build --lang FR`, `tcupdate toc --langs FR`, commit.
+- ES: 10 blocchi tradotti, k01-k09 revisionati; ARMONIZZAZIONE finale lanciata. Poi: build, toc, commit.
+- NL: k01 revisionato; k02..k08 e k10 tradotti, k09 in traduzione; revisioni lanciate k03, k04, k06, k07, k08; DA LANCIARE revisioni k02, k05 (quando tradotto), k09; poi armonizzazione (rivede k10), build.
+- PT: k01 revisionato (NOTE_LINGUA scritta); k02 tradotto e revisionato; k03 tradotto (revisione DA LANCIARE); k04..k10 in traduzione.
+- PL: k01 revisionato; terms.json, brief e NOTE_LINGUA pronti; DA LANCIARE traduzioni k02..k10.
+- RU, RO, CZ: k01 tradotti, revisione k01 lanciata. Poi per ciascuna: scrivere `rb/<LANG>/NOTE_LINGUA.md` dalle decisioni del revisore, `rebuild terms`, `rebuild brief`, k02..k10.
+Vincolo: massimo 20 agenti in parallelo. Prompt brevi: vedi ISTRUZIONI_*.md (leggono NOTE_COMUNI.md e <LANG>/NOTE_LINGUA.md).
+Nei brief il glossario Care è mostrato solo in k01 e marcato come secondario (prevale la v8 delle Generali).

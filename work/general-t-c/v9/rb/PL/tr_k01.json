@@ -2,83 +2,83 @@
  "lang": "PL",
  "chunk": "k01",
  "translations": {
-  "u001": "<b>Warunki Ogólne - Marketplace Fleequid®</b>",
+  "u001": "<b>Ogólne Warunki - Marketplace Fleequid®</b>",
   "u002": "<i>Spis treści</i>",
   "u003": "<b>Definicje</b>.",
-  "u004": "Poza innymi definicjami zawartymi w niniejszych Warunkach Ogólnych, terminy wskazane poniżej, ilekroć są pisane wielką literą, mają znaczenie nadane im w niniejszym artykule. Definicje określają znaczenie terminów i nie zastępują ani nie powielają uregulowań zawartych w artykułach normujących poszczególne zagadnienia, do których się odsyła.",
-  "u005": "<i>„</i><b><i>Aukcja za 1 Euro</i></b>”: szczególna kategoria Aukcji organizowana i kwalifikowana jako taka przez Fleequid, którą można stosować, zależnie od mającego zastosowanie Modelu Sprzedaży, zarówno w ramach Sprzedaży komisowej, jak i w ramach Dealer Sales, charakteryzująca się szczególnymi zasadami ustalania ceny oraz szczególnymi warunkami ekonomicznymi, uregulowana odpowiednimi Szczególnymi warunkami sprzedaży oraz w art. 9.4 lit. d).",
-  "u006": "<i>„</i><b><i>Wiążące Porozumienie</i></b>”: porozumienie, na mocy którego, w sposób określony w art. 10.2, dochodzi do zawarcia Umowy kupna-sprzedaży dotyczącej Pojazdu i po stronie Kupującego powstaje obowiązek zapłaty Łącznej Kwoty Należnej. Zawarcie Wiążącego Porozumienia nie zależy od płatności i nie stanowi Ostatecznego Przybicia.",
-  "u007": "„<b><i>Kupujący</i></b>”: Oferent, na rzecz którego zostało zawarte Wiążące Porozumienie i który jest w związku z tym zobowiązany do zapłaty Łącznej Kwoty Należnej, niezależnie od rodzaju Wydarzenia sprzedażowego i od tego, czy płatność została dokonana. W Sprzedaży komisowej, zarówno wykonywanej w drodze Odsprzedaży, jak i wtedy, gdy Fleequid działa jako Czysty Pośrednik, termin ten zawsze odnosi się do faktycznego Kupującego, podmiotu innego niż Fleequid; w Dealer Sales Kupującym jest podmiot, który nabywa Pojazd od Fleequid. W transakcjach z wykorzystaniem Rozwiązania finansowego Kupującym może być Finansujący, w przypadkach i na zasadach przewidzianych w art. 22.5.",
-  "u008": "„<b><i>Ostateczne Przybicie</i></b>”: zdarzenie właściwe wyłącznie dla Aukcji, które następuje z chwilą pełnego wykonania obowiązku zapłaty zgodnie z art. 12.2 i które, wraz z rozpoczęciem fazy wykonawczej transakcji, stanowi skutek tego wykonania. Ostateczne Przybicie nie stanowi momentu zawarcia Umowy, która zostaje zawarta z chwilą zawarcia Wiążącego Porozumienia, a jego brak nie wpływa na istnienie już zawartej Umowy. W Wydarzeniach sprzedażowych innych niż Aukcje rozpoczęcie fazy wykonawczej następuje w wyniku pełnego wykonania obowiązku zapłaty i nie prowadzi do Ostatecznego Przybicia.",
+  "u004": "Poza innymi definicjami zawartymi w niniejszych Ogólnych Warunkach, terminy wskazane poniżej, ilekroć są pisane wielką literą, mają znaczenie nadane im w niniejszym artykule. Definicje określają znaczenie terminów i nie zastępują ani nie powielają regulacji zawartej w artykułach normujących poszczególne zagadnienia, do której się odsyła.",
+  "u005": "<i>„</i><b><i>1 Euro Auction</i></b>”: szczególna kategoria Aukcji organizowana i kwalifikowana jako taka przez Fleequid, która, zależnie od mającego zastosowanie Modelu Sprzedaży, może być stosowana zarówno w ramach Sprzedaży komisowej, jak i w ramach Dealer Sales, charakteryzująca się szczególnymi zasadami ustalania ceny oraz szczególnymi warunkami ekonomicznymi, uregulowana odpowiednimi Szczególnymi warunkami sprzedaży oraz w art. 9.4 lit. d).",
+  "u006": "<i>„</i><b><i>Wiążące Porozumienie</i></b>”: porozumienie, na mocy którego, w sposób określony w art. 10.2, dochodzi do zawarcia Umowy sprzedaży dotyczącej Pojazdu i po stronie Nabywcy powstaje obowiązek zapłaty Łącznej Kwoty Należnej. Zawarcie Wiążącego Porozumienia nie zależy od płatności i nie stanowi Ostatecznego Przybicia.",
+  "u007": "„<b><i>Nabywca(y)</i></b>”: Oferent, na rzecz którego zostało zawarte Wiążące Porozumienie i który jest w związku z tym zobowiązany do zapłaty Łącznej Kwoty Należnej, niezależnie od rodzaju Wydarzenia sprzedażowego i od tego, czy płatność została dokonana. W Sprzedaży komisowej, zarówno wykonywanej w drodze Odsprzedaży, jak i wtedy, gdy Fleequid działa jako Czysty Pośrednik, termin ten zawsze odnosi się do faktycznego Nabywcy, podmiotu innego niż Fleequid; w Dealer Sales Nabywcą jest podmiot, który nabywa Pojazd od Fleequid. W transakcjach z wykorzystaniem Rozwiązania finansowego Nabywcą może być Finansujący, w przypadkach i na zasadach przewidzianych w art. 22.5.",
+  "u008": "„<b><i>Ostateczne Przybicie</i></b>”: zdarzenie właściwe wyłącznie dla Aukcji, które następuje z chwilą pełnego wykonania obowiązku zapłaty zgodnie z art. 12.2 i które, wraz z rozpoczęciem fazy wykonawczej transakcji, stanowi skutek tego wykonania. Ostateczne Przybicie nie stanowi momentu zawarcia Umowy, która zostaje zawarta z chwilą zawarcia Wiążącego Porozumienia, a jego nienastąpienie nie wpływa na istnienie już zawartej Umowy. W Wydarzeniach sprzedażowych innych niż Aukcje rozpoczęcie fazy wykonawczej następuje w wyniku pełnego wykonania obowiązku zapłaty i nie prowadzi do Ostatecznego Przybicia.",
   "u009": "„<b><i>Anulowanie sprzedaży</i></b>”: instytucja umowna, uregulowana w sposób ogólny w art. 14, za pomocą której Fleequid postanawia, w przewidzianych przypadkach, że transakcja nie zostanie wykonana lub przestanie być wykonywana, w całości lub w zakresie ograniczonym do jednego lub większej liczby Pojazdów. Konkretna przyczyna prawna Anulowania zależy od stanu faktycznego, który je powoduje; gdy następuje ono wskutek niewykonania zobowiązania objętego wyraźną klauzulą rozwiązującą, działa jako rozwiązanie umowy zgodnie z art. 1456 włoskiego Kodeksu cywilnego.",
-  "u010": "„<b><i>Aukcja</i></b>”: Wydarzenie sprzedażowe polegające na procesie telematycznej sprzedaży prowadzonym za pośrednictwem platformy Marketplace, obejmujące jedną lub więcej Ofert i kończące się, w przypadkach i na warunkach przewidzianych w niniejszych Warunkach Ogólnych, zawarciem Wiążącego Porozumienia na rzecz Oferenta, który złożył najwyższą Ofertę.",
+  "u010": "„<b><i>Aukcja</i></b>”: Wydarzenie sprzedażowe polegające na procesie telematycznej sprzedaży prowadzonym za pośrednictwem platformy Marketplace, obejmującym jedną lub więcej Ofert i kończącym się, w przypadkach i na warunkach przewidzianych w niniejszych Ogólnych Warunkach, zawarciem Wiążącego Porozumienia na rzecz Oferenta, który złożył najwyższą Ofertę.",
   "u011": "„<b><i>Cena wywoławcza</i></b>”: początkowa lub minimalna cena Pojazdu, począwszy od której, o ile przewiduje to tryb mającego zastosowanie Wydarzenia sprzedażowego, Oferenci mogą składać Oferty lub dokonywać postąpień.",
-  "u012": "„<b><i>Klasyfikacja Użytkownika</i></b>”: wewnętrzny, operacyjny i dynamiczny status przypisywany Użytkownikowi przez Fleequid na podstawie obiektywnych elementów dotyczących jego historii i dotychczasowego zachowania, ze skutkami i w granicach przewidzianych w art. 6.",
-  "u013": "„<b><i>Prowizje</i></b>”: wynagrodzenie należne Fleequid od Sprzedającego i od Kupującego z tytułu kupna-sprzedaży Pojazdów przeprowadzonej za pośrednictwem platformy Marketplace lub przy użyciu usług i systemów sprzedażowych Fleequid, wyłącznie w tych Modelach Sprzedaży, które je przewidują. O ile nie uzgodniono inaczej na piśmie lub nie wskazano inaczej w Szczególnych warunkach sprzedaży, Prowizje są ustalane na podstawie Taryfikatora Fleequid. W Sprzedaży komisowej do celów obliczenia Ceny rezerwowej uwzględnia się wyłącznie Prowizje obciążające zgodnie z umową Sprzedającego. Nabycie prawa do Prowizji reguluje art. 12.4. W Dealer Sales Prowizje nie są należne, a wynik ekonomiczny działalności Fleequid w zakresie kupna-sprzedaży nie stanowi Prowizji.",
+  "u012": "„<b><i>Klasyfikacja Użytkownika</i></b>”: wewnętrzny, operacyjny i dynamiczny status przypisywany Użytkownikowi przez Fleequid na podstawie obiektywnych elementów dotyczących jego historii i zachowania, ze skutkami i w granicach przewidzianych w art. 6.",
+  "u013": "„<b><i>Prowizje</i></b>”: wynagrodzenie należne Fleequid od Sprzedawcy i od Nabywcy z tytułu sprzedaży Pojazdów przeprowadzonej za pośrednictwem platformy Marketplace lub przy użyciu usług i systemów sprzedażowych Fleequid, wyłącznie w tych Modelach Sprzedaży, które je przewidują. O ile nie uzgodniono inaczej na piśmie lub nie wskazano inaczej w Szczególnych warunkach sprzedaży, Prowizje są ustalane na podstawie Taryfikatora Fleequid. W Sprzedaży komisowej do celów obliczenia Ceny rezerwowej uwzględnia się wyłącznie Prowizje, które zgodnie z umową obciążają Sprzedawcę. Nabycie prawa do Prowizji reguluje art. 12.4. W Dealer Sales Prowizje nie są należne, a wynik ekonomiczny działalności Fleequid w zakresie kupna i sprzedaży nie stanowi Prowizji.",
   "u014": "„<b><i>Kup Natychmiast</i></b>”: tryb Wydarzenia sprzedażowego, samodzielny lub powiązany z Aukcją Licytacyjną, uregulowany w art. 9.4 lit. b), w którym Oferta jest składana po cenie natychmiastowego zakupu wskazanej dla Pojazdu.",
-  "u015": "„<b><i>Warunki Ogólne</i></b>” lub „<b><i>WO</i></b>”: niniejsze ogólne warunki umowy, z którymi można zapoznać się w odpowiedniej sekcji platformy Marketplace, regulujące relacje między Fleequid a ogółem Użytkowników i stanowiące ogólną strukturę umowną zgodnie z hierarchią, o której mowa w art. 4.3.",
+  "u015": "„<b><i>Ogólne Warunki</i></b>” lub „<b><i>OW</i></b>”: niniejsze ogólne warunki umowy, z którymi można zapoznać się w odpowiedniej sekcji platformy Marketplace, regulujące relacje między Fleequid a ogółem Użytkowników i stanowiące ogólną strukturę umowną zgodnie z hierarchią, o której mowa w art. 4.3.",
   "u016": "„<b><i>Szczególne warunki sprzedaży</i></b>”: warunki umowne określające parametry, warunki i wyraźne odstępstwa dotyczące pojedynczej transakcji lub pojedynczego Wydarzenia sprzedażowego, mające zastosowanie zgodnie z postanowieniami art. 4.3, 4.4 i 4.5.",
-  "u017": "„<b><i>Warunki Szczegółowe</i></b>”: warunki umowne, uzupełniające niniejsze WO, zawierające szczególną, wystandaryzowaną i powtarzalną regulację właściwą dla dającej się określić kategorii transakcji, Usług, produktów lub zagadnień, mające zastosowanie zgodnie z postanowieniami art. 4.3 i 4.4.",
-  "u018": "„<b><i>Konsument</i></b>”: osoba fizyczna działająca w celach niezwiązanych z jakąkolwiek działalnością gospodarczą, handlową, rzemieślniczą lub zawodową prowadzoną, w rozumieniu art. 3 dekretu ustawodawczego nr 206 z 6 września 2005 r.",
-  "u019": "„<b><i>Umowa</i></b>”: w zależności od przypadku, każdy ze stosunków umownych istotnych w rozumieniu niniejszych Warunków Ogólnych i regulowanych również ewentualnymi Warunkami Szczegółowymi, Szczególnymi warunkami sprzedaży i Umowami indywidualnymi, a w szczególności: (i) w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży – sprzedaż Pojazdu przez Sprzedającego na rzecz Fleequid oraz następująca po niej Odsprzedaż na rzecz Kupującego; (ii) w Sprzedaży komisowej wykonywanej przez Fleequid jako Czystego Pośrednika – bezpośrednia sprzedaż Pojazdu przez Sprzedającego na rzecz Kupującego; (iii) w Dealer Sales – sprzedaż Pojazdu przez Sprzedającego na rzecz Fleequid oraz następująca po niej sprzedaż tego samego Pojazdu przez Fleequid na rzecz Kupującego, jako umowy odrębne i samodzielne; a także stosunek w zakresie oferowania Pojazdu do sprzedaży nawiązany między Sprzedającym a Fleequid zgodnie z art. 8.7 i 8.8. Zawarcie Wiążącego Porozumienia dotyczącego sprzedaży na rzecz Kupującego reguluje art. 10.2; stosunki zakupu, sprzedaży i przeniesienia Pojazdu regulują, zależnie od mającego zastosowanie Modelu Sprzedaży i wybranego sposobu wykonania, art. 8.8, 16, 17 i 18 oraz dalsze mające zastosowanie postanowienia. W odniesieniu do formy Umów kupna-sprzedaży pozostaje w mocy art. 10.2 zdanie ostatnie.",
-  "u020": "„<b><i>Umowa indywidualna</i></b>”: porozumienie sformalizowane na piśmie i zatwierdzone przez Fleequid z jednym lub większą liczbą określonych Użytkowników, zajmujące pierwsze miejsce w hierarchii źródeł umownych zgodnie z art. 4.3.",
-  "u021": "„<b><i>Dealer Sales</i></b>”: Model Sprzedaży, uregulowany w art. 2.7 i 18, w którym Fleequid nabywa Pojazd od Sprzedającego we własnym imieniu i na własny rachunek, a następnie sprzedaje go dalej we własnym imieniu i na własny rachunek Kupującemu, będąc faktyczną stroną obu umów kupna-sprzedaży, odrębnych i samodzielnych.",
-  "u022": "<b>„</b><b><i>Depozyt zabezpieczający</i></b><b>”</b>: suma pieniędzy, którą Oferent jest zobowiązany wpłacić na rzecz Fleequid, w przypadkach i w wysokości przewidzianych w art. 6, tytułem zabezpieczenia wykonania zaciągniętych zobowiązań oraz wierzytelności Fleequid związanych z konkretną transakcją. Depozyt zabezpieczający nie stanowi kary umownej i nie jest samodzielną podstawą obciążenia.",
-  "u023": "„<b><i>Wydarzenie sprzedażowe</i></b>”: każdy proces handlowy organizowany lub zarządzany przez Fleequid i mający na celu sprzedaż jednego lub większej liczby Pojazdów, w trybach przewidzianych w art. 9.4, a w szczególności Aukcja, Kup Natychmiast, zarówno w trybie samodzielnym, jak i w powiązaniu z Aukcją Licytacyjną, Sprzedaż zastrzeżona, Negocjacje i Sprzedaż poza aukcją.",
-  "u024": "„<b><i>Finansujący</i></b>”: osoba trzecia, która przyznaje Użytkownikowi finansowanie lub je wypłaca w ramach Rozwiązania finansowego i która, zależnie od wybranego produktu i mających zastosowanie Warunków Szczegółowych, może występować jako podmiot dokonujący płatności, jako odbiorca faktury albo jako Kupujący zgodnie z art. 22.5.",
+  "u017": "„<b><i>Warunki Szczegółowe</i></b>”: warunki umowne, uzupełniające niniejsze OW, zawierające szczególną, wystandaryzowaną i powtarzalną regulację właściwą dla dającej się określić kategorii transakcji, Usług, produktów lub zagadnień, mające zastosowanie zgodnie z postanowieniami art. 4.3 i 4.4.",
+  "u018": "„<b><i>Konsument</i></b>”: osoba fizyczna działająca w celach niezwiązanych z ewentualnie prowadzoną działalnością gospodarczą, handlową, rzemieślniczą lub zawodową, w rozumieniu art. 3 dekretu ustawodawczego nr 206 z 6 września 2005 r.",
+  "u019": "„<b><i>Umowa</i></b>”: w zależności od przypadku, każdy ze stosunków umownych mających znaczenie na gruncie niniejszych Ogólnych Warunków i regulowanych również ewentualnymi Warunkami Szczegółowymi, Szczególnymi warunkami sprzedaży i Umowami indywidualnymi, a w szczególności: (i) w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży – sprzedaż Pojazdu przez Sprzedawcę na rzecz Fleequid oraz następująca po niej Odsprzedaż na rzecz Nabywcy; (ii) w Sprzedaży komisowej wykonywanej przez Fleequid jako Czystego Pośrednika – bezpośrednia sprzedaż Pojazdu przez Sprzedawcę na rzecz Nabywcy; (iii) w Dealer Sales – sprzedaż Pojazdu przez Sprzedawcę na rzecz Fleequid oraz następująca po niej sprzedaż tego samego Pojazdu przez Fleequid na rzecz Nabywcy, jako umowy odrębne i samodzielne; a także stosunek oferowania Pojazdu do sprzedaży nawiązany między Sprzedawcą a Fleequid zgodnie z art. 8.7 i 8.8. Zawarcie Wiążącego Porozumienia dotyczącego sprzedaży na rzecz Nabywcy reguluje art. 10.2; stosunki zakupu, sprzedaży i przeniesienia Pojazdu regulują, zależnie od mającego zastosowanie Modelu Sprzedaży i wybranego sposobu wykonania, art. 8.8, 16, 17 i 18 oraz dalsze mające zastosowanie postanowienia. W odniesieniu do formy Umów sprzedaży pozostaje w mocy art. 10.2 zdanie ostatnie.",
+  "u020": "„<b><i>Umowa indywidualna</i></b>”: porozumienie sformalizowane na piśmie i zatwierdzone przez Fleequid, zawarte z jednym lub większą liczbą określonych Użytkowników, zajmujące pierwsze miejsce w hierarchii źródeł umownych zgodnie z art. 4.3.",
+  "u021": "„<b><i>Dealer Sales</i></b>”: Model Sprzedaży, uregulowany w art. 2.7 i 18, w którym Fleequid nabywa Pojazd od Sprzedawcy we własnym imieniu i na własny rachunek, a następnie sprzedaje go dalej we własnym imieniu i na własny rachunek Nabywcy, będąc faktyczną stroną obu umów sprzedaży, odrębnych i samodzielnych.",
+  "u022": "<b>„</b><b><i>Wadium</i></b><b>”</b>: suma pieniędzy, którą Oferent jest zobowiązany wpłacić na rzecz Fleequid, w przypadkach i w wysokości przewidzianych w art. 6, tytułem zabezpieczenia wykonania zaciągniętych zobowiązań oraz wierzytelności Fleequid związanych z konkretną transakcją. Wadium nie stanowi kary umownej i nie jest samodzielną podstawą obciążenia.",
+  "u023": "„<b><i>Wydarzenie sprzedażowe</i></b>”: każdy proces handlowy organizowany lub zarządzany przez Fleequid i mający na celu sprzedaż jednego lub większej liczby Pojazdów, w trybach przewidzianych w art. 9.4, a mianowicie Aukcja, Kup Natychmiast, zarówno w trybie samodzielnym, jak i w powiązaniu z Aukcją Licytacyjną, Sprzedaż zastrzeżona, Negocjacje i Sprzedaż poza aukcją.",
+  "u024": "„<b><i>Finansujący</i></b>”: osoba trzecia, która przyznaje Użytkownikowi finansowanie lub je wypłaca w ramach Rozwiązania finansowego i która, zależnie od wybranego produktu i mających zastosowanie Warunków Szczegółowych, może występować jako podmiot dokonujący płatności, jako odbiorca faktury albo jako Nabywca zgodnie z art. 22.5.",
   "u025": "„<b><i>Fleequid</i></b>”: oznacza przede wszystkim spółkę Adorea S.r.l. z siedzibą przy Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), numer identyfikacji podatkowej i numer NIP 04114790134, wpisaną do rejestru przedsiębiorstw w Como pod nr 420825, e-mail info@fleequid.com, właściciela marki Fleequid®. Termin ten może również odnosić się do innych podmiotów prawnych, powiązanych lub wyznaczonych przez Adorea S.r.l. do oferowania Pojazdów do sprzedaży, zgodnie z postanowieniami art. 2.9. Fleequid zarządza platformą Marketplace i udostępnia Usługi; charakter, w jakim występuje ona w pojedynczej transakcji, zależy od mającego zastosowanie Modelu Sprzedaży, a w Sprzedaży komisowej – od wybranego sposobu wykonania, zgodnie z postanowieniami art. 2.3-2.8, 3, 17 i 18. Pozycję Fleequid w odniesieniu do Pojazdów kwalifikujących się jako PWE lub w inny sposób jako odpady regulują art. 16.13 i 18.8.",
   "u026": "„<b><i>Obciążenie</i></b>”: jakiekolwiek ograniczenie lub obciążenie, prawo zabezpieczenia, zastaw, nakaz egzekucyjny, zobowiązanie umowne, zastrzeżenie własności, zobowiązanie podatkowe lub celne, hipoteka lub inne obciążenie jakiegokolwiek rodzaju, ciążące na Pojeździe i mogące uniemożliwić lub utrudnić jego obrót prawny i zbywalność. Za Obciążenie należy uznać każdą cechę Pojazdu, która nie pozwala na jego swobodny obrót w Unii Europejskiej, lub brak certyfikatu WE zgodnie z obowiązującymi przepisami Unii Europejskiej, jeśli jest wymagany.",
-  "u027": "„<b><i>Łączna Kwota Należna</i></b><i>”</i>: łączna kwota należna od Kupującego w związku z konkretną transakcją, obejmująca, zależnie od mającego zastosowanie Modelu Sprzedaży i wybranego sposobu wykonania, Cenę sprzedaży na rzecz Kupującego, Prowizje, Opłaty, ewentualne zwroty kosztów oraz podatek VAT, o ile jest należny. Łączna Kwota Należna jest wskazana w Proformie, z zastrzeżeniem oczywistej omyłki pisarskiej lub rachunkowej; gdy Fleequid działa jako Czysty Pośrednik, Proforma wyszczególnia odrębnie składniki należne Sprzedającemu i składniki należne Fleequid.",
-  "u028": "„<b><i>Ogłoszenie</i></b><i>” (lub „</i><b><i>Karta Aukcyjna</i></b><i>”)</i>: treść informacyjna i opisowa dotycząca Pojazdu i konkretnej transakcji, obejmująca, tytułem przykładu i bez ograniczeń, Specyfikacje techniczne, zdjęcia, dokumentację techniczną, ewentualny TrustReport oraz wszelkie inne informacje udostępnione Użytkownikom, pełniąca również funkcję zawierania, wskazywania lub przywoływania Szczególnych warunków sprzedaży oraz umożliwienia zapoznania się z elementami przewidzianymi w art. 3.2, zgodnie z uregulowaniem art. 4.6.",
-  "u029": "<b>„</b><b><i>Czysty Pośrednik</i></b><b>”</b>: sposób wykonania Sprzedaży komisowej, uregulowany w art. 2.6 oraz 17.10 i nast., w którym Fleequid nie dokonuje Odsprzedaży, nie kupuje ani nie sprzedaje Pojazdu i nie zawiera umowy kupna-sprzedaży ani we własnym imieniu, ani jako strona, umożliwiając przeniesienie i fakturowanie Pojazdu bezpośrednio przez Sprzedającego na rzecz Kupującego. Czysty Pośrednik nie stanowi samodzielnego Modelu Sprzedaży i pozostaje wewnętrznym sposobem wykonania Sprzedaży komisowej.",
-  "u030": "„<b><i>Marketplace</i></b>”: platformy aukcyjne i inne platformy, aplikacje, strony internetowe oraz usługi zintegrowane, które tworzą rynek internetowy, na którym Użytkownicy, w przypadkach i na warunkach określonych w niniejszych WO oraz w dalszych mających zastosowanie źródłach, mogą kupować i sprzedawać Pojazdy, a także zamawiać inne Usługi udostępniane przez Fleequid i korzystać z nich, w tym w szczególności strona internetowa Fleequid dostępna pod następującym adresem: https://www.fleequid.com.",
-  "u031": "„<b><i>Model Sprzedaży</i></b>”: struktura prawna, zgodnie z którą Fleequid organizuje pojedynczą transakcję sprzedaży, określona zgodnie z art. 3 spośród dwóch wyłącznie Modeli przewidzianych w art. 2.3, to jest Sprzedaży komisowej i Dealer Sales.",
+  "u027": "„<b><i>Łączna Kwota Należna</i></b><i>”</i>: łączna kwota należna od Nabywcy w związku z konkretną transakcją, obejmująca, zależnie od mającego zastosowanie Modelu Sprzedaży i wybranego sposobu wykonania, Cenę sprzedaży na rzecz Nabywcy, Prowizje, Opłaty, ewentualne zwroty kosztów oraz podatek VAT, o ile jest należny. Łączna Kwota Należna jest wskazana w Proformie, z zastrzeżeniem oczywistej omyłki pisarskiej lub rachunkowej; gdy Fleequid działa jako Czysty Pośrednik, Proforma wyszczególnia odrębnie składniki należne Sprzedawcy i składniki należne Fleequid.",
+  "u028": "„<b><i>Ogłoszenie</i></b><i>” (lub „</i><b><i>Karta Aukcyjna</i></b><i>”)</i>: treść informacyjna i opisowa dotycząca Pojazdu i konkretnej transakcji, obejmująca, tytułem przykładu i bez ograniczeń, Specyfikacje techniczne, zdjęcia, dokumentację techniczną, ewentualny TrustReport oraz wszelkie inne informacje udostępnione Użytkownikom, której funkcją jest również zawarcie, wskazanie lub przywołanie Szczególnych warunków sprzedaży oraz umożliwienie zapoznania się z elementami przewidzianymi w art. 3.2, zgodnie z uregulowaniem art. 4.6.",
+  "u029": "<b>„</b><b><i>Czysty Pośrednik</i></b><b>”</b>: sposób wykonania Sprzedaży komisowej, uregulowany w art. 2.6 oraz 17.10 i nast., w którym Fleequid nie dokonuje Odsprzedaży, nie kupuje ani nie sprzedaje Pojazdu i nie zawiera umowy sprzedaży ani we własnym imieniu, ani jako strona, umożliwiając przeniesienie i fakturowanie Pojazdu bezpośrednio przez Sprzedawcę na rzecz Nabywcy. Czysty Pośrednik nie stanowi samodzielnego Modelu Sprzedaży i pozostaje wewnętrznym sposobem wykonania Sprzedaży komisowej.",
+  "u030": "„<b><i>Marketplace</i></b>”: platformy aukcyjne i inne platformy, aplikacje, strony internetowe oraz usługi zintegrowane, które tworzą rynek internetowy, na którym Użytkownicy, w przypadkach i na warunkach określonych w niniejszych OW oraz w dalszych mających zastosowanie źródłach, mogą kupować i sprzedawać Pojazdy, a także zamawiać inne Usługi udostępniane przez Fleequid i korzystać z nich, do których należy w szczególności strona internetowa Fleequid dostępna pod następującym adresem: https://www.fleequid.com.",
+  "u031": "„<b><i>Model Sprzedaży</i></b>”: struktura prawna, zgodnie z którą Fleequid organizuje pojedynczą transakcję sprzedaży, określana zgodnie z art. 3 spośród wyłącznie dwóch Modeli przewidzianych w art. 2.3, to jest Sprzedaży komisowej i Dealer Sales.",
   "u032": "„<b><i>Negocjacje</i></b>”: tryb Wydarzenia sprzedażowego, uregulowany w art. 9.4 lit. e), polegający na rokowaniach, w ramach których mogą być składane Oferty i kontroferty i w którym Wiążące Porozumienie zostaje zawarte z chwilą przyjęcia Oferty albo kontroferty.",
-  "u033": "„<b><i>Oferent</i></b>”: każdy Użytkownik będący Przedsiębiorcą, który bierze udział w Wydarzeniu sprzedażowym poprzez złożenie jednej lub kilku Ofert. Oferent uzyskuje status Kupującego w momencie zawarcia na jego rzecz Wiążącego Porozumienia.",
+  "u033": "„<b><i>Oferent</i></b>”: każdy Użytkownik będący Przedsiębiorcą, który bierze udział w Wydarzeniu sprzedażowym poprzez złożenie jednej lub kilku Ofert. Oferent uzyskuje status Nabywcy w momencie zawarcia na jego rzecz Wiążącego Porozumienia.",
   "u034": "„<b><i>Oferta</i></b>”: oświadczenie woli, którym Oferent proponuje zakup Pojazdu po określonej cenie w ramach Wydarzenia sprzedażowego. Oferta jest wiążąca i nieodwołalna na zasadach przewidzianych w art. 10.1 i 10.5 oraz zakłada uprzednie określenie mającego zastosowanie Modelu Sprzedaży i możliwość zapoznania się z nim zgodnie z art. 3.",
-  "u035": "„<b><i>Zaliczka</i></b>”: wpłata z góry, w wysokości 30% Łącznej Kwoty Należnej, której można zażądać od Kupującego w transakcjach, w których Pojazd pozostaje tymczasowo w używaniu Sprzedającego, zgodnie z postanowieniami art. 13. Zaliczka jest wpłacana na poczet ceny i nie stanowi zadatku ani odstępnego.",
-  "u036": "<i>„</i><b><i>Strony</i></b>”: oznacza łącznie Fleequid, Sprzedającego, Oferenta i Kupującego. Finansujący nie jest Stroną niniejszych Warunków Ogólnych, chyba że uzyska status Kupującego zgodnie z art. 22.5.",
-  "u037": "„<b><i>PMIV</i></b>” lub <b><i>„Minimalna cena zobowiązująca do sprzedaży”</i></b>: cena wyrażona w euro, ustalona przez Sprzedającego w momencie składania Propozycji sprzedaży, stanowiąca minimalne wpływy netto, które Sprzedający zamierza uzyskać ze sprzedaży Pojazdu. PMIV jest wiążąca i może zostać zmieniona wyłącznie przed rozpoczęciem danego Wydarzenia sprzedażowego; w przypadku jej rewizji w związku z kolejną próbą sprzedaży stosuje się postanowienia art. 8.10.",
-  "u038": "„<b><i>Cena zakupu</i></b>”: cena Pojazdu należna Sprzedającemu w Dealer Sales, uzgodniona samodzielnie między Fleequid a Sprzedającym zgodnie z art. 18.3.",
-  "u039": "„<b><i>Cena zakupu netto</i></b>”: cena Pojazdu należna Sprzedającemu od Fleequid w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży, odpowiadająca Cenie sprzedaży na rzecz Kupującego pomniejszonej o Prowizje obciążające Sprzedającego, Opłaty oraz wszelkie inne kwoty należne Fleequid od Sprzedającego, ustalana i wymagalna zgodnie z postanowieniami art. 17.4.",
-  "u040": "„<b><i>Cena rezerwowa</i></b><i>”</i> lub „<b><i>PR</i></b>”<i>:</i> wartość brutto, określona przez Fleequid na podstawie PMIV ustalonej przez Sprzedającego i Prowizji obciążających Sprzedającego określonych w Taryfikatorze Fleequid, stanowiąca, w Sprzedaży komisowej, próg cenowy, przy którym lub powyżej którego Sprzedający nieodwołalnie wyraża zgodę na sprzedaż Pojazdu, zapewniający mu wpływy netto co najmniej równe PMIV. W Dealer Sales ewentualna Cena rezerwowa dotyczy wyłącznie dalszej sprzedaży Pojazdu przez Fleequid na rzecz Kupującego i jest ustalana samodzielnie przez Fleequid zgodnie z art. 9.5.",
-  "u041": "„<b><i>Cena sprzedaży na rzecz Kupującego</i></b>”: cena Pojazdu wynikająca z Wiążącego Porozumienia, niezależnie od sposobu jego zawarcia w trybie mającego zastosowanie Wydarzenia sprzedażowego, należna od Kupującego i wchodząca w skład Łącznej Kwoty Należnej.",
+  "u035": "„<b><i>Zaliczka</i></b>”: wpłata z góry, w wysokości 30 % Łącznej Kwoty Należnej, której można zażądać od Nabywcy w transakcjach, w których Pojazd pozostaje tymczasowo w używaniu Sprzedawcy, zgodnie z postanowieniami art. 13. Zaliczka jest wpłacana na poczet ceny i nie stanowi zadatku ani odstępnego.",
+  "u036": "<i>„</i><b><i>Strony</i></b>”: oznacza łącznie Fleequid, Sprzedawcę, Oferenta i Nabywcę. Finansujący nie jest Stroną niniejszych Ogólnych Warunków, chyba że uzyska status Nabywcy zgodnie z art. 22.5.",
+  "u037": "„<b><i>PMIV</i></b>” lub <b><i>„Minimalna cena zobowiązująca do sprzedaży”</i></b>: cena wyrażona w euro, ustalona przez Sprzedawcę w momencie składania Propozycji sprzedaży, stanowiąca minimalne wpływy netto, które Sprzedawca zamierza uzyskać ze sprzedaży Pojazdu. PMIV jest wiążące i może zostać zmienione wyłącznie przed rozpoczęciem danego Wydarzenia sprzedażowego; w przypadku jego rewizji w związku z kolejną próbą sprzedaży stosuje się postanowienia art. 8.10.",
+  "u038": "„<b><i>Cena zakupu</i></b>”: cena Pojazdu należna Sprzedawcy w Dealer Sales, uzgodniona niezależnie między Fleequid a Sprzedawcą zgodnie z art. 18.3.",
+  "u039": "„<b><i>Cena zakupu netto</i></b>”: cena Pojazdu należna Sprzedawcy od Fleequid w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży, odpowiadająca Cenie sprzedaży na rzecz Nabywcy pomniejszonej o Prowizje obciążające Sprzedawcę, Opłaty oraz wszelkie inne kwoty należne Fleequid od Sprzedawcy, ustalana i wymagalna zgodnie z postanowieniami art. 17.4.",
+  "u040": "„<b><i>Cena rezerwowa</i></b><i>”</i> lub „<b><i>PR</i></b>”<i>:</i> wartość brutto, określona przez Fleequid na podstawie PMIV ustalonego przez Sprzedawcę i Prowizji obciążających Sprzedawcę określonych w Taryfikatorze Fleequid, stanowiąca, w Sprzedaży komisowej, próg cenowy, przy którym lub powyżej którego Sprzedawca nieodwołalnie wyraża zgodę na sprzedaż Pojazdu, zapewniający mu wpływy netto co najmniej równe PMIV. W Dealer Sales ewentualna Cena rezerwowa dotyczy wyłącznie dalszej sprzedaży Pojazdu przez Fleequid na rzecz Nabywcy i jest ustalana samodzielnie przez Fleequid zgodnie z art. 9.5.",
+  "u041": "„<b><i>Cena sprzedaży na rzecz Nabywcy</i></b>”: cena Pojazdu wynikająca z Wiążącego Porozumienia, bez względu na sposób, w jaki doszło do jego zawarcia w mającym zastosowanie trybie Wydarzenia sprzedażowego, należna od Nabywcy i wchodząca w skład Łącznej Kwoty Należnej.",
   "u042": "„<b><i>Przedsiębiorca</i></b>”: oznacza każdą osobę fizyczną lub prawną działającą w ramach swojej działalności handlowej, gospodarczej, rzemieślniczej lub zawodowej, lub jej pośrednika, z wyłączeniem Konsumentów. Definicja ta obejmuje również „mikroprzedsiębiorstwa”, tj. podmioty, spółki lub stowarzyszenia, które, niezależnie od formy prawnej, prowadzą działalność gospodarczą, także indywidualnie lub w ramach działalności rodzinnej, zatrudniając mniej niż dziesięć osób i osiągając roczny obrót lub całkowity bilans roczny nieprzekraczający dwóch milionów euro, zgodnie z art. 2 par. 3 załącznika do Zalecenia Komisji nr 2003/361/WE z 6 maja 2003 r. oraz z art. 18 ust. 1 lit. d-bis dekretu ustawodawczego nr 206/2005 (Kodeks Konsumenta).",
-  "u043": "„<b><i>Proforma</i></b>”: dokument, za pomocą którego Fleequid informuje Kupującego o Łącznej Kwocie Należnej i o dacie upływu Terminu płatności oraz, w Sprzedaży komisowej, utrwala wybrany sposób wykonania, zgodnie z postanowieniami art. 11.4. Proforma jest dokumentem wykonawczym i deklaratoryjnym, następującym po Wiążącym Porozumieniu, nie jest źródłem umownym, nie stanowi dokumentu podatkowego i nie rodzi nowych zobowiązań.",
-  "u044": "„<b><i>Propozycja sprzedaży</i></b>”: oświadczenie woli, którym Sprzedający zleca Fleequid oferowanie do sprzedaży i sprzedaż jednego lub większej liczby Pojazdów za pośrednictwem platformy Marketplace lub w innych dostępnych trybach. Formę, minimalną treść, skuteczność i wiążący charakter Propozycji sprzedaży reguluje art. 8.1.",
+  "u043": "„<b><i>Proforma</i></b>”: dokument, za pomocą którego Fleequid informuje Nabywcę o Łącznej Kwocie Należnej i o dacie upływu Terminu płatności oraz, w Sprzedaży komisowej, utrwala wybrany sposób wykonania, zgodnie z postanowieniami art. 11.4. Proforma jest dokumentem wykonawczym i deklaratoryjnym, następującym po Wiążącym Porozumieniu, nie jest źródłem umownym, nie stanowi dokumentu podatkowego i nie rodzi nowych zobowiązań.",
+  "u044": "„<b><i>Propozycja sprzedaży</i></b>”: oświadczenie woli, którym Sprzedawca zleca Fleequid oferowanie do sprzedaży i sprzedaż jednego lub większej liczby Pojazdów za pośrednictwem platformy Marketplace lub w inny dostępny sposób. Formę, minimalną treść, skuteczność i wiążący charakter Propozycji sprzedaży reguluje art. 8.1.",
   "u045": "<b>„</b><b><i>Najwyższa Oferta</i></b>”: najwyższa wartość ze wszystkich Ofert złożonych przez Oferentów na koniec Aukcji, w tym po wszelkich postąpieniach. Jeżeli Fleequid dokonała Anulowania sprzedaży, Najwyższa Oferta jest ustalana z wyłączeniem wartości Ofert dotyczących anulowanych sprzedaży.",
-  "u046": "„<b><i>Odsprzedaż</i></b>”: sposób wykonania Sprzedaży komisowej, uregulowany w art. 2.5 oraz 17.3 i nast., który może być realizowany również w formach przewidzianych w art. 1395 włoskiego Kodeksu cywilnego, za pomocą którego Fleequid, w wykonaniu zleceń komisowych sprzedaży i zakupu, nabywa Pojazd od Sprzedającego i przenosi go na Kupującego w celu przypisania umowy kupna-sprzedaży odpowiednim komitentom. Odsprzedaż nie ma zastosowania w Dealer Sales.",
-  "u047": "„<b><i>Usługi</i></b>”: usługi offline i online udostępniane przez Fleequid Użytkownikom i podlegające Opłatom, takie jak, tytułem przykładu, usługi transportu i logistyki Pojazdów oraz inne usługi wskazane na platformie Marketplace, z wyłączeniem działalności pośrednictwa w kupnie-sprzedaży Pojazdów, która podlega Prowizjom.",
+  "u046": "„<b><i>Odsprzedaż</i></b>”: sposób wykonania Sprzedaży komisowej, uregulowany w art. 2.5 oraz 17.3 i nast., który może być realizowany również w formach przewidzianych w art. 1395 włoskiego Kodeksu cywilnego, za pomocą którego Fleequid, w wykonaniu zleceń komisowych sprzedaży i zakupu, nabywa Pojazd od Sprzedawcy i przenosi go na Nabywcę w celu przypisania sprzedaży odpowiednim komitentom. Odsprzedaż nie ma zastosowania w Dealer Sales.",
+  "u047": "„<b><i>Usługi</i></b>”: usługi offline i online udostępniane przez Fleequid Użytkownikom i podlegające Opłatom, takie jak, tytułem przykładu, usługi transportu i logistyki Pojazdów oraz inne usługi wskazane na platformie Marketplace, z wyłączeniem działalności pośrednictwa w kupnie i sprzedaży Pojazdów, która podlega Prowizjom.",
   "u048": "„<b><i>Rozwiązania finansowe</i></b>”: produkty finansowania, leasingu finansowego lub innej formy pozyskania środków oferowane przez osoby trzecie i udostępniane lub wskazywane za pośrednictwem platformy Marketplace, uregulowane w art. 22 oraz w odpowiednich Warunkach Szczegółowych.",
-  "u049": "„<b><i>Specyfikacje techniczne</i></b>”: wszystkie informacje dostarczone przez Sprzedającego lub wskazane przez Fleequid i zatwierdzone przez Sprzedającego, dotyczące charakterystyki technicznej i administracyjnej każdego z Pojazdów oferowanych do sprzedaży.",
-  "u050": "„<b><i>Status Opcji</i></b>”: status Pojazdu następujący po zawarciu Wiążącego Porozumienia, a poprzedzający pełne wykonanie obowiązku zapłaty i rozpoczęcie fazy wykonawczej albo Anulowanie sprzedaży, ze skutkami przewidzianymi w art. 11. Status Opcji opisuje etap procesu sprzedaży, nie przyznaje Kupującemu żadnego uprawnienia do późniejszego wyboru, czy dokonać zakupu, nie stanowi nieodwołalnej propozycji zawarcia umowy i nie jest umową opcji w rozumieniu art. 1331 włoskiego Kodeksu cywilnego.",
-  "u051": "<b><i>„Taryfikator Fleequid”</i></b>: zbiór warunków regulujących sposób obliczania, również w ujęciu procentowym w stosunku do Ceny sprzedaży na rzecz Kupującego, Prowizji należnych Fleequid od Sprzedającego i od Kupującego, a także dalszych wskazanych w nim kwot, dostępny pod następującymi linkami: <b>https://fleequid.com/it/pricing-seller</b> i <b>https://fleequid.com/it/pricing-buyer</b>.",
+  "u049": "„<b><i>Specyfikacje techniczne</i></b>”: wszystkie informacje dostarczone przez Sprzedawcę lub wskazane przez Fleequid i zatwierdzone przez Sprzedawcę, dotyczące charakterystyki technicznej i administracyjnej każdego z Pojazdów oferowanych do sprzedaży.",
+  "u050": "„<b><i>Status Opcji</i></b>”: status Pojazdu następujący po zawarciu Wiążącego Porozumienia, a poprzedzający pełne wykonanie obowiązku zapłaty i rozpoczęcie fazy wykonawczej albo Anulowanie sprzedaży, ze skutkami przewidzianymi w art. 11. Status Opcji opisuje etap procesu sprzedaży, nie przyznaje Nabywcy żadnego uprawnienia do późniejszego wyboru, czy dokonać zakupu, nie stanowi nieodwołalnej propozycji zawarcia umowy i nie jest umową opcji w rozumieniu art. 1331 włoskiego Kodeksu cywilnego.",
+  "u051": "<b><i>„Taryfikator Fleequid”</i></b>: zbiór warunków regulujących sposób obliczania, również w ujęciu procentowym w stosunku do Ceny sprzedaży na rzecz Nabywcy, Prowizji należnych Fleequid od Sprzedawcy i od Nabywcy, a także dalszych wskazanych w nim kwot, dostępny pod następującymi linkami: <b>https://fleequid.com/it/pricing-seller</b> i <b>https://fleequid.com/it/pricing-buyer</b>.",
   "u052": "„<b><i>Opłaty</i></b>”: wynagrodzenie, inne niż Prowizje, należne Fleequid za świadczenie jednej lub większej liczby Usług.",
-  "u053": "„<b><i>Termin płatności</i></b>”: termin, w którym Kupujący musi zapłacić w całości Łączną Kwotę Należną, ustalany zgodnie z art. 11.5 oraz, w przewidzianych w nim przypadkach, zgodnie z art. 11.6, 11.7, 13 i 22.7.",
-  "u054": "„<b><i>TrustReport</i></b>”: dokument z weryfikacji Pojazdu sporządzony przez Fleequid lub na jej zlecenie przez osoby trzecie, mający charakter wyłącznie informacyjny w zakresie i ze skutkami przewidzianymi w art. 19.5. TrustReport nie stanowi gwarancji ani certyfikatu stanu Pojazdu, nie zastępuje oględzin dokonywanych przez Kupującego i nie zwalnia Sprzedającego z jego odpowiedzialności i obowiązków.",
-  "u055": "„<b><i>Użytkownik</i></b>”: każdy Przedsiębiorca, jednoosobowa działalność gospodarcza lub osoba prawna, która ukończyła proces rejestracji na platformie Marketplace lub w inny sposób przystąpiła do niej poprzez akceptację niniejszych Warunków Ogólnych, w celu uzyskania dostępu do platformy Marketplace, jej przeglądania i korzystania z niej, uczestniczenia w Wydarzeniach sprzedażowych w celu proponowania kupna lub sprzedaży Pojazdów oraz korzystania z oferowanych Usług, w tym Sprzedający, Oferenci i Kupujący.",
+  "u053": "„<b><i>Termin płatności</i></b>”: termin, w którym Nabywca musi zapłacić w całości Łączną Kwotę Należną, ustalany zgodnie z art. 11.5 oraz, w przewidzianych w nim przypadkach, zgodnie z art. 11.6, 11.7, 13 i 22.7.",
+  "u054": "„<b><i>TrustReport</i></b>”: dokument z weryfikacji Pojazdu sporządzony przez Fleequid lub na jej zlecenie przez osoby trzecie, mający charakter wyłącznie informacyjny w zakresie i ze skutkami przewidzianymi w art. 19.5. TrustReport nie stanowi gwarancji ani certyfikatu stanu Pojazdu, nie zastępuje oględzin dokonywanych przez Nabywcę i nie zwalnia Sprzedawcy z jego odpowiedzialności i obowiązków.",
+  "u055": "„<b><i>Użytkownik</i></b>”: każdy Przedsiębiorca, jednoosobowa działalność gospodarcza lub osoba prawna, która ukończyła proces rejestracji na platformie Marketplace lub w inny sposób przystąpiła do niej poprzez akceptację niniejszych Ogólnych Warunków, w celu uzyskania dostępu do platformy Marketplace, jej przeglądania i korzystania z niej, uczestniczenia w Wydarzeniach sprzedażowych w celu proponowania kupna lub sprzedaży Pojazdów oraz korzystania z oferowanych Usług, w tym Sprzedawcy, Oferenci i Nabywcy.",
   "u056": "„<b><i>Pojazd(y)</i></b>”: oznacza każdy pojazd silnikowy, nowy lub używany, sprzedawany lub wystawiany na platformie Marketplace bądź w inny sposób oferowany do sprzedaży za pośrednictwem Fleequid, w tym między innymi autobusy, ciężarówki, samochody dostawcze, samochody osobowe i inne środki transportu.",
   "u057": "„<b><i>Pojazd/Pojazdy Wycofane z Eksploatacji</i></b>” lub „<b><i>PWE</i></b>”: każdy Pojazd, który zgodnie z przepisami ochrony środowiska obowiązującymi w kraju położenia rzeczy w chwili zbycia kwalifikuje się jako odpad albo jest przeznaczony do demontażu i odzysku materiałów. Odpowiednie uregulowania zawarte są w art. 8.3, 16.13, 18.8 i 20.8.",
   "u058": "„<b><i>Sprzedaż poza aukcją</i></b>”: tryb Wydarzenia sprzedażowego, uregulowany w art. 9.4 lit. f), w którym sprzedaż zostaje zawarta poza procesem Aukcji.",
-  "u059": "„<b><i>Sprzedaż komisowa</i></b>”: Model Sprzedaży, uregulowany w art. 2.3, 2.4, 2.5, 2.6 i 17, w którym Fleequid, na podstawie nieodwołalnego zlecenia Użytkowników, prowadzi na ich rachunek sprzedaż i zakup Pojazdu i w którym transakcja jest wykonywana, alternatywnie, w drodze Odsprzedaży albo przez Fleequid działającą jako Czysty Pośrednik. Kwalifikacja Fleequid jako komisanta działającego we własnym imieniu w rozumieniu art. 1731 włoskiego Kodeksu cywilnego ma miejsce wyłącznie w przypadku Odsprzedaży, zgodnie z postanowieniami art. 2.5; gdy Fleequid działa jako Czysty Pośrednik, umowa kupna-sprzedaży jest zawierana bezpośrednio między Sprzedającym a Kupującym zgodnie z art. 2.6 i 17.10.",
+  "u059": "„<b><i>Sprzedaż komisowa</i></b>”: Model Sprzedaży, uregulowany w art. 2.3, 2.4, 2.5, 2.6 i 17, w którym Fleequid, na podstawie nieodwołalnego zlecenia Użytkowników, prowadzi na ich rachunek sprzedaż i zakup Pojazdu i w którym transakcja jest wykonywana, alternatywnie, w drodze Odsprzedaży albo przez Fleequid działającą jako Czysty Pośrednik. Kwalifikacja Fleequid jako komisanta działającego we własnym imieniu w rozumieniu art. 1731 włoskiego Kodeksu cywilnego ma miejsce wyłącznie w przypadku Odsprzedaży, zgodnie z postanowieniami art. 2.5; gdy Fleequid działa jako Czysty Pośrednik, umowa sprzedaży jest zawierana bezpośrednio między Sprzedawcą a Nabywcą zgodnie z art. 2.6 i 17.10.",
   "u060": "„<b><i>Sprzedaż zastrzeżona</i></b>”: tryb Wydarzenia sprzedażowego, uregulowany w art. 9.4 lit. c), przeznaczony dla jednego lub większej liczby Użytkowników wskazanych przez Fleequid i niewidoczny dla ogółu Użytkowników platformy Marketplace.",
-  "u061": "„<b><i>Sprzedający</i></b>”: każdy Przedsiębiorca, który korzysta z usług sprzedaży Fleequid i oferuje sprzedaż swoich Pojazdów. Termin ten zawsze odnosi się do faktycznego Sprzedającego, podmiotu innego niż Fleequid; w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży, gdy Fleequid przyjmuje rolę formalnego sprzedawcy, jest ona zawsze określana jako Fleequid. W Dealer Sales Sprzedającym jest podmiot, od którego Fleequid nabywa Pojazd; w następującej po tym dalszej sprzedaży na rzecz Kupującego sprzedawcą jest Fleequid zgodnie z art. 2.7 i 18.1.",
-  "u062": "Wszelkie odniesienia w niniejszych WO do „<b><i>dni</i></b>” należy rozumieć jako dni robocze, gdzie „<b><i>dni robocze</i></b>” należy rozumieć jako dni tygodnia od poniedziałku do piątku, od 8:30 do 12:30 i od 14:00 do 18:00, z wyłączeniem dni ustawowo wolnych od pracy we Włoszech. Obowiązującą strefą czasową jest strefa czasowa siedziby Fleequid. To kryterium obliczania stosuje się do wszystkich terminów przewidzianych w niniejszych Warunkach Ogólnych, w tym do Terminu płatności, terminu maksymalnego, o którym mowa w art. 12.7, oraz kar umownych ustalanych za każdy dzień opóźnienia.",
+  "u061": "„<b><i>Sprzedawca(y)</i></b>”: każdy Przedsiębiorca, który korzysta z usług sprzedaży Fleequid i oferuje sprzedaż swoich Pojazdów. Termin ten zawsze odnosi się do faktycznego Sprzedawcy, podmiotu innego niż Fleequid; w Sprzedaży komisowej wykonywanej w drodze Odsprzedaży, gdy Fleequid przyjmuje rolę formalnego sprzedawcy, jest ona zawsze określana jako Fleequid. W Dealer Sales Sprzedawcą jest podmiot, od którego Fleequid nabywa Pojazd; w następującej po tym dalszej sprzedaży na rzecz Nabywcy sprzedawcą jest Fleequid zgodnie z art. 2.7 i 18.1.",
+  "u062": "Wszelkie odniesienia w niniejszych OW do „<b><i>dni</i></b>” należy rozumieć jako dni robocze, gdzie „<b><i>dni robocze</i></b>” należy rozumieć jako dni tygodnia od poniedziałku do piątku, od 8:30 do 12:30 i od 14:00 do 18:00, z wyłączeniem dni ustawowo wolnych od pracy we Włoszech. Obowiązującą strefą czasową jest strefa czasowa siedziby Fleequid. To kryterium obliczania stosuje się do wszystkich terminów przewidzianych w niniejszych Ogólnych Warunkach, w tym do Terminu płatności, terminu maksymalnego, o którym mowa w art. 12.7, oraz kar umownych ustalanych za każdy dzień opóźnienia.",
   "u063": "<b>Cele, rola Fleequid i Modele Sprzedaży</b>.",
   "u076": "<b>Określenie Modelu Sprzedaży i możliwość zapoznania się z nim.</b>",
   "u091": "<b>Źródła umowne, Ogłoszenie i warunki mające zastosowanie do konkretnej transakcji</b>.",
   "u101": "<b>Rejestracja i dozwolone korzystanie z platformy Marketplace.</b>",
-  "u119": "<b>Klasyfikacja Użytkownika i Depozyt zabezpieczający.</b>",
+  "u119": "<b>Klasyfikacja Użytkownika i Wadium.</b>",
   "u126": "<b>Przetwarzanie danych osobowych Użytkowników.</b>",
-  "u130": "<b>Propozycja sprzedaży Pojazdów na Aukcji i obowiązki Sprzedającego.</b>",
+  "u130": "<b>Propozycja sprzedaży Pojazdów na Aukcji i obowiązki Sprzedawcy.</b>",
   "u145": "<b>Wydarzenia sprzedażowe i Ogłoszenie.</b>",
   "u160": "<b>Oferty, negocjacje i Wiążące Porozumienie.</b>",
   "u174": "<b>Status Opcji, Proforma i Termin płatności.</b>",
   "u184": "<b>Płatność, Ostateczne Przybicie na Aukcjach, opóźnienie i Anulowanie sprzedaży.</b>",
-  "u196": "<b>Sprzedaż odroczona: zaliczka i Pojazd pozostający tymczasowo w używaniu Sprzedającego.</b>",
-  "u206": "<b>Anulowanie sprzedaży: zasady ogólne i zmniejszenie przedmiotu.</b>",
+  "u196": "<b>Sprzedaż odroczona: zaliczka i Pojazd pozostający tymczasowo w używaniu Sprzedawcy.</b>",
+  "u206": "<b>Anulowanie sprzedaży: zasady ogólne i ograniczenie przedmiotu.</b>",
   "u215": "<b>Skutki majątkowe: zwroty, przywrócenie stanu poprzedniego i koordynacja ekonomiczna.</b>",
-  "u224": "<b>Faza wykonawcza wobec Kupującego: fakturowanie, przeniesienie własności, ryzyko, wydanie i odbiór.</b>",
+  "u224": "<b>Faza wykonawcza wobec Nabywcy: fakturowanie, przeniesienie własności, ryzyko, wydanie i odbiór.</b>",
   "u239": "<b>Sprzedaż komisowa: zasady wspólne, Odsprzedaż i działanie w charakterze Czystego Pośrednika.</b>",
   "u256": "<b>Dealer Sales.</b>",
   "u266": "<b>Gwarancje, wyłączenia i ograniczenia.</b>",
@@ -89,85 +89,472 @@
   "u320": "<b>Korespondencja.</b>"
  },
  "new_terms": [
-  {"it": "Accordo vincolante", "tr": "Wiążące Porozumienie", "why": "nuovo; 'Porozumienie' per non confonderlo con 'Umowa' (Contratto); maiuscola su entrambe le parole per riconoscerlo nel testo"},
-  {"it": "Aggiudicazione definitiva", "tr": "Ostateczne Przybicie", "why": "v8 PL corpo: 'ostateczne Przybicie' (artt. 6.8.2, 7.8.3, 8.1, 8.2); 'przybicie' è il termine del codice civile polacco (art. 70(2) k.c.). Scartato 'Zasądzenie' della definizione v8 (significa condanna giudiziale: errore)"},
-  {"it": "Annullamento della vendita", "tr": "Anulowanie sprzedaży", "why": "v8 PL artt. 6.8, 6.14, 8.5, 9.4 ('anulowanie sprzedaży'); 'unieważnienie' resta riservato all'annullamento del contratto per invalidità (art. 14.1)"},
-  {"it": "Classificazione dell’Utente", "tr": "Klasyfikacja Użytkownika", "why": "nuovo, resa letterale"},
-  {"it": "Compra-Subito", "tr": "Kup Natychmiast", "why": "v8 PL art. 7.8.2 e 8.1 ('Kup Natychmiast')"},
-  {"it": "Asta a rilancio", "tr": "Aukcja Licytacyjna", "why": "v8 PL art. 7.8.1"},
-  {"it": "rilancio/i", "tr": "postąpienie(-a)", "why": "v8 PL art. 7.8.1-7.8.2 ('postąpienie', termine tecnico delle aste); sostituisce 'przebitka/podbicie' delle parti più vecchie della v8"},
-  {"it": "Condizioni particolari di vendita", "tr": "Szczególne warunki sprzedaży", "why": "dal v8 'Szczególne warunki aukcji' (Condizioni particolari d'asta, 25 occorrenze nel corpo)"},
-  {"it": "Condizioni Specifiche", "tr": "Warunki Szczegółowe", "why": "v8 PL art. 3.3 ('Warunki szczegółowe'); ordine sostantivo+aggettivo per distinguerle nettamente da 'Szczególne warunki sprzedaży'"},
-  {"it": "Contratto individuale", "tr": "Umowa indywidualna", "why": "v8 PL art. 3.3 ('umowy indywidualne')"},
-  {"it": "Contratto di compravendita", "tr": "Umowa kupna-sprzedaży", "why": "glossario ('umowy kupna-sprzedaży'), v8 PL art. 2.2"},
-  {"it": "Dealer Sales", "tr": "Dealer Sales", "why": "nome commerciale, non tradotto"},
-  {"it": "Evento di vendita", "tr": "Wydarzenie sprzedażowe", "why": "v8 PL art. 7.8.3 ('wydarzenia sprzedażowe')"},
-  {"it": "Finanziatore", "tr": "Finansujący", "why": "nuovo; termine del codice civile polacco (art. 709(1) k.c.), abbastanza ampio da coprire mutuante e concedente in leasing"},
-  {"it": "Soluzioni di finanziamento", "tr": "Rozwiązania finansowe", "why": "nuovo, espressione commerciale corrente"},
-  {"it": "Importo Totale Dovuto", "tr": "Łączna Kwota Należna", "why": "nuovo, resa letterale; tre maiuscole come nell'IT"},
-  {"it": "Modello di Vendita", "tr": "Model Sprzedaży", "why": "nuovo, resa letterale"},
-  {"it": "Modello di Vendita Dealer Sales", "tr": "Model Sprzedaży Dealer Sales", "why": "forma compatta che conserva i due termini definiti"},
-  {"it": "Negoziazione", "tr": "Negocjacje", "why": "nuovo; in polacco il termine è d'uso al plurale. 'trattativa' (minuscolo) = 'rokowania'"},
-  {"it": "Pagamento anticipato (termine definito, acconto 30%)", "tr": "Zaliczka", "why": "nuovo; 'zaliczka' è l'acconto sul prezzo, contrapposto per legge a 'zadatek' (caparra). Il 'pagamento anticipato' minuscolo dell'art. 22.9 va reso 'wcześniejsza płatność'"},
-  {"it": "caparra confirmatoria / caparra penitenziale", "tr": "zadatek / odstępne", "why": "equivalenti funzionali del codice civile polacco (artt. 394 e 396 k.c.)"},
-  {"it": "Prezzo di acquisto", "tr": "Cena zakupu", "why": "nuovo, resa letterale"},
-  {"it": "Prezzo di acquisto netto", "tr": "Cena zakupu netto", "why": "nuovo, resa letterale"},
-  {"it": "Prezzo di vendita all’Acquirente", "tr": "Cena sprzedaży na rzecz Kupującego", "why": "nuovo; sostituisce 'Cena Zasądzenia/Cena Aukcyjna/cena przybicia' (Prezzo di aggiudicazione) della v8, non più definito"},
-  {"it": "Proforma", "tr": "Proforma", "why": "nuovo; sostantivo femminile, declinato (w Proformie)"},
-  {"it": "Stato Opzionato", "tr": "Status Opcji", "why": "nuovo; conserva il richiamo all'opzione che la definizione stessa esclude (art. 1331 c.c.); declinabile (w Statusie Opcji)"},
-  {"it": "Termine di pagamento", "tr": "Termin płatności", "why": "nuovo, resa standard"},
-  {"it": "Vendita fuori asta", "tr": "Sprzedaż poza aukcją", "why": "nuovo, resa letterale"},
-  {"it": "Vendita in commissione", "tr": "Sprzedaż komisowa", "why": "nuovo; 'umowa komisu' (art. 765 k.c.) è l'equivalente esatto della commissione ex art. 1731 c.c.; la v8 usa già 'komisant'"},
-  {"it": "commissionario/a", "tr": "komisant", "why": "v8 PL (art. 1.L10, 7.7, 10.1)"},
-  {"it": "committente", "tr": "komitent", "why": "termine del codice civile polacco (art. 765 k.c.); la v8 usava 'zleceniodawca'"},
-  {"it": "commissioni di vendita e di acquisto (incarichi)", "tr": "zlecenia komisowe sprzedaży i zakupu", "why": "per non confonderle con 'Prowizje' (Commissioni = corrispettivi)"},
-  {"it": "Vendita riservata", "tr": "Sprzedaż zastrzeżona", "why": "v8 PL art. 7.8.3"},
-  {"it": "Vendita differita", "tr": "Sprzedaż odroczona", "why": "nuovo (titolo art. 13)"},
-  {"it": "Professionista", "tr": "Przedsiębiorca", "why": "v8 PL corpo (artt. 4.1, 4.2.4, 4.3 e definizioni di Użytkownik e Sprzedawca: 7 occorrenze) contro 'Profesjonalista' della sola definizione; 'przedsiębiorca' è il termine di legge (art. 43(1) k.c.) contrapposto a 'konsument'"},
-  {"it": "Utente Professionista", "tr": "Użytkownik będący Przedsiębiorcą", "why": "conseguenza della resa di Professionista"},
-  {"it": "Proposta di vendita", "tr": "Propozycja sprzedaży", "why": "v8 PL corpo e definizioni più recenti (Karta Aukcyjna, PMIV, artt. 6.8.1, 6.8.3); scartato 'Oferta sprzedaży' perché si confonde con 'Oferta' (offerta d'acquisto)"},
-  {"it": "Puntata massima", "tr": "Najwyższa Oferta", "why": "v8 PL (definizione 'Najwyższa oferta', corpo 'Najwyższa Oferta')"},
-  {"it": "Rivendita (termine definito)", "tr": "Odsprzedaż", "why": "v8 PL"},
-  {"it": "rivendita / rivendere (minuscolo, Dealer Sales)", "tr": "dalsza sprzedaż / sprzedać dalej", "why": "resa diversa da 'Odsprzedaż' per non confondere il termine definito"},
-  {"it": "Acquirente sostanziale / Venditore sostanziale", "tr": "faktyczny Kupujący / faktyczny Sprzedający", "why": "v8 PL ('faktyczny Nabywca')"},
-  {"it": "venditore (minuscolo, ruolo formale)", "tr": "sprzedawca", "why": "v8 PL ('formalny sprzedawca'), distinto dal termine definito 'Sprzedający'"},
-  {"it": "Marketplace (nel testo corrente)", "tr": "platforma Marketplace", "why": "v8 PL: forma prevalente (73 occorrenze su 117) e declinabile; termine definito e frontespizio restano 'Marketplace'"},
-  {"it": "operazione", "tr": "transakcja", "why": "v8 PL"},
-  {"it": "fase esecutiva", "tr": "faza wykonawcza", "why": "nuovo, resa letterale"},
-  {"it": "modalità di esecuzione", "tr": "sposób wykonania", "why": "nuovo"},
-  {"it": "modalità (di Evento di vendita)", "tr": "tryb (Wydarzenia sprzedażowego)", "why": "nuovo"},
-  {"it": "perfezionamento (dell'Accordo vincolante / del Contratto)", "tr": "zawarcie", "why": "resa standard polacca"},
-  {"it": "Modello di Vendita applicabile", "tr": "mający zastosowanie Model Sprzedaży", "why": "formula v8 ('mające zastosowanie')"},
-  {"it": "commercializzazione / commercializzare", "tr": "oferowanie do sprzedaży / oferować do sprzedaży", "why": "'komercjalizacja' in polacco ha altro significato (privatizzazione, sfruttamento di tecnologie)"},
-  {"it": "conoscibilità / rendere conoscibile", "tr": "możliwość zapoznania się / umożliwić zapoznanie się", "why": "resa standard polacca"},
-  {"it": "errore materiale manifesto", "tr": "oczywista omyłka pisarska lub rachunkowa", "why": "formula di legge polacca per l'errore di scrittura o di calcolo evidente (non vizio del consenso)"},
-  {"it": "clausola risolutiva espressa", "tr": "wyraźna klauzula rozwiązująca", "why": "resa letterale; 'risoluzione' = 'rozwiązanie umowy' come nella v8"},
-  {"it": "controproposta", "tr": "kontroferta", "why": "v8 PL"},
-  {"it": "dossier tecnico", "tr": "dokumentacja techniczna", "why": "v8 PL"},
-  {"it": "consegna / ritiro (del Veicolo)", "tr": "wydanie / odbiór", "why": "'wydanie rzeczy' è il termine del codice civile polacco; 'odbiór' v8 PL art. 9.6"},
-  {"it": "ritardo", "tr": "opóźnienie", "why": "v8 PL; 'mora' va resa 'zwłoka'"},
-  {"it": "penale", "tr": "kara umowna", "why": "v8 PL"},
-  {"it": "c.c. (codice civile italiano)", "tr": "włoski Kodeks cywilny", "why": "v8 PL, grafia delle parti più recenti"},
-  {"it": "D.Lgs.", "tr": "dekret ustawodawczy", "why": "v8 PL"},
-  {"it": "artt. / lett. / e seguenti / ultimo periodo", "tr": "art. / lit. / i nast. / zdanie ostatnie", "why": "uso redazionale polacco"}
+  {
+   "it": "Acquirente/i",
+   "tr": "Nabywca(y)",
+   "why": "termine DEFINITO nella v8 PL delle Generali e nettamente prevalente nel corpo (Nabywc* 184 contro Kupując* 8); usato anche nelle Condizioni particolari 1 Euro Auctions PL. Il glossario Care ('Kupujący') non prevale su questo documento"
+  },
+  {
+   "it": "Venditore/i",
+   "tr": "Sprzedawca(y)",
+   "why": "termine DEFINITO nella v8 PL e prevalente nel corpo (Sprzedawc* 190 contro Sprzedając* 82); è anche il termine del codice civile polacco (art. 535 k.c.) e delle Condizioni 1 Euro Auctions PL (16 contro 0)"
+  },
+  {
+   "it": "venditore (minuscolo, ruolo formale di Fleequid)",
+   "tr": "sprzedawca (minuscolo)",
+   "why": "v8 PL 'formalny sprzedawca'; si distingue dal termine definito solo per la maiuscola, come nell'IT"
+  },
+  {
+   "it": "Acquirente sostanziale / Venditore sostanziale / parte sostanziale",
+   "tr": "faktyczny Nabywca / faktyczny Sprzedawca / faktyczna strona",
+   "why": "v8 PL ('faktyczny Nabywca')"
+  },
+  {
+   "it": "Condizioni Generali / CG",
+   "tr": "Ogólne Warunki / OW",
+   "why": "la v8 definiva 'Ogólne warunki umowy'/'OWU', ma il corpo usa in netta prevalenza 'Ogólne Warunki' (52) e 'OW' (30) contro 'Ogólne Warunki Umowy' (5), 'OWU' (12), 'OWH' (2), 'Warunki Ogólne' (4), 'WO' (0); le Condizioni 1 Euro Auctions PL rinviano a 'Ogólne Warunki („OW”)'. Titolo del documento: 'Ogólne Warunki - Marketplace Fleequid®'"
+  },
+  {
+   "it": "Professionista",
+   "tr": "Przedsiębiorca",
+   "why": "'Profesjonalista(-ci)' compariva nella v8 solo nella propria definizione (più 'Profesjonalny Użytkownik' una volta); il corpo e le definizioni di Użytkownik e Sprzedawca usano 'Przedsiębiorca' (7). È il termine di legge (art. 43(1) k.c.) contrapposto a 'konsument'; 'profesjonalista' non è un termine giuridico"
+  },
+  {
+   "it": "Utente Professionista",
+   "tr": "Użytkownik będący Przedsiębiorcą",
+   "why": "conseguenza della resa di Professionista"
+  },
+  {
+   "it": "Proposta di vendita",
+   "tr": "Propozycja sprzedaży",
+   "why": "corpo v8 diviso alla pari (Propozycja sprzedaży 19, Oferta sprzedaży 19); la definizione v8 'Oferta sprzedaży' era rimasta a un testo IT superato. Scelta 'Propozycja sprzedaży' (usata nelle definizioni v8 più recenti: PMIV, Karta Aukcyjna) perché 'Oferta sprzedaży' si confonde con il termine definito 'Oferta' (offerta d'acquisto dell'Offerente) e designerebbe un'offerta contrattuale, mentre è un incarico a Fleequid"
+  },
+  {
+   "it": "Aggiudicazione definitiva",
+   "tr": "Ostateczne Przybicie",
+   "why": "'Zasądzenie' della definizione v8 è un errore evidente (condanna giudiziale); nel corpo v8 prevale 'Przybicie' (65 contro 29) con 'ostateczne Przybicie' (5), unico termine nelle Condizioni 1 Euro Auctions PL; 'przybicie' è il termine del codice civile polacco (art. 70(2) k.c.). Maiuscola su entrambe le parole per riconoscere il termine definito nel testo"
+  },
+  {
+   "it": "Deposito cauzionale",
+   "tr": "Wadium",
+   "why": "'Depozyt zabezpieczający' compariva nella v8 solo nella propria definizione; il corpo usa 'Wadium/wadium' (9) e 'Kaucja' (2) e le Condizioni 1 Euro Auctions PL rinviano alle 'postanowienia Ogólnych Warunków w zakresie Wadium'. Neutro indeclinabile al singolare"
+  },
+  {
+   "it": "regime cauzionale",
+   "tr": "reżim Wadium",
+   "why": "locuzione dell'art. 6, coerente con 'Wadium'"
+  },
+  {
+   "it": "1 Euro Auction(s)",
+   "tr": "1 Euro Auction(s)",
+   "why": "nome commerciale lasciato in inglese: 'Aukcja za 1 Euro' compariva nella v8 solo nella definizione, il corpo v8 (4) e le Condizioni particolari dedicate PL (29) usano '1 Euro Auction(s)'; stessa scelta di FR, ES, NL"
+  },
+  {
+   "it": "Marketplace (nel testo corrente)",
+   "tr": "platforma Marketplace",
+   "why": "v8 PL: forma prevalente (73 occorrenze su 117) e declinabile; 'Marketplace' senza 'platforma' solo come termine definito, nel titolo del documento e in 'Marketplace Fleequid®'"
+  },
+  {
+   "it": "Accordo vincolante",
+   "tr": "Wiążące Porozumienie",
+   "why": "nuovo; 'Porozumienie' per non confonderlo con 'Umowa' (Contratto)"
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Anulowanie sprzedaży",
+   "why": "v8 PL ('anulowanie sprzedaży'); 'unieważnienie' resta riservato all'annullamento del contratto per invalidità (art. 14.1)"
+  },
+  {
+   "it": "Classificazione dell’Utente",
+   "tr": "Klasyfikacja Użytkownika",
+   "why": "nuovo, resa letterale"
+  },
+  {
+   "it": "Compra-Subito",
+   "tr": "Kup Natychmiast",
+   "why": "v8 PL art. 7.8.2 e 8.1"
+  },
+  {
+   "it": "Asta a rilancio",
+   "tr": "Aukcja Licytacyjna",
+   "why": "v8 PL art. 7.8.1"
+  },
+  {
+   "it": "rilancio/i",
+   "tr": "postąpienie(-a)",
+   "why": "v8 PL art. 7.8.1-7.8.2, termine tecnico delle aste; non 'przebitka' né 'podbicie' delle parti più vecchie della v8 (colloquiali)"
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Szczególne warunki sprzedaży",
+   "why": "dal v8 'Szczególne warunki aukcji' (23 occorrenze)"
+  },
+  {
+   "it": "Condizioni Specifiche",
+   "tr": "Warunki Szczegółowe",
+   "why": "corpo v8 'Warunki szczegółowe' (11); ordine sostantivo+aggettivo per distinguerle da 'Szczególne warunki sprzedaży'; maiuscola come nell'IT v9"
+  },
+  {
+   "it": "Contratto individuale",
+   "tr": "Umowa indywidualna",
+   "why": "v8 PL art. 3.3"
+  },
+  {
+   "it": "Contratto di compravendita",
+   "tr": "Umowa sprzedaży",
+   "why": "v8 PL delle Generali: 'Umowa sprzedaży' 21 occorrenze contro 'kupna-sprzedaży' 1; è il termine del codice civile polacco. La resa del glossario Care ('umowa kupna-sprzedaży') non si applica alle Generali"
+  },
+  {
+   "it": "compravendita (attività)",
+   "tr": "sprzedaż / kupno i sprzedaż",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Dealer Sales",
+   "tr": "Dealer Sales",
+   "why": "nome commerciale, non tradotto"
+  },
+  {
+   "it": "Modello di Vendita Dealer Sales",
+   "tr": "Model Sprzedaży Dealer Sales",
+   "why": "forma compatta che conserva i due termini definiti"
+  },
+  {
+   "it": "Evento di vendita",
+   "tr": "Wydarzenie sprzedażowe",
+   "why": "v8 PL art. 7.8.3"
+  },
+  {
+   "it": "Finanziatore",
+   "tr": "Finansujący",
+   "why": "nuovo; termine del codice civile polacco (art. 709(1) k.c.)"
+  },
+  {
+   "it": "Soluzioni di finanziamento",
+   "tr": "Rozwiązania finansowe",
+   "why": "nuovo"
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Łączna Kwota Należna",
+   "why": "nuovo, resa letterale"
+  },
+  {
+   "it": "Modello di Vendita",
+   "tr": "Model Sprzedaży",
+   "why": "nuovo, resa letterale"
+  },
+  {
+   "it": "Negoziazione",
+   "tr": "Negocjacje",
+   "why": "nuovo; in polacco il termine è d'uso al plurale. 'trattativa' (minuscolo) = 'rokowania'"
+  },
+  {
+   "it": "Pagamento anticipato (termine definito, acconto 30%)",
+   "tr": "Zaliczka",
+   "why": "nuovo; 'zaliczka' è l'acconto sul prezzo, contrapposto per legge a 'zadatek' (caparra). Nel titolo dell'art. 13 minuscolo 'zaliczka'. Il 'pagamento anticipato' minuscolo dell'art. 22.9 (Fleequid paga il Venditore prima dell'incasso) va reso 'wcześniejsza zapłata'"
+  },
+  {
+   "it": "caparra confirmatoria / caparra penitenziale",
+   "tr": "zadatek / odstępne",
+   "why": "equivalenti funzionali del codice civile polacco (artt. 394 e 396 k.c.)"
+  },
+  {
+   "it": "Prezzo di acquisto",
+   "tr": "Cena zakupu",
+   "why": "nuovo"
+  },
+  {
+   "it": "Prezzo di acquisto netto",
+   "tr": "Cena zakupu netto",
+   "why": "nuovo"
+  },
+  {
+   "it": "Prezzo di vendita all’Acquirente",
+   "tr": "Cena sprzedaży na rzecz Nabywcy",
+   "why": "nuovo; sostituisce 'Cena Zasądzenia/Cena Aukcyjna/cena przybicia' della v8 (Prezzo di aggiudicazione non è più definito)"
+  },
+  {
+   "it": "Proforma",
+   "tr": "Proforma",
+   "why": "nuovo; sostantivo femminile declinato (w Proformie)"
+  },
+  {
+   "it": "Stato Opzionato",
+   "tr": "Status Opcji",
+   "why": "nuovo; conserva il richiamo all'opzione che la definizione stessa esclude (art. 1331 c.c.); declinabile (w Statusie Opcji, przez czas trwania Statusu Opcji)"
+  },
+  {
+   "it": "Termine di pagamento",
+   "tr": "Termin płatności",
+   "why": "nuovo"
+  },
+  {
+   "it": "Vendita fuori asta",
+   "tr": "Sprzedaż poza aukcją",
+   "why": "nuovo"
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Sprzedaż komisowa",
+   "why": "nuovo; 'umowa komisu' (art. 765 k.c.) è l'equivalente della commissione ex art. 1731 c.c."
+  },
+  {
+   "it": "commissionario/a",
+   "tr": "komisant",
+   "why": "v8 PL"
+  },
+  {
+   "it": "committente",
+   "tr": "komitent",
+   "why": "termine del codice civile polacco (art. 765 k.c.); la v8 usava 'zleceniodawca' (2)"
+  },
+  {
+   "it": "commissioni di vendita e di acquisto (incarichi)",
+   "tr": "zlecenia komisowe sprzedaży i zakupu",
+   "why": "per non confonderle con 'Prowizje'"
+  },
+  {
+   "it": "Vendita riservata",
+   "tr": "Sprzedaż zastrzeżona",
+   "why": "v8 PL art. 7.8.3"
+  },
+  {
+   "it": "Vendita differita",
+   "tr": "Sprzedaż odroczona",
+   "why": "nuovo (art. 13)"
+  },
+  {
+   "it": "Puntata massima",
+   "tr": "Najwyższa Oferta",
+   "why": "v8 PL (corpo 'Najwyższa Oferta' 23)"
+  },
+  {
+   "it": "Rivendita (termine definito)",
+   "tr": "Odsprzedaż",
+   "why": "v8 PL"
+  },
+  {
+   "it": "rivendita / rivendere (minuscolo, Dealer Sales)",
+   "tr": "dalsza sprzedaż / sprzedać dalej",
+   "why": "resa diversa da 'Odsprzedaż'"
+  },
+  {
+   "it": "Intermediario puro",
+   "tr": "Czysty Pośrednik",
+   "why": "v8 PL (definito, 16 occorrenze)"
+  },
+  {
+   "it": "PMIV / Prezzo minimo di impegno alla vendita",
+   "tr": "PMIV / Minimalna cena zobowiązująca do sprzedaży",
+   "why": "v8 PL; PMIV trattato come neutro indeclinabile ('PMIV ustalonego przez Sprzedawcę', formula ricorrente della v8: 6 contro 1 femminile)"
+  },
+  {
+   "it": "Prezzo di riserva / PR",
+   "tr": "Cena rezerwowa / PR",
+   "why": "v8 PL (41 occorrenze)"
+  },
+  {
+   "it": "Base d’asta",
+   "tr": "Cena wywoławcza",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Tariffario Fleequid",
+   "tr": "Taryfikator Fleequid",
+   "why": "v8 PL definito e prevalente (9) contro 'Cennik Fleequid' (4)"
+  },
+  {
+   "it": "Tariffe / Commissioni / Servizi",
+   "tr": "Opłaty / Prowizje / Usługi",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Inserzione / Scheda d’Asta",
+   "tr": "Ogłoszenie / Karta Aukcyjna",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Gravame",
+   "tr": "Obciążenie",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Veicolo/i Fuori Uso / VFU",
+   "tr": "Pojazd/Pojazdy Wycofane z Eksploatacji / PWE",
+   "why": "v8 PL"
+  },
+  {
+   "it": "Offerente / Offerta / Parti / Utente / Veicolo / Contratto / Consumatore / Specifiche tecniche",
+   "tr": "Oferent / Oferta / Strony / Użytkownik / Pojazd / Umowa / Konsument / Specyfikacje techniczne",
+   "why": "v8 PL"
+  },
+  {
+   "it": "operazione / singola operazione / specifica operazione",
+   "tr": "transakcja / pojedyncza transakcja / konkretna transakcja",
+   "why": "v8 PL ('transakcja')"
+  },
+  {
+   "it": "fase esecutiva",
+   "tr": "faza wykonawcza",
+   "why": "nuovo"
+  },
+  {
+   "it": "modalità di esecuzione",
+   "tr": "sposób wykonania",
+   "why": "nuovo"
+  },
+  {
+   "it": "modalità (di Evento di vendita)",
+   "tr": "tryb (Wydarzenia sprzedażowego)",
+   "why": "nuovo; 'tryb' riservato a questo uso"
+  },
+  {
+   "it": "perfezionamento (dell'Accordo vincolante / del Contratto)",
+   "tr": "zawarcie",
+   "why": "resa standard polacca"
+  },
+  {
+   "it": "Modello di Vendita applicabile",
+   "tr": "mający zastosowanie Model Sprzedaży",
+   "why": "formula v8 ('mające zastosowanie')"
+  },
+  {
+   "it": "commercializzazione / rapporto di commercializzazione",
+   "tr": "oferowanie do sprzedaży / stosunek oferowania Pojazdu do sprzedaży",
+   "why": "'komercjalizacja' in polacco ha altro significato"
+  },
+  {
+   "it": "conoscibilità / rendere conoscibile",
+   "tr": "możliwość zapoznania się / umożliwić zapoznanie się",
+   "why": "resa standard polacca"
+  },
+  {
+   "it": "errore materiale manifesto",
+   "tr": "oczywista omyłka pisarska lub rachunkowa",
+   "why": "formula di legge polacca per l'errore di scrittura o di calcolo evidente"
+  },
+  {
+   "it": "clausola risolutiva espressa / risoluzione",
+   "tr": "wyraźna klauzula rozwiązująca / rozwiązanie umowy",
+   "why": "'rozwiązanie Umowy zgodnie z art. 1456' è la formula della v8 (15)"
+  },
+  {
+   "it": "fonti contrattuali / fonte negoziale",
+   "tr": "źródła umowne / źródło umowne",
+   "why": "resa letterale, coerente con la gerarchia dell'art. 4.3"
+  },
+  {
+   "it": "riduzione dell'oggetto (della vendita)",
+   "tr": "ograniczenie przedmiotu (sprzedaży)",
+   "why": "collocazione giuridica polacca"
+  },
+  {
+   "it": "controproposta",
+   "tr": "kontroferta",
+   "why": "v8 PL"
+  },
+  {
+   "it": "dossier tecnico",
+   "tr": "dokumentacja techniczna",
+   "why": "v8 PL (10)"
+  },
+  {
+   "it": "consegna / ritiro (del Veicolo)",
+   "tr": "wydanie / odbiór",
+   "why": "'wydanie rzeczy' è il termine del codice civile polacco; 'odbiór' v8 PL"
+  },
+  {
+   "it": "ritardo / mora",
+   "tr": "opóźnienie / zwłoka",
+   "why": "v8 PL 'opóźnienie'; 'zwłoka' è la mora del codice civile polacco"
+  },
+  {
+   "it": "penale",
+   "tr": "kara umowna",
+   "why": "v8 PL (42)"
+  },
+  {
+   "it": "incasso minimo netto / incasso netto",
+   "tr": "minimalne wpływy netto / wpływy netto",
+   "why": "v8 PL (definizione PMIV)"
+  },
+  {
+   "it": "c.c. (codice civile italiano)",
+   "tr": "włoski Kodeks cywilny",
+   "why": "v8 PL"
+  },
+  {
+   "it": "D.Lgs.",
+   "tr": "dekret ustawodawczy",
+   "why": "v8 PL"
+  },
+  {
+   "it": "artt. / lett. / e seguenti / ultimo periodo / comma",
+   "tr": "art. / lit. / i nast. / zdanie ostatnie / ust.",
+   "why": "uso redazionale polacco"
+  },
+  {
+   "it": "a titolo esemplificativo e non esaustivo",
+   "tr": "tytułem przykładu i bez ograniczeń",
+   "why": "v8 PL (parti più recenti)"
+  },
+  {
+   "it": "percentuali",
+   "tr": "30 %",
+   "why": "v8 PL: spazio prima del segno % (3 contro 0)"
+  }
  ],
  "notes": [
-  "DA VALIDARE (1) Acquirente/Venditore = 'Kupujący'/'Sprzedający' come da glossario vincolante (Fleequid Care). Nella v8 delle Generali i termini definiti erano 'Nabywca(y)' e 'Sprzedawca(y)' e il corpo era misto (Nabywca 194 / Kupujący 9; Sprzedawca 192 / Sprzedający 84). Nei blocchi successivi vanno uniformati ovunque a Kupujący/Sprzedający.",
-  "DA VALIDARE (2) Condizioni Generali/CG = 'Warunki Ogólne'/'WO' come da glossario vincolante. La v8 definiva 'Ogólne warunki umowy'/'OWU' e nel corpo usava soprattutto 'Ogólne Warunki' (60) e 'OW' (30), più 'OWU' (15), 'OWH' (2), 'Warunki Ogólne' (4). Se si preferisce la continuità con le Generali v8: 'Ogólne Warunki'/'OW'.",
-  "DA VALIDARE (3) Professionista = 'Przedsiębiorca' al posto di 'Profesjonalista(-ci)' della definizione v8 (che compariva una sola volta in tutto il documento, mentre il corpo usa 'Przedsiębiorca').",
-  "DA VALIDARE (4) Proposta di vendita = 'Propozycja sprzedaży'. La definizione v8 diceva 'Oferta sprzedaży' ed era rimasta a una versione più vecchia dell'IT; il corpo v8 alterna 'Propozycja sprzedaży' (14) e 'Oferta Sprzedaży' (15).",
-  "DA VALIDARE (5) Aggiudicazione definitiva = 'Ostateczne Przybicie'. La definizione v8 di Aggiudicazione era 'Zasądzenie' (errore: è la condanna pronunciata da un giudice); nel corpo v8 prevale 'Przybicie' (65 contro 29).",
-  "DA VALIDARE (6) Stato Opzionato = 'Status Opcji'; alternativa meno letterale 'Status Zarezerwowany'.",
-  "DA VALIDARE (7) Pagamento anticipato = 'Zaliczka' (acconto); nel titolo dell'art. 13 'pagamento anticipato' minuscolo è reso 'zaliczka'. All'art. 22.9 il 'pagamento anticipato' minuscolo va reso 'wcześniejsza płatność'.",
-  "Termini v8 mantenuti con dubbi: 'Depozyt zabezpieczający' (definizione v8; il corpo v8 usa 'Wadium' 9 volte e 'Kaucja' 2: da uniformare a 'Depozyt zabezpieczający'; 'kaucja' sarebbe il termine polacco più proprio); 'Czysty Pośrednik' (calco, ma è il termine definito v8); 'Cena rezerwowa'/'PR' (in polacco d'uso 'cena minimalna'); 'Minimalna cena zobowiązująca do sprzedaży'/'PMIV' (calco; sigla italiana); 'Opłaty' per Tariffe e 'Taryfikator Fleequid' per Tariffario (il corpo v8 ha anche 'Cennik Fleequid'); 'Aukcja za 1 Euro' (definizione v8; il corpo v8 usa anche '1 Euro Auctions'); 'Wydarzenie sprzedażowe'; 'Sprzedaż zastrzeżona'; 'Kup Natychmiast'; 'Obciążenie'; 'Odsprzedaż'; 'Pojazd/Pojazdy Wycofane z Eksploatacji (PWE)'; 'Klauzula łącząca'; 'Korespondencja' per Comunicazioni; 'jurysdykcja' per Foro competente; 'numer NIP' per Partita IVA; 'Gwarancje' per Garanzie.",
-  "Titoli: art. 20 'Reklamacje' (glossario: Reclamo = Reklamacja; il titolo v8 era 'ZAŻALENIA', il corpo v8 usa 'reklamacja'); art. 7 'Użytkowników' con la maiuscola del termine definito (v8 minuscolo); titoli v8 in maiuscolo riportati in forma normale.",
-  "Fleequid è trattata al femminile (spółka: 'Fleequid dokonała', 'na jej zlecenie'), come nei paragrafi più recenti della v8; le parti più vecchie della v8 usano il maschile.",
-  "PMIV è trattata al femminile (cena: 'PMIV ustalonej'), come nelle parti più recenti della v8.",
+  "Priorità terminologica applicata dal revisore: termine definito nella v8 PL delle Generali, salvo errore evidente o definizione smentita dall'uso nettamente prevalente del corpo; poi uso prevalente del corpo v8; poi glossario Care; poi scelta nuova.",
+  "DA VALIDARE (1) Acquirente/Venditore = 'Nabywca'/'Sprzedawca' (v8 Generali). Le T&C Fleequid Care PL usano invece 'Kupujący'/'Sprzedający': incoerenza tra documenti da decidere a livello di archivio, non in questo aggiornamento.",
+  "DA VALIDARE (2) Deposito cauzionale = 'Wadium' (uso del corpo v8 e delle Condizioni 1 Euro Auctions). In diritto polacco il wadium (art. 70(4) k.c.) è la somma versata per partecipare a un'asta; la funzione descritta dall'art. 6 v9 (garanzia dell'adempimento e dei crediti, non penale) è più vicina a una 'kaucja'. La definizione contrattuale chiarisce la funzione; alternativa: 'Kaucja'.",
+  "DA VALIDARE (3) Stato Opzionato = 'Status Opcji'; alternativa meno letterale 'Status Rezerwacji'.",
+  "DA VALIDARE (4) Proposta di vendita = 'Propozycja sprzedaży' (corpo v8 diviso 19/19 con 'Oferta sprzedaży').",
+  "DA VALIDARE (5) art. 19 'Gwarancje' per Garanzie (v8): in polacco la garanzia legale del venditore è 'rękojmia', 'gwarancja' è la garanzia commerciale; mantenuto il termine v8.",
+  "Termini v8 mantenuti benché calchi: 'Czysty Pośrednik'; 'Cena rezerwowa'/'PR'; 'Minimalna cena zobowiązująca do sprzedaży'/'PMIV'; 'Wydarzenie sprzedażowe'; 'Klauzula łącząca'; 'Korespondencja' per Comunicazioni; 'jurysdykcja' per Foro competente; 'numer NIP' per Partita IVA.",
+  "Titoli: art. 20 'Reklamacje' (il titolo v8 era 'ZAŻALENIA', il corpo v8 usa 'reklamacja' 24 volte); art. 7 'Użytkowników' con la maiuscola del termine definito; titoli v8 in maiuscolo riportati in forma normale; art. 23 punto finale come nell'IT.",
+  "Fleequid è trattata al femminile (spółka: 'Fleequid dokonała', 'na jej zlecenie', 'działającą'), come nei paragrafi più recenti della v8; le parti più vecchie della v8 usano il maschile.",
+  "PMIV è neutro indeclinabile ('PMIV ustalonego', 'PMIV jest wiążące'), come nella formula ricorrente della v8.",
   "Virgolette: polacche „ ” in tutto il blocco (la v8 alternava virgolette dritte e polacche).",
-  "Correzioni di errori della v8 nei paragrafi ripresi: u040 'Opłat Sprzedającego' (= Tariffe) corretto in 'Prowizji obciążających Sprzedającego' (Commissioni a carico del Venditore); u025 aggiunto 'przede wszystkim' (principalmente) e tolto il sottolineato dall'e-mail, 'właściciela' al posto di 'właściciel'; u061 aggiunto 'faktycznego' (Venditore sostanziale), omesso nella v8; u026 'sprzedaż handlową' sostituito da 'zbywalność' (commerciabilità); u042 'mikro przedsiębiorstwa' corretto in 'mikroprzedsiębiorstwa'; u045 'podbiciach' uniformato a 'postąpieniach'.",
-  "u018 Consumatore: ripresa la resa v8 (rende 'eventualmente svolta' con 'jakąkolwiek ... prowadzoną'), aggiunta solo la virgola richiesta dal diff.",
+  "Correzioni di errori della v8 nei paragrafi ripresi: u040 'Opłat Sprzedającego' (= Tariffe) corretto in 'Prowizji obciążających Sprzedawcę' (Commissioni a carico del Venditore); u025 aggiunto 'przede wszystkim' (principalmente), tolto il sottolineato dall'e-mail, 'właściciela'; u061 aggiunto 'faktycznego' (Venditore sostanziale), omesso nella v8; u026 'sprzedaż handlową' sostituito da 'zbywalność' (commerciabilità); u042 'mikro przedsiębiorstwa' corretto in 'mikroprzedsiębiorstwa'; u045 'podbiciach' uniformato a 'postąpieniach'; u018 'prowadzoną' (eventualmente svolta) ricollocato ('ewentualnie prowadzoną działalnością').",
   "u061: nell'IT v9 manca la punteggiatura dopo 'soggetto diverso rispetto a Fleequid'; reso con punto e virgola (incongruenza già nota).",
   "u051: URL lasciati con /it/ come nell'IT (li localizza il sistema).",
-  "u031: 'due soli Modelli' reso 'dwóch wyłącznie Modeli' con 'Modeli' maiuscolo come nell'IT."
+  "u001: il frontespizio v8 PL riportava solo 'Marketplace Fleequid®'; il titolo v9 è 'Ogólne Warunki - Marketplace Fleequid®'."
+ ],
+ "review": [
+  "u001: Warunki Ogólne → Ogólne Warunki — termine fissato per Condizioni Generali (uso prevalente del corpo v8 e delle Condizioni 1 Euro Auctions)",
+  "u004: Warunkach Ogólnych → Ogólnych Warunkach; 'uregulowań ... do których się odsyła' → 'regulacji ... do której się odsyła' — il rinvio è alla disciplina, non agli articoli",
+  "u005: Aukcja za 1 Euro → 1 Euro Auction — nome commerciale inglese, come nel corpo v8 e nelle Condizioni particolari dedicate; 'którą można stosować' → 'która ... może być stosowana'",
+  "u006: Umowy kupna-sprzedaży → Umowy sprzedaży; Kupującego → Nabywcy — termini della v8 delle Generali",
+  "u007: Kupujący → Nabywca(y) in tutto il paragrafo — termine definito v8; ripristinato il plurale tra parentesi come nell'IT (Acquirente/i)",
+  "u008: 'jego brak' → 'jego nienastąpienie' — resa precisa di 'il suo mancato prodursi'",
+  "u010: Warunkach Ogólnych → Ogólnych Warunkach; 'obejmujące ... kończące się' → 'obejmującym ... kończącym się' — riferiti al processo come nella v8",
+  "u012: 'dotychczasowego zachowania' → 'zachowania' — aggiunta non presente nell'IT",
+  "u013: Sprzedającego/Kupującego → Sprzedawcy/Nabywcy; 'kupna-sprzedaży Pojazdów' → 'sprzedaży Pojazdów' — resa v8 del passo invariato; 'w zakresie kupna-sprzedaży' → 'w zakresie kupna i sprzedaży'",
+  "u015: Warunki Ogólne / WO → Ogólne Warunki / OW — termine fissato",
+  "u017, u030, u062: WO → OW",
+  "u018: 'zawodową prowadzoną, w rozumieniu' → 'ewentualnie prowadzoną działalnością ..., w rozumieniu' — la resa v8 con la virgola richiesta dal diff era sgrammaticata",
+  "u019: Sprzedającego/Kupującego → Sprzedawcę/Nabywcy; 'istotnych w rozumieniu niniejszych Warunków Ogólnych' → 'mających znaczenie na gruncie niniejszych Ogólnych Warunków'; 'stosunek w zakresie oferowania Pojazdu do sprzedaży' → 'stosunek oferowania Pojazdu do sprzedaży' (locuzione fissa); 'Umów kupna-sprzedaży' → 'Umów sprzedaży'",
+  "u020: aggiunto 'zawarte' — 'zatwierdzone przez Fleequid z jednym ... Użytkowników' non reggeva grammaticalmente",
+  "u021, u029, u059: 'umów/umowy kupna-sprzedaży' → 'umów/umowy sprzedaży'; Sprzedającego/Kupującego → Sprzedawcy/Nabywcy",
+  "u022, u119: Depozyt zabezpieczający → Wadium — uso del corpo v8 (9 contro 1, solo nella definizione) e delle Condizioni 1 Euro Auctions",
+  "u023: 'a w szczególności' → 'a mianowicie' — 'segnatamente' introduce un elenco chiuso",
+  "u024, u027, u033, u035, u036, u039, u040, u041, u043, u050, u051, u053, u054, u055, u224: Kupujący → Nabywca (declinato)",
+  "u027, u036, u037, u038, u039, u040, u044, u046, u049, u051, u054, u055, u061, u130, u196: Sprzedający → Sprzedawca (declinato)",
+  "u028: 'pełniąca również funkcję zawierania, wskazywania lub przywoływania' → 'której funkcją jest również zawarcie, wskazanie lub przywołanie' — registro",
+  "u030: 'w tym w szczególności strona internetowa' → 'do których należy w szczególności strona internetowa' — accordo grammaticale",
+  "u031: 'określona ... spośród dwóch wyłącznie Modeli' → 'określana ... spośród wyłącznie dwóch Modeli' — ordine delle parole",
+  "u035: '30%' → '30 %' — convenzione tipografica della v8",
+  "u036: Warunków Ogólnych → Ogólnych Warunków",
+  "u037, u040: PMIV femminile → neutro ('PMIV jest wiążące', 'jego rewizji', 'PMIV ustalonego') — formula ricorrente della v8",
+  "u038: 'uzgodniona samodzielnie' → 'uzgodniona niezależnie' — 'autonomamente' = in modo indipendente",
+  "u041: 'niezależnie od sposobu jego zawarcia w trybie mającego zastosowanie Wydarzenia sprzedażowego' → 'bez względu na sposób, w jaki doszło do jego zawarcia w mającym zastosowanie trybie Wydarzenia sprzedażowego' — 'applicabile' riferito alla modalità",
+  "u044: 'w innych dostępnych trybach' → 'w inny dostępny sposób' — 'tryb' è riservato alla modalità di Evento di vendita",
+  "u046: 'przypisania umowy kupna-sprzedaży' → 'przypisania sprzedaży'",
+  "u047: 'w kupnie-sprzedaży Pojazdów' → 'w kupnie i sprzedaży Pojazdów' — resa v8",
+  "u055, u062: Warunków Ogólnych / Warunkach Ogólnych → Ogólnych Warunków / Ogólnych Warunkach",
+  "u061: Sprzedający → Sprzedawca(y) — termine definito v8, plurale tra parentesi come nell'IT (Venditore/i); 'sprzedawca' minuscolo per il ruolo formale di Fleequid",
+  "u206: 'zmniejszenie przedmiotu' → 'ograniczenie przedmiotu' — collocazione giuridica polacca"
  ]
 }

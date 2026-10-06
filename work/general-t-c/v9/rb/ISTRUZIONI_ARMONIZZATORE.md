@@ -50,3 +50,7 @@ Aggiungi in `tr_k10.json` una lista `harmonization` con voci "locuzione IT: resa
 - correzioni sostanziali al blocco k10;
 - punti da far validare allo studio (massimo dieci, i più rilevanti di tutta la lingua, comprese le scelte sui
   termini definiti nuovi e gli eventuali errori preesistenti della v8 corretti).
+
+## Letture obbligatorie aggiuntive
+Prima di iniziare leggi anche `work/general-t-c/v9/rb/NOTE_COMUNI.md` (note valide per tutte le lingue) e, se esiste, `work/general-t-c/v9/rb/LANG/NOTE_LINGUA.md` (decisioni già prese per la tua lingua: vincolanti).
+Nella risposta elenca le locuzioni ricorrenti non in tabella con la resa scelta: servono all'armonizzazione.

@@ -1,0 +1,594 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Definiciones"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Acuerdo Vinculante"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Comprador(es)"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Adjudicación Definitiva"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Anulación de la Venta"
+ },
+ {
+  "it": "Asta",
+  "tr": "Subasta"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Precio de Salida"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Clasificación del Usuario"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Comisiones"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Comprar Ahora"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Condiciones Generales"
+ },
+ {
+  "it": "CG",
+  "tr": "CG"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Condiciones Particulares de Venta"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Condiciones Específicas"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consumidor"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Contrato"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Contrato Individual"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Fianza"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Evento de Venta"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financiador"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Gravamen"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Importe Total Adeudado"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Anuncio"
+ },
+ {
+  "it": "(o",
+  "tr": "(o"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Ficha de Subasta"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Mero Intermediario"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Marketplace"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Modelo de Venta"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Negociación"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Oferente"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Oferta"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Anticipo"
+ },
+ {
+  "it": "Parti",
+  "tr": "Partes"
+ },
+ {
+  "it": "PMIV",
+  "tr": "PMCV"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Precio Mínimo de Compromiso de Venta"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Precio de Compra"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Precio de Compra Neto"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Precio de Reserva"
+ },
+ {
+  "it": "PR",
+  "tr": "PR"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Precio de Venta al Comprador"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Profesional"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Propuesta de Venta"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Puja Máxima"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Reventa"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Servicios"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Soluciones de Financiación"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Especificaciones Técnicas"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Estado Opcionado"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Lista de Tarifas de Fleequid"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Tarifas"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Plazo de Pago"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Usuario"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Vehículo(s)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Vehículo/s Fuera de Uso"
+ },
+ {
+  "it": "VFU",
+  "tr": "VFU"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Venta Fuera de Subasta"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Venta en Comisión"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Venta Reservada"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Vendedor(es)"
+ },
+ {
+  "it": "giorni",
+  "tr": "días"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "laborables"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Objeto, papel de Fleequid y Modelos de Venta"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Determinación y cognoscibilidad del Modelo de Venta"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Fuentes contractuales, Anuncio y condiciones aplicables a la operación específica"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Registro y uso permitido del Marketplace"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Clasificación del Usuario y Fianza"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Tratamiento de los datos personales de los Usuarios"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Propuesta de Venta de Vehículos mediante Subasta y obligaciones del Vendedor"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Eventos de Venta y Anuncio"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Ofertas, negociación y Acuerdo Vinculante"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Estado Opcionado, Proforma y Plazo de Pago"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Pago, Adjudicación Definitiva en las Subastas, retraso y Anulación de la Venta"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Venta Diferida: anticipo y Vehículo temporalmente en uso en poder del Vendedor"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Anulación de la Venta: régimen general y reducción del objeto"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Efectos patrimoniales: restituciones, restablecimiento y coordinación económica"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Fase de ejecución frente al Comprador: facturación, transferencia de la propiedad, riesgo, entrega y recogida"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Venta en Comisión: régimen común, Reventa y actuación como Mero Intermediario"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Garantías, exclusiones y limitaciones"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Reclamaciones"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Cláusula de vinculación"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Soluciones de Financiación ofrecidas por terceros"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Idioma, legislación y jurisdicción aplicables"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Comunicaciones"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Clasificación del Usuario"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Subasta por pujas"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Contrato de compraventa"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "modalidad de Evento de Venta"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Anuncio (o Ficha de Subasta)"
+ },
+ {
+  "it": "controproposta",
+  "tr": "contrapropuesta"
+ },
+ {
+  "it": "pagamento anticipato (art. 22.9, minuscolo: Fleequid paga il Venditore prima dell'incasso)",
+  "tr": "pago adelantado"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "arras confirmatorias / penitenciales"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Precio de Venta al Comprador"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma (femminile: la Proforma)"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Venta Diferida"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "modalidad de ejecución"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "fase de ejecución"
+ },
+ {
+  "it": "perfezionamento (dell'Accordo / del Contratto)",
+  "tr": "perfeccionamiento"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "comercialización"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi, minuscolo)",
+  "tr": "encargos de comisión de venta y de compra"
+ },
+ {
+  "it": "committenti",
+  "tr": "comitentes"
+ },
+ {
+  "it": "Acquirente / Venditore sostanziale",
+  "tr": "Comprador / Vendedor real (minuscolo: comprador real, vendedor real)"
+ },
+ {
+  "it": "parte sostanziale (Dealer Sales)",
+  "tr": "parte real"
+ },
+ {
+  "it": "penale",
+  "tr": "penalización"
+ },
+ {
+  "it": "maturazione delle Commissioni",
+  "tr": "devengo de las Comisiones"
+ },
+ {
+  "it": "conoscibilità",
+  "tr": "cognoscibilidad"
+ },
+ {
+  "it": "documento ricognitivo",
+  "tr": "documento de carácter recognoscitivo"
+ },
+ {
+  "it": "locazione finanziaria",
+  "tr": "arrendamiento financiero"
+ },
+ {
+  "it": "ritiro (del Veicolo)",
+  "tr": "recogida"
+ },
+ {
+  "it": "trasferimento della proprietà",
+  "tr": "transferencia de la propiedad"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Índice"
+ },
+ {
+  "it": "Termini e Condizioni Generali (frontespizio)",
+  "tr": "Términos y Condiciones Generales"
+ },
+ {
+  "it": "Base d'asta",
+  "tr": "Precio de Salida"
+ },
+ {
+  "it": "PMIV / Prezzo minimo di impegno alla vendita",
+  "tr": "PMCV / Precio Mínimo de Compromiso de Venta"
+ },
+ {
+  "it": "Prezzo di riserva / PR",
+  "tr": "Precio de Reserva / PR"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Gravamen (plurale: Gravámenes)"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction (plurale: 1 Euro Auctions)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso / VFU",
+  "tr": "Vehículo/s Fuera de Uso / VFU"
+ },
+ {
+  "it": "Offerente / Offerta",
+  "tr": "Oferente / Oferta"
+ },
+ {
+  "it": "venditore formale / acquirente formale",
+  "tr": "vendedor formal / comprador formal"
+ },
+ {
+  "it": "posizione sostanziale (art. 21)",
+  "tr": "posición sustantiva"
+ },
+ {
+  "it": "modifica sostanziale (delle condizioni)",
+  "tr": "modificación sustancial"
+ },
+ {
+  "it": "titolo autonomo di addebito / addebito",
+  "tr": "título autónomo de cargo / cargo"
+ },
+ {
+  "it": "annullamento del contratto per cause di invalidità (art. 14.1, minuscolo)",
+  "tr": "invalidación del contrato por causas de invalidez"
+ },
+ {
+  "it": "Annullamento (forma abbreviata del termine definito)",
+  "tr": "Anulación"
+ },
+ {
+  "it": "ripristino (art. 15: della situazione anteriore / dell'operazione)",
+  "tr": "restablecimiento"
+ },
+ {
+  "it": "fuso orario",
+  "tr": "huso horario"
+ },
+ {
+  "it": "ai sensi di / ai sensi dell'art",
+  "tr": "conforme a / conforme al art"
+ },
+ {
+  "it": "disciplinato da / regolato da",
+  "tr": "regulado en (por) / regido por"
+ },
+ {
+  "it": "secondo quanto previsto da",
+  "tr": "conforme a lo previsto en"
+ },
+ {
+  "it": "art. / artt. / lett. / c.c",
+  "tr": "art. / arts. / letra / Código Civil italiano"
+ },
+ {
+  "it": "D.Lgs",
+  "tr": "Decreto Legislativo italiano n.º …"
+ },
+ {
+  "it": "a titolo esemplificativo e non esaustivo",
+  "tr": "a título meramente enunciativo y no limitativo"
+ },
+ {
+  "it": "clausola risolutiva espressa",
+  "tr": "cláusula resolutoria expresa"
+ },
+ {
+  "it": "rilanci",
+  "tr": "pujas (incrementos solo nella definizione di Puja Máxima, ripresa dalla v8)"
+ },
+ {
+  "it": "giorni lavorativi",
+  "tr": "días laborables"
+ },
+ {
+  "it": "ritardo",
+  "tr": "retraso"
+ },
+ {
+  "it": "ruolo / veste (di Fleequid)",
+  "tr": "papel / condición"
+ },
+ {
+  "it": "Utente Professionista",
+  "tr": "Usuario Profesional"
+ },
+ {
+  "it": "dossier tecnico",
+  "tr": "expediente técnico"
+ }
+]

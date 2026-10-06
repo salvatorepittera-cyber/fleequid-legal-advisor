@@ -44,3 +44,7 @@ non forzare il testo: segnala l'id nella risposta.
 - correzioni sostanziali (non l'elenco completo);
 - per k01: tabella finale dei termini definiti nuovi IT → LANG;
 - punti da far validare allo studio; termini della tabella che ti sembrano sbagliati.
+
+## Letture obbligatorie aggiuntive
+Prima di iniziare leggi anche `work/general-t-c/v9/rb/NOTE_COMUNI.md` (note valide per tutte le lingue) e, se esiste, `work/general-t-c/v9/rb/LANG/NOTE_LINGUA.md` (decisioni già prese per la tua lingua: vincolanti).
+Nella risposta elenca le locuzioni ricorrenti non in tabella con la resa scelta: servono all'armonizzazione.
