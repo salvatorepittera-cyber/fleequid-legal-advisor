@@ -5,12 +5,12 @@
   "u001": "<b>Términos y Condiciones Generales - Marketplace de Fleequid®</b>",
   "u002": "<i>Índice</i>",
   "u003": "<b>Definiciones</b>.",
-  "u004": "Además de las demás definiciones contenidas en las presentes Condiciones Generales, los términos que se indican a continuación, cuando figuren con inicial mayúscula, tendrán el significado que aquí se les atribuye. Las definiciones identifican el significado de los términos y no sustituyen ni duplican la regulación contenida en los artículos que rigen cada una de las materias, a la que se hace remisión.",
-  "u005": "<i>«</i><b><i>Subasta de 1 Euro</i></b>»: categoría particular de Subasta organizada y calificada como tal por Fleequid, utilizable, según el Modelo de Venta aplicable, tanto en el ámbito de la Venta en Comisión como en el Dealer Sales, caracterizada por modalidades específicas de determinación del precio y por condiciones económicas específicas, regulada por las correspondientes Condiciones Particulares de Venta y regida por el art. 9.4, letra d).",
+  "u004": "Además de cualquier otra definición incluida en las presentes Condiciones Generales, los términos que se indican a continuación, cuando figuren con inicial mayúscula, tendrán el significado que aquí se les atribuye. Las definiciones identifican el significado de los términos y no sustituyen ni duplican la regulación contenida en los artículos que rigen cada una de las materias, a la que se remite.",
+  "u005": "<i>«</i><b><i>1 Euro Auction</i></b>»: categoría particular de Subasta organizada y calificada como tal por Fleequid, utilizable, según el Modelo de Venta aplicable, tanto en el ámbito de la Venta en Comisión como en el Dealer Sales, caracterizada por modalidades específicas de determinación del precio y por condiciones económicas específicas, regulada por las correspondientes Condiciones Particulares de Venta y regida por el art. 9.4, letra d).",
   "u006": "<i>«</i><b><i>Acuerdo Vinculante</i></b>»: el acuerdo mediante el cual, conforme a las modalidades previstas en el art. 10.2, se perfecciona el Contrato de compraventa relativo al Vehículo y nace a cargo del Comprador la obligación de abonar el Importe Total Adeudado. El perfeccionamiento del Acuerdo Vinculante no depende del pago y no constituye Adjudicación Definitiva.",
   "u007": "«<b><i>Comprador(es)</i></b>»: el Oferente a cuyo favor se ha perfeccionado el Acuerdo Vinculante y que, por tanto, está obligado al pago del Importe Total Adeudado, con independencia del tipo de Evento de Venta y de que el pago se haya efectuado. En la Venta en Comisión, tanto si se ejecuta mediante Reventa como si Fleequid actúa como Mero Intermediario, el término se refiere siempre al Comprador real, sujeto ajeno a Fleequid; en el Dealer Sales, el Comprador es el sujeto que adquiere el Vehículo de Fleequid. En las operaciones asistidas por una Solución de Financiación, el Comprador puede ser el Financiador, en los casos y en los términos previstos en el art. 22.5.",
   "u008": "«<b><i>Adjudicación Definitiva</i></b>»: el evento, propio exclusivamente de las Subastas, que se produce con el cumplimiento íntegro de la obligación de pago conforme al art. 12.2 y que, junto con el inicio de la fase de ejecución de la operación, constituye el efecto de dicho cumplimiento. La Adjudicación Definitiva no constituye el momento de perfeccionamiento del Contrato, que se perfecciona con el Acuerdo Vinculante, y el hecho de que no llegue a producirse no afecta a la existencia del Contrato ya perfeccionado. En los Eventos de Venta distintos de las Subastas, el inicio de la fase de ejecución es consecuencia del cumplimiento íntegro de la obligación de pago, sin dar lugar a Adjudicación Definitiva.",
-  "u009": "«<b><i>Anulación de la Venta</i></b>»: la figura contractual, regulada con carácter general en el art. 14, mediante la cual Fleequid dispone, en los casos previstos, que la operación no se ejecute o deje de ejecutarse, en su totalidad o limitadamente a uno o varios Vehículos. La causa jurídica concreta de la Anulación depende del supuesto que la determine; cuando sea consecuencia de un incumplimiento amparado por una cláusula resolutoria expresa, operará como resolución conforme al art. 1456 del Código Civil italiano.",
+  "u009": "«<b><i>Anulación de la Venta</i></b>»: la figura contractual, regulada con carácter general en el art. 14, mediante la cual Fleequid dispone, en los casos previstos, que la operación no se ejecute o deje de ejecutarse, en su totalidad o limitadamente a uno o varios Vehículos. La causa jurídica concreta de la Anulación depende del supuesto que la determine; cuando sea consecuencia de un incumplimiento sujeto a cláusula resolutoria expresa, operará como resolución conforme al art. 1456 del Código Civil italiano.",
   "u010": "«<b><i>Subasta</i></b>»: Evento de Venta consistente en un proceso de venta telemática operado a través del Marketplace, que implica una o varias Ofertas y concluye, en los casos y condiciones previstos en las presentes Condiciones Generales, con el perfeccionamiento del Acuerdo Vinculante a favor del mejor Oferente.",
   "u011": "«<b><i>Precio de Salida</i></b>»: el precio inicial o mínimo del Vehículo a partir del cual, cuando así lo prevea la modalidad del Evento de Venta aplicable, los Oferentes pueden realizar Ofertas o pujas.",
   "u012": "«<b><i>Clasificación del Usuario</i></b>»: el estado interno, operativo y dinámico atribuido por Fleequid al Usuario en función de elementos objetivos relativos a su historial y al comportamiento observado, con los efectos y dentro de los límites previstos en el art. 6.",
@@ -19,17 +19,17 @@
   "u015": "«<b><i>Condiciones Generales</i></b>» o «<b><i>CG</i></b>»: las presentes condiciones generales de contratación, que pueden consultarse en la sección correspondiente del Marketplace, que regulan las relaciones entre Fleequid y los Usuarios en general y constituyen la arquitectura contractual general conforme a la jerarquía prevista en el art. 4.3.",
   "u016": "«<b><i>Condiciones Particulares de Venta</i></b>»: las condiciones contractuales que establecen los parámetros, las condiciones y las derogaciones expresas relativos a cada operación o a cada Evento de Venta, aplicables conforme a lo previsto en los arts. 4.3, 4.4 y 4.5.",
   "u017": "«<b><i>Condiciones Específicas</i></b>»: las condiciones contractuales, adicionales a las presentes CG, que contienen la regulación especial, estandarizada y recurrente aplicable a una categoría identificable de operaciones, Servicios, productos o materias, aplicables conforme a lo previsto en los arts. 4.3 y 4.4.",
-  "u018": "«<b><i>Consumidor</i></b>»: la persona física que actúa con fines ajenos a cualquier actividad empresarial, comercial, artesanal o profesional ejercida, en su caso, en virtud del art. 3 del Decreto Legislativo italiano n.º 206, de 6 de septiembre de 2005.",
-  "u019": "«<b><i>Contrato</i></b>»: según el caso, cada una de las relaciones contractuales relevantes a efectos de las presentes Condiciones Generales y reguladas también por las eventuales Condiciones Específicas, Condiciones Particulares de Venta y Contratos Individuales, y en particular: (i) en la Venta en Comisión ejecutada mediante Reventa, la compraventa del Vehículo del Vendedor a Fleequid y la posterior Reventa al Comprador; (ii) en la Venta en Comisión ejecutada por Fleequid como Mero Intermediario, la compraventa directa del Vehículo del Vendedor al Comprador; (iii) en el Dealer Sales, la compraventa del Vehículo del Vendedor a Fleequid y la posterior compraventa del mismo Vehículo de Fleequid al Comprador, como contratos distintos y autónomos; así como la relación de comercialización celebrada entre el Vendedor y Fleequid conforme a los arts. 8.7 y 8.8. El perfeccionamiento del Acuerdo Vinculante relativo a la venta al Comprador se rige por el art. 10.2; las relaciones de compra, venta y transferencia del Vehículo se rigen, según el Modelo de Venta aplicable y la modalidad de ejecución elegida, por los arts. 8.8, 16, 17 y 18 y por las demás disposiciones aplicables. En cuanto a la forma de los Contratos de compraventa, se estará a lo previsto en el art. 10.2, último inciso.",
+  "u018": "«<b><i>Consumidor</i></b>»: la persona física que actúa con fines ajenos a cualquier actividad empresarial, comercial, artesanal o profesional ejercida en su caso, de conformidad con el art. 3 del Decreto Legislativo italiano n.º 206, de 6 de septiembre de 2005.",
+  "u019": "«<b><i>Contrato</i></b>»: según el caso, cada una de las relaciones contractuales relevantes a efectos de las presentes Condiciones Generales y reguladas también por las eventuales Condiciones Específicas, Condiciones Particulares de Venta y Contratos Individuales, y en particular: (i) en la Venta en Comisión ejecutada mediante Reventa, la compraventa del Vehículo del Vendedor a Fleequid y la posterior Reventa al Comprador; (ii) en la Venta en Comisión ejecutada por Fleequid como Mero Intermediario, la compraventa directa del Vehículo del Vendedor al Comprador; (iii) en el Dealer Sales, la compraventa del Vehículo del Vendedor a Fleequid y la posterior compraventa del mismo Vehículo de Fleequid al Comprador, como contratos distintos y autónomos; así como la relación de comercialización establecida entre el Vendedor y Fleequid conforme a los arts. 8.7 y 8.8. El perfeccionamiento del Acuerdo Vinculante relativo a la venta al Comprador se rige por el art. 10.2; las relaciones de compra, venta y transferencia del Vehículo se rigen, según el Modelo de Venta aplicable y la modalidad de ejecución elegida, por los arts. 8.8, 16, 17 y 18 y por las demás disposiciones aplicables. En cuanto a la forma de los Contratos de compraventa, se estará a lo previsto en el art. 10.2, último inciso.",
   "u020": "«<b><i>Contrato Individual</i></b>»: el acuerdo formalizado por escrito y aprobado por Fleequid con uno o varios Usuarios determinados, situado en el primer lugar de la jerarquía de las fuentes contractuales conforme al art. 4.3.",
-  "u021": "«<b><i>Dealer Sales</i></b>»: el Modelo de Venta, regulado en los arts. 2.7 y 18, en el que Fleequid adquiere el Vehículo del Vendedor en nombre y por cuenta propios y lo revende en nombre y por cuenta propios al Comprador, siendo parte sustancial de ambas compraventas, distintas y autónomas.",
-  "u022": "<b>«</b><b><i>Fianza</i></b><b>»</b>: la suma de dinero que el Oferente está obligado a abonar a Fleequid, en los casos y en la cuantía previstos en el art. 6, en garantía del cumplimiento de las obligaciones asumidas y de los créditos de Fleequid relativos a la operación específica. La Fianza no constituye penalización ni es título autónomo para la exigencia de importe alguno.",
+  "u021": "«<b><i>Dealer Sales</i></b>»: el Modelo de Venta, regulado en los arts. 2.7 y 18, en el que Fleequid adquiere el Vehículo del Vendedor en nombre y por cuenta propios y lo revende en nombre y por cuenta propios al Comprador, siendo parte real de ambas compraventas, distintas y autónomas.",
+  "u022": "<b>«</b><b><i>Fianza</i></b><b>»</b>: la suma de dinero que el Oferente está obligado a abonar a Fleequid, en los casos y en la cuantía previstos en el art. 6, en garantía del cumplimiento de las obligaciones asumidas y de los créditos de Fleequid relativos a la operación específica. La Fianza no constituye penalización ni es título autónomo de cargo.",
   "u023": "«<b><i>Evento de Venta</i></b>»: cualquier proceso comercial organizado o gestionado por Fleequid y destinado a la venta de uno o varios Vehículos, conforme a las modalidades previstas en el art. 9.4, y en concreto la Subasta, el Comprar Ahora, tanto en modalidad autónoma como asociado a una Subasta por pujas, la Venta Reservada, la Negociación y la Venta Fuera de Subasta.",
   "u024": "«<b><i>Financiador</i></b>»: el tercero que concede o desembolsa una financiación al Usuario en el marco de una Solución de Financiación y que, según el producto elegido y las Condiciones Específicas aplicables, puede intervenir como pagador, como destinatario de la factura o como Comprador conforme al art. 22.5.",
-  "u025": "«<b><i>Fleequid</i></b>»: se refiere principalmente a la sociedad denominada Società Adorea S.r.l., con domicilio social en Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), código de identificación fiscal y n.º de IVA 04114790134, inscrita en el Registro Mercantil de Como con el n.º 420825, correo electrónico info@fleequid.com y titular de la marca Fleequid®. Este término también puede referirse a otras entidades jurídicas, asociadas o designadas por Adorea S.r.l. para la comercialización de Vehículos, conforme a lo previsto en el art. 2.9. Fleequid gestiona el Marketplace y pone a disposición los Servicios; la condición en la que interviene en cada operación depende del Modelo de Venta aplicable y, en la Venta en Comisión, de la modalidad de ejecución elegida, conforme a lo previsto en los arts. 2.3-2.8, 3, 17 y 18. La posición de Fleequid en relación con los Vehículos que puedan calificarse como VFU o, en cualquier caso, como residuos se rige por los arts. 16.13 y 18.8.",
-  "u026": "«<b><i>Gravamen</i></b>»: cualquier vínculo o carga, derecho de garantía, prenda, orden de ejecución, obligación contractual, reserva de propiedad, obligación fiscal o tributaria, hipoteca u otro gravamen, de cualquier naturaleza, que afecte al Vehículo y sea susceptible de impedir o dificultar su circulación legal y su potencial de comercialización. Se considerará Gravamen cualquier característica del Vehículo que no permita su libre circulación dentro de la Unión Europea o la ausencia de la certificación CE de conformidad con la legislación aplicable de la Unión Europea, si fuese necesaria.",
+  "u025": "«<b><i>Fleequid</i></b>»: se refiere principalmente a la sociedad Adorea S.r.l., con domicilio social en Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), código de identificación fiscal y n.º de IVA 04114790134, inscrita en el Registro Mercantil de Como con el n.º 420825, correo electrónico info@fleequid.com y titular de la marca Fleequid®. Este término también puede referirse a otras entidades jurídicas, asociadas o designadas por Adorea S.r.l. para la comercialización de Vehículos, conforme a lo previsto en el art. 2.9. Fleequid gestiona el Marketplace y pone a disposición los Servicios; la condición en la que interviene en cada operación depende del Modelo de Venta aplicable y, en la Venta en Comisión, de la modalidad de ejecución elegida, conforme a lo previsto en los arts. 2.3-2.8, 3, 17 y 18. La posición de Fleequid en relación con los Vehículos que puedan calificarse como VFU o, en cualquier caso, como residuos se rige por los arts. 16.13 y 18.8.",
+  "u026": "«<b><i>Gravamen</i></b>»: cualquier vínculo o carga, derecho de garantía, prenda, orden de ejecución, obligación contractual, reserva de propiedad, obligación relativa a impuestos o aranceles, hipoteca u otro gravamen, de cualquier naturaleza, que afecte al Vehículo y sea susceptible de impedir o dificultar su circulación jurídica y su potencial de comercialización. Se considerará Gravamen cualquier característica del Vehículo que no permita su libre circulación dentro de la Unión Europea o la ausencia de la certificación CE de conformidad con la legislación aplicable de la Unión Europea, si fuese necesaria.",
   "u027": "«<b><i>Importe Total Adeudado</i></b><i>»</i>: el importe global adeudado por el Comprador en relación con la operación específica, que comprende, según el Modelo de Venta aplicable y la modalidad de ejecución elegida, el Precio de Venta al Comprador, las Comisiones, las Tarifas, los eventuales reembolsos de gastos y el IVA cuando proceda. El Importe Total Adeudado se indica en la Proforma, salvo error material manifiesto; cuando Fleequid actúa como Mero Intermediario, la Proforma refleja por separado los componentes adeudados al Vendedor y los adeudados a Fleequid.",
-  "u028": "«<b><i>Anuncio</i></b><i>» (o «</i><b><i>Ficha de Subasta</i></b><i>»)</i>: el contenido informativo y descriptivo relativo al Vehículo y a la operación específica, que incluye, a título meramente enunciativo y no limitativo, las Especificaciones Técnicas, las imágenes, el expediente técnico, el eventual TrustReport y cualquier otra información puesta a disposición de los Usuarios, y que tiene asimismo la función de contener, identificar o remitir a las Condiciones Particulares de Venta y de dar a conocer los elementos previstos en el art. 3.2, conforme a lo regulado en el art. 4.6.",
+  "u028": "«<b><i>Anuncio</i></b><i>» (o «</i><b><i>Ficha de Subasta</i></b><i>»)</i>: el contenido informativo y descriptivo relativo al Vehículo y a la operación específica, que incluye, a título meramente enunciativo y no limitativo, las Especificaciones Técnicas, las imágenes, el expediente técnico, el eventual TrustReport y cualquier otra información puesta a disposición de los Usuarios, y que tiene asimismo la función de contener o identificar las Condiciones Particulares de Venta o remitir a ellas y de dar a conocer los elementos previstos en el art. 3.2, conforme a lo regulado en el art. 4.6.",
   "u029": "<b>«</b><b><i>Mero Intermediario</i></b><b>»</b>: la modalidad de ejecución de la Venta en Comisión, regulada en los arts. 2.6 y 17.10 y siguientes, en la que Fleequid no realiza la Reventa, no compra ni vende el Vehículo y no celebra la compraventa, ni en nombre propio ni como parte, permitiendo que la transferencia y la facturación del Vehículo tengan lugar directamente del Vendedor al Comprador. El Mero Intermediario no constituye un Modelo de Venta autónomo y sigue siendo una modalidad interna de ejecución de la Venta en Comisión.",
   "u030": "«<b><i>Marketplace</i></b>»: las plataformas de subastas y de otro tipo, las aplicaciones, las páginas web y los servicios integrados que constituyen un mercado en línea en el que los Usuarios pueden, en los casos y condiciones establecidos en las presentes CG y en las demás fuentes aplicables, comprar y vender Vehículos, así como solicitar y hacer uso de los demás Servicios ofrecidos por Fleequid, entre los que se incluye, en particular, la página web de Fleequid, a la que se puede acceder a través del siguiente enlace: https://www.fleequid.com.",
   "u031": "«<b><i>Modelo de Venta</i></b>»: la estructura jurídica conforme a la cual Fleequid organiza cada operación de venta, determinada con arreglo al art. 3 entre los dos únicos Modelos previstos en el art. 2.3, a saber, la Venta en Comisión y el Dealer Sales.",
@@ -62,8 +62,8 @@
   "u058": "«<b><i>Venta Fuera de Subasta</i></b>»: la modalidad de Evento de Venta, regulada en el art. 9.4, letra f), en la que la venta se celebra al margen del proceso de Subasta.",
   "u059": "«<b><i>Venta en Comisión</i></b>»: el Modelo de Venta, regulado en los arts. 2.3, 2.4, 2.5, 2.6 y 17, en el que Fleequid, por encargo irrevocable de los Usuarios, se ocupa por cuenta de estos de la venta y de la compra del Vehículo y en el que la operación se ejecuta, alternativamente, mediante Reventa o actuando Fleequid como Mero Intermediario. La calificación de Fleequid como comisionista que actúa en nombre propio conforme al art. 1731 del Código Civil italiano concurre exclusivamente en la Reventa, conforme a lo previsto en el art. 2.5; cuando Fleequid actúa como Mero Intermediario, la compraventa se celebra directamente entre el Vendedor y el Comprador conforme a los arts. 2.6 y 17.10.",
   "u060": "«<b><i>Venta Reservada</i></b>»: la modalidad de Evento de Venta, regulada en el art. 9.4, letra c), destinada a uno o varios Usuarios determinados por Fleequid y no visible para la generalidad de los Usuarios del Marketplace.",
-  "u061": "«<b><i>Vendedor(es)</i></b>»: cualquier Profesional que utilice los servicios de venta de Fleequid y que ofrezca sus Vehículos en venta. El término se refiere siempre al Vendedor real, sujeto ajeno a Fleequid; en la Venta en Comisión ejecutada mediante Reventa, cuando Fleequid asuma el papel de vendedor formal, siempre se hará referencia a la misma como Fleequid. En el Dealer Sales, el Vendedor es el sujeto del que Fleequid adquiere el Vehículo; en la posterior reventa al Comprador, el vendedor es Fleequid conforme a los arts. 2.7 y 18.1.",
-  "u062": "Cualquier referencia incluida en las presentes CG a los «<b><i>días</i></b>» debe entenderse como referida a los días laborables, entendiéndose por «<b><i>laborables</i></b>» los días hábiles de lunes a viernes, de 8:30 a 12:30 y de 14:00 a 18:00, excluidos los días festivos en Italia. La franja horaria aplicable es la del domicilio social de Fleequid. Dicho criterio de cómputo se aplica a todos los plazos previstos en las presentes Condiciones Generales, incluidos el Plazo de Pago, el plazo máximo previsto en el art. 12.7 y las penalizaciones determinadas por cada día de retraso.",
+  "u061": "«<b><i>Vendedor(es)</i></b>»: cualquier Profesional que utilice los servicios de venta de Fleequid y que ofrezca sus Vehículos en venta. El término se refiere siempre al Vendedor real, sujeto ajeno a Fleequid; en la Venta en Comisión ejecutada mediante Reventa, cuando Fleequid asuma el papel de vendedor formal, siempre se hará referencia al mismo como Fleequid. En el Dealer Sales, el Vendedor es el sujeto del que Fleequid adquiere el Vehículo; en la posterior reventa al Comprador, el vendedor es Fleequid conforme a los arts. 2.7 y 18.1.",
+  "u062": "Cualquier referencia incluida en las presentes CG a los «<b><i>días</i></b>» debe entenderse como referida a los días laborables, entendiéndose por «<b><i>laborables</i></b>» los días hábiles de lunes a viernes, de 8:30 a 12:30 y de 14:00 a 18:00, excluidos los días festivos en Italia. El huso horario aplicable es el del domicilio social de Fleequid. Dicho criterio de cómputo se aplica a todos los plazos previstos en las presentes Condiciones Generales, incluidos el Plazo de Pago, el plazo máximo previsto en el art. 12.7 y las penalizaciones determinadas por cada día de retraso.",
   "u063": "<b>Objeto, papel de Fleequid y Modelos de Venta</b>.",
   "u076": "<b>Determinación y cognoscibilidad del Modelo de Venta.</b>",
   "u091": "<b>Fuentes contractuales, Anuncio y condiciones aplicables a la operación específica</b>.",
@@ -112,7 +112,7 @@
   {
    "it": "Compra-Subito",
    "tr": "Comprar Ahora",
-   "why": "v8 ES art. 7: 'la opción Comprar ahora'; ora termine definito"
+   "why": "v8 ES art. 7: «la opción Comprar ahora»; ora termine definito; «modalità Compra-Subito» = «modalidad Comprar Ahora»"
   },
   {
    "it": "Asta a rilancio",
@@ -252,7 +252,7 @@
   {
    "it": "Vendita differita",
    "tr": "Venta Diferida",
-   "why": "nuovo (titolo art. 13)"
+   "why": "nuovo (art. 13: denominazione descrittiva introdotta tra virgolette); maiuscole secondo la regola unica"
   },
   {
    "it": "modalità di esecuzione (della Vendita in commissione)",
@@ -286,13 +286,13 @@
   },
   {
    "it": "Acquirente / Venditore sostanziale",
-   "tr": "Comprador / Vendedor real",
-   "why": "v8 ES art. 1 e titoli; nel corpo v8 compare anche 'sustancial'"
+   "tr": "Comprador / Vendedor real (minuscolo: comprador real, vendedor real)",
+   "why": "v8 ES art. 1 e titoli; «sustancial» del corpo v8 (6 occorrenze) è un calco: non usarlo. Vale anche per «venditore sostanziale» riferito a Fleequid nel Dealer Sales: «vendedor real»"
   },
   {
    "it": "parte sostanziale (Dealer Sales)",
-   "tr": "parte sustancial",
-   "why": "'parte real' sarebbe ambiguo in spagnolo"
+   "tr": "parte real",
+   "why": "coerente con Comprador/Vendedor real; «parte sustancial de» è ambiguo (porzione rilevante)"
   },
   {
    "it": "penale",
@@ -342,7 +342,7 @@
   {
    "it": "Deposito cauzionale",
    "tr": "Fianza",
-   "why": "v8 ES, mantenuto"
+   "why": "termine definito v8 ES (10 occorrenze nel corpo, usato anche nelle Condizioni particolari ES): mantenuto; «fianza» in denaro è d'uso corrente in Spagna per la somma versata a garanzia"
   },
   {
    "it": "Base d'asta",
@@ -357,7 +357,7 @@
   {
    "it": "PMIV / Prezzo minimo di impegno alla vendita",
    "tr": "PMCV / Precio Mínimo de Compromiso de Venta",
-   "why": "v8 ES art. 1, mantenuto (vedi note)"
+   "why": "termine definito v8 ES art. 1 e sigla coerente con la denominazione spagnola; nel corpo v8 compariva anche «PMIV»: usare SOLO «PMCV»"
   },
   {
    "it": "Prezzo di riserva / PR",
@@ -382,7 +382,7 @@
   {
    "it": "Tariffario Fleequid",
    "tr": "Lista de Tarifas de Fleequid",
-   "why": "v8 ES, mantenuto"
+   "why": "termine definito v8 ES; non usare «Tarifario» (2 occorrenze nel corpo v8)"
   },
   {
    "it": "Tariffe",
@@ -396,13 +396,13 @@
   },
   {
    "it": "Gravame",
-   "tr": "Gravamen",
-   "why": "v8 ES art. 1, mantenuto (vedi note)"
+   "tr": "Gravamen (plurale: Gravámenes)",
+   "why": "termine definito v8 ES art. 1; nel corpo v8 era reso «Cargas»: usare SOLO «Gravamen/Gravámenes» («libre de Gravámenes», «cancelación de los Gravámenes»)"
   },
   {
    "it": "1 Euro Auction",
-   "tr": "Subasta de 1 Euro",
-   "why": "v8 ES art. 1 lo traduce già, mantenuto"
+   "tr": "1 Euro Auction (plurale: 1 Euro Auctions)",
+   "why": "nome commerciale invariato come nell'IT; corpo v8 ES e Condizioni particolari ES «1 Euro Auctions» lo lasciano in inglese; la resa «Subasta de 1 Euro» compariva solo nella definizione v8"
   },
   {
    "it": "Veicolo/i Fuori Uso / VFU",
@@ -413,22 +413,121 @@
    "it": "Offerente / Offerta",
    "tr": "Oferente / Oferta",
    "why": "v8 ES, mantenuto"
+  },
+  {
+   "it": "venditore formale / acquirente formale",
+   "tr": "vendedor formal / comprador formal",
+   "why": "v8 ES art. 1"
+  },
+  {
+   "it": "posizione sostanziale (art. 21)",
+   "tr": "posición sustantiva",
+   "why": "qui «sostanziale» non qualifica una parte: non «real»"
+  },
+  {
+   "it": "modifica sostanziale (delle condizioni)",
+   "tr": "modificación sustancial",
+   "why": "uso generico"
+  },
+  {
+   "it": "titolo autonomo di addebito / addebito",
+   "tr": "título autónomo de cargo / cargo",
+   "why": "resa fissata in u022, da riusare all'art. 6.3"
+  },
+  {
+   "it": "annullamento del contratto per cause di invalidità (art. 14.1, minuscolo)",
+   "tr": "invalidación del contrato por causas de invalidez",
+   "why": "resa diversa da «Anulación de la Venta» (termine definito), come chiede l'IT"
+  },
+  {
+   "it": "Annullamento (forma abbreviata del termine definito)",
+   "tr": "Anulación",
+   "why": "sempre maiuscolo quando rinvia all'Anulación de la Venta; «cancelación» resta riservata a Gravámenes e perfil"
+  },
+  {
+   "it": "ripristino (art. 15: della situazione anteriore / dell'operazione)",
+   "tr": "restablecimiento",
+   "why": "titolo art. 15; diverso dal «ripristino del Veicolo» dell'art. 20.3 (reparación / reacondicionamiento)"
+  },
+  {
+   "it": "fuso orario",
+   "tr": "huso horario",
+   "why": "corretto l'errore v8 «franja horaria»"
+  },
+  {
+   "it": "ai sensi di / ai sensi dell'art.",
+   "tr": "conforme a / conforme al art.",
+   "why": "formula usata in tutto l'art. 1 v9; «en virtud de» solo dove ripreso alla lettera dalla v8"
+  },
+  {
+   "it": "disciplinato da / regolato da",
+   "tr": "regulado en (por) / regido por",
+   "why": "formule dell'art. 1 v9"
+  },
+  {
+   "it": "secondo quanto previsto da",
+   "tr": "conforme a lo previsto en",
+   "why": "formula dell'art. 1 v9"
+  },
+  {
+   "it": "art. / artt. / lett. / c.c.",
+   "tr": "art. / arts. / letra / Código Civil italiano",
+   "why": "v8 ES"
+  },
+  {
+   "it": "D.Lgs.",
+   "tr": "Decreto Legislativo italiano n.º …",
+   "why": "v8 ES"
+  },
+  {
+   "it": "a titolo esemplificativo e non esaustivo",
+   "tr": "a título meramente enunciativo y no limitativo",
+   "why": "v8 ES (Ficha de Subasta)"
+  },
+  {
+   "it": "clausola risolutiva espressa",
+   "tr": "cláusula resolutoria expresa",
+   "why": "v8 ES"
+  },
+  {
+   "it": "rilanci",
+   "tr": "pujas (incrementos solo nella definizione di Puja Máxima, ripresa dalla v8)",
+   "why": "v8 ES"
+  },
+  {
+   "it": "giorni lavorativi",
+   "tr": "días laborables",
+   "why": "v8 ES art. 1"
+  },
+  {
+   "it": "ritardo",
+   "tr": "retraso",
+   "why": "v8 ES; «mora» resta «mora»"
+  },
+  {
+   "it": "ruolo / veste (di Fleequid)",
+   "tr": "papel / condición",
+   "why": "v8 ES «papel de vendedor formal»"
+  },
+  {
+   "it": "Utente Professionista",
+   "tr": "Usuario Profesional",
+   "why": "due termini definiti"
+  },
+  {
+   "it": "dossier tecnico",
+   "tr": "expediente técnico",
+   "why": "v8 ES"
   }
  ],
  "notes": [
   "Maiuscole dei termini definiti: l'art. 1 v9 dice che i termini valgono 'quando riportati con iniziale maiuscola'. La v8 ES era incoerente (art. 1 quasi tutto in minuscolo; nel corpo prevale nettamente la forma con tutte le iniziali maiuscole: Precio de Reserva, Propuesta de Venta, Puja Máxima, Especificaciones Técnicas, Mero Intermediario). Regola adottata per tutto il documento: ogni termine definito ha la maiuscola su tutte le parole piene. Conseguenze: 'Especificaciones Técnicas' (il glossario cumulativo riporta 'Especificaciones técnicas' dalle T&C Care), 'Adjudicación Definitiva' e 'Venta Reservada' (nel corpo v8 con la seconda parola minuscola).",
   "Virgolette: « » come nella v8 ES (60 occorrenze contro 4 di virgolette alte).",
   "Pagamento anticipato = 'Anticipo'; nel titolo dell'art. 13 (minuscolo nell'IT) 'anticipo'. Per l'art. 22.9 ('Tale pagamento anticipato', Fleequid paga il Venditore prima dell'incasso) usare 'pago adelantado'.",
-  "PMIV: la definizione v8 ES usa 'PMCV' (Precio mínimo de compromiso de venta), ma nel corpo v8 ES la sigla compare 13 volte come 'PMIV' (sigla italiana) e 11 come 'PMCV'. Mantenuto 'PMCV', che è il termine definito. Da validare: se piattaforma e modulistica in spagnolo mostrano 'PMIV', va invertito ovunque.",
-  "Gravame: definizione v8 ES 'Gravamen', ma nel corpo v8 ES il termine era reso 'Cargas'. Mantenuto 'Gravamen' del termine definito; nei blocchi successivi 'Gravame/i' va reso 'Gravamen/Gravámenes'.",
-  "Deposito cauzionale = 'Fianza' (v8) mantenuto con dubbio: in diritto spagnolo 'fianza' è anche la garanzia personale; 'depósito de garantía' sarebbe più preciso per una somma versata a garanzia.",
   "Annullamento della vendita = 'Anulación de la Venta' (v8) mantenuto con dubbio: 'anulación' evoca l'annullabilità, mentre l'istituto è contrattuale; la definizione stessa ne chiarisce la natura.",
   "Stato Opzionato = 'Estado Opcionado': 'opcionado' è d'uso commerciale ma non è registrato nel dizionario accademico; scelto perché la definizione nega espressamente che si tratti di un 'contrato de opción'. Alternativa: 'Estado Reservado' (perde il nesso con l'opzione e si sovrappone a 'Venta Reservada'). Da allineare all'etichetta della piattaforma in spagnolo.",
   "Compra-Subito = 'Comprar Ahora' (dalla v8 ES 'opción Comprar ahora'): da allineare all'etichetta del pulsante sulla piattaforma in spagnolo.",
-  "u025: mantenuta alla lettera la resa v8 'la sociedad denominada Società Adorea S.r.l.' (l'IT non cambia), benché 'Società' non faccia parte della denominazione: correzione consigliata 'la sociedad Adorea S.r.l.'. Mantenuti anche 'asociadas' per 'affiliate' e 'Registro Mercantil de Como'. E-mail senza sottolineato perché l'IT v9 non lo ha.",
-  "u062: mantenuta la resa v8 'La franja horaria aplicable' per 'fuso orario' (il termine corretto sarebbe 'El huso horario').",
   "u015: aggiunto 'de contratación' ('condizioni generali di contratto'), che la v8 ES ometteva.",
-  "u026: mantenuto dalla v8 'obligación fiscal o tributaria' per 'obbligo relativo a imposte o dazi' (i dazi non sono resi alla lettera); tolto 'caución' perché l'IT v9 elimina la ripetizione di 'pegni'.",
   "u040: 'in corrispondenza della quale, o al di sopra della quale' resta reso 'a partir del cual' come nella v8 ES.",
   "u044: la definizione v8 ES di 'Propuesta de venta' non corrispondeva all'IT v8 (era ferma a una versione precedente): tradotta ex novo.",
   "u051: URL lasciati con /it/ come nell'IT (li localizza il sistema).",
@@ -436,6 +535,28 @@
   "Titoli: art. 2 'Objeto, ...' (v8 'Objeto' per 'Scopi'); art. 23 ripreso dalla v8 'Idioma, legislación y jurisdicción aplicables' (ordine diverso dall'IT, invariato); art. 8 ripreso dalla v8 con 'mediante Subasta'.",
   "Incongruenza IT u061 (Venditore/i): manca la punteggiatura tra 'soggetto diverso rispetto a Fleequid' e 'nella Vendita in commissione eseguita mediante Rivendita, ove Fleequid assuma...'; tradotto con punto e virgola secondo il senso della v8.",
   "Incongruenza IT u008: 'ne costituisce l'effetto' ha referente ambiguo; reso 'constituye el efecto de dicho cumplimiento' (effetto dell'integrale adempimento dell'obbligo di pagamento).",
-  "Incongruenza IT: i termini definiti hanno maiuscole non uniformi (Importo Totale Dovuto, Stato Opzionato, Modello di Vendita contro Accordo vincolante, Evento di vendita); titolo dell'art. 13 e art. 22.9 usano 'pagamento anticipato' minuscolo con due significati diversi."
+  "Incongruenza IT: i termini definiti hanno maiuscole non uniformi (Importo Totale Dovuto, Stato Opzionato, Modello di Vendita contro Accordo vincolante, Evento di vendita); titolo dell'art. 13 e art. 22.9 usano 'pagamento anticipato' minuscolo con due significati diversi.",
+  "REVISIONE - maiuscole: confermata la regola unica (tutte le parole piene del termine definito in maiuscola). Verifica sul corpo v8 ES: Precio de Reserva 39 contro 0, Puja Máxima 20/0, Precio de Adjudicación 20/1, Propuesta de Venta 31/3, Especificaciones Técnicas 12/1, Mero Intermediario 11/0, Condiciones Particulares 22/0, Condiciones Específicas 9/0, Lista de Tarifas 6/0. Il glossario cumulativo («Especificaciones técnicas», dalle T&C Care) cede all'uso di questo documento. Non sono termini definiti e restano minuscoli: «Subasta por pujas», «Contrato de compraventa», «modalidad de ejecución», «fase de ejecución», «vendedor/comprador real» riferito a Fleequid.",
+  "REVISIONE - PMCV: mantenuto il termine definito v8 (sigla coerente con «Precio Mínimo de Compromiso de Venta»). Da validare: corpo v8 ES (13 volte) e Condizioni particolari ES «1 Euro Auctions» in vigore (7 volte) usano «PMIV»; se piattaforma e modulistica in spagnolo mostrano «PMIV» va invertito ovunque, altrimenti alla prossima revisione va allineato il documento 1 Euro Auctions.",
+  "REVISIONE - Gravamen: mantenuto il termine definito v8; il corpo v8 usava «Cargas» (10 volte) come termine definito senza che fosse definito. «Gravamen» rispecchia la definizione («u otro gravamen») e l'IT.",
+  "REVISIONE - Fianza: mantenuta (termine definito v8, non è un errore evidente). Lista de Tarifas de Fleequid: mantenuta contro «Tarifario» (anche qui le Condizioni particolari ES 1 Euro Auctions usano «Tarifario Fleequid»).",
+  "REVISIONE - errori v8 corretti: u025 «Società Adorea S.r.l.»; u062 «franja horaria» → «huso horario»; u026 «obligación fiscal o tributaria» → «obligación relativa a impuestos o aranceles» e «circulación legal» → «circulación jurídica». In u025 restano dalla v8 «asociadas» per «affiliate» (più preciso sarebbe «afiliadas») e «Registro Mercantil de Como».",
+  "REVISIONE - titolo art. 13: «anticipo» minuscolo come nell'IT («pagamento anticipato» minuscolo), benché rinvii al termine definito «Anticipo»."
+ ],
+ "review": [
+  "u004: Además de las demás definiciones contenidas en las presentes Condiciones Generales → Además de cualquier otra definición incluida en las presentes Condiciones Generales — ripresa la resa v8 dell'incipit (IT invariato in questa parte); evita anche la cacofonia «Además de las demás»",
+  "u004: a la que se hace remisión → a la que se remite — formula di rinvio più asciutta e usuale",
+  "u005: Subasta de 1 Euro → 1 Euro Auction — nome commerciale lasciato in inglese nell'IT; la v8 ES lo traduceva solo nella definizione mentre nel corpo (4 volte) e nelle Condizioni particolari ES «1 Euro Auctions» in vigore (29 volte) resta in inglese: incoerenza interna v8 risolta a favore dell'uso prevalente",
+  "u009: un incumplimiento amparado por una cláusula resolutoria expresa → un incumplimiento sujeto a cláusula resolutoria expresa — «amparado» significa protetto/tutelato: l'inadempimento è assoggettato alla clausola, non tutelato da essa",
+  "u018: ejercida, en su caso, en virtud del art. 3 → ejercida en su caso, de conformidad con el art. 3 — l'IT v9 aggiunge la virgola prima di «ai sensi»: il rinvio regge la definizione, non l'attività; la v8 («ejercida ... en virtud del art. 3») si leggeva come attività esercitata in forza dell'art. 3",
+  "u019: la relación de comercialización celebrada entre → la relación de comercialización establecida entre — in spagnolo si «celebra» un contratto, non una «relación»",
+  "u021: siendo parte sustancial de ambas compraventas → siendo parte real de ambas compraventas — «parte sustancial de» si legge come «porzione rilevante di»; allineato a Comprador/Vendedor real (v8 art. 1), in opposizione a «formal»",
+  "u022: ni es título autónomo para la exigencia de importe alguno → ni es título autónomo de cargo — parafrasi che allargava il senso; «addebito» = «cargo», resa da riusare all'art. 6.3",
+  "u025: la sociedad denominada Società Adorea S.r.l. → la sociedad Adorea S.r.l. — errore evidente della v8: «Società» non fa parte della denominazione sociale (nella stessa definizione compare due volte «Adorea S.r.l.»)",
+  "u026: obligación fiscal o tributaria → obligación relativa a impuestos o aranceles — errore v8: «fiscal o tributaria» è una tautologia che ometteva i dazi («imposte o dazi»)",
+  "u026: su circulación legal → su circulación jurídica — errore v8: «circulación legal» di un veicolo si legge come circolazione su strada a norma di legge; l'IT parla di circolazione giuridica (trasferibilità)",
+  "u028: contener, identificar o remitir a las Condiciones Particulares de Venta → contener o identificar las Condiciones Particulares de Venta o remitir a ellas — zeugma scorretto: «contener» e «identificar» reggono l'oggetto diretto, «remitir» vuole «a»",
+  "u061: siempre se hará referencia a la misma como Fleequid → siempre se hará referencia al mismo como Fleequid — ripristinata la resa v8 (IT invariato in sostanza); nella v8 ES Fleequid non è trattata al femminile",
+  "u062: La franja horaria aplicable es la del domicilio social de Fleequid → El huso horario aplicable es el del domicilio social de Fleequid — errore evidente della v8: «fuso orario» è «huso horario»; «franja horaria» è la fascia oraria"
  ]
 }

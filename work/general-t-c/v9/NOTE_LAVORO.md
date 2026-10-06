@@ -100,7 +100,7 @@ PMIV=MVP ovunque; Versteigerung; Vertragsgrundlagen (non "vertragliche Quellen")
 ## STATO AL MOMENTO DELLO STOP PER LIMITE DI UTILIZZO (notte 6→7 ottobre 2026)
 - IT: pulita, indice ricalcolato. FATTO.
 - EN: Word costruito, verificato, indice ricalcolato, committato. FATTO.
-- DE: k01..k09 tradotti e revisionati, k10 tradotto; armonizzazione finale LANCIATA (agente in corso). Poi: `rebuild build --lang DE`, `tcupdate toc --langs DE`, commit.
+- DE: Word costruito, verificato, indice ricalcolato, committato. FATTO.
 - FR: k01 tradotto e revisionato, terms.json e brief generati; k02..k07, k09, k10 tradotti; k08 in traduzione; revisioni k02, k03, k04, k05, k06, k07, k09 LANCIATE. Poi: revisione k08, armonizzazione (rivede anche k10), build, toc, commit.
 - ES: k01 tradotto, revisione k01 LANCIATA. Poi: terms, brief, k02..k10, revisioni, armonizzazione, build.
 - NL: k01 tradotto e revisionato (Inhoudsopgave, 1 Euro Auction, Minimum Verkoopverbintenisprijs, Waarborgsom, Bindende Overeenstemming). Poi: `rebuild terms --lang NL`, `rebuild brief --lang NL`, k02..k10 ecc.
