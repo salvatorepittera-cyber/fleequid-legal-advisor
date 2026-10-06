@@ -16,8 +16,8 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
    - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v8 RU.
    L'abbinamento con la resa v8 è automatico: se il testo RU mostrato non corrisponde all'IT v8 indicato,
    cerca il paragrafo giusto in `work/refs/general_RU.txt` e usa quello.
-3. Terminologia: i termini contrattuali già usati nella v8 RU NON cambiano (glossario e tabella termini sotto
-   sono vincolanti; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_RU.txt`; se non c'è scegli la resa legale
+3. Terminologia: i termini contrattuali già usati nella v8 RU NON cambiano (la tabella termini sotto, se
+   presente, è vincolante; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_RU.txt`; se non c'è scegli la resa legale
    standard nella lingua e riportala in "new_terms". Un termine definito con iniziale maiuscola in IT resta un termine
    definito (maiuscola secondo l'uso già adottato nella v8 RU), sempre reso allo stesso modo.
 4. Formattazione: riporta <b>, <i>, <u> sulle parole corrispondenti, con lo STESSO numero di segmenti dell'IT v9.
@@ -28,32 +28,32 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
 6. Non tradurre i nomi commerciali lasciati in inglese nell'IT (es. Buy Now, Dealer Sales, Marketplace) salvo che la
    v8 RU li traduca già.
 
-## Glossario dalle versioni pubblicate (IT → RU)
+## Glossario cumulativo (IT → RU) — secondario: prevale la v8 RU di questo documento
 
-- Acquirente → Покупатель
-- Centro Autorizzato → Уполномоченный центр
-- Condizioni Generali / CG → Общие условия
-- Fleequid Care → Fleequid Care
-- Servizio Fleequid Care → Fleequid Care Service
-- Guasto/i → Повреждение(-я)
-- Malfunzionamento/i → Неисправность(-и)
-- Reclamo → Жалоба
-- TrustReport → TrustReport
-- Venditore → Продавец
-- Voucher Fleequid → Ваучер Fleequid
-- Voucher → Ваучер
-- chilometraggio → пробег
-- chilometraggio iniziale → начальный пробег
-- verbale di consegna → акт приема-передачи
-- contachilometri → одометр
-- Scheda d'Asta → Аукционный лист
-- Specifiche tecniche → Технические характеристики
-- contratti di compravendita → договоры купли-продажи
-- reclamo (art. 13 Condizioni Generali) → претензия
-- arbitro unico → единоличный арбитр
-- limite temporale / chilometrico → временной предел / предел по пробегу
-- quanto a titolo e contenuto → с точки зрения правового основания и содержания
-- guasto del contachilometri → выход из строя одометра
+- Acquirente → Покупатель  [VAS - Fleequid Care v1]
+- Centro Autorizzato → Уполномоченный центр  [VAS - Fleequid Care v1]
+- Condizioni Generali / CG → Общие условия  [VAS - Fleequid Care v1]
+- Fleequid Care → Fleequid Care  [VAS - Fleequid Care v1]
+- Servizio Fleequid Care → Fleequid Care Service  [VAS - Fleequid Care v1]
+- Guasto/i → Повреждение(-я)  [VAS - Fleequid Care v1]
+- Malfunzionamento/i → Неисправность(-и)  [VAS - Fleequid Care v1]
+- Reclamo → Жалоба  [VAS - Fleequid Care v1]
+- TrustReport → TrustReport  [VAS - Fleequid Care v1]
+- Venditore → Продавец  [VAS - Fleequid Care v1]
+- Voucher Fleequid → Ваучер Fleequid  [VAS - Fleequid Care v1]
+- Voucher → Ваучер  [VAS - Fleequid Care v1]
+- chilometraggio → пробег  [Fleequid Care v2 (nuovo)]
+- chilometraggio iniziale → начальный пробег  [Fleequid Care v2 (nuovo)]
+- verbale di consegna → акт приема-передачи  [Fleequid Care v2 (nuovo)]
+- contachilometri → одометр  [Fleequid Care v2 (nuovo)]
+- Scheda d'Asta → Аукционный лист  [Fleequid Care v2 (nuovo)]
+- Specifiche tecniche → Технические характеристики  [Fleequid Care v2 (nuovo)]
+- contratti di compravendita → договоры купли-продажи  [Fleequid Care v2 (nuovo)]
+- reclamo (art. 13 Condizioni Generali) → претензия  [Fleequid Care v2 (nuovo)]
+- arbitro unico → единоличный арбитр  [Fleequid Care v2 (nuovo)]
+- limite temporale / chilometrico → временной предел / предел по пробегу  [Fleequid Care v2 (nuovo)]
+- quanto a titolo e contenuto → с точки зрения правового основания и содержания  [Fleequid Care v2 (nuovo)]
+- guasto del contachilometri → выход из строя одометра  [Fleequid Care v2 (nuovo)]
 
 ## Nota sul blocco k01
 Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: le rese scelte qui diventano vincolanti per il resto del documento. In "new_terms" elenca OGNI termine definito nuovo rispetto alla v8 con la resa scelta e la fonte. L'unità con chiave TOC è il titolo dell'indice: usa la parola già usata nella v8 RU.

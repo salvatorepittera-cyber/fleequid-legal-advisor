@@ -16,8 +16,8 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
    - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v8 RO.
    L'abbinamento con la resa v8 è automatico: se il testo RO mostrato non corrisponde all'IT v8 indicato,
    cerca il paragrafo giusto in `work/refs/general_RO.txt` e usa quello.
-3. Terminologia: i termini contrattuali già usati nella v8 RO NON cambiano (glossario e tabella termini sotto
-   sono vincolanti; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_RO.txt`; se non c'è scegli la resa legale
+3. Terminologia: i termini contrattuali già usati nella v8 RO NON cambiano (la tabella termini sotto, se
+   presente, è vincolante; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_RO.txt`; se non c'è scegli la resa legale
    standard nella lingua e riportala in "new_terms". Un termine definito con iniziale maiuscola in IT resta un termine
    definito (maiuscola secondo l'uso già adottato nella v8 RO), sempre reso allo stesso modo.
 4. Formattazione: riporta <b>, <i>, <u> sulle parole corrispondenti, con lo STESSO numero di segmenti dell'IT v9.
@@ -28,32 +28,32 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
 6. Non tradurre i nomi commerciali lasciati in inglese nell'IT (es. Buy Now, Dealer Sales, Marketplace) salvo che la
    v8 RO li traduca già.
 
-## Glossario dalle versioni pubblicate (IT → RO)
+## Glossario cumulativo (IT → RO) — secondario: prevale la v8 RO di questo documento
 
-- Acquirente → Cumpărător
-- Centro Autorizzato → Centru autorizat
-- Condizioni Generali → Condiții generale
-- CG → CG
-- Fleequid Care → Fleequid Care
-- Servizio Fleequid Care → Fleequid Care Service
-- Guasto/i → Defecțiuni
-- Malfunzionamento/i → Funcționări defectuoase
-- Reclamo → Cerere de despăgubire și reclamație
-- TrustReport → TrustReport
-- Venditore → Vânzător
-- Veicolo → Vehicul
-- Voucher Fleequid → Cupon Fleequid
-- Voucher → Cupon
-- chilometraggio iniziale → kilometrajul inițial
-- verbale di consegna → procesul-verbal de predare
-- contachilometri → odometru
-- Scheda d’Asta → Fișa de Licitație
-- Specifiche tecniche → Specificațiile tehnice
-- contratti di compravendita → contractele de vânzare-cumpărare
-- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reclamația reglementată de articolul 13 din Condițiile generale
-- percorrenza → distanța parcursă
-- prova primaria → proba principală
-- arbitro unico → arbitru unic
+- Acquirente → Cumpărător  [VAS - Fleequid Care v1]
+- Centro Autorizzato → Centru autorizat  [VAS - Fleequid Care v1]
+- Condizioni Generali → Condiții generale  [VAS - Fleequid Care v1]
+- CG → CG  [VAS - Fleequid Care v1]
+- Fleequid Care → Fleequid Care  [VAS - Fleequid Care v1]
+- Servizio Fleequid Care → Fleequid Care Service  [VAS - Fleequid Care v1]
+- Guasto/i → Defecțiuni  [VAS - Fleequid Care v1]
+- Malfunzionamento/i → Funcționări defectuoase  [VAS - Fleequid Care v1]
+- Reclamo → Cerere de despăgubire și reclamație  [VAS - Fleequid Care v1]
+- TrustReport → TrustReport  [VAS - Fleequid Care v1]
+- Venditore → Vânzător  [VAS - Fleequid Care v1]
+- Veicolo → Vehicul  [VAS - Fleequid Care v1]
+- Voucher Fleequid → Cupon Fleequid  [VAS - Fleequid Care v1]
+- Voucher → Cupon  [VAS - Fleequid Care v1]
+- chilometraggio iniziale → kilometrajul inițial  [Fleequid Care v2 (nuovo)]
+- verbale di consegna → procesul-verbal de predare  [Fleequid Care v2 (nuovo)]
+- contachilometri → odometru  [Fleequid Care v2 (nuovo)]
+- Scheda d’Asta → Fișa de Licitație  [Fleequid Care v2 (nuovo)]
+- Specifiche tecniche → Specificațiile tehnice  [Fleequid Care v2 (nuovo)]
+- contratti di compravendita → contractele de vânzare-cumpărare  [Fleequid Care v2 (nuovo)]
+- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reclamația reglementată de articolul 13 din Condițiile generale  [Fleequid Care v2 (nuovo)]
+- percorrenza → distanța parcursă  [Fleequid Care v2 (nuovo)]
+- prova primaria → proba principală  [Fleequid Care v2 (nuovo)]
+- arbitro unico → arbitru unic  [Fleequid Care v2 (nuovo)]
 
 ## Nota sul blocco k01
 Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: le rese scelte qui diventano vincolanti per il resto del documento. In "new_terms" elenca OGNI termine definito nuovo rispetto alla v8 con la resa scelta e la fonte. L'unità con chiave TOC è il titolo dell'indice: usa la parola già usata nella v8 RO.

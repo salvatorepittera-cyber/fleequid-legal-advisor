@@ -5,7 +5,7 @@
   "u001": "<b>Všeobecné obchodní podmínky - Online tržiště Fleequid®</b>",
   "u002": "<i>Obsah</i>",
   "u003": "<b>Definice</b>.",
-  "u004": "Kromě dalších definic obsažených v těchto Všeobecných obchodních podmínkách mají níže uvedené pojmy, jsou-li psány s velkým počátečním písmenem, význam, který je jim zde přiřazen. Definice vymezují význam pojmů a nenahrazují ani nezdvojují úpravu obsaženou v článcích, které upravují jednotlivé záležitosti a na které se odkazuje.",
+  "u004": "Kromě dalších definic obsažených v těchto Všeobecných obchodních podmínkách mají níže uvedené pojmy, jsou-li psány s velkým počátečním písmenem, význam, který je jim zde přiřazen. Definice vymezují význam pojmů a nenahrazují ani nezdvojují úpravu obsaženou v článcích upravujících jednotlivé záležitosti, na kterou se odkazuje.",
   "u005": "<i>„</i><b><i>1 Euro Auction</i></b>“: zvláštní kategorie Aukce organizovaná a jako taková kvalifikovaná společností Fleequid, kterou lze podle příslušného Prodejního modelu použít jak v rámci Komisního prodeje, tak v rámci Dealer Sales, vyznačující se specifickými způsoby určení ceny a specifickými ekonomickými podmínkami, upravená příslušnými Zvláštními prodejními podmínkami a řídící se čl. 9.4 písm. d).",
   "u006": "<i>„</i><b><i>Závazná dohoda</i></b>“: dohoda, kterou je způsobem stanoveným v čl. 10.2 uzavřena Kupní smlouva týkající se Vozidla a kterou Kupujícímu vzniká povinnost zaplatit Celkovou dlužnou částku. Uzavření Závazné dohody nezávisí na zaplacení a nepředstavuje Konečné přiklepnutí.",
   "u007": "„<b><i>Kupující</i></b>“: Nabízející, v jehož prospěch byla uzavřena Závazná dohoda a který je proto povinen zaplatit Celkovou dlužnou částku, a to bez ohledu na typ Prodejní akce a na to, zda již došlo k zaplacení. V rámci Komisního prodeje, ať již je proveden formou Dalšího prodeje, nebo působí-li společnost Fleequid jako Čistý zprostředkovatel, se tento termín vždy vztahuje na skutečného Kupujícího, což je jiný subjekt než společnost Fleequid; v rámci Dealer Sales je Kupujícím subjekt, který Vozidlo kupuje od společnosti Fleequid. U transakcí, při nichž je využito Řešení financování, může být Kupujícím Poskytovatel financování, a to v případech a za podmínek stanovených v čl. 22.5.",
@@ -14,59 +14,59 @@
   "u010": "„<b><i>Aukce</i></b>“: Prodejní akce spočívající v procesu telematického prodeje provozovaném prostřednictvím Online tržiště, který zahrnuje jednu nebo více Nabídek a končí, v případech a za podmínek stanovených v těchto Všeobecných obchodních podmínkách, uzavřením Závazné dohody ve prospěch Nabízejícího, který podal nejlepší Nabídku.",
   "u011": "„<b><i>Vyvolávací cena</i></b>“: počáteční nebo minimální cena Vozidla, od které mohou Nabízející, stanoví-li tak příslušný typ Prodejní akce, podávat Nabídky nebo přihazovat.",
   "u012": "„<b><i>Klasifikace Uživatele</i></b>“: interní, provozní a dynamický status, který společnost Fleequid přiděluje Uživateli na základě objektivních skutečností týkajících se jeho historie a jeho chování, s účinky a v mezích stanovených v čl. 6.",
-  "u013": "„<b><i>Provize</i></b>“: úplaty, které společnosti Fleequid náležejí od Prodávajícího a od Kupujícího za koupi a prodej Vozidel uskutečněné s využitím Online tržiště nebo služeb a systémů společnosti Fleequid určených ke koupi a prodeji, a to pouze v těch Prodejních modelech, které je stanoví. Není-li písemně dohodnuto jinak nebo není-li ve Zvláštních prodejních podmínkách uvedeno jinak, určují se Provize podle Sazebníku Fleequid. V rámci Komisního prodeje jsou pro účely výpočtu Rezervační ceny rozhodné výlučně Provize, které podle smlouvy jdou k tíži Prodávajícího. Vznik nároku na Provize upravuje čl. 12.4. V rámci Dealer Sales se Provize neplatí a hospodářský výsledek činnosti společnosti Fleequid spočívající v koupi a prodeji nepředstavuje Provizi.",
-  "u014": "„<b><i>Kup teď</i></b>“: typ Prodejní akce, samostatný nebo spojený s Aukcí s příhozy, upravený v čl. 9.4 písm. b), při kterém je Nabídka podána za cenu okamžité koupě uvedenou u Vozidla.",
+  "u013": "„<b><i>Provize</i></b>“: úplaty, které Prodávající a Kupující platí společnosti Fleequid za prodej a nákup Vozidel uskutečněný prostřednictvím Online tržiště nebo obchodních služeb a systémů společnosti Fleequid, a to pouze v těch Prodejních modelech, které je stanoví. Není-li písemně dohodnuto jinak nebo není-li ve Zvláštních prodejních podmínkách uvedeno jinak, stanoví se Provize v souladu se Sazebníkem Fleequid. V rámci Komisního prodeje jsou pro účely výpočtu Rezervační ceny rozhodné výlučně Provize, které podle smlouvy jdou k tíži Prodávajícího. Vznik nároku na Provize upravuje čl. 12.4. V rámci Dealer Sales se Provize neplatí a hospodářský výsledek činnosti společnosti Fleequid spočívající v nákupu a prodeji nepředstavuje Provizi.",
+  "u014": "„<b><i>Kup teď</i></b>“: typ Prodejní akce, samostatný nebo spojený s Aukcí s příhozy, upravený v čl. 9.4 písm. b), při kterém je Nabídka podána za cenu okamžitého nákupu uvedenou u Vozidla.",
   "u015": "„<b><i>Všeobecné obchodní podmínky</i></b>“ nebo „<b><i>VOP</i></b>“: tyto všeobecné obchodní podmínky, které jsou k dispozici v příslušné sekci Online tržiště a které upravují vztahy mezi společností Fleequid a Uživateli obecně a tvoří obecný smluvní rámec podle hierarchie uvedené v čl. 4.3.",
   "u016": "„<b><i>Zvláštní prodejní podmínky</i></b>“: smluvní podmínky, které stanoví parametry, podmínky a výslovné odchylky týkající se jednotlivé transakce nebo jednotlivé Prodejní akce a které se použijí podle čl. 4.3, 4.4 a 4.5.",
   "u017": "„<b><i>Zvláštní podmínky</i></b>“: smluvní podmínky doplňující tyto VOP, které obsahují zvláštní, standardizovanou a opakovaně používanou úpravu vztahující se na určitelnou kategorii transakcí, Služeb, produktů nebo záležitostí a které se použijí podle čl. 4.3 a 4.4.",
   "u018": "„<b><i>Spotřebitel</i></b>“: fyzická osoba jednající za účelem nesouvisejícím s podnikatelskou, obchodní, řemeslnou nebo odbornou činností, kterou případně vykonává, ve smyslu čl. 3 legislativního nařízení ze dne 6. září 2005, č. 206.",
-  "u019": "„<b><i>Smlouva</i></b>“: podle okolností každý ze smluvních vztahů, které jsou významné podle těchto Všeobecných obchodních podmínek a které se řídí rovněž případnými Zvláštními podmínkami, Zvláštními prodejními podmínkami a Individuálními smlouvami, a zejména: (i) v rámci Komisního prodeje provedeného formou Dalšího prodeje prodej Vozidla Prodávajícím společnosti Fleequid a následný Další prodej Kupujícímu; (ii) v rámci Komisního prodeje provedeného společností Fleequid jako Čistým zprostředkovatelem přímý prodej Vozidla Prodávajícím Kupujícímu; (iii) v rámci Dealer Sales prodej Vozidla Prodávajícím společnosti Fleequid a následný prodej téhož Vozidla společností Fleequid Kupujícímu, a to jako samostatné a na sobě nezávislé smlouvy; jakož i vztah týkající se nabízení Vozidla k prodeji uzavřený mezi Prodávajícím a společností Fleequid podle čl. 8.7 a 8.8. Uzavření Závazné dohody týkající se prodeje Kupujícímu upravuje čl. 10.2; vztahy koupě, prodeje a převodu Vozidla se podle příslušného Prodejního modelu a zvoleného způsobu provedení řídí čl. 8.8, 16, 17 a 18 a dalšími použitelnými ustanoveními. Pokud jde o formu Kupních smluv, zůstává nedotčen čl. 10.2 věta poslední.",
-  "u020": "„<b><i>Individuální smlouva</i></b>“: dohoda uzavřená písemně a schválená společností Fleequid s jedním nebo více určitými Uživateli, která podle čl. 4.3 zaujímá první místo v hierarchii pramenů smluvní úpravy.",
+  "u019": "„<b><i>Smlouva</i></b>“: podle okolností každý ze smluvních vztahů, které jsou významné podle těchto Všeobecných obchodních podmínek a které se řídí rovněž případnými Zvláštními podmínkami, Zvláštními prodejními podmínkami a Individuálními smlouvami, a zejména: (i) v rámci Komisního prodeje provedeného formou Dalšího prodeje prodej Vozidla Prodávajícím společnosti Fleequid a následný Další prodej Kupujícímu; (ii) v rámci Komisního prodeje provedeného společností Fleequid jako Čistým zprostředkovatelem přímý prodej Vozidla Prodávajícím Kupujícímu; (iii) v rámci Dealer Sales prodej Vozidla Prodávajícím společnosti Fleequid a následný prodej téhož Vozidla společností Fleequid Kupujícímu, a to jako samostatné a na sobě nezávislé smlouvy; jakož i vztah týkající se nabízení Vozidla k prodeji sjednaný mezi Prodávajícím a společností Fleequid podle čl. 8.7 a 8.8. Uzavření Závazné dohody týkající se prodeje Kupujícímu upravuje čl. 10.2; vztahy nákupu, prodeje a převodu Vozidla se podle příslušného Prodejního modelu a zvoleného způsobu provedení řídí čl. 8.8, 16, 17 a 18 a dalšími použitelnými ustanoveními. Pokud jde o formu Kupních smluv, zůstává nedotčen čl. 10.2 věta poslední.",
+  "u020": "„<b><i>Individuální smlouva</i></b>“: dohoda uzavřená písemně a schválená společností Fleequid s jedním nebo více určitými Uživateli, která podle čl. 4.3 zaujímá první místo v hierarchii smluvních pramenů.",
   "u021": "„<b><i>Dealer Sales</i></b>“: Prodejní model upravený v čl. 2.7 a 18, v jehož rámci společnost Fleequid kupuje Vozidlo od Prodávajícího vlastním jménem a na vlastní účet a vlastním jménem a na vlastní účet je přeprodává Kupujícímu, přičemž je skutečnou stranou obou prodejů, které jsou samostatné a na sobě nezávislé.",
-  "u022": "<b>„</b><b><i>Kauce</i></b><b>“</b>: peněžní částka, kterou je Nabízející povinen složit u společnosti Fleequid v případech a ve výši stanovených v čl. 6 k zajištění splnění převzatých závazků a pohledávek společnosti Fleequid souvisejících s konkrétní transakcí. Kauce nepředstavuje smluvní pokutu a není samostatným právním titulem k účtování částek.",
-  "u023": "„<b><i>Prodejní akce</i></b>“: jakýkoli obchodní proces organizovaný nebo řízený společností Fleequid a směřující k prodeji jednoho nebo více Vozidel, a to v některém z typů stanovených v čl. 9.4, konkrétně Aukce, Kup teď, ať již samostatně, nebo ve spojení s Aukcí s příhozy, Rezervovaný prodej, Vyjednávání a Prodej mimo aukci.",
+  "u022": "<b>„</b><b><i>Kauce</i></b><b>“</b>: peněžní částka, kterou je Nabízející povinen složit u společnosti Fleequid v případech a ve výši stanovených v čl. 6 k zajištění splnění převzatých závazků a k zajištění pohledávek společnosti Fleequid souvisejících s konkrétní transakcí. Kauce nepředstavuje smluvní pokutu a není samostatným právním titulem k účtování částek.",
+  "u023": "„<b><i>Prodejní akce</i></b>“: jakýkoli obchodní proces organizovaný nebo řízený společností Fleequid a směřující k prodeji jednoho nebo více Vozidel, a to v některém z typů stanovených v čl. 9.4, konkrétně Aukce, Kup teď, ať již samostatně, nebo ve spojení s Aukcí s příhozy, Vyhrazený prodej, Vyjednávání a Prodej mimo aukci.",
   "u024": "„<b><i>Poskytovatel financování</i></b>“: třetí osoba, která Uživateli v rámci Řešení financování poskytuje nebo vyplácí financování a která podle zvoleného produktu a příslušných Zvláštních podmínek může vystupovat jako platící subjekt, jako příjemce faktury nebo jako Kupující podle čl. 22.5.",
-  "u025": "„<b><i>Fleequid</i></b>“: označuje především společnost Adorea S.r.l. se sídlem na adrese Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), IČO a DIČ 04114790134, zapsanou v obchodním rejstříku v Comu pod číslem 420825, e-mail info@fleequid.com, která je držitelem značky Fleequid®. Tento termín se může vztahovat i na jiné právnické osoby, které jsou se společností Adorea S.r.l. spojeny nebo které společnost Adorea S.r.l. pověřila nabízením Vozidel k prodeji, a to podle čl. 2.9. Společnost Fleequid provozuje Online tržiště a zpřístupňuje Služby; postavení, v němž vystupuje v jednotlivé transakci, závisí na příslušném Prodejním modelu a v rámci Komisního prodeje na zvoleném způsobu provedení, a to podle čl. 2.3-2.8, 3, 17 a 18. Postavení společnosti Fleequid ve vztahu k Vozidlům, která lze kvalifikovat jako VUŽ nebo jinak jako odpad, upravují čl. 16.13 a 18.8.",
+  "u025": "„<b><i>Fleequid</i></b>“: označuje především společnost Adorea S.r.l. se sídlem na adrese Via Provinciale per Bizzarone, 43 – 22077 Olgiate Comasco (CO), IČO a DIČ 04114790134, zapsanou v obchodním rejstříku v Comu pod číslem 420825, e-mail info@fleequid.com, která je držitelem značky Fleequid®. Tento termín se může vztahovat i na jiné právnické osoby, které jsou se společností Adorea S.r.l. spojeny nebo které společnost Adorea S.r.l. pověřila nabízením Vozidel k prodeji, a to podle čl. 2.9. Společnost Fleequid provozuje Online tržiště a zpřístupňuje Služby; postavení, v němž vystupuje v jednotlivé transakci, závisí na příslušném Prodejním modelu a v rámci Komisního prodeje na zvoleném způsobu provedení, a to podle čl. 2.3–2.8, 3, 17 a 18. Postavení společnosti Fleequid ve vztahu k Vozidlům, která lze kvalifikovat jako VUŽ nebo jinak jako odpad, upravují čl. 16.13 a 18.8.",
   "u026": "„<b><i>Břemeno</i></b>“: jakýkoli závazek nebo břemeno, zajišťovací právo, zástavní právo, exekuční příkaz, smluvní závazek, výhrada vlastnictví, daňová nebo celní povinnost, hypotéka nebo jiné zatížení jakékoli povahy, které vázne na Vozidle a je způsobilé bránit jeho právní převoditelnosti a prodejnosti nebo je ztěžovat. Za Břemeno se považuje jakákoli vlastnost Vozidla, která neumožňuje jeho volný oběh v rámci Evropské unie, nebo absence certifikace ES v souladu s platnými právními předpisy Evropské unie, je-li vyžadována.",
   "u027": "„<b><i>Celková dlužná částka</i></b><i>“</i>: celková částka, kterou Kupující dluží v souvislosti s konkrétní transakcí a která podle příslušného Prodejního modelu a zvoleného způsobu provedení zahrnuje Prodejní cenu pro Kupujícího, Provize, Poplatky, případné náhrady výdajů a DPH, je-li splatná. Celková dlužná částka je uvedena v Proformě, s výhradou zjevné chyby v psaní nebo v počtech; působí-li společnost Fleequid jako Čistý zprostředkovatel, uvádí Proforma odděleně složky náležející Prodávajícímu a složky náležející společnosti Fleequid.",
   "u028": "„<b><i>Inzerát</i></b><i>“ (nebo „</i><b><i>Aukční list</i></b><i>“)</i>: informační a popisný obsah týkající se Vozidla a konkrétní transakce, zahrnující, příkladmo a nikoli vyčerpávajícím způsobem, Technické specifikace, fotografie, technickou dokumentaci, případný TrustReport a jakékoli další informace zpřístupněné Uživatelům, jehož funkcí je rovněž obsahovat či určovat Zvláštní prodejní podmínky nebo na ně odkazovat a umožnit seznámení se skutečnostmi stanovenými v čl. 3.2, a to v souladu s čl. 4.6.",
   "u029": "<b>„</b><b><i>Čistý zprostředkovatel</i></b><b>“</b>: způsob provedení Komisního prodeje upravený v čl. 2.6 a 17.10 a následujících, při kterém společnost Fleequid neprovádí Další prodej, Vozidlo nekupuje ani neprodává a neuzavírá kupní smlouvu, a to ani vlastním jménem, ani jako smluvní strana, a umožňuje, aby převod a fakturace Vozidla proběhly přímo od Prodávajícího na Kupujícího. Čistý zprostředkovatel nepředstavuje samostatný Prodejní model a zůstává vnitřním způsobem provedení Komisního prodeje.",
   "u030": "„<b><i>Online tržiště</i></b>“: aukční platformy a platformy jiné povahy, aplikace, stránky a integrované služby tvořící online trh, na kterém mohou Uživatelé v případech a za podmínek stanovených v těchto VOP a v dalších použitelných pramenech nakupovat a prodávat Vozidla, jakož i požadovat a využívat další Služby zpřístupněné společností Fleequid, mezi něž patří zejména webové stránky společnosti Fleequid dostupné na následující adrese: https://www.fleequid.com.",
-  "u031": "„<b><i>Prodejní model</i></b>“: právní struktura, podle které společnost Fleequid organizuje jednotlivou prodejní transakci a která je určena podle čl. 3 z pouhých dvou Modelů stanovených v čl. 2.3, jimiž jsou Komisní prodej a Dealer Sales.",
+  "u031": "„<b><i>Prodejní model</i></b>“: právní struktura, podle které společnost Fleequid organizuje jednotlivou prodejní transakci a která se určuje podle čl. 3 výlučně ze dvou Modelů stanovených v čl. 2.3, jimiž jsou Komisní prodej a Dealer Sales.",
   "u032": "„<b><i>Vyjednávání</i></b>“: typ Prodejní akce upravený v čl. 9.4 písm. e), spočívající v jednání, v jehož rámci mohou být činěny Nabídky a protinabídky a při kterém je Závazná dohoda uzavřena přijetím Nabídky nebo protinabídky.",
   "u033": "„<b><i>Nabízející</i></b>“: každý Uživatel, který je Profesionálem a který se účastní Prodejní akce podáním jedné nebo více Nabídek. Nabízející nabývá postavení Kupujícího v okamžiku, kdy je v jeho prospěch uzavřena Závazná dohoda.",
   "u034": "„<b><i>Nabídka</i></b>“: projev vůle, kterým Nabízející v rámci Prodejní akce navrhuje koupi Vozidla za určitou cenu. Nabídka je závazná a neodvolatelná za podmínek stanovených v čl. 10.1 a 10.5 a předpokládá předchozí určení a seznatelnost příslušného Prodejního modelu podle čl. 3.",
   "u035": "„<b><i>Zálohová platba</i></b>“: platba předem ve výši 30 % Celkové dlužné částky, kterou lze od Kupujícího požadovat u transakcí, při nichž Vozidlo zůstává dočasně v užívání Prodávajícího, a to podle čl. 13. Zálohová platba se hradí jako záloha na cenu a nepředstavuje závdavek ani odstupné.",
   "u036": "<i>„</i><b><i>Strany</i></b>“: společně označuje společnost Fleequid, Prodávajícího, Nabízejícího a Kupujícího. Poskytovatel financování není Stranou těchto Všeobecných obchodních podmínek, ledaže nabude postavení Kupujícího podle čl. 22.5.",
-  "u037": "„<b><i>MZPC</i></b>“ nebo <b><i>„Minimální závazná prodejní cena“</i></b>: cena vyjádřená v eurech, stanovená Prodávajícím v době podání Návrhu prodeje, která představuje minimální čistý výnos, který Prodávající hodlá získat z prodeje Vozidla. MZPC je závazná a lze ji změnit výlučně před zahájením příslušné Prodejní akce; v případě její úpravy s ohledem na další pokus o prodej se použije čl. 8.10.",
+  "u037": "„<b><i>MZPC</i></b>“ nebo <b><i>„Minimální závazná prodejní cena“</i></b>: cena vyjádřená v eurech, stanovená Prodávajícím v době podání Návrhu prodeje, která představuje minimální čistý výnos, který Prodávající hodlá získat z prodeje Vozidla. MZPC je závazná a lze ji změnit výlučně před zahájením příslušné Prodejní akce; v případě její úpravy s ohledem na následný pokus o prodej se použije čl. 8.10.",
   "u038": "„<b><i>Nákupní cena</i></b>“: cena Vozidla náležející Prodávajícímu v rámci Dealer Sales, samostatně sjednaná mezi společností Fleequid a Prodávajícím podle čl. 18.3.",
   "u039": "„<b><i>Čistá nákupní cena</i></b>“: cena Vozidla, kterou společnost Fleequid dluží Prodávajícímu v rámci Komisního prodeje provedeného formou Dalšího prodeje a která odpovídá Prodejní ceně pro Kupujícího po odečtení Provizí k tíži Prodávajícího, Poplatků a jakékoli jiné částky, kterou Prodávající dluží společnosti Fleequid; určuje se a stává se splatnou podle čl. 17.4.",
   "u040": "„<b><i>Rezervační cena</i></b><i>“</i> nebo „<b><i>RC</i></b>“<i>:</i> hrubá hodnota stanovená společností Fleequid na základě MZPC stanovené Prodávajícím a Provizí k tíži Prodávajícího uvedených v Sazebníku Fleequid, která v rámci Komisního prodeje představuje cenovou hranici, za kterou nebo nad kterou Prodávající neodvolatelně souhlasí s prodejem Vozidla, a která mu zajišťuje čistý výnos alespoň ve výši MZPC. V rámci Dealer Sales se případná Rezervační cena týká výlučně přeprodeje Vozidla společností Fleequid Kupujícímu a společnost Fleequid ji určuje samostatně podle čl. 9.5.",
   "u041": "„<b><i>Prodejní cena pro Kupujícího</i></b>“: cena Vozidla vyplývající ze Závazné dohody, ať již vznikla jakkoli podle příslušného typu Prodejní akce, kterou dluží Kupující a která je součástí Celkové dlužné částky.",
   "u042": "„<b><i>Profesionál</i></b>“: jakákoli fyzická nebo právnická osoba, která vykonává svou obchodní, podnikatelskou, řemeslnou nebo odbornou činnost, nebo její zprostředkovatel, s výjimkou Spotřebitelů. Do této definice jsou zahrnuty také „mikropodniky“, tj. subjekty, společnosti nebo sdružení, které bez ohledu na svou právní formu vykonávají hospodářskou činnost, a to i na individuálním nebo rodinném základě, zaměstnávají méně než deset osob a jejichž roční obrat nebo roční bilanční suma nepřesahuje dva miliony eur podle čl. 2 odst. 3 přílohy doporučení Komise č. 2003/361/ES ze dne 6. května 2003 a čl. 18 odst. 1 písm. d-bis) legislativního nařízení č. 206/2005 (spotřebitelský zákoník).",
-  "u043": "„<b><i>Proforma</i></b>“: dokument, kterým společnost Fleequid sděluje Kupujícímu Celkovou dlužnou částku a konec Lhůty splatnosti a kterým v rámci Komisního prodeje s konečnou platností zachycuje zvolený způsob provedení, a to podle čl. 11.4. Proforma je prováděcím a deklaratorním dokumentem následujícím po Závazné dohodě, není pramenem smluvní úpravy, nepředstavuje daňový doklad a nezakládá nové povinnosti.",
+  "u043": "„<b><i>Proforma</i></b>“: dokument, kterým společnost Fleequid sděluje Kupujícímu Celkovou dlužnou částku a konec Lhůty splatnosti a kterým v rámci Komisního prodeje s konečnou platností zachycuje zvolený způsob provedení, a to podle čl. 11.4. Proforma je prováděcím a deklaratorním dokumentem následujícím po Závazné dohodě, není smluvním pramenem, nepředstavuje daňový doklad a nezakládá nové povinnosti.",
   "u044": "„<b><i>Návrh prodeje</i></b>“: projev vůle, kterým Prodávající pověřuje společnost Fleequid, aby přistoupila k nabízení jednoho nebo více Vozidel k prodeji a k jejich prodeji prostřednictvím Online tržiště nebo jinými dostupnými způsoby. Formu, minimální obsah, účinnost a závaznost Návrhu prodeje upravuje čl. 8.1.",
   "u045": "<b>„</b><b><i>Nejvyšší nabídka</i></b>“: nejvyšší hodnota všech Nabídek podaných Nabízejícími na konci Aukce, a to i po případných dalších příhozech. Pokud společnost Fleequid přistoupila ke Zrušení prodeje, je Nejvyšší nabídka stanovena tak, že se vyloučí hodnota Nabídek týkajících se zrušených prodejů.",
-  "u046": "„<b><i>Další prodej</i></b>“: způsob provedení Komisního prodeje upravený v čl. 2.5 a 17.3 a následujících, který lze uskutečnit také ve formách stanovených v čl. 1395 italského občanského zákoníku a jehož prostřednictvím společnost Fleequid při plnění komisionářských pověření k prodeji a ke koupi kupuje Vozidlo od Prodávajícího a převádí je na Kupujícího za účelem přičtení koupě a prodeje příslušným komitentům. Další prodej se v rámci Dealer Sales nepoužije.",
-  "u047": "„<b><i>Služby</i></b>“: služby offline i online, které společnost Fleequid zpřístupňuje Uživatelům a které podléhají Poplatkům, jako jsou například přepravní a logistické služby pro Vozidla a další služby uvedené na Online tržišti, s výjimkou činnosti zprostředkování koupě a prodeje Vozidel, která podléhá Provizím.",
+  "u046": "„<b><i>Další prodej</i></b>“: způsob provedení Komisního prodeje upravený v čl. 2.5 a 17.3 a následujících, který lze uskutečnit také ve formách stanovených v čl. 1395 italského občanského zákoníku a jehož prostřednictvím společnost Fleequid při plnění komisionářských pověření k prodeji a k nákupu kupuje Vozidlo od Prodávajícího a převádí je na Kupujícího za účelem přičtení nákupu a prodeje příslušným komitentům. Další prodej se v rámci Dealer Sales nepoužije.",
+  "u047": "„<b><i>Služby</i></b>“: služby offline i online, které společnost Fleequid zpřístupňuje Uživatelům a které podléhají Poplatkům, jako jsou například přepravní a logistické služby pro Vozidla a další služby uvedené na Online tržišti, s výjimkou činnosti zprostředkování nákupu a prodeje Vozidel, která podléhá Provizím.",
   "u048": "„<b><i>Řešení financování</i></b>“: produkty financování, finančního leasingu nebo jiné formy opatření finančních prostředků nabízené třetími osobami, které jsou prostřednictvím Online tržiště zpřístupněny nebo na které je jeho prostřednictvím upozorňováno, upravené v čl. 22 a v příslušných Zvláštních podmínkách.",
   "u049": "„<b><i>Technické specifikace</i></b>“: veškeré informace poskytnuté Prodávajícím nebo uvedené společností Fleequid a schválené Prodávajícím, které se týkají technických a administrativních vlastností každého z Vozidel nabízených k prodeji.",
-  "u050": "„<b><i>Opční stav</i></b>“: stav Vozidla, který následuje po uzavření Závazné dohody a předchází úplnému splnění platební povinnosti a zahájení fáze plnění, případně Zrušení prodeje, s účinky stanovenými v čl. 11. Opční stav popisuje fázi prodejního procesu, nepřiznává Kupujícímu žádné oprávnění následně zvolit, zda koupí, nepředstavuje neodvolatelný návrh a nezakládá opční smlouvu podle čl. 1331 italského občanského zákoníku.",
+  "u050": "„<b><i>Opční stav</i></b>“: stav Vozidla, který následuje po uzavření Závazné dohody a předchází úplnému splnění platební povinnosti a zahájení fáze plnění, anebo Zrušení prodeje, s účinky stanovenými v čl. 11. Opční stav popisuje fázi prodejního procesu, nepřiznává Kupujícímu žádné oprávnění následně zvolit, zda koupí, nepředstavuje neodvolatelný návrh a nezakládá opční smlouvu podle čl. 1331 italského občanského zákoníku.",
   "u051": "<b><i>„Sazebník Fleequid“</i></b>: soubor podmínek, kterými se řídí výpočet Provizí náležejících společnosti Fleequid od Prodávajícího a od Kupujícího, a to i v procentech z Prodejní ceny pro Kupujícího, jakož i dalších částek v něm uvedených, který je k dispozici na následujících odkazech: <b>https://fleequid.com/it/pricing-seller</b> a <b>https://fleequid.com/it/pricing-buyer</b>.",
   "u052": "„<b><i>Poplatky</i></b>“: úplaty odlišné od Provizí, které společnosti Fleequid náležejí za poskytnutí jedné nebo více Služeb.",
   "u053": "„<b><i>Lhůta splatnosti</i></b>“: lhůta, ve které je Kupující povinen zaplatit Celkovou dlužnou částku v plné výši, určená podle čl. 11.5 a v případech tam stanovených podle čl. 11.6, 11.7, 13 a 22.7.",
   "u054": "„<b><i>TrustReport</i></b>“: dokument o prověrce Vozidla vyhotovený společností Fleequid nebo na její objednávku třetími osobami, který má výlučně informativní povahu, a to v rozsahu a s účinky stanovenými v čl. 19.5. TrustReport nepředstavuje záruku ani osvědčení o stavu Vozidla, nenahrazuje prohlídku provedenou Kupujícím a nezprošťuje Prodávajícího jeho odpovědnosti a jeho povinností.",
-  "u055": "„<b><i>Uživatel</i></b>“: každý Profesionál, živnostník nebo právnická osoba, která dokončila proces registrace na Online tržišti nebo se k němu jinak připojila odsouhlasením těchto Všeobecných obchodních podmínek, aby mohla na Online tržiště vstupovat, prohlížet je a používat, účastnit se Prodejních akcí za účelem nabízení koupě nebo prodeje Vozidel a využívat nabízené Služby, včetně Prodávajících, Nabízejících a Kupujících.",
+  "u055": "„<b><i>Uživatel</i></b>“: každý Profesionál, živnostník nebo právnická osoba, která dokončila proces registrace na Online tržišti nebo se k němu jinak připojila odsouhlasením těchto Všeobecných obchodních podmínek, aby mohla na Online tržiště vstupovat, prohlížet je a používat, účastnit se Prodejních akcí za účelem nabízení nákupu nebo prodeje Vozidel a využívat nabízené Služby, včetně Prodávajících, Nabízejících a Kupujících.",
   "u056": "„<b><i>Vozidlo(a)</i></b>“: jakékoli motorové vozidlo, nové nebo použité, prodávané nebo zveřejněné na Online tržišti nebo jinak nabízené k prodeji prostřednictvím společnosti Fleequid, včetně, příkladmo a nikoli vyčerpávajícím způsobem, autobusů, nákladních vozidel, dodávek, osobních automobilů a jiných dopravních prostředků.",
   "u057": "„<b><i>Vozidlo/a s ukončenou životností</i></b>“ nebo „<b><i>VUŽ</i></b>“: jakékoli Vozidlo, které je podle právních předpisů v oblasti životního prostředí použitelných v zemi umístění věci v okamžiku převodu kvalifikovatelné jako odpad nebo je určeno k demontáži a využití materiálů. Příslušná úprava je obsažena v čl. 8.3, 16.13, 18.8 a 20.8.",
-  "u058": "„<b><i>Prodej mimo aukci</i></b>“: typ Prodejní akce upravený v čl. 9.4 písm. f), při kterém je prodej uzavřen mimo aukční proces.",
-  "u059": "„<b><i>Komisní prodej</i></b>“: Prodejní model upravený v čl. 2.3, 2.4, 2.5, 2.6 a 17, v jehož rámci společnost Fleequid na základě neodvolatelného pověření Uživatelů obstarává na jejich účet prodej a koupi Vozidla a v jehož rámci je transakce provedena alternativně buď formou Dalšího prodeje, nebo tak, že společnost Fleequid působí jako Čistý zprostředkovatel. Kvalifikace společnosti Fleequid jako komisionáře jednajícího vlastním jménem podle čl. 1731 italského občanského zákoníku se uplatní výlučně při Dalším prodeji, a to podle čl. 2.5; působí-li společnost Fleequid jako Čistý zprostředkovatel, je kupní smlouva uzavřena přímo mezi Prodávajícím a Kupujícím podle čl. 2.6 a 17.10.",
-  "u060": "„<b><i>Rezervovaný prodej</i></b>“: typ Prodejní akce upravený v čl. 9.4 písm. c), určený jednomu nebo více Uživatelům vybraným společností Fleequid, který není viditelný Uživatelům Online tržiště obecně.",
+  "u058": "„<b><i>Prodej mimo aukci</i></b>“: typ Prodejní akce upravený v čl. 9.4 písm. f), při kterém je prodej sjednán mimo proces Aukce.",
+  "u059": "„<b><i>Komisní prodej</i></b>“: Prodejní model upravený v čl. 2.3, 2.4, 2.5, 2.6 a 17, v jehož rámci společnost Fleequid na základě neodvolatelného pověření Uživatelů obstarává na jejich účet prodej a nákup Vozidla a v jehož rámci je transakce provedena alternativně buď formou Dalšího prodeje, nebo tak, že společnost Fleequid působí jako Čistý zprostředkovatel. Kvalifikace společnosti Fleequid jako komisionáře jednajícího vlastním jménem podle čl. 1731 italského občanského zákoníku se uplatní výlučně při Dalším prodeji, a to podle čl. 2.5; působí-li společnost Fleequid jako Čistý zprostředkovatel, je kupní smlouva uzavřena přímo mezi Prodávajícím a Kupujícím podle čl. 2.6 a 17.10.",
+  "u060": "„<b><i>Vyhrazený prodej</i></b>“: typ Prodejní akce upravený v čl. 9.4 písm. c), určený jednomu nebo více Uživatelům vybraným společností Fleequid, který není viditelný Uživatelům Online tržiště obecně.",
   "u061": "„<b><i>Prodávající</i></b>“: každý Profesionál, který využívá prodejní služby společnosti Fleequid a nabízí prodej svých Vozidel. Tento termín se vždy vztahuje na skutečného Prodávajícího, což je jiný subjekt než společnost Fleequid; převezme-li společnost Fleequid v rámci Komisního prodeje provedeného formou Dalšího prodeje roli formálního prodávajícího, je vždy označována jako Fleequid. V rámci Dealer Sales je Prodávajícím subjekt, od něhož společnost Fleequid Vozidlo kupuje; při následném přeprodeji Kupujícímu je prodávajícím společnost Fleequid podle čl. 2.7 a 18.1.",
   "u062": "Jakýkoli odkaz v těchto VOP na „<b><i>dny</i></b>“ je třeba chápat jako odkaz na pracovní dny, přičemž „<b><i>pracovní dny</i></b>“ je třeba chápat jako dny v týdnu od pondělí do pátku, od 8:30 do 12:30 hodin a od 14:00 do 18:00 hodin, s výjimkou všech svátků v Itálii. Platí časové pásmo sídla společnosti Fleequid. Toto pravidlo pro počítání se použije na všechny lhůty stanovené v těchto Všeobecných obchodních podmínkách, včetně Lhůty splatnosti, maximální lhůty podle čl. 12.7 a smluvních pokut stanovených za každý den zpoždění.",
   "u063": "<b>Účel, role společnosti Fleequid a Prodejní modely</b>.",
   "u076": "<b>Určení a seznatelnost Prodejního modelu.</b>",
-  "u091": "<b>Prameny smluvní úpravy, Inzerát a podmínky použitelné na konkrétní transakci</b>.",
+  "u091": "<b>Smluvní prameny, Inzerát a podmínky použitelné na konkrétní transakci</b>.",
   "u101": "<b>Registrace a povolené používání Online tržiště.</b>",
   "u119": "<b>Klasifikace Uživatele a Kauce.</b>",
   "u126": "<b>Zpracování osobních údajů Uživatelů.</b>",
@@ -83,73 +83,291 @@
   "u256": "<b>Dealer Sales.</b>",
   "u266": "<b>Záruky, vyloučení a omezení.</b>",
   "u290": "<b>Reklamace.</b>",
-  "u299": "<b>Doložka o propojení smluv.</b>",
+  "u299": "<b>Spojovací doložka.</b>",
   "u304": "<b>Řešení financování nabízená třetími osobami.</b>",
   "u316": "<b>Rozhodné právo, jazyk a soudní příslušnost.</b>",
   "u320": "<b>Korespondence.</b>"
  },
  "new_terms": [
-  {"it": "Accordo vincolante", "tr": "Závazná dohoda", "why": "Termine nuovo; resa legale standard (v8 CZ usa già 'závazný' per offerte e impegni)."},
-  {"it": "perfezionamento / si perfeziona (Accordo vincolante, Contratto)", "tr": "uzavření / je uzavřen(a)", "why": "v8 CZ 8.2: 'Přiklepnutím se uzavírá kupní smlouva'. Resa unica per tutto il documento."},
-  {"it": "Aggiudicazione definitiva", "tr": "Konečné přiklepnutí", "why": "v8 CZ: definizione 'Přiklepnutí' + 'konečné přiklepnutí' in 1.L18, 6.8.2, 7.8.3, 8.1, 8.3 (4 occorrenze contro 1 di 'definitivní přiklepnutí' in 2.5)."},
-  {"it": "Annullamento della vendita", "tr": "Zrušení prodeje", "why": "v8 CZ 8.5: 'zrušit prodej', 'zrušení'. Forma breve 'Annullamento' = 'Zrušení'. L''annullamento del contratto per cause di invalidità' (14.1) va reso diversamente: 'prohlášení smlouvy za neplatnou'."},
-  {"it": "Classificazione dell'Utente", "tr": "Klasifikace Uživatele", "why": "Termine nuovo; resa letterale standard."},
-  {"it": "Compra-Subito", "tr": "Kup teď", "why": "v8 CZ 7.1, 7.8.2, 8.1 (6 occorrenze)."},
-  {"it": "Asta a rilancio", "tr": "Aukce s příhozy", "why": "v8 CZ 7.8.1 e 7.8.2. 'rilancio' = 'příhoz', 'effettuare rilanci' = 'přihazovat'."},
-  {"it": "Condizioni particolari di vendita", "tr": "Zvláštní prodejní podmínky", "why": "Sostituisce 'Condizioni particolari d'asta', che nel corpo v8 CZ e nel titolo delle condizioni 1 Euro Auctions CZ è 'Zvláštní aukční podmínky' (19 occorrenze; la definizione v8 'Zvláštní podmínky aukce' ne ha 3): stessa struttura con 'prodejní' al posto di 'aukční'."},
-  {"it": "Condizioni Specifiche", "tr": "Zvláštní podmínky", "why": "La definizione v8 'Specifické obchodní podmínky' compare una sola volta ed è smentita dal corpo v8 (3.3, 16.3: 'zvláštní podmínky') e soprattutto dal titolo dei documenti pubblicati in ceco: 'Zvláštní podmínky služby Fleequid Care®', 'Zvláštní podmínky Záruky Powertrain Fleequid®'. DA VALIDARE."},
-  {"it": "Contratto individuale", "tr": "Individuální smlouva", "why": "v8 CZ 3.3 e 8.2: 'individuální smlouvy' (ora termine definito, maiuscola)."},
-  {"it": "Contratto di compravendita", "tr": "Kupní smlouva", "why": "v8 CZ passim e glossario Care: 'kupní smlouva'. Maiuscola dove l'IT ha 'Contratto di compravendita'; 'compravendita' senza 'contratto' = 'koupě a prodej' / 'prodej'."},
-  {"it": "Dealer Sales", "tr": "Dealer Sales", "why": "Nome commerciale lasciato in inglese nell'IT; indeclinabile: 'v rámci Dealer Sales', 'Prodejní model Dealer Sales'."},
-  {"it": "Evento di vendita", "tr": "Prodejní akce", "why": "v8 CZ 7.8.3: 'zvláštní prodejní akce' rende 'eventi di vendita speciali'."},
-  {"it": "modalità di Evento di vendita / tipologia di Evento di vendita", "tr": "typ Prodejní akce", "why": "v8 CZ 7.8.2: 'samostatný typ aukce'; evita 'způsob', riservato a 'způsob provedení'."},
-  {"it": "Finanziatore", "tr": "Poskytovatel financování", "why": "Termine nuovo; resa standard del settore finanziario ceco."},
-  {"it": "Soluzioni di finanziamento", "tr": "Řešení financování", "why": "Termine nuovo; invariato al singolare e al plurale."},
-  {"it": "Importo Totale Dovuto", "tr": "Celková dlužná částka", "why": "Termine nuovo; v8 CZ 8.4 'částky dlužné', 11.2 'celkové částky'."},
-  {"it": "Inserzione (o Scheda d'Asta)", "tr": "Inzerát (nebo Aukční list)", "why": "v8 CZ 1.L27: 'Aukční list' (nebo 'Inzerát'); ordine invertito come nell'IT v9. 'Aukční list' è anche nel glossario Care."},
-  {"it": "Modello di Vendita", "tr": "Prodejní model", "why": "Termine nuovo; resa standard. Forma breve 'Modelli' = 'Modely'."},
-  {"it": "Vendita in commissione", "tr": "Komisní prodej", "why": "Termine nuovo; termine ceco corrente per la vendita tramite commissionario (v8 CZ: 'komisionář')."},
-  {"it": "modalità di esecuzione (della Vendita in commissione)", "tr": "způsob provedení", "why": "Termine nuovo; 'modalità di esecuzione prescelta' = 'zvolený způsob provedení'; 'eseguita mediante Rivendita' = 'provedený formou Dalšího prodeje'."},
-  {"it": "fase esecutiva", "tr": "fáze plnění", "why": "Termine nuovo; 'plnění' è il termine ceco per l'esecuzione della prestazione."},
-  {"it": "Negoziazione", "tr": "Vyjednávání", "why": "v8 CZ 7.8.3: 'pravidla vyjednávání a protinabídky'. 'trattativa' = 'jednání'."},
-  {"it": "controproposta", "tr": "protinabídka", "why": "v8 CZ: 'protinabídka' 8 occorrenze (6.11, 7.8.3, 8.1) contro 'protinávrh' 3."},
-  {"it": "Pagamento anticipato", "tr": "Zálohová platba", "why": "È un acconto del 30% ('záloha'); nel titolo dell'art. 13 minuscolo 'zálohová platba'. Il 'pagamento anticipato' minuscolo dell'art. 22.9 va reso 'platba předem'/'předčasná úhrada'."},
-  {"it": "caparra confirmatoria / penitenziale", "tr": "závdavek / odstupné", "why": "Istituti cechi più vicini (§ 1808 e § 1992 del codice civile ceco). Da validare."},
-  {"it": "Prezzo di acquisto", "tr": "Nákupní cena", "why": "Termine nuovo; non 'Kupní cena', che in ceco è il prezzo di qualsiasi compravendita e si confonderebbe con il Prezzo di vendita all'Acquirente."},
-  {"it": "Prezzo di acquisto netto", "tr": "Čistá nákupní cena", "why": "Coerente con 'Nákupní cena'; v8 CZ 'čistý výnos'."},
-  {"it": "Prezzo di vendita all'Acquirente", "tr": "Prodejní cena pro Kupujícího", "why": "Termine nuovo (sostituisce 'Prezzo di aggiudicazione' = v8 'Příklepová cena', non più definito)."},
-  {"it": "Proforma", "tr": "Proforma", "why": "Come nell'IT; femminile declinabile (Proformy, Proformě, Proformu)."},
-  {"it": "Stato Opzionato", "tr": "Opční stav", "why": "Termine nuovo; conserva la radice 'opce', necessaria perché la definizione esclude il contratto di opzione ex art. 1331 c.c. Evitato 'rezervace' (si confonderebbe con Rezervační cena e Rezervovaný prodej)."},
-  {"it": "Termine di pagamento", "tr": "Lhůta splatnosti", "why": "Termine nuovo; resa standard ('scadenza del Termine di pagamento' = 'konec Lhůty splatnosti')."},
-  {"it": "TrustReport", "tr": "TrustReport", "why": "Marchio; glossario Care."},
-  {"it": "Vendita fuori asta", "tr": "Prodej mimo aukci", "why": "Termine nuovo; resa letterale."},
-  {"it": "Vendita riservata", "tr": "Rezervovaný prodej", "why": "v8 CZ 7.8.3: 'Rezervované prodeje'. Mantenuto con dubbi (vedi note): più proprio sarebbe 'Vyhrazený prodej'."},
-  {"it": "Vendita differita", "tr": "Odložený prodej", "why": "Termine nuovo (titolo art. 13); resa letterale."},
-  {"it": "Rivendita (termine definito)", "tr": "Další prodej", "why": "La definizione v8 '„Prodej“' è un errore evidente (il termine significa 'vendita'); nel corpo v8 e nei titoli degli artt. 9 e 10 è sempre 'další prodej' (35 occorrenze)."},
-  {"it": "rivendita / rivendere (minuscolo, Dealer Sales)", "tr": "přeprodej / přeprodat", "why": "Resa diversa dal termine definito 'Další prodej', come richiesto dalle note comuni."},
-  {"it": "Tariffario Fleequid", "tr": "Sazebník Fleequid", "why": "Corpo v8: 'sazebník (společnosti) Fleequid' 9 occorrenze; la definizione v8 'Sazebník poplatků společnosti Fleequid' è fuorviante perché il Tariffario regola le Provize (Commissioni), non i Poplatky (Tariffe)."},
-  {"it": "PMIV / PR / VFU", "tr": "MZPC / RC / VUŽ", "why": "Sigle delle definizioni v8 CZ (MZPC 24 occorrenze, RC 5, VUŽ 1)."},
-  {"it": "commercializzazione", "tr": "nabízení (Vozidel) k prodeji", "why": "Termine nuovo; 'marketing' e 'uvádění na trh' sarebbero fuorvianti (pubblicità / immissione sul mercato di prodotti nuovi)."},
-  {"it": "commissioni di vendita e di acquisto (incarichi) / committenti", "tr": "komisionářská pověření k prodeji a ke koupi / komitenti", "why": "v8 CZ 'pověření k nákupu nebo prodeji'; 'komitent' è il termine di legge ceco correlato a 'komisionář' (la v8 aveva 'zadavatel', 2 occorrenze, termine degli appalti pubblici)."},
-  {"it": "fonti contrattuali / fonte negoziale", "tr": "prameny smluvní úpravy / pramen smluvní úpravy", "why": "La v8 aveva 'zdrojům jednání' (calco errato)."},
-  {"it": "conoscibilità", "tr": "seznatelnost", "why": "Termine in uso nella giurisprudenza ceca per la conoscibilità delle condizioni contrattuali; 'rendere conoscibile' = 'umožnit seznámení s'."},
-  {"it": "specifica operazione / operazione", "tr": "konkrétní transakce / transakce", "why": "v8 CZ: 'transakce' (1.L13, 8.1, 8.5)."},
-  {"it": "ritardo / mora", "tr": "zpoždění / prodlení", "why": "Distinzione richiesta dalle note comuni; la v8 usava 'prodlení' per entrambi."},
-  {"it": "errore materiale manifesto", "tr": "zjevná chyba v psaní nebo v počtech", "why": "Formula standard ceca per l'errore di scrittura o di calcolo evidente."},
-  {"it": "a titolo esemplificativo e non esaustivo", "tr": "příkladmo a nikoli vyčerpávajícím způsobem", "why": "v8 CZ 8.5 e 16.3 (parti più recenti)."},
-  {"it": "corrispettivi (Commissioni, Tariffe)", "tr": "úplaty", "why": "Termine di legge ceco per il corrispettivo."},
-  {"it": "a carico del Venditore", "tr": "k tíži Prodávajícího", "why": "Formula standard."},
-  {"it": "Clausola di collegamento (titolo art. 21)", "tr": "Doložka o propojení smluv", "why": "Il titolo v8 'Kolizní norma' significa 'norma di conflitto' (diritto internazionale privato): errore evidente, l'articolo riguarda il collegamento negoziale. DA VALIDARE."},
-  {"it": "Sommario", "tr": "Obsah", "why": "Titolo dell'indice nella v8 CZ."}
+  {
+   "it": "Accordo vincolante",
+   "tr": "Závazná dohoda",
+   "why": "Termine nuovo; resa legale standard (v8 CZ usa già 'závazný' per offerte e impegni)."
+  },
+  {
+   "it": "perfezionamento / si perfeziona (Accordo vincolante, Contratto)",
+   "tr": "uzavření / je uzavřen(a)",
+   "why": "v8 CZ 8.2: 'Přiklepnutím se uzavírá kupní smlouva'. Resa unica per tutto il documento."
+  },
+  {
+   "it": "Aggiudicazione definitiva",
+   "tr": "Konečné přiklepnutí",
+   "why": "v8 CZ: definizione 'Přiklepnutí' + 'konečné přiklepnutí' in 1.L18, 6.8.2, 7.8.3, 8.1, 8.3 (4 occorrenze contro 1 di 'definitivní přiklepnutí' in 2.5)."
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Zrušení prodeje",
+   "why": "v8 CZ 8.5: 'zrušit prodej', 'zrušení'. Forma breve 'Annullamento' = 'Zrušení'. L''annullamento del contratto per cause di invalidità' (14.1) va reso diversamente: 'prohlášení smlouvy za neplatnou'."
+  },
+  {
+   "it": "Classificazione dell'Utente",
+   "tr": "Klasifikace Uživatele",
+   "why": "Termine nuovo; resa letterale standard."
+  },
+  {
+   "it": "Compra-Subito",
+   "tr": "Kup teď",
+   "why": "v8 CZ 7.1, 7.8.2, 8.1 (6 occorrenze)."
+  },
+  {
+   "it": "Asta a rilancio",
+   "tr": "Aukce s příhozy",
+   "why": "v8 CZ 7.8.1 e 7.8.2. 'rilancio' = 'příhoz', 'effettuare rilanci' = 'přihazovat'."
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Zvláštní prodejní podmínky",
+   "why": "Sostituisce 'Condizioni particolari d'asta', che nel corpo v8 CZ e nel titolo delle condizioni 1 Euro Auctions CZ è 'Zvláštní aukční podmínky' (19 occorrenze; la definizione v8 'Zvláštní podmínky aukce' ne ha 3): stessa struttura con 'prodejní' al posto di 'aukční'."
+  },
+  {
+   "it": "Condizioni Specifiche",
+   "tr": "Zvláštní podmínky",
+   "why": "Confermato in revisione. La definizione v8 «Specifické obchodní podmínky» è isolata (2 occorrenze di «specifick-» in tutto il testo) e smentita già nel suo secondo periodo («zvláštních obchodních podmínek»); nel corpo v8 le Condizioni specifiche sono «zvláštní podmínky» (11 occorrenze: 3.3 gerarchia, 10.6, 15.2, 16.3) e così si intitolano e si chiamano i documenti cechi pubblicati a cui il termine rinvia: «Zvláštní podmínky služby Fleequid Care®» (38 occorrenze interne), «Zvláštní podmínky Záruky Powertrain Fleequid®». Per non confonderle con «Zvláštní prodejní podmínky»: mai abbreviare queste ultime; «condizioni particolari» minuscolo generico (4.3, 13.1) = «konkrétní podmínky». Alternativa da sottoporre allo studio: «Specifické podmínky» (richiederebbe di rinominare Care e Powertrain). DA VALIDARE."
+  },
+  {
+   "it": "Contratto individuale",
+   "tr": "Individuální smlouva",
+   "why": "v8 CZ 3.3 e 8.2: 'individuální smlouvy' (ora termine definito, maiuscola)."
+  },
+  {
+   "it": "Contratto di compravendita",
+   "tr": "Kupní smlouva",
+   "why": "v8 CZ passim e glossario Care: «kupní smlouva». Maiuscola dove l'IT ha «Contratto di compravendita». «compravendita» generico = «nákup a prodej» (v8, 10 occorrenze; mai «koupě a prodej»); «la compravendita è conclusa» = «kupní smlouva je uzavřena»."
+  },
+  {
+   "it": "Dealer Sales",
+   "tr": "Dealer Sales",
+   "why": "Nome commerciale lasciato in inglese nell'IT; indeclinabile: 'v rámci Dealer Sales', 'Prodejní model Dealer Sales'."
+  },
+  {
+   "it": "Evento di vendita",
+   "tr": "Prodejní akce",
+   "why": "v8 CZ 7.8.3: 'zvláštní prodejní akce' rende 'eventi di vendita speciali'."
+  },
+  {
+   "it": "modalità di Evento di vendita / tipologia di Evento di vendita",
+   "tr": "typ Prodejní akce",
+   "why": "v8 CZ 7.8.2: 'samostatný typ aukce'; evita 'způsob', riservato a 'způsob provedení'."
+  },
+  {
+   "it": "Finanziatore",
+   "tr": "Poskytovatel financování",
+   "why": "Termine nuovo; resa standard del settore finanziario ceco."
+  },
+  {
+   "it": "Soluzioni di finanziamento",
+   "tr": "Řešení financování",
+   "why": "Termine nuovo; invariato al singolare e al plurale."
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Celková dlužná částka",
+   "why": "Termine nuovo; v8 CZ 8.4 'částky dlužné', 11.2 'celkové částky'."
+  },
+  {
+   "it": "Inserzione (o Scheda d'Asta)",
+   "tr": "Inzerát (nebo Aukční list)",
+   "why": "v8 CZ 1.L27: 'Aukční list' (nebo 'Inzerát'); ordine invertito come nell'IT v9. 'Aukční list' è anche nel glossario Care."
+  },
+  {
+   "it": "Modello di Vendita",
+   "tr": "Prodejní model",
+   "why": "Termine nuovo; resa standard. Forma breve 'Modelli' = 'Modely'."
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Komisní prodej",
+   "why": "Termine nuovo; termine ceco corrente per la vendita tramite commissionario (v8 CZ: 'komisionář')."
+  },
+  {
+   "it": "modalità di esecuzione (della Vendita in commissione)",
+   "tr": "způsob provedení",
+   "why": "Termine nuovo; 'modalità di esecuzione prescelta' = 'zvolený způsob provedení'; 'eseguita mediante Rivendita' = 'provedený formou Dalšího prodeje'."
+  },
+  {
+   "it": "fase esecutiva",
+   "tr": "fáze plnění",
+   "why": "Termine nuovo; 'plnění' è il termine ceco per l'esecuzione della prestazione."
+  },
+  {
+   "it": "Negoziazione",
+   "tr": "Vyjednávání",
+   "why": "v8 CZ 7.8.3: 'pravidla vyjednávání a protinabídky'. 'trattativa' = 'jednání'."
+  },
+  {
+   "it": "controproposta",
+   "tr": "protinabídka",
+   "why": "v8 CZ: 'protinabídka' 8 occorrenze (6.11, 7.8.3, 8.1) contro 'protinávrh' 3."
+  },
+  {
+   "it": "Pagamento anticipato",
+   "tr": "Zálohová platba",
+   "why": "È un acconto del 30% («záloha», § 1807 cod. civ. ceco); nel titolo dell'art. 13 minuscolo «zálohová platba». Il «pagamento anticipato» minuscolo dell'art. 22.9 (Fleequid paga il Venditore prima dell'incasso) va reso «předčasná výplata», non «platba předem» (usato nella definizione di Zálohová platba)."
+  },
+  {
+   "it": "caparra confirmatoria / penitenziale",
+   "tr": "závdavek / odstupné",
+   "why": "Istituti cechi più vicini (§ 1808 e § 1992 del codice civile ceco). Da validare."
+  },
+  {
+   "it": "Prezzo di acquisto",
+   "tr": "Nákupní cena",
+   "why": "Termine nuovo; non 'Kupní cena', che in ceco è il prezzo di qualsiasi compravendita e si confonderebbe con il Prezzo di vendita all'Acquirente."
+  },
+  {
+   "it": "Prezzo di acquisto netto",
+   "tr": "Čistá nákupní cena",
+   "why": "Coerente con 'Nákupní cena'; v8 CZ 'čistý výnos'."
+  },
+  {
+   "it": "Prezzo di vendita all'Acquirente",
+   "tr": "Prodejní cena pro Kupujícího",
+   "why": "Termine nuovo (sostituisce 'Prezzo di aggiudicazione' = v8 'Příklepová cena', non più definito)."
+  },
+  {
+   "it": "Proforma",
+   "tr": "Proforma",
+   "why": "Come nell'IT; femminile declinabile (Proformy, Proformě, Proformu)."
+  },
+  {
+   "it": "Stato Opzionato",
+   "tr": "Opční stav",
+   "why": "Termine nuovo; conserva la radice 'opce', necessaria perché la definizione esclude il contratto di opzione ex art. 1331 c.c. Evitato 'rezervace' (si confonderebbe con Rezervační cena e Rezervovaný prodej)."
+  },
+  {
+   "it": "Termine di pagamento",
+   "tr": "Lhůta splatnosti",
+   "why": "Termine nuovo; resa standard ('scadenza del Termine di pagamento' = 'konec Lhůty splatnosti')."
+  },
+  {
+   "it": "TrustReport",
+   "tr": "TrustReport",
+   "why": "Marchio; glossario Care."
+  },
+  {
+   "it": "Vendita fuori asta",
+   "tr": "Prodej mimo aukci",
+   "why": "Termine nuovo; resa letterale."
+  },
+  {
+   "it": "Vendita riservata",
+   "tr": "Vyhrazený prodej",
+   "why": "Revisione: sostituisce «Rezervované prodeje» del corpo v8 (7.8.3, 3 occorrenze, non definito nell'art. 1), che in ceco significa vendita prenotata e si confonde con Rezervační cena e con il Veicolo «rezervované» per l'Acquirente (art. 12.8). La v8 rende «riservata a» con «vyhrazena» (4.2, 8.1). DA VALIDARE."
+  },
+  {
+   "it": "Vendita differita",
+   "tr": "Odložený prodej",
+   "why": "Termine nuovo (titolo art. 13); resa letterale."
+  },
+  {
+   "it": "Rivendita (termine definito)",
+   "tr": "Další prodej",
+   "why": "La definizione v8 '„Prodej“' è un errore evidente (il termine significa 'vendita'); nel corpo v8 e nei titoli degli artt. 9 e 10 è sempre 'další prodej' (35 occorrenze)."
+  },
+  {
+   "it": "rivendita / rivendere (minuscolo, Dealer Sales)",
+   "tr": "přeprodej / přeprodat",
+   "why": "Resa diversa dal termine definito 'Další prodej', come richiesto dalle note comuni."
+  },
+  {
+   "it": "Tariffario Fleequid",
+   "tr": "Sazebník Fleequid",
+   "why": "Corpo v8: 'sazebník (společnosti) Fleequid' 9 occorrenze; la definizione v8 'Sazebník poplatků společnosti Fleequid' è fuorviante perché il Tariffario regola le Provize (Commissioni), non i Poplatky (Tariffe)."
+  },
+  {
+   "it": "PMIV / PR / VFU",
+   "tr": "MZPC / RC / VUŽ",
+   "why": "Sigle delle definizioni v8 CZ (MZPC 24 occorrenze, RC 5, VUŽ 1)."
+  },
+  {
+   "it": "commercializzazione",
+   "tr": "nabízení (Vozidel) k prodeji",
+   "why": "Termine nuovo; 'marketing' e 'uvádění na trh' sarebbero fuorvianti (pubblicità / immissione sul mercato di prodotti nuovi)."
+  },
+  {
+   "it": "commissioni di vendita e di acquisto (incarichi) / committenti",
+   "tr": "komisionářská pověření k prodeji a ke koupi / komitenti",
+   "why": "v8 CZ 'pověření k nákupu nebo prodeji'; 'komitent' è il termine di legge ceco correlato a 'komisionář' (la v8 aveva 'zadavatel', 2 occorrenze, termine degli appalti pubblici)."
+  },
+  {
+   "it": "fonti contrattuali / fonte negoziale",
+   "tr": "smluvní prameny / smluvní pramen",
+   "why": "v8 16.3: «hierarchie smluvních pramenů» (la definizione v8 1.L9 aveva «zdrojům jednání», calco errato)."
+  },
+  {
+   "it": "conoscibilità",
+   "tr": "seznatelnost",
+   "why": "Termine in uso nella giurisprudenza ceca per la conoscibilità delle condizioni contrattuali; 'rendere conoscibile' = 'umožnit seznámení s'."
+  },
+  {
+   "it": "specifica operazione / operazione",
+   "tr": "konkrétní transakce / transakce",
+   "why": "v8 CZ: 'transakce' (1.L13, 8.1, 8.5)."
+  },
+  {
+   "it": "ritardo / mora",
+   "tr": "zpoždění / prodlení",
+   "why": "Distinzione richiesta dalle note comuni; la v8 usava 'prodlení' per entrambi."
+  },
+  {
+   "it": "errore materiale manifesto",
+   "tr": "zjevná chyba v psaní nebo v počtech",
+   "why": "Formula standard ceca per l'errore di scrittura o di calcolo evidente."
+  },
+  {
+   "it": "a titolo esemplificativo e non esaustivo",
+   "tr": "příkladmo a nikoli vyčerpávajícím způsobem",
+   "why": "v8 CZ 8.5 e 16.3 (parti più recenti)."
+  },
+  {
+   "it": "corrispettivi (Commissioni, Tariffe)",
+   "tr": "úplaty",
+   "why": "Termine di legge ceco per il corrispettivo."
+  },
+  {
+   "it": "a carico del Venditore",
+   "tr": "k tíži Prodávajícího",
+   "why": "Formula standard."
+  },
+  {
+   "it": "Clausola di collegamento (titolo art. 21)",
+   "tr": "Spojovací doložka",
+   "why": "Revisione: il titolo v8 «Kolizní norma» è un errore evidente; resa presa dal corpo v8 (16.3: «smluvní spojovací doložka»). Nel testo: «spojovací doložka podle čl. 21»; collegamento tra contratti = «smluvní vazba» (v8 14.2), funzionalmente collegati = «funkčně provázané». DA VALIDARE."
+  },
+  {
+   "it": "Sommario",
+   "tr": "Obsah",
+   "why": "Titolo dell'indice nella v8 CZ."
+  },
+  {
+   "it": "condizioni particolari (minuscolo, generico: artt. 4.3, 13.1)",
+   "tr": "konkrétní podmínky",
+   "why": "Revisione: mai «zvláštní podmínky», che è il termine definito per Condizioni Specifiche."
+  },
+  {
+   "it": "risoluzione (ex art. 1456 c.c.) / clausola risolutiva espressa",
+   "tr": "odstoupení od smlouvy / výslovná rozvazovací doložka",
+   "why": "v8 9.5: «odstoupit od smlouvy podle čl. 1456 italského občanského zákoníku»; v8 16.3: «výslovná rozvazovací doložka» (5 occorrenze). Mai «zrušení smlouvy» (si confonde con Zrušení prodeje)."
+  }
  ],
  "notes": [
   "DA VALIDARE (1) Maiuscole: i termini definiti sono scritti con l'iniziale maiuscola sulla prima parola (Kupující, Prodávající, Vozidlo, Online tržiště, Zvláštní prodejní podmínky). La v8 CZ li scriveva per lo più in minuscolo nel corpo (kupující 171 contro Kupující 31) e in maiuscolo solo nelle parti aggiunte di recente (1.L4, 1.L27, 1.L34, 6.8) e nei documenti Care / 1 Euro. La v9 richiede la maiuscola perché l'u004 la rende condizione del significato definito e perché l'IT distingue Venditore/venditore (u061), Rivendita/rivendita, Pagamento anticipato/pagamento anticipato. Vale per tutti i blocchi.",
-  "DA VALIDARE (2) Condizioni Specifiche = 'Zvláštní podmínky' (non la definizione v8 'Specifické obchodní podmínky'): è il nome con cui sono pubblicate in ceco le Condizioni Specifiche Fleequid Care e Powertrain e la resa prevalente nel corpo v8. Alternativa se si preferisce la definizione v8: 'Specifické podmínky'.",
-  "DA VALIDARE (3) Titolo art. 21 'Doložka o propojení smluv' al posto di 'Kolizní norma' (v8), che in ceco indica la norma di conflitto di leggi.",
+  "DA VALIDARE (2) Condizioni Specifiche = «Zvláštní podmínky» (confermato in revisione contando le occorrenze: vedi new_terms). Alternativa: «Specifické podmínky», che però non coincide con i titoli cechi pubblicati di Care e Powertrain.",
+  "DA VALIDARE (3) Titolo art. 21 «Spojovací doložka» (dal corpo v8, art. 16.3) al posto di «Kolizní norma» (v8), che in ceco indica la norma di conflitto di leggi.",
   "DA VALIDARE (4) Rivendita = 'Další prodej' (non la definizione v8 '„Prodej“'); Tariffario Fleequid = 'Sazebník Fleequid' (non 'Sazebník poplatků společnosti Fleequid').",
   "DA VALIDARE (5) 1 Euro Auction lasciato in inglese (corpo v8 7.8.4 e 16.3 e condizioni dedicate CZ: 29 occorrenze), non la definizione v8 'Aukce za 1 euro' (1 occorrenza). Come in FR, ES, NL.",
   "DA VALIDARE (6) Marketplace = 'Online tržiště' (definizione v8, 110 occorrenze; così anche Care e Powertrain CZ). 'Marketplace' compare solo nelle parti v8 più recenti (7 occorrenze) e nelle condizioni 1 Euro CZ.",
-  "Termini v8 mantenuti con dubbi: 'Nabízející' per Offerente (in ceco è ambiguo: chi offre; più preciso sarebbe 'Účastník'/'Dražitel'); 'Profesionál' per Professionista (termine di legge ceco: 'podnikatel'); 'Rezervační cena'/'RC' per Prezzo di riserva (calco; in ceco d'uso 'minimální cena'); 'Rezervovaný prodej' per Vendita riservata (si legge come 'vendita prenotata'; più proprio 'Vyhrazený prodej'); 'Čistý zprostředkovatel' (calco); 'Břemeno' per Gravame (in ceco evoca la servitù 'věcné břemeno'; più proprio 'Zatížení' o 'Právní vada'); 'Kauce' per Deposito cauzionale ('jistota' sarebbe il termine di legge); 'Minimální závazná prodejní cena'/'MZPC'; 'VUŽ' (sigla non d'uso in ceco); 'Prodejní akce' per Evento di vendita (in ceco anche 'promozione'); 'proces telematického prodeje'; 'Poplatky' per Tariffe; 'IČO a DIČ' per Codice Fiscale e Partita IVA; 'držitelem značky' per titolare del marchio (più proprio 'majitel ochranné známky'); 'legislativní nařízení' per D.Lgs.; 'certifikace ES' per certificazione CE; 'Korespondence' per Comunicazioni (titolo art. 24); 'soudní příslušnost' per Foro competente.",
+  "Termini v8 mantenuti con dubbi: 'Nabízející' per Offerente (in ceco è ambiguo: chi offre; più preciso sarebbe 'Účastník'/'Dražitel'); 'Profesionál' per Professionista (termine di legge ceco: 'podnikatel'); 'Rezervační cena'/'RC' per Prezzo di riserva (calco; in ceco d'uso 'minimální cena'); 'Čistý zprostředkovatel' (calco); 'Břemeno' per Gravame (in ceco evoca la servitù 'věcné břemeno'; più proprio 'Zatížení' o 'Právní vada'); 'Kauce' per Deposito cauzionale ('jistota' sarebbe il termine di legge); 'Minimální závazná prodejní cena'/'MZPC'; 'VUŽ' (sigla non d'uso in ceco); 'Prodejní akce' per Evento di vendita (in ceco anche 'promozione'); 'proces telematického prodeje'; 'Poplatky' per Tariffe; 'IČO a DIČ' per Codice Fiscale e Partita IVA; 'držitelem značky' per titolare del marchio (più proprio 'majitel ochranné známky'); 'legislativní nařízení' per D.Lgs.; 'certifikace ES' per certificazione CE; 'Korespondence' per Comunicazioni (titolo art. 24); 'soudní příslušnost' per Foro competente.",
   "Errori della v8 CZ corretti nei paragrafi ripresi: u015 'většinou uživatelů' (= la maggioranza degli utenti) → 'Uživateli obecně' (generalità degli Utenti); u052 la definizione v8 di Poplatky diceva 'odměna odlišná od poplatků' (diversa dalle tariffe) invece che 'od Provizí' (dalle Commissioni); u042 'čl. 18 písm. d)a' → 'čl. 18 odst. 1 písm. d-bis)'; u045 'účastníky aukce' → 'Nabízejícími' (Offerenti, termine definito); u018 'činností vykonávanou ve smyslu' → 'činností, kterou případně vykonává, ve smyslu' (eventualmente svolta); u030 definizione circolare 'tvořící online tržiště' → 'tvořící online trh'.",
   "Definizioni v8 CZ rimaste a una versione più vecchia dell'IT e quindi riscritte: Návrh prodeje (1.L24 v8: 'inzerát, kterým prodávající…'), Fleequid (1.L13, senza l'ultimo periodo sui VFU), Smlouva.",
   "Titoli: quelli già esistenti riprendono la v8 in forma normale (v8 'ÚČEL', 'AUKCE', 'REKLAMACE' in maiuscolo) con la maiuscola dei termini definiti; art. 23 'Rozhodné právo' come nel titolo v8 (l'indice v8 aveva 'Použitelné právo').",
@@ -160,6 +378,38 @@
   "u035: '30%' scritto '30 %' secondo l'uso ceco e la v8 CZ.",
   "u215: 'ripristino' reso 'obnovení původního stavu' e 'coordinamento economico' reso 'ekonomická koordinace': il corpo dell'art. 15 non usa queste parole; da verificare con chi traduce il blocco dell'art. 15.",
   "Virgolette: ceche „ “ in tutto il blocco (la v8 alternava virgolette dritte e ceche).",
-  "Fleequid è sempre 'společnost Fleequid' (femminile), come nella v8 (423 occorrenze contro 53 senza 'společnost')."
+  "Fleequid è sempre 'společnost Fleequid' (femminile), come nella v8 (423 occorrenze contro 53 senza 'společnost').",
+  "DA VALIDARE (7, revisione) Vendita riservata = «Vyhrazený prodej» al posto di «Rezervované prodeje» del corpo v8 (errore di senso: vendita prenotata).",
+  "Revisione: «recesso» (artt. 4.2, 8.8) e «risoluzione» (art. 1456) nella v8 sono entrambi «odstoupení»; nei blocchi successivi tenere «odstoupení od smlouvy» per la risoluzione e, dove l'IT non cambia, la resa v8 per il recesso («odstoupit … s výpovědní lhůtou»)."
+ ],
+ "review": [
+  "u004: úpravu obsaženou v článcích, které upravují jednotlivé záležitosti a na které se odkazuje → úpravu obsaženou v článcích upravujících jednotlivé záležitosti, na kterou se odkazuje — «alla quale si rinvia» rinvia alla disciplina (singolare), non agli articoli",
+  "u013: úplaty, které společnosti Fleequid náležejí od Prodávajícího a od Kupujícího za koupi a prodej Vozidel uskutečněné s využitím Online tržiště nebo služeb a systémů společnosti Fleequid určených ke koupi a prodeji, a to → úplaty, které Prodávající a Kupující platí společnosti Fleequid za prodej a nákup Vozidel uskutečněný prostřednictvím Online tržiště nebo obchodních služeb a systémů společnosti Fleequid, a to — IT invariato in questo tratto: ripristinata la resa v8 (1.L6), cambiando solo «provize» → «úplaty» come richiesto dal diff",
+  "u013: určují se Provize podle Sazebníku Fleequid → stanoví se Provize v souladu se Sazebníkem Fleequid — ripresa la formula v8 («stanoví … v souladu se sazebníkem»)",
+  "u013: spočívající v koupi a prodeji → spočívající v nákupu a prodeji — «compravendita» = «nákup a prodej» come nella v8 (10 occorrenze; «koupě a prodej» 0)",
+  "u014: za cenu okamžité koupě → za cenu okamžitého nákupu — v8 7.8.2: «možnost okamžitého nákupu»",
+  "u019: vztah týkající se nabízení Vozidla k prodeji uzavřený mezi → vztah týkající se nabízení Vozidla k prodeji sjednaný mezi — in ceco un «vztah» non si «uzavírá»",
+  "u019: vztahy koupě, prodeje a převodu Vozidla → vztahy nákupu, prodeje a převodu Vozidla — coerenza con «nákup a prodej» (v8)",
+  "u020: v hierarchii pramenů smluvní úpravy → v hierarchii smluvních pramenů — v8 16.3: «hierarchie smluvních pramenů»",
+  "u022: k zajištění splnění převzatých závazků a pohledávek společnosti Fleequid → k zajištění splnění převzatých závazků a k zajištění pohledávek společnosti Fleequid — eliminata l'ambiguità «splnění … pohledávek»: la garanzia assiste l'adempimento delle obbligazioni e i crediti",
+  "u023: Rezervovaný prodej → Vyhrazený prodej — «rezervovaný» significa prenotato, non «riservato a Utenti individuati»; si confonde con Rezervační cena e con il Veicolo «rezervované» per l'Acquirente (art. 12.8); la v8 usa già «vyhrazen» in questo senso (4.2, 8.1)",
+  "u025: čl. 2.3-2.8 → čl. 2.3–2.8 — intervallo con la lineetta, come nella v8 (16.3: «Čl. 1.1–1.3»)",
+  "u031: která je určena podle čl. 3 z pouhých dvou Modelů stanovených v čl. 2.3 → která se určuje podle čl. 3 výlučně ze dvou Modelů stanovených v čl. 2.3 — «tra i due soli Modelli» = solo tra i due; «z pouhých dvou» suona riduttivo",
+  "u037: s ohledem na další pokus o prodej → s ohledem na následný pokus o prodej — evitato «další … prodej» generico accanto al termine definito «Další prodej»",
+  "u043: není pramenem smluvní úpravy → není smluvním pramenem — coerenza con «smluvní prameny» (v8 16.3)",
+  "u046: komisionářských pověření k prodeji a ke koupi → komisionářských pověření k prodeji a k nákupu — v8 2.3: «pověření k nákupu nebo prodeji»",
+  "u046: za účelem přičtení koupě a prodeje příslušným komitentům → za účelem přičtení nákupu a prodeje příslušným komitentům — coerenza con «nákup a prodej» (v8)",
+  "u047: činnosti zprostředkování koupě a prodeje Vozidel → činnosti zprostředkování nákupu a prodeje Vozidel — copia v8 (1.L28: «zprostředkování nákupu a prodeje vozidel»)",
+  "u050: a zahájení fáze plnění, případně Zrušení prodeje, → a zahájení fáze plnění, anebo Zrušení prodeje, — «ovvero» è alternativa, non eventualità",
+  "u055: za účelem nabízení koupě nebo prodeje Vozidel → za účelem nabízení nákupu nebo prodeje Vozidel — copia v8 (1.L32: «nabízet nákup nebo prodej vozidel»)",
+  "u058: při kterém je prodej uzavřen mimo aukční proces → při kterém je prodej sjednán mimo proces Aukce — «processo d'Asta» con il termine definito; «prodej» in ceco si «sjednává», non si «uzavírá»",
+  "u059: obstarává na jejich účet prodej a koupi Vozidla → obstarává na jejich účet prodej a nákup Vozidla — coerenza con «nákup a prodej» (v8)",
+  "u060: Rezervovaný prodej → Vyhrazený prodej — vedi u023",
+  "u091: Prameny smluvní úpravy, Inzerát → Smluvní prameny, Inzerát — v8 16.3: «smluvní prameny»",
+  "u299: Doložka o propojení smluv → Spojovací doložka — «Kolizní norma» (titolo v8) è un errore evidente (norma di conflitto di leggi); la v8 stessa, all'art. 16.3, chiama questa clausola «(smluvní) spojovací doložka»: resa già pubblicata, breve e riutilizzabile nei rinvii",
+  "u017 (nessuna modifica): confermato «Zvláštní podmínky» per Condizioni Specifiche dopo il conteggio nel corpo v8 e nei documenti Care/Powertrain pubblicati; valutata e scartata «Specifické podmínky» (vedi new_terms).",
+  "u030 (nessuna modifica): mantenuto «tvořící online trh» al posto di «online tržiště» della v8, perché con il termine definito in maiuscola la definizione v8 diventava circolare.",
+  "u013, u039, u040 (nessuna modifica): «a carico del Venditore» = «k tíži Prodávajícího» come locuzione unica (la v8 alternava «účtované prodávajícímu» e «provizí prodávajícího»).",
+  "Termini definiti in maiuscola in tutto il blocco: confermato (u004 lega il significato alla maiuscola; l'IT distingue Venditore/venditore, Rivendita/rivendita)."
  ]
 }

@@ -16,8 +16,8 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
    - "riscritto"/"nuovo": traduci ex novo, ma con la terminologia e le formule della v8 CZ.
    L'abbinamento con la resa v8 è automatico: se il testo CZ mostrato non corrisponde all'IT v8 indicato,
    cerca il paragrafo giusto in `work/refs/general_CZ.txt` e usa quello.
-3. Terminologia: i termini contrattuali già usati nella v8 CZ NON cambiano (glossario e tabella termini sotto
-   sono vincolanti; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_CZ.txt`; se non c'è scegli la resa legale
+3. Terminologia: i termini contrattuali già usati nella v8 CZ NON cambiano (la tabella termini sotto, se
+   presente, è vincolante; mai sinonimi). Per un concetto nuovo cerca prima in `work/refs/general_CZ.txt`; se non c'è scegli la resa legale
    standard nella lingua e riportala in "new_terms". Un termine definito con iniziale maiuscola in IT resta un termine
    definito (maiuscola secondo l'uso già adottato nella v8 CZ), sempre reso allo stesso modo.
 4. Formattazione: riporta <b>, <i>, <u> sulle parole corrispondenti, con lo STESSO numero di segmenti dell'IT v9.
@@ -28,35 +28,35 @@ Documento: Termini e Condizioni Generali Fleequid, dalla v8 alla v9 (riscrittura
 6. Non tradurre i nomi commerciali lasciati in inglese nell'IT (es. Buy Now, Dealer Sales, Marketplace) salvo che la
    v8 CZ li traduca già.
 
-## Glossario dalle versioni pubblicate (IT → CZ)
+## Glossario cumulativo (IT → CZ) — secondario: prevale la v8 CZ di questo documento
 
-- Acquirente → Kupující
-- Centro Autorizzato → Autorizovaný servis
-- Condizioni Generali → Všeobecné obchodní podmínky
-- CG → VOP
-- Fleequid Care → Fleequid Care
-- Servizio Fleequid Care → Služba Fleequid Care
-- Guasto/i → Porucha(y)
-- Malfunzionamento/i → Závada(y)
-- Reclamo → Reklamace
-- TrustReport → TrustReport
-- Venditore → Prodávající
-- Veicolo → Vozidlo
-- Voucher Fleequid → Fleequid Voucher
-- Voucher → Voucher
-- chilometraggio (iniziale) → (počáteční) počet najetých kilometrů
-- verbale di consegna → dodací protokol
-- contachilometri → počítadlo najetých kilometrů
-- Scheda d’Asta → Aukční list
-- Specifiche tecniche → Technické specifikace
-- contratti di compravendita → kupní smlouvy
-- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reklamace upravená článkem 13 Všeobecných obchodních podmínek
-- percorrenza / chilometri percorsi → počet najetých kilometrů (percorrenza) / kilometry ujeté od… (chilometri percorsi, solo 4.2)
-- prova primaria → primární důkaz
-- evidenza documentale o fotografica → listinný nebo fotografický důkaz
-- titolo (quanto a titolo e contenuto) → právní titul
-- Guasto (in 7.3 e 9.4) → závada
-- vizi, difetti o anomalie (9.2.L1) → vady, nedostatky nebo anomálie
+- Acquirente → Kupující  [VAS - Fleequid Care v1]
+- Centro Autorizzato → Autorizovaný servis  [VAS - Fleequid Care v1]
+- Condizioni Generali → Všeobecné obchodní podmínky  [VAS - Fleequid Care v1]
+- CG → VOP  [VAS - Fleequid Care v1]
+- Fleequid Care → Fleequid Care  [VAS - Fleequid Care v1]
+- Servizio Fleequid Care → Služba Fleequid Care  [VAS - Fleequid Care v1]
+- Guasto/i → Porucha(y)  [VAS - Fleequid Care v1]
+- Malfunzionamento/i → Závada(y)  [VAS - Fleequid Care v1]
+- Reclamo → Reklamace  [VAS - Fleequid Care v1]
+- TrustReport → TrustReport  [VAS - Fleequid Care v1]
+- Venditore → Prodávající  [VAS - Fleequid Care v1]
+- Veicolo → Vozidlo  [VAS - Fleequid Care v1]
+- Voucher Fleequid → Fleequid Voucher  [VAS - Fleequid Care v1]
+- Voucher → Voucher  [VAS - Fleequid Care v1]
+- chilometraggio (iniziale) → (počáteční) počet najetých kilometrů  [Fleequid Care v2 (nuovo)]
+- verbale di consegna → dodací protokol  [Fleequid Care v2 (nuovo)]
+- contachilometri → počítadlo najetých kilometrů  [Fleequid Care v2 (nuovo)]
+- Scheda d’Asta → Aukční list  [Fleequid Care v2 (nuovo)]
+- Specifiche tecniche → Technické specifikace  [Fleequid Care v2 (nuovo)]
+- contratti di compravendita → kupní smlouvy  [Fleequid Care v2 (nuovo)]
+- reclamo disciplinato dall’articolo 13 delle Condizioni Generali → reklamace upravená článkem 13 Všeobecných obchodních podmínek  [Fleequid Care v2 (nuovo)]
+- percorrenza / chilometri percorsi → počet najetých kilometrů (percorrenza) / kilometry ujeté od… (chilometri percorsi, solo 4.2)  [Fleequid Care v2 (nuovo)]
+- prova primaria → primární důkaz  [Fleequid Care v2 (nuovo)]
+- evidenza documentale o fotografica → listinný nebo fotografický důkaz  [Fleequid Care v2 (nuovo)]
+- titolo (quanto a titolo e contenuto) → právní titul  [Fleequid Care v2 (nuovo)]
+- Guasto (in 7.3 e 9.4) → závada  [Fleequid Care v2 (nuovo)]
+- vizi, difetti o anomalie (9.2.L1) → vady, nedostatky nebo anomálie  [Fleequid Care v2 (nuovo)]
 
 ## Nota sul blocco k01
 Contiene il frontespizio, l'art. 1 (Definizioni) e TUTTI i titoli di articolo: le rese scelte qui diventano vincolanti per il resto del documento. In "new_terms" elenca OGNI termine definito nuovo rispetto alla v8 con la resa scelta e la fonte. L'unità con chiave TOC è il titolo dell'indice: usa la parola già usata nella v8 CZ.
