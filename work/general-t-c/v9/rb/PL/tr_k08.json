@@ -76,8 +76,8 @@
   },
   {
    "it": "dichiarazioni e garanzie (del Venditore verso Fleequid)",
-   "tr": "oświadczenia i zapewnienia",
-   "why": "coerente con k04 (8.13); «gwarancja» riservata al regime dell'art. 19"
+   "tr": "oświadczenia i gwarancje",
+   "why": "coerente con k04 (8.13); «gwarancja» riservata al regime dell'art. 19; armonizzazione: le «garanzie» del Venditore verso Fleequid sono «gwarancje» in tutto il documento (criterio del revisore k09: plurale «garanzie» = gwarancje; coerente con «oświadcza i gwarantuje» dell'art. 8.3); «zapewnienia» eliminato da 8.13, 18.5, 18.7, 18.9"
   },
   {
    "it": "compensazione e detrazione / compensare o detrarre",
@@ -131,8 +131,8 @@
   },
   {
    "it": "presa in consegna / detenzione temporanea / materiale disponibilità",
-   "tr": "przejęcie / tymczasowe władanie / fizyczne władztwo",
-   "why": "standard"
+   "tr": "odebranie / tymczasowe władanie / możliwość faktycznego dysponowania",
+   "why": "standard; armonizzazione: presa in consegna = «odebranie» come k07 e k09 («przejęcie» resta per la presa in carico del rifiuto, art. 16.13); materiale disponibilità allineata a k07 («faktyczne dysponowanie»)"
   },
   {
    "it": "titoli abilitativi / titoli, autorizzazioni e requisiti",

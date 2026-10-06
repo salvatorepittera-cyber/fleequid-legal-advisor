@@ -42,13 +42,13 @@
  "new_terms": [
   {
    "it": "comunicazioni (in generale, tra Fleequid e gli Utenti) / comunicazione (singola, art. 24)",
-   "tr": "korespondencja / zawiadomienie",
-   "why": "v8 PL ex art. 16.1 (korespondencja) e 16.2-16.3 (Zawiadomienia), titolo art. 24 in tabella; i blocchi k05-k07 usano «powiadomienie»: da armonizzare"
+   "tr": "korespondencja / powiadomienie",
+   "why": "v8 PL ex art. 16.1 (korespondencja) e 16.2-16.3 (Zawiadomienia), titolo art. 24 in tabella; i blocchi k05-k07 usano «powiadomienie»: da armonizzare; armonizzazione: resa unica «powiadomienie» in tutto il documento (prevalente nella v8 e nei blocchi k05-k07, es. «powiadomienie o udostępnieniu»); «zawiadomienie» eliminato"
   },
   {
    "it": "notifica sul Marketplace",
-   "tr": "powiadomienie na platformie Marketplace",
-   "why": "k02 art. 4.2 lett. b) («powiadomieniem wyświetlanym»); distinto da zawiadomienie = comunicazione"
+   "tr": "powiadomienie systemowe na platformie Marketplace",
+   "why": "k02 art. 4.2 lett. b) («powiadomieniem wyświetlanym»); distinto da zawiadomienie = comunicazione; armonizzazione: «systemowe» distingue la notifica di piattaforma dalla comunicazione (powiadomienie); stessa resa all'art. 4.2 lett. b)"
   },
   {
    "it": "recapiti",
@@ -77,8 +77,8 @@
   },
   {
    "it": "registrazioni dei relativi eventi e notifiche",
-   "tr": "zapisy odnośnych zdarzeń i powiadomień",
-   "why": "nuovo"
+   "tr": "zapisy odnośnych zdarzeń i powiadomień systemowych",
+   "why": "nuovo; armonizzazione: notifica = «powiadomienie systemowe»"
   },
   {
    "it": "ricevute o attestazioni di invio o di consegna",
@@ -102,8 +102,8 @@
   },
   {
    "it": "solleciti, avvisi e comunicazioni di cortesia",
-   "tr": "ponaglenia, przypomnienia i zawiadomienia grzecznościowe",
-   "why": "k05 art. 11.9 (ponaglenia, przypomnienia, charakter grzecznościowy)"
+   "tr": "ponaglenia, przypomnienia i powiadomienia grzecznościowe",
+   "why": "k05 art. 11.9 (ponaglenia, przypomnienia, charakter grzecznościowy); armonizzazione: comunicazione = «powiadomienie»"
   },
   {
    "it": "presupposto della mora",
@@ -117,8 +117,8 @@
   },
   {
    "it": "autonomo e separato presidio di approvazione / separata approvazione",
-   "tr": "samodzielny i oddzielny tryb akceptacji / oddzielna akceptacja",
-   "why": "nuovo; «oddzielny» per distinguere «separato» da «specifico» (odrębny)"
+   "tr": "samodzielny i oddzielny mechanizm akceptacji / oddzielna akceptacja",
+   "why": "nuovo; «oddzielny» per distinguere «separato» da «specifico» (odrębny); armonizzazione: «tryb» è riservato alla modalità di Evento di vendita"
   },
   {
    "it": "ai sensi e per gli effetti di",
@@ -143,7 +143,7 @@
   {
    "it": "divieto di aggiramento (artt. 5.5, 8.11)",
    "tr": "zakaz pomijania Fleequid",
-   "why": "k03 art. 5.5 («z pominięciem Fleequid»); k04 art. 8.11 ha «obejście udziału Fleequid»: da armonizzare"
+   "why": "k03 art. 5.5 («z pominięciem Fleequid»); k04 art. 8.11 ha «obejście udziału Fleequid»: da armonizzare; armonizzazione: art. 8.11 allineato: «pominięcia udziału Fleequid» come all'art. 5.5"
   },
   {
    "it": "disattivazione definitiva del profilo",
@@ -152,8 +152,8 @@
   },
   {
    "it": "massimale (per Veicolo) / massimale unitario / prive di massimale",
-   "tr": "maksymalna kwota (na Pojazd) / jednolita maksymalna kwota / bez maksymalnej kwoty",
-   "why": "k05 art. 12.6 («łączna maksymalna kwota») e k06 art. 13.5 («działa jednolicie»)"
+   "tr": "(łączna) maksymalna kwota (za Pojazd) / jedna łączna maksymalna kwota (dla Pojazdu i transakcji) / bez maksymalnej kwoty",
+   "why": "k05 art. 12.6 («łączna maksymalna kwota») e k06 art. 13.5 («działa jednolicie»); armonizzazione: art. 13.5: il massimale opera «łącznie» (revisore k06), non «jednolicie»"
   },
   {
    "it": "pagamento frazionato",
@@ -192,13 +192,13 @@
   },
   {
    "it": "decadenze / termini convenzionali di denuncia e decadenza",
-   "tr": "przypadki utraty praw / umowne terminy zgłoszenia i utraty praw",
-   "why": "v8 PL («pod rygorem utraty prawa», «terminy utraty prawa»); denuncia = zgłoszenie (k08)"
+   "tr": "przypadki utraty praw / umowne terminy zgłoszenia i umowne terminy prekluzyjne",
+   "why": "v8 PL («pod rygorem utraty prawa», «terminy utraty prawa»); denuncia = zgłoszenie (k08); armonizzazione: allineato a k09 (19.7, 20.2: «umowne terminy prekluzyjne»)"
   },
   {
    "it": "base sussidiaria (finale)",
    "tr": "(ostateczna) pomocnicza podstawa",
-   "why": "decisione del revisore k04 in NOTE_LINGUA; k08 ha «ostateczna podstawa subsydiarna»: da correggere lì"
+   "why": "decisione del revisore k04 in NOTE_LINGUA; k08 ha «ostateczna podstawa subsydiarna»: da correggere lì; armonizzazione: già corretto in k08 (18.5)"
   },
   {
    "it": "facoltà cautelare di sospensione",
@@ -208,37 +208,37 @@
   {
    "it": "clausola «visto, piaciuto ed accettato»",
    "tr": "klauzula „widziane, sprawdzone i zaakceptowane”",
-   "why": "v8 PL ex art. 12.3; da allineare con il blocco k09 (art. 19.2)"
+   "why": "v8 PL ex art. 12.3; da allineare con il blocco k09 (art. 19.2); armonizzazione: coincide con k09 (19.2)"
   },
   {
    "it": "garanzia (art. 19) / regime di garanzia",
-   "tr": "gwarancja / reżim gwarancji",
-   "why": "titolo art. 19 in tabella e k05, k07, k08; da riallineare se il k09 sceglie «rękojmia»"
+   "tr": "rękojmia (wyłączenia i ograniczenia rękojmi: 19.2, 19.4) / gwarancja (wyłączenia gwarancji: 19.5, 22.1; gwarancje Sprzedawcy: 8.3, 18.5) / reżim gwarancji (19.7)",
+   "why": "titolo art. 19 in tabella e k05, k07, k08; da riallineare se il k09 sceglie «rękojmia»; armonizzazione: criterio rękojmia / gwarancja deciso dal revisore k09"
   },
   {
    "it": "oneri di esame, ispezione e prova",
-   "tr": "ciężar zbadania, oględzin i wypróbowania",
-   "why": "nuovo; da allineare con k09 (art. 19.3)"
+   "tr": "ciężar zbadania, oględzin i przetestowania",
+   "why": "nuovo; da allineare con k09 (art. 19.3); armonizzazione: allineato a k09 (19.3)"
   },
   {
    "it": "vetustà / stato d'uso",
-   "tr": "wiek / stan zużycia",
-   "why": "v8 PL elenco clausole («na podstawie wieku, przebiegu i ceny»)"
+   "tr": "wiek / stan użytkowania",
+   "why": "v8 PL elenco clausole («na podstawie wieku, przebiegu i ceny»); armonizzazione: allineato a k09 (19.2, 19.4)"
   },
   {
    "it": "archiviazione del reclamo",
-   "tr": "pozostawienie reklamacji bez rozpatrzenia",
-   "why": "nuovo; rozpatrzenie reklamacji = gestione del reclamo (k06)"
+   "tr": "pozostawienie reklamacji bez rozpoznania",
+   "why": "nuovo; rozpatrzenie reklamacji = gestione del reclamo (k06); armonizzazione: allineato a k09 (20.2)"
   },
   {
    "it": "interventi sul Veicolo",
-   "tr": "ingerencja w Pojazd",
-   "why": "nuovo; la v8 aveva il calco «interwencji na Pojeździe»"
+   "tr": "prace przy Pojeździe",
+   "why": "nuovo; la v8 aveva il calco «interwencji na Pojeździe»; armonizzazione: allineato a k09 (20.3: «prac polegających na naprawie…»)"
   },
   {
    "it": "definire il reclamo",
-   "tr": "zakończyć sprawę reklamacji",
-   "why": "nuovo; da allineare con k09 (art. 20.8)"
+   "tr": "załatwić reklamację",
+   "why": "nuovo; da allineare con k09 (art. 20.8); armonizzazione: allineato a k09 (20.8) e a NOTE_LINGUA"
   },
   {
    "it": "produzione in giudizio",
@@ -247,8 +247,8 @@
   },
   {
    "it": "canalizzazione delle azioni",
-   "tr": "ukierunkowanie roszczeń i powództw",
-   "why": "nuovo; da allineare con k09 (art. 21.3)"
+   "tr": "skierowanie powództw i roszczeń do bezpośredniego dochodzenia (między Sprzedawcą a Nabywcą)",
+   "why": "nuovo; da allineare con k09 (art. 21.3); armonizzazione: allineato a k09 (21.3: «są dochodzone bezpośrednio między Sprzedawcą a Nabywcą»)"
   },
   {
    "it": "definitività delle Commissioni maturate",
@@ -262,23 +262,23 @@
   },
   {
    "it": "devoluzione alla giurisdizione dell'autorità giudiziaria italiana",
-   "tr": "poddanie wyłącznej jurysdykcji włoskich organów sądowych",
-   "why": "v8 PL ex art. 15.2 («wyłącznej jurysdykcji sądu w Como»)"
+   "tr": "poddanie wyłącznej jurysdykcji sądów włoskich",
+   "why": "v8 PL ex art. 15.2 («wyłącznej jurysdykcji sądu w Como»); armonizzazione: allineato a k09 (23.2)"
   },
   {
    "it": "competenza territoriale esclusiva del Foro di Como / foro concorrente",
-   "tr": "wyłączna właściwość miejscowa sądu w Como / sąd o właściwości konkurencyjnej",
-   "why": "v8 PL («konkurencyjnej jurysdykcji»); da allineare con k09 (art. 23.2)"
+   "tr": "wyłączna właściwość miejscowa sądu w Como / sądy właściwe przemiennie",
+   "why": "v8 PL («konkurencyjnej jurysdykcji»); da allineare con k09 (art. 23.2); armonizzazione: allineato a k09 (23.2)"
   },
   {
    "it": "competenze inderogabili previste dalla legge",
-   "tr": "właściwość wynikająca z bezwzględnie obowiązujących przepisów prawa",
-   "why": "«inderogabile» = bezwzględnie obowiązujący (k02)"
+   "tr": "przypadki właściwości bezwzględnie obowiązującej przewidziane przez prawo",
+   "why": "«inderogabile» = bezwzględnie obowiązujący (k02); armonizzazione: allineato a k09 (23.2)"
   },
   {
    "it": "equiparazione (alla comunicazione)",
-   "tr": "zrównanie (z zawiadomieniem)",
-   "why": "nuovo"
+   "tr": "zrównanie (z powiadomieniem)",
+   "why": "nuovo; armonizzazione: comunicazione = «powiadomienie»"
   }
  ],
  "notes": [
@@ -289,6 +289,52 @@
   "Clausola «visto, piaciuto ed accettato»: ripresa la resa v8 PL „widziane, sprawdzone i zaakceptowane”, che non è letterale («piaciuto» reso «sprawdzone»): da validare.",
   "Applicate le decisioni di NOTE_LINGUA: maggior danno = «odszkodowanie przenoszące wysokość kary umownej»; penale residuale = «subsydiarna kara umowna»; base sussidiaria = «pomocnicza podstawa». Nei blocchi k05-k08 restano «dalej idąca szkoda», «rezydualna kara umowna» (17.1) e «podstawa subsydiarna» (18.5): da correggere in armonizzazione.",
   "«Tariffario» senza «Fleequid» nelle voci 5.5 e 8.9 reso «Taryfikator» (come nell'IT e in k03).",
-  "«finanziatore» minuscolo nella voce 22.1 reso minuscolo («finansującego»), come nell'IT."
+  "«finanziatore» minuscolo nella voce 22.1 reso minuscolo («finansującego»), come nell'IT.",
+  "ARMONIZZAZIONE: l'elenco delle clausole ex artt. 1341-1342 è stato riallineato agli articoli richiamati come tradotti e revisionati nei blocchi k02-k09 (in particolare artt. 19-23: rękojmia / gwarancja, umowne terminy prekluzyjne, pozostawienie reklamacji bez rozpoznania, załatwienie reklamacji, dochodzenie roszczeń bezpośrednio między Sprzedawcą a Nabywcą, właściwość sądu w Como). Le note precedenti che rinviavano all'armonizzazione sono superate."
+ ],
+ "review": [
+  "u321-u333, u345, u355: zawiadomienie → powiadomienie — resa unica di «comunicazione» in tutto il documento; «notifica» (24.5 lett. c, 24.6) → powiadomienie systemowe",
+  "u321: Pozostałe postanowienia → Dalsze postanowienia — «ulteriori» = dalsze, come negli altri blocchi",
+  "u330: uznaje się je za doręczone oraz znane adresatowi → domniemywa się, że zostały doręczone adresatowi i są mu znane — «si presumono note e pervenute» è una presunzione (la v8 la rendeva come finzione); allineato alla voce 24.4 dell'elenco («domniemanie znajomości»)",
+  "u343: z powodu sporów → z powodu zastrzeżeń — «contestazioni» come all'art. 12.1 (revisore k05); maksymalny termin → termin maksymalny (k01 u062); z maksymalną kwotą na Pojazd → z łączną maksymalną kwotą za Pojazd (art. 12.6)",
+  "u344: jednolita maksymalna kwota na Pojazd i transakcję → jedna łączna maksymalna kwota dla Pojazdu i transakcji — «massimale unitario»: un solo massimale che opera «łącznie» (art. 13.5), non «uniforme»; podział ryzyk → podział ryzyka",
+  "u345: powstanie prawa do Prowizji i ich utrzymanie → powstanie i utrzymanie prawa do Prowizji — sintassi",
+  "u347: zwolnienie z odpowiedzialności → zobowiązanie do zwolnienia z odpowiedzialności (manleva, 16.4); podział ryzyk → podział ryzyka (singolare come in k07); wymogów dotyczących Nabywcy → spełniania wymogów przez Nabywcę (16.14)",
+  "u350: ograniczenia gwarancji → ograniczenia rękojmi (19.2, 19.4: garanzia legale); wypróbowania → przetestowania; stanem zużycia → stanem użytkowania; czynności weryfikacyjnych → czynności weryfikacji; umowne terminy zgłoszenia i utraty praw → umowne terminy zgłoszenia i umowne terminy prekluzyjne — riallineamento a k09 (artt. 19.2-19.7)",
+  "u351: terminy … utraty praw → umowne terminy prekluzyjne; bez rozpatrzenia → bez rozpoznania; zakaz ingerencji w Pojazd → zakaz wykonywania prac przy Pojeździe; zakończenia sprawy reklamacji → załatwienia reklamacji; podział kosztów → rozłożenie kosztów — riallineamento a k09 (artt. 20.2, 20.3, 20.8)",
+  "u352: ukierunkowanie roszczeń i powództw na stosunek między … → skierowanie powództw i roszczeń do bezpośredniego dochodzenia między … — riallineamento a k09 (art. 21.3)",
+  "u354: włoskich organów sądowych → sądów włoskich; sądów o właściwości konkurencyjnej → sądów właściwych przemiennie; właściwości wynikającej z bezwzględnie obowiązujących przepisów prawa → przypadków właściwości bezwzględnie obowiązującej przewidzianych przez prawo — riallineamento a k09 (art. 23.2)",
+  "u340, u349: zapewnienia / zapewnień → gwarancje / gwarancji — «garanzie» del Venditore verso Fleequid (8.3, 18.5), resa unica",
+  "u356: trybowi akceptacji → mechanizmowi akceptacji — «tryb» è riservato alla modalità di Evento di vendita"
+ ],
+ "harmonization": [
+  "comunicazione (singola) / comunicare: powiadomienie / powiadomić (eliminato «zawiadomienie / zawiadomić»; k02 u087, k03 u113, k04 u138 u139 u143, k08 u248 u255, k10 art. 24 ed elenco)",
+  "notifica (sul Marketplace): powiadomienie systemowe (prima «powiadomienie», identico a comunicazione; k02 u093, k10 u331 u332)",
+  "comunicazione scritta (k03 art. 5.12): w drodze pisemnego powiadomienia (eliminato il calco «pisemna komunikacja»; k03 u118)",
+  "di per sé: samo / sama / same przez się (eliminato «samo w sobie»; k03 u113 u124 u125)",
+  "PMIV: neutro indeclinabile (eliminato il femminile «PMIV dotyczącą / określonej / wskazanej»; k03 u111, k08 u244 u248 u255 u259)",
+  "operatività dell'account / del profilo (misura dell'art. 12.10): funkcjonowanie konta / profilu (eliminato «możliwość działania konta»; k03 u112 u125)",
+  "aggirare l'intervento di Fleequid: pominięcie udziału Fleequid (eliminato «obejście udziału Fleequid»; k04 u141)",
+  "intestazione / reintestazione del Veicolo: przerejestrowanie / ponowne przerejestrowanie (eliminati «rejestracja», «ponowna rejestracja», «określenie podmiotu, na który wystawiane są dokumenty»; k02 u095, k04 u143, k05 u185 u187, k06 u222)",
+  "circolazione del Veicolo: uczestnictwo w ruchu drogowym (eliminati «ruch», «dopuszczenie do ruchu»; k04 u143, k06 u205)",
+  "garanzie (del Venditore verso Fleequid) / dichiarazioni e garanzie: gwarancje / oświadczenia i gwarancje (eliminato «zapewnienia»; k04 u143, k08 u261 u263 u265, k10 u340 u349)",
+  "garanzia legale per vizi ed evizione / regime di garanzia: rękojmia / reżim gwarancji (elenco ex artt. 1341-1342 allineato a k09: «ograniczenia rękojmi»; k10 u350)",
+  "fatto salvo il risarcimento del maggior danno: z zastrzeżeniem prawa do dochodzenia (ewentualnego) odszkodowania przenoszącego wysokość kary umownej (eliminato «odszkodowanie za ewentualną szkodę przenoszącą…»; k07 u231 u233)",
+  "fermo quanto previsto da / fermo restando ogni ulteriore rimedio: z zastrzeżeniem postanowień… / z zastrzeżeniem wszelkich dalszych środków ochrony prawnej (eliminati «z zachowaniem postanowień», «bez uszczerbku dla»; k06 u203, k07 u230 u233 u237)",
+  "resta fermo / restano fermi / resta fermo che / resta ferma la facoltà: pozostaje (pozostają) w mocy… / Pozostaje w mocy zasada, że… / Pozostaje w mocy uprawnienie… (eliminati l'ordine «W mocy pozostaje…» e «Nie narusza to zasady / uprawnienia…»; k02 u083, k03 u115 u116, k05 u161 u167 u177 u183 u191 u193 u195, k06 u212 u213 u216 u218 u219 u221 u223, k09 u312)",
+  "restano impregiudicati: nienaruszone pozostają (eliminato «Nie narusza to praw…»; k08 u246); «Nie narusza to…» resta per «resta salvo»",
+  "imputabile (fatti, vizi, omissioni, inadempimenti del Venditore): za które odpowiada (eliminato «które można temu ostatniemu przypisać» in 19.8; k09 u289); «z przyczyn leżących po stronie» per ritardo, mancato pagamento e Annullamento; «które można (mu) przypisać» solo dove la frase è già retta da «odpowiada / odpowiedzialność» (k09 u283) e per l'Utente (k03)",
+  "strutturata secondo (un Modello di Vendita): ukształtowana zgodnie z (eliminato «według»; k03 u111, k09 u300)",
+  "presa in consegna (del Veicolo): odebranie (eliminato «przejęcie», che resta per la presa in carico del rifiuto; k08 u247 u261)",
+  "materiale disponibilità: (możliwość) faktycznego dysponowania (eliminato «fizyczne władztwo»; k08 u263)",
+  "ispezioni: oględziny (eliminato «inspekcja»; k08 u247)",
+  "termine massimo (art. 12.7): termin maksymalny (eliminato «maksymalny termin»; k06 u201, k10 u343 u344)",
+  "penale autonoma: samodzielna kara umowna / ma charakter samodzielny (eliminato «niezależna od»; k03 u114)",
+  "potere / facoltà discrezionale: uznaniowe uprawnienie (eliminato «dyskrecjonalne»; k04 u159)",
+  "newsletter: newsletter (eliminato «biuletyn»; k03 u129)",
+  "supporto / servizio clienti: dział obsługi klienta (eliminato «obsługa klienta»; k03 u117)",
+  "P.IVA (di Adorea): numer VAT (eliminato «numer NIP», che è il numero fiscale polacco; k01 u025; l'intestazione dell'art. 24.2 ha già «numer VAT»)",
+  "vendite concluse secondo il Dealer Sales: sprzedaże zawierane zgodnie z Dealer Sales (eliminato «w modelu Dealer Sales»; k09 u287)",
+  "tipografia: importi «3.000,00 € (trzy tysiące/00 euro)» (corretto «euro/00» in k03 u114); lineetta «–» con spazi (eliminata «—»; k04 u144, k07 u230 u232, k09 u269); rinvii «w art. 16.2, 17.5, 17.11 i 18.4» senza ripetere «w art.» (k06 u220); percentuali «30 %», virgolette „ ”, «art. / lit. / ust. / zdanie» già uniformi"
  ]
 }

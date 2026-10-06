@@ -96,8 +96,8 @@
   },
   {
    "it": "circolazione (del Veicolo)",
-   "tr": "ruch (Pojazdu)",
-   "why": "nuovo"
+   "tr": "uczestnictwo (Pojazdu) w ruchu drogowym",
+   "why": "nuovo; armonizzazione: resa unica con k07 (16.4) e k04 (8.13 lett. c)"
   },
   {
    "it": "società del gruppo Fleequid / incaricati",
@@ -196,8 +196,8 @@
   },
   {
    "it": "ritrasferimento / reintestazione (della proprietà)",
-   "tr": "zwrotne przeniesienie własności / ponowna rejestracja (Pojazdu)",
-   "why": "k05: intestazione = rejestracja"
+   "tr": "zwrotne przeniesienie własności / ponowne przerejestrowanie (Pojazdu)",
+   "why": "k05: intestazione = rejestracja; armonizzazione: reintestazione = «ponowne przerejestrowanie» (revisore k07)"
   },
   {
    "it": "riconsegna del Veicolo",
