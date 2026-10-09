@@ -122,3 +122,10 @@ Nei brief il glossario Care è mostrato solo in k01 e marcato come secondario (p
 
 ## Da fare alla fine (richiesta di Salvatore, 2026-10-06)
 - Word aggiuntivo per il legale con TUTTE le incongruenze rilevate nella IT v9 (da questa nota + risposte di traduttori/revisori/armonizzatori di tutte le lingue), nella cartella della v9. Aggiunte recenti: art. 10.4 "precedenti commi" ma la verifica riguarda anche il 10.5; art. 12.2 "1 (un) giorno" senza "lavorativo"; art. 6.2 antecedente ambiguo di "che prevale in ogni caso sui valori ordinariamente applicati".
+
+## STATO AL 10/10/2026 (prima del riavvio della sessione)
+- Tutte le lingue complete (IT + EN DE ES FR NL PL PT RO RU CZ), Word in `T&C/General T&C/Vers 9 - Multilanguage - Q4 2026/`, ramo `worktree-general-tc-v9` pushato, NON unito a main.
+- 6/10: inviato allo studio `Osservazioni_per_lo_Studio_sulla_bozza_IT_F0009_2026.docx` (42 punti, generatore `osservazioni_studio.py`).
+- 9/10: risposta dello studio (`..._DEF_DEF_Redline.docx`, 33 revisioni + grassetto 19.7 lett. b)). Riportata sull'IT pulita (`defdef_apply_it.py`) e chirurgicamente nelle 10 lingue (35 unità: `rb/DEFDEF_CORREZIONI.md`, `rb/ISTRUZIONI_DEFDEF.md`, `rb/<LANG>/defdef.json`). Verificato che nei Word siano cambiati solo quei paragrafi.
+- Decisioni di Salvatore: 19.3 resta com'è; incoerenza 17.5 e «30 giorni» lavorativi (artt. 5, 8, 16) non si rimandano allo studio; spazi/virgole li sistemiamo noi.
+- Aperto: unione a main; art. 2.6 «preventivamente» non uniforme tra lingue (PL, CZ solo conoscibilità; RU anche accettazione); glossari e skill tc-update non aggiornati; `terms.json` EN ha ancora il titolo art. 13 in minuscolo (non incide sul Word).
