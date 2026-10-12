@@ -17,7 +17,7 @@
   "c14": "Mantém-se inalterada a faculdade da Fleequid de suspender, anular ou declarar não válido o Leilão nos casos previstos pelas CG; em tais hipóteses não se aplicará a garantia a que se refere o presente artigo, sem prejuízo do que está previsto pelo art. 6.2. A garantia também não se aplicará em caso de comportamentos abusivos, fraudulentos ou não conformes às CG por parte do Vendedor ou de sujeitos a ele imputáveis, incluindo, a título exemplificativo, a participação direta ou indireta no Leilão com o intuito de influenciar o seu resultado.",
   "c15": "Às 1 Euro Auctions executadas segundo o Modelo de Venda à comissão aplica-se, em geral, a estrutura de comissões ordinária prevista pelo Tarifário Fleequid, conforme em vigor e publicado a cada momento no Marketplace.",
   "c16": "Ao Comprador são aplicadas as Comissões previstas nos termos dos números que antecedem, incluindo, quando prevista, a comissão fixa («flat buyer fee») e/ou a comissão percentual sobre o Preço de venda ao Comprador.",
-  "c17": "As Comissões vencem-se e são devidas conforme previsto pelo art. 12.4 das CG e mantêm-se sujeitas à disciplina geral das Condições Gerais em matéria de pagamento, faturamento e incumprimento, salvo o disposto de forma diversa nas presentes Condições Particulares.",
+  "c17": "As Comissões vencem-se e são devidas conforme previsto pelo art. 12.4 das CG e mantêm-se sujeitas à disciplina geral das Condições Gerais em matéria de pagamento, faturação e incumprimento, salvo o disposto de forma diversa nas presentes Condições Particulares.",
   "c18": "Salvo indicação diversa na ficha do Leilão, às 1 Euro Auctions aplicam-se integralmente as disposições das Condições Gerais em matéria de Depósito Caução, modalidades de pagamento do Montante Total Devido e prazos de cumprimento do Comprador.",
   "c19": "Em caso de falta de pagamento ou de pagamento tardio por parte do Comprador, aplicam-se as disposições das CG em matéria de incumprimento, resolução, Anulação da venda, penalidades, retenção e imputação do Depósito Caução nos termos do art. 6.3 das CG e ressarcimento do dano.",
   "c20": "Nos casos de suspensão ou anulação do Leilão nos termos do número anterior, não se aplicarão as disposições relativas à formação do Acordo vinculativo e a garantia económica a que se refere o art. 3 não se vencerá nem será devida, sem prejuízo da responsabilidade da Fleequid por dolo ou culpa grave e do que está previsto pelas Condições Gerais em matéria de responsabilidade da Fleequid.",
@@ -140,6 +140,7 @@
   "c11: confermati «Tarifas» (CG v9) e «Tarifário» (v1) nella stessa frase — parole distinte e non ambigue in portoghese (corrispettivi dei Servizi / listino).",
   "c16, c21: confermato cambio di sola maiuscola («Comissões», «Condições Específicas»), parola della v1 invariata.",
   "c25–c29: confermata la formula dell'art. 24.7 delle CG v9 PT; le sintesi tra parentesi usano le parole degli artt. 2.3, 3.6, 3.7, 3.8, 6.1, 6.2 di questo documento.",
-  "Altre voci (c01–c08, c13–c15, c17–c20, c24): nessuna correzione; parti invariate identiche alla v1, rimozioni recepite, rinvii esatti, tag corrispondenti."
+  "Altre voci (c01–c08, c13–c15, c17–c20, c24): nessuna correzione; parti invariate identiche alla v1, rimozioni recepite, rinvii esatti, tag corrispondenti.",
+  "c17: «faturamento» → «faturação» (1×) — difetto preesistente della v1 corretto su richiesta dell'utente: forma brasiliana; le CG v9 portoghesi usano «faturação»"
  ]
 }

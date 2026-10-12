@@ -142,6 +142,8 @@
 - c28 [6.5~4] inserito
 - c29 [6.5~5] inserito
 - c30 [6.5~6+e1] inserito (vuoto)
+- fuori diff [3.5] «MCSP» → «PMIV»
+- fuori diff [0~7] «Conditions particulières» → «Conditions spécifiques»
 - header Vers_1_2026 → Vers_2_2026
 
 ## NL — OK
@@ -214,6 +216,7 @@
 - c28 [6.5~4] inserito
 - c29 [6.5~5] inserito
 - c30 [6.5~6+e1] inserito (vuoto)
+- fuori diff [3.5] «Sprzedawca musi być w pełni» → «Sprzedawca musi w pełni»
 - header Vers_1_2026 → Vers_2_2026
 
 ## PT — OK
@@ -322,6 +325,7 @@
 - c28 [6.5~4] inserito
 - c29 [6.5~5] inserito
 - c30 [6.5~6+e1] inserito (vuoto)
+- fuori diff [3.7] «не образует страховой деятельности, ни не составляет» → «не образует страховой деятельности и не составляет»
 - header Vers_1_2026 → Vers_2_2026
 
 ## CZ — OK

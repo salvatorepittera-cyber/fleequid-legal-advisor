@@ -532,5 +532,50 @@
   "it": "documento fiscale",
   "tr": "steuerrechtliche Unterlage",
   "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Verkaufspreis gegenüber dem Käufer",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "Modello di Vendita in commissione",
+  "tr": "Verkaufsmodell des Kommissionsverkaufs",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "rimborsi spese",
+  "tr": "Aufwendungsersatz",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "detratti o compensati",
+  "tr": "abgezogen oder verrechnet",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "trattenimento e imputazione del Deposito cauzionale",
+  "tr": "Einbehaltung und Anrechnung der Kaution",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "specifiche condizioni economiche",
+  "tr": "spezifische wirtschaftliche Bedingungen",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c.",
+  "tr": "Gesonderte Genehmigung gemäß den Art. 1341 und 1342 des italienischen Zivilgesetzbuches",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "lett. d)",
+  "tr": "Buchst. d)",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "sezione finale",
+  "tr": "Schlussabschnitt",
+  "source": "1 Euro Auctions v2 (nuovo)"
  }
 ]

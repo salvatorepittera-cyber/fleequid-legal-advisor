@@ -6,7 +6,9 @@ Modifiche IT v1 → v2: 30 (21 paragrafi modificati, 9 inseriti di cui 3 vuoti),
 
 ## Punti sull'italiano v2 da portare allo studio
 
-Refusi (le traduzioni rendono il senso corretto; il Word italiano li conserva finché non si decide):
+File per lo studio: `Osservazioni_per_lo_Studio_sulla_bozza_IT_1EuroAuction_Vers_2_2026.docx` nella cartella della versione (17 osservazioni, generatore `osservazioni_studio.py`).
+
+Refusi corretti nel Word italiano definitivo su decisione di Salvatore del 12/10/2026 (`it_fixes.json`); le traduzioni rendevano già il senso corretto:
 - Preambolo: «(si seguito anche “Condizioni Particolari d’Asta”)» → «di seguito».
 - Art. 2.4: «Accordo Vincolante» → «Accordo vincolante».
 - Art. 3.2: è caduto il «Qualora» iniziale («l’incasso netto di cui all’art. 3.1 … sia inferiore al PMIV, Fleequid si impegna…»).
@@ -26,6 +28,15 @@ Paragrafi non aggiornati alle CG v9 (le lingue seguono l'italiano: lì resta il 
 - «Tariffario» resta quello della v1; «Tariffe» prende la resa delle CG v9 (art. 3.2: FR «Tarif Fleequid», RO «Tariful Fleequid», RU «Прейскурант» per distinguerli).
 - «Perfezionarsi» dell'Accordo vincolante: una sola resa, quella delle CG v9.
 - Sigle e nomi della v1 (PMIV, PR, Marketplace, Deposito cauzionale) non toccati anche dove le CG v9 ne usano altri.
+
+## Difetti della v1 corretti su richiesta di Salvatore (12/10/2026)
+
+- FR: sigla «MCSP» → «PMIV» (artt. 1.3, 3.1, 3.2, 3.5); preambolo «Conditions particulières» → «Conditions spécifiques».
+- PT: art. 4.6 «faturamento» → «faturação».
+- PL: art. 3.5 «musi być w pełni … wykonać» → «musi w pełni … wykonać».
+- RU: artt. 3.6 e 3.7, doppia negazione «ни не составляет» → «и не составляет».
+
+Le scelte dei revisori su RU (Tariffario all'art. 3.2), FR e RO («Tarif Fleequid», «Tariful Fleequid»), DE, PL e CZ (art. 6.4) e PL («Propozycja sprzedaży») sono state confermate da Salvatore il 12/10/2026.
 
 ## Nota tecnica
 

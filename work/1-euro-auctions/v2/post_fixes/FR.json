@@ -1,0 +1,14 @@
+[
+ {
+  "key": "3.5",
+  "old": "MCSP",
+  "new": "PMIV",
+  "why": "la v1 usava la sigla inglese; l'italiano e le CG v9 francesi hanno PMIV"
+ },
+ {
+  "key": "0~7",
+  "old": "Conditions particulières",
+  "new": "Conditions spécifiques",
+  "why": "errore di traduzione della v1: l'italiano dice «Condizioni specifiche», rese «Conditions spécifiques» all'art. 6.4"
+ }
+]

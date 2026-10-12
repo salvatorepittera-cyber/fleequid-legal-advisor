@@ -578,5 +578,40 @@
   "it": "incasso netto",
   "tr": "rendimento líquido",
   "source": "General T&C v9"
+ },
+ {
+  "it": "Modello di Vendita in commissione",
+  "tr": "Modelo de Venda à comissão",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "fonti contrattuali applicabili",
+  "tr": "fontes contratuais aplicáveis",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "rimborsi spese",
+  "tr": "reembolsos de despesas",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "trattenimento e imputazione del Deposito cauzionale",
+  "tr": "retenção e imputação do Depósito Caução",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "specifiche condizioni economiche",
+  "tr": "condições económicas específicas",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "al netto delle sole Commissioni a carico del Venditore",
+  "tr": "após dedução apenas das Comissões a cargo do Vendedor",
+  "source": "1 Euro Auctions v2 (nuovo)"
+ },
+ {
+  "it": "maturazione della garanzia economica",
+  "tr": "vencimento da garantia económica",
+  "source": "1 Euro Auctions v2 (nuovo)"
  }
 ]
