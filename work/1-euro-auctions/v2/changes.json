@@ -1,0 +1,623 @@
+{
+  "prev_file": "/Users/Salva/Fleequid/app/fleequid-legal-advisor/.claude/worktrees/1euro-auctions-v2/T&C/1 Euro Auctions/Vers 1 - Multilanguage - Q2 2026/1_CPA_1EuroAuction_Versione_1_2026_DEF_ITA.docx",
+  "new_file": "T&C/1 Euro Auctions/Vers 2 - Multilanguage - Q4 2026/2_CPA_1EuroAucrion_Versione_2_2026_DEF.docx",
+  "prev_paragraphs": 55,
+  "new_paragraphs": 64,
+  "version_prev": [
+    "Vers_1_2026"
+  ],
+  "version_new": [
+    "Vers_2_2026"
+  ],
+  "headers": [
+    {
+      "part": "word/header1.xml",
+      "prev": "22CPA-1Euro_Auctions_Vers_1_2026",
+      "new": "22CPA-1Euro_Auctions_Vers_2_2026"
+    }
+  ],
+  "changes": [
+    {
+      "id": "c01",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 0,
+      "new_idx": 0,
+      "prev_key": "0~0",
+      "new_key": "0~0",
+      "article": "0",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>Condizioni Particolari d’Asta</b> ",
+      "new_markup": "<b>Condizioni Particolari di vendita</b>",
+      "word_diff": "Condizioni Particolari [-d’Asta-]{+di+} {+vendita+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c02",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 4,
+      "new_idx": 4,
+      "prev_key": "0~4",
+      "new_key": "0~4",
+      "article": "0",
+      "anchor_prev_idx": null,
+      "prev_markup": "Esse sono adottate ai sensi e per gli effetti dell’art. 3.3 delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni Particolari d’Asta, con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "new_markup": "Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (si seguito anche “Condizioni Particolari d’Asta”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "word_diff": "Esse sono adottate ai sensi e per gli effetti [-dell’art.-]{+degli+} [-3.3-]{+artt. 4.3, 4.4 e 9.4, lett. d),+} delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni {+particolari di vendita ai sensi delle CG (si seguito anche “Condizioni +}Particolari [-d’Asta,-]{+d’Asta”),+} con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c03",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 6,
+      "new_idx": 6,
+      "prev_key": "0~6",
+      "new_key": "0~6",
+      "article": "0",
+      "anchor_prev_idx": null,
+      "prev_markup": "La pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.",
+      "new_markup": "La pubblicazione di una Proposta di vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari. Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.",
+      "word_diff": "La pubblicazione di una Proposta di [-Vendita-]{+vendita+} nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.{+ Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c04",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 11,
+      "new_idx": 11,
+      "prev_key": "1.1",
+      "new_key": "1.1",
+      "article": "1",
+      "anchor_prev_idx": null,
+      "prev_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da una struttura commissionali distinta rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "new_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da specifiche condizioni economiche rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "word_diff": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da [-una-]{+specifiche+} [-struttura-]{+condizioni+} [-commissionali distinta-]{+economiche+} rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c05",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 13,
+      "new_idx": 13,
+      "prev_key": "1.3",
+      "new_key": "1.3",
+      "article": "1",
+      "anchor_prev_idx": null,
+      "prev_markup": "Nelle 1 Euro Auctions non trova applicazione il meccanismo ordinario di determinazione del Prezzo di riserva (PR) fondato sul Prezzo minimo di impegno alla vendita (PMIV). Il PMIV continua tuttavia a costituire il valore economico minimo di riferimento del Venditore ai sensi delle Condizioni Generali, ma non è utilizzato ai fini della determinazione di un Prezzo di riserva nell’ambito delle 1 Euro Auctions, restando la tutela economica del Venditore disciplinata secondo le modalità specificamente previste nelle presenti Condizioni Particolari.",
+      "new_markup": "Nelle 1 Euro Auctions non trova applicazione il meccanismo ordinario di determinazione del Prezzo di riserva (PR) fondato sul Prezzo minimo di impegno alla vendita (PMIV). Il PMIV continua tuttavia a costituire il valore economico minimo di riferimento del Venditore ai sensi delle Condizioni Generali, ma non è utilizzato ai fini della determinazione di un Prezzo di riserva nell’ambito delle 1 Euro Auctions, restando la tutela economica del Venditore disciplinata, nella Vendita in commissione, secondo le modalità specificamente previste nelle presenti Condizioni Particolari.",
+      "word_diff": "Nelle 1 Euro Auctions non trova applicazione il meccanismo ordinario di determinazione del Prezzo di riserva (PR) fondato sul Prezzo minimo di impegno alla vendita (PMIV). Il PMIV continua tuttavia a costituire il valore economico minimo di riferimento del Venditore ai sensi delle Condizioni Generali, ma non è utilizzato ai fini della determinazione di un Prezzo di riserva nell’ambito delle 1 Euro Auctions, restando la tutela economica del Venditore [-disciplinata-]{+disciplinata, nella Vendita in commissione,+} secondo le modalità specificamente previste nelle presenti Condizioni Particolari.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c06",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 17,
+      "new_idx": 17,
+      "prev_key": "2",
+      "new_key": "2",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>Regole di aggiudicazione e formazione del Contratto.</b>",
+      "new_markup": "<b>Regole di formazione dell’Accordo vincolante.</b>",
+      "word_diff": "Regole di [-aggiudicazione e -]formazione [-del-]{+dell’Accordo+} [-Contratto.-]{+vincolante.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c07",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 18,
+      "new_idx": 18,
+      "prev_key": "2.1",
+      "new_key": "2.1",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "Nelle 1 Euro Auctions, l’Aggiudicazione avviene in favore dell’Offerente che abbia formulato la Puntata massima al termine dell’Asta, secondo le modalità previste dalle Condizioni Generali (“CG”), purché sia stata presentata almeno un’Offerta valida nel corso della procedura. Resta espressamente inteso che, nelle 1 Euro Auctions, l’Aggiudicazione è valida ed efficace indipendentemente dall’importo della Puntata finale, anche qualora questa sia pari a Euro 1 (uno) o comunque di importo simbolico o significativamente inferiore al valore stimato del Veicolo.",
+      "new_markup": "Nelle 1 Euro Auctions, l’Accordo vincolante si perfeziona in favore dell’Offerente che abbia formulato la Puntata massima al termine dell’Asta, secondo le modalità previste dalle Condizioni Generali (“CG”), purché sia stata presentata almeno un’Offerta valida nel corso della procedura. Resta espressamente inteso che, nelle 1 Euro Auctions, il perfezionamento dell’Accordo vincolante è valido ed efficace indipendentemente dall’importo della Puntata massima, anche qualora questa sia pari a Euro 1 (uno) o comunque di importo simbolico o significativamente inferiore al valore stimato del Veicolo.",
+      "word_diff": "Nelle 1 Euro Auctions, [-l’Aggiudicazione-]{+l’Accordo+} [-avviene-]{+vincolante si perfeziona+} in favore dell’Offerente che abbia formulato la Puntata massima al termine dell’Asta, secondo le modalità previste dalle Condizioni Generali (“CG”), purché sia stata presentata almeno un’Offerta valida nel corso della procedura. Resta espressamente inteso che, nelle 1 Euro Auctions, [-l’Aggiudicazione-]{+il perfezionamento dell’Accordo vincolante+} è [-valida-]{+valido+} ed efficace indipendentemente dall’importo della Puntata [-finale,-]{+massima,+} anche qualora questa sia pari a Euro 1 (uno) o comunque di importo simbolico o significativamente inferiore al valore stimato del Veicolo.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c08",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 20,
+      "new_idx": 20,
+      "prev_key": "2.3",
+      "new_key": "2.3",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "In presenza di almeno un’Offerta valida, l’Aggiudicazione comporta la conclusione del Contratto secondo la disciplina generale prevista dalle CG, fermo restando quanto specificamente previsto nelle presenti Condizioni Particolari. L’Offerente aggiudicatario e il Venditore riconoscono e accettano che il meccanismo competitivo dell’Asta costituisce elemento essenziale per la determinazione del prezzo, con conseguente esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del prezzo di aggiudicazione.",
+      "new_markup": "In presenza di almeno un’Offerta valida, si perfeziona l’Accordo vincolante secondo la disciplina generale prevista dalle CG, fermo restando quanto specificamente previsto nelle presenti Condizioni Particolari. L’Acquirente e il Venditore riconoscono e accettano che il meccanismo competitivo dell’Asta costituisce elemento essenziale per la determinazione del prezzo, con conseguente esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente.",
+      "word_diff": "In presenza di almeno un’Offerta valida, [-l’Aggiudicazione-]{+si+} [-comporta-]{+perfeziona+} [-la-]{+l’Accordo+} [-conclusione del Contratto-]{+vincolante+} secondo la disciplina generale prevista dalle CG, fermo restando quanto specificamente previsto nelle presenti Condizioni Particolari. [-L’Offerente aggiudicatario-]{+L’Acquirente+} e il Venditore riconoscono e accettano che il meccanismo competitivo dell’Asta costituisce elemento essenziale per la determinazione del prezzo, con conseguente esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del [-prezzo-]{+Prezzo+} di [-aggiudicazione.-]{+vendita all’Acquirente.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c09",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 21,
+      "new_idx": 21,
+      "prev_key": "2.4",
+      "new_key": "2.4",
+      "article": "2",
+      "anchor_prev_idx": null,
+      "prev_markup": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcuna Aggiudicazione ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
+      "new_markup": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo Vincolante ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
+      "word_diff": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo Vincolante+} ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c10",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 25,
+      "new_idx": 25,
+      "prev_key": "3.1",
+      "new_key": "3.1",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "Nell’ambito delle 1 Euro Auctions, e in deroga al meccanismo del Prezzo di riserva (PR) previsto dalle Condizioni Generali, Fleequid garantisce al Venditore, in presenza di almeno un’Offerta valida, un incasso netto non inferiore al Prezzo minimo di impegno alla vendita (PMIV) indicato per il Veicolo ai sensi delle CG.",
+      "new_markup": "Nell’ambito delle 1 Euro Auctions eseguite secondo il Modello di Vendita in commissione, e in deroga al meccanismo del Prezzo di riserva (PR) previsto dalle Condizioni Generali, Fleequid garantisce al Venditore, in presenza di almeno un’Offerta valida, un incasso netto, pari al Prezzo di vendita all’Acquirente al netto delle sole Commissioni a carico del Venditore, non inferiore al Prezzo minimo di impegno alla vendita (PMIV) indicato per il Veicolo ai sensi delle CG.",
+      "word_diff": "Nell’ambito delle 1 Euro [-Auctions,-]{+Auctions eseguite secondo il Modello di Vendita in commissione,+} e in deroga al meccanismo del Prezzo di riserva (PR) previsto dalle Condizioni Generali, Fleequid garantisce al Venditore, in presenza di almeno un’Offerta valida, un incasso {+netto, pari al Prezzo di vendita all’Acquirente al +}netto{+ delle sole Commissioni a carico del Venditore,+} non inferiore al Prezzo minimo di impegno alla vendita (PMIV) indicato per il Veicolo ai sensi delle CG.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c11",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 26,
+      "new_idx": 26,
+      "prev_key": "3.2",
+      "new_key": "3.2",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "Qualora il Prezzo di aggiudicazione risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato secondo le modalità previste dalle CG e dal Tariffario applicabile, risulti pari al PMIV. Qualora invece il Prezzo di aggiudicazione sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.",
+      "new_markup": "l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.",
+      "word_diff": "[-Qualora-]{+l’incasso+} [-il Prezzo-]{+netto+} di [-aggiudicazione-]{+cui all’art. 3.1+} risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato [-secondo-]{+ai+} [-le-]{+sensi+} [-modalità-]{+dell’art.+} [-previste dalle CG e dal Tariffario applicabile,-]{+3.1,+} risulti pari al PMIV. Qualora invece [-il-]{+l’incasso+} [-Prezzo di aggiudicazione-]{+netto+} sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.{+ La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c12",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 28,
+      "new_idx": 28,
+      "prev_key": "3.4",
+      "new_key": "3.4",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "In assenza di Offerte valide e, conseguentemente, in caso di Asta deserta, non si perfezionerà alcuna Aggiudicazione ai sensi delle CG e non sorgerà in capo a Fleequid alcun obbligo di acquisto del Veicolo né alcun obbligo di integrazione economica a favore del Venditore.",
+      "new_markup": "In assenza di Offerte valide e, conseguentemente, in caso di Asta deserta, non si perfezionerà alcun Accordo vincolante ai sensi delle CG e non sorgerà in capo a Fleequid alcun obbligo di acquisto del Veicolo né alcun obbligo di integrazione economica a favore del Venditore.",
+      "word_diff": "In assenza di Offerte valide e, conseguentemente, in caso di Asta deserta, non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo vincolante+} ai sensi delle CG e non sorgerà in capo a Fleequid alcun obbligo di acquisto del Veicolo né alcun obbligo di integrazione economica a favore del Venditore.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c13",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 30,
+      "new_idx": 30,
+      "prev_key": "3.6",
+      "new_key": "3.6",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "La garanzia di cui al presente articolo costituisce un impegno contrattuale interno, accessorio e condizionato, limitato alla singola Asta qualificata come 1 Euro Auction e non integra promessa al pubblico, né attività assicurativa, né costituisce impegno generale o permanente di acquisto da parte di Fleequid. In ogni caso, l’erogazione dell’eventuale integrazione economica potrà avvenire solo successivamente alla definizione del rapporto con l’Acquirente, ivi inclusa la verifica dell’effettivo incasso delle somme dovute o dell’esito delle procedure di gestione dell’inadempimento previste dalle CG.",
+      "new_markup": "La garanzia di cui al presente articolo costituisce un impegno contrattuale interno, accessorio e condizionato, limitato alla singola Asta qualificata come 1 Euro Auction e non integra promessa al pubblico, né attività assicurativa, né costituisce impegno generale o permanente di acquisto da parte di Fleequid. In ogni caso, l’erogazione dell’eventuale integrazione economica potrà avvenire solo successivamente alla definizione del rapporto con l’Acquirente, ivi inclusa la verifica dell’effettivo incasso delle somme dovute o dell’esito delle procedure di gestione dell’inadempimento previste dalle CG. In caso di Annullamento della vendita e di successiva vendita del Veicolo ad altro Offerente ai sensi dell’art. 10.5 delle CG, la garanzia opera, alle condizioni previste dal presente articolo, esclusivamente con riferimento alla nuova vendita.",
+      "word_diff": "La garanzia di cui al presente articolo costituisce un impegno contrattuale interno, accessorio e condizionato, limitato alla singola Asta qualificata come 1 Euro Auction e non integra promessa al pubblico, né attività assicurativa, né costituisce impegno generale o permanente di acquisto da parte di Fleequid. In ogni caso, l’erogazione dell’eventuale integrazione economica potrà avvenire solo successivamente alla definizione del rapporto con l’Acquirente, ivi inclusa la verifica dell’effettivo incasso delle somme dovute o dell’esito delle procedure di gestione dell’inadempimento previste dalle CG.{+ In caso di Annullamento della vendita e di successiva vendita del Veicolo ad altro Offerente ai sensi dell’art. 10.5 delle CG, la garanzia opera, alle condizioni previste dal presente articolo, esclusivamente con riferimento alla nuova vendita.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c14",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 32,
+      "new_idx": 32,
+      "prev_key": "3.8",
+      "new_key": "3.8",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "Resta ferma la facoltà di Fleequid di sospendere, annullare o dichiarare non valida l’Asta nei casi previsti dalle CG; in tali ipotesi non troverà applicazione la garanzia di cui al presente articolo. La garanzia non troverà altresì applicazione in caso di comportamenti abusivi, fraudolenti o non conformi alle CG da parte del Venditore o di soggetti a esso riconducibili, inclusa, a titolo esemplificativo, la partecipazione diretta o indiretta all’Asta al fine di influenzarne l’esito.",
+      "new_markup": "Resta ferma la facoltà di Fleequid di sospendere, annullare o dichiarare non valida l’Asta nei casi previsti dalle CG; in tali ipotesi non troverà applicazione la garanzia di cui al presente articolo, fermo quanto previsto dall’art. 6.2. La garanzia non troverà altresì applicazione in caso di comportamenti abusivi, fraudolenti o non conformi alle CG da parte del Venditore o di soggetti a esso riconducibili, inclusa, a titolo esemplificativo, la partecipazione diretta o indiretta all’Asta al fine di influenzarne l’esito.",
+      "word_diff": "Resta ferma la facoltà di Fleequid di sospendere, annullare o dichiarare non valida l’Asta nei casi previsti dalle CG; in tali ipotesi non troverà applicazione la garanzia di cui al presente [-articolo.-]{+articolo, fermo quanto previsto dall’art. 6.2.+} La garanzia non troverà altresì applicazione in caso di comportamenti abusivi, fraudolenti o non conformi alle CG da parte del Venditore o di soggetti a esso riconducibili, inclusa, a titolo esemplificativo, la partecipazione diretta o indiretta all’Asta al fine di influenzarne l’esito.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c15",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 35,
+      "new_idx": 35,
+      "prev_key": "4.1",
+      "new_key": "4.1",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "Alle 1 Euro Auctions si applica, in via generale, la struttura commissionale ordinaria prevista dal Tariffario Fleequid, come di volta in volta vigente e pubblicato sul Marketplace.",
+      "new_markup": "Alle 1 Euro Auctions eseguite secondo il Modello di Vendita in commissione si applica, in via generale, la struttura commissionale ordinaria prevista dal Tariffario Fleequid, come di volta in volta vigente e pubblicato sul Marketplace.",
+      "word_diff": "Alle 1 Euro Auctions{+ eseguite secondo il Modello di Vendita in commissione+} si applica, in via generale, la struttura commissionale ordinaria prevista dal Tariffario Fleequid, come di volta in volta vigente e pubblicato sul Marketplace.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c16",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 38,
+      "new_idx": 38,
+      "prev_key": "4.4",
+      "new_key": "4.4",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "All’Acquirente sono applicate le commissioni previste ai sensi dei commi che precedono, ivi inclusa, ove prevista, la commissione fissa (“flat buyer fee”) e/o la commissione percentuale sul Prezzo di aggiudicazione.",
+      "new_markup": "All’Acquirente sono applicate le Commissioni previste ai sensi dei commi che precedono, ivi inclusa, ove prevista, la commissione fissa (“flat buyer fee”) e/o la commissione percentuale sul Prezzo di vendita all’Acquirente.",
+      "word_diff": "All’Acquirente sono applicate le [-commissioni-]{+Commissioni+} previste ai sensi dei commi che precedono, ivi inclusa, ove prevista, la commissione fissa (“flat buyer fee”) e/o la commissione percentuale sul Prezzo di [-aggiudicazione.-]{+vendita all’Acquirente.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c17",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 40,
+      "new_idx": 40,
+      "prev_key": "4.6",
+      "new_key": "4.6",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "Le Commissioni maturano per effetto dell’Aggiudicazione e restano soggette alla disciplina generale delle Condizioni Generali in materia di pagamento, fatturazione e inadempimento, salvo quanto diversamente previsto nelle presenti Condizioni Particolari.",
+      "new_markup": "Le Commissioni maturano e sono dovute secondo quanto previsto dall’art. 12.4 delle CG e restano soggette alla disciplina generale delle Condizioni Generali in materia di pagamento, fatturazione e inadempimento, salvo quanto diversamente previsto nelle presenti Condizioni Particolari.",
+      "word_diff": "Le Commissioni maturano [-per-]{+e+} [-effetto-]{+sono+} [-dell’Aggiudicazione-]{+dovute secondo quanto previsto dall’art. 12.4 delle CG+} e restano soggette alla disciplina generale delle Condizioni Generali in materia di pagamento, fatturazione e inadempimento, salvo quanto diversamente previsto nelle presenti Condizioni Particolari.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c18",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 43,
+      "new_idx": 43,
+      "prev_key": "5.1",
+      "new_key": "5.1",
+      "article": "5",
+      "anchor_prev_idx": null,
+      "prev_markup": "Salvo diversa indicazione nella scheda dell’Asta, alle 1 Euro Auctions si applicano integralmente le disposizioni delle Condizioni Generali in materia di Deposito cauzionale, modalità di pagamento del Prezzo di aggiudicazione e termini di adempimento dell’Acquirente.",
+      "new_markup": "Salvo diversa indicazione nella scheda dell’Asta, alle 1 Euro Auctions si applicano integralmente le disposizioni delle Condizioni Generali in materia di Deposito cauzionale, modalità di pagamento dell’Importo Totale Dovuto e termini di adempimento dell’Acquirente.",
+      "word_diff": "Salvo diversa indicazione nella scheda dell’Asta, alle 1 Euro Auctions si applicano integralmente le disposizioni delle Condizioni Generali in materia di Deposito cauzionale, modalità di pagamento [-del-]{+dell’Importo+} [-Prezzo-]{+Totale+} [-di aggiudicazione-]{+Dovuto+} e termini di adempimento dell’Acquirente.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c19",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 45,
+      "new_idx": 45,
+      "prev_key": "5.3",
+      "new_key": "5.3",
+      "article": "5",
+      "anchor_prev_idx": null,
+      "prev_markup": "In caso di mancato o ritardato pagamento da parte dell’Acquirente, trovano applicazione le disposizioni delle CG in materia di inadempimento, risoluzione, penali, eventuale incameramento del Deposito cauzionale e risarcimento del danno.",
+      "new_markup": "In caso di mancato o ritardato pagamento da parte dell’Acquirente, trovano applicazione le disposizioni delle CG in materia di inadempimento, risoluzione, Annullamento della vendita, penali, trattenimento e imputazione del Deposito cauzionale ai sensi dell’art. 6.3 delle CG e risarcimento del danno.",
+      "word_diff": "In caso di mancato o ritardato pagamento da parte dell’Acquirente, trovano applicazione le disposizioni delle CG in materia di inadempimento, risoluzione, {+Annullamento della vendita, +}penali, [-eventuale-]{+trattenimento+} [-incameramento-]{+e imputazione+} del Deposito cauzionale{+ ai sensi dell’art. 6.3 delle CG+} e risarcimento del danno.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c20",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 51,
+      "new_idx": 51,
+      "prev_key": "6.2",
+      "new_key": "6.2",
+      "article": "6",
+      "anchor_prev_idx": null,
+      "prev_markup": "Nei casi di sospensione o annullamento dell’Asta ai sensi del comma precedente, non troveranno applicazione le disposizioni relative all’Aggiudicazione e la garanzia economica di cui all’art. 3 non maturerà né sarà dovuta, salvo il caso in cui l’annullamento sia imputabile a dolo o colpa grave di Fleequid, fermo restando quanto previsto dalle Condizioni Generali in materia di responsabilità di Fleequid.",
+      "new_markup": "Nei casi di sospensione o annullamento dell’Asta ai sensi del comma precedente, non troveranno applicazione le disposizioni relative al perfezionamento dell’Accordo vincolante e la garanzia economica di cui all’art. 3 non maturerà né sarà dovuta, ferma la responsabilità di Fleequid per dolo o colpa grave e quanto previsto dalle Condizioni Generali in materia di responsabilità di Fleequid.",
+      "word_diff": "Nei casi di sospensione o annullamento dell’Asta ai sensi del comma precedente, non troveranno applicazione le disposizioni relative [-all’Aggiudicazione-]{+al perfezionamento dell’Accordo vincolante+} e la garanzia economica di cui all’art. 3 non maturerà né sarà dovuta, [-salvo-]{+ferma+} [-il-]{+la+} [-caso-]{+responsabilità+} [-in-]{+di+} [-cui-]{+Fleequid+} [-l’annullamento sia imputabile a-]{+per+} dolo o colpa grave [-di Fleequid, fermo restando-]{+e+} quanto previsto dalle Condizioni Generali in materia di responsabilità di Fleequid.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c21",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 53,
+      "new_idx": 53,
+      "prev_key": "6.4",
+      "new_key": "6.4",
+      "article": "6",
+      "anchor_prev_idx": null,
+      "prev_markup": "Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari, restano integralmente applicabili le Condizioni Generali, le eventuali Condizioni specifiche e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. 3.3 delle CG.",
+      "new_markup": "Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari, restano integralmente applicabili le Condizioni Generali, le eventuali Condizioni Specifiche e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. 4.3 delle CG.",
+      "word_diff": "Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari, restano integralmente applicabili le Condizioni Generali, le eventuali Condizioni [-specifiche-]{+Specifiche+} e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. [-3.3-]{+4.3+} delle CG.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c22",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 55,
+      "prev_key": null,
+      "new_key": "6.5~0+e1",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "",
+      "word_diff": "",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c23",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 56,
+      "prev_key": null,
+      "new_key": "6.5~0+e2",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "",
+      "word_diff": "",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c24",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 57,
+      "prev_key": null,
+      "new_key": "6.5~0",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "<i>*****</i>",
+      "word_diff": "{+*****+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c25",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 58,
+      "prev_key": null,
+      "new_key": "6.5~1",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "<b><i>Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c.</i></b>",
+      "word_diff": "{+Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 1,
+        "u": 0
+      }
+    },
+    {
+      "id": "c26",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 59,
+      "prev_key": null,
+      "new_key": "6.5~2",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "Ai sensi e per gli effetti degli artt. 1341 e 1342 c.c., l’Utente dichiara espressamente di aver letto, compreso e specificamente approvato le seguenti clausole delle presenti Condizioni Particolari:",
+      "word_diff": "{+Ai sensi e per gli effetti degli artt. 1341 e 1342 c.c., l’Utente dichiara espressamente di aver letto, compreso e specificamente approvato le seguenti clausole delle presenti Condizioni Particolari:+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c27",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 60,
+      "prev_key": null,
+      "new_key": "6.5~3",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "<b>(a) nella qualità di Venditore:</b> art. 2.3, secondo periodo (riconoscimento del meccanismo competitivo dell’Asta quale elemento essenziale per la determinazione del prezzo ed esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente); art. 3.6, secondo periodo (erogazione dell’eventuale integrazione economica solo successivamente alla definizione del rapporto con l’Acquirente); art. 3.7, secondo periodo (non cedibilità e non trasferibilità della garanzia); art. 3.8, primo periodo (inapplicabilità della garanzia in caso di sospensione, annullamento o dichiarazione di non validità dell’Asta da parte di Fleequid nei casi previsti dalle CG); art. 6.1 (facoltà di Fleequid di sospendere, prorogare, annullare o dichiarare non valida una 1 Euro Auction, anche per esigenze organizzative debitamente motivate); art. 6.2 (effetti della sospensione o dell’annullamento dell’Asta sul perfezionamento dell’Accordo vincolante e sulla maturazione della garanzia economica, ferma la responsabilità di Fleequid per dolo o colpa grave);",
+      "word_diff": "{+(a) nella qualità di Venditore: art. 2.3, secondo periodo (riconoscimento del meccanismo competitivo dell’Asta quale elemento essenziale per la determinazione del prezzo ed esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente); art. 3.6, secondo periodo (erogazione dell’eventuale integrazione economica solo successivamente alla definizione del rapporto con l’Acquirente); art. 3.7, secondo periodo (non cedibilità e non trasferibilità della garanzia); art. 3.8, primo periodo (inapplicabilità della garanzia in caso di sospensione, annullamento o dichiarazione di non validità dell’Asta da parte di Fleequid nei casi previsti dalle CG); art. 6.1 (facoltà di Fleequid di sospendere, prorogare, annullare o dichiarare non valida una 1 Euro Auction, anche per esigenze organizzative debitamente motivate); art. 6.2 (effetti della sospensione o dell’annullamento dell’Asta sul perfezionamento dell’Accordo vincolante e sulla maturazione della garanzia economica, ferma la responsabilità di Fleequid per dolo o colpa grave);+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c28",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 61,
+      "prev_key": null,
+      "new_key": "6.5~4",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "<b>(b) nella qualità di Offerente o Acquirente:</b> art. 2.3, secondo periodo (riconoscimento del meccanismo competitivo dell’Asta quale elemento essenziale per la determinazione del prezzo ed esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente); art. 6.1 (facoltà di Fleequid di sospendere, prorogare, annullare o dichiarare non valida una 1 Euro Auction, anche per esigenze organizzative debitamente motivate); art. 6.2 (effetti della sospensione o dell’annullamento dell’Asta sul perfezionamento dell’Accordo vincolante, ferma la responsabilità di Fleequid per dolo o colpa grave).",
+      "word_diff": "{+(b) nella qualità di Offerente o Acquirente: art. 2.3, secondo periodo (riconoscimento del meccanismo competitivo dell’Asta quale elemento essenziale per la determinazione del prezzo ed esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente); art. 6.1 (facoltà di Fleequid di sospendere, prorogare, annullare o dichiarare non valida una 1 Euro Auction, anche per esigenze organizzative debitamente motivate); art. 6.2 (effetti della sospensione o dell’annullamento dell’Asta sul perfezionamento dell’Accordo vincolante, ferma la responsabilità di Fleequid per dolo o colpa grave).+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c29",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 62,
+      "prev_key": null,
+      "new_key": "6.5~5",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "La presente approvazione è autonoma e distinta rispetto all’approvazione specifica delle clausole delle CG, che non la sostituisce né la assorbe.",
+      "word_diff": "{+La presente approvazione è autonoma e distinta rispetto all’approvazione specifica delle clausole delle CG, che non la sostituisce né la assorbe.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c30",
+      "kind": "insert",
+      "toc": false,
+      "prev_idx": null,
+      "new_idx": 63,
+      "prev_key": null,
+      "new_key": "6.5~6+e1",
+      "article": "6",
+      "anchor_prev_idx": 54,
+      "prev_markup": null,
+      "new_markup": "",
+      "word_diff": "",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    }
+  ],
+  "highlighted_unchanged": [],
+  "typo_candidates": []
+}

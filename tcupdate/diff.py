@@ -12,7 +12,16 @@ from pathlib import Path
 
 from .docx_model import Docx, fmt_signature, strip_markup
 
-VERSION_RE = re.compile(r"(?<![A-Za-z0-9])(?:[A-Z]{2,5}-)?F\d{4}_\d{4}(?![0-9])")
+# due forme di codice versione: «CSFC-F0002_2026» (T&C Generali e VAS) e «Vers_2_2026» / «Versione_2_2026»
+# (1 Euro Auctions: la prima nell'intestazione, la seconda nel nome del file)
+VERSION_RE = re.compile(r"(?<![A-Za-z0-9])(?:(?:[A-Z]{2,5}-)?F\d{4}_\d{4}|Vers(?:ione)?_\d+_\d{4})(?![0-9])")
+
+
+def same_form(found: str, new_code: str) -> str:
+    """Il nuovo codice scritto come quello trovato: «Versione_1_2026» con «Vers_2_2026» dà «Versione_2_2026»."""
+    if found.startswith("Vers") and new_code.startswith("Vers"):
+        return found.split("_", 1)[0] + "_" + new_code.split("_", 1)[1]
+    return new_code
 REF_RE = re.compile(r"\b(?:art(?:icol[oi])?\.?|artt\.)\s*(\d+(?:\.\d+)*)", re.I)
 
 

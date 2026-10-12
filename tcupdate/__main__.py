@@ -67,7 +67,7 @@ class Ctx:
             stem = stem[:-5]
         vp, vn = self.changes["version_prev"], self.changes["version_new"]
         if vn:
-            stem, n = diff_mod.VERSION_RE.subn(vn[0], stem)
+            stem, n = diff_mod.VERSION_RE.subn(lambda m: diff_mod.same_form(m.group(0), vn[0]), stem)
             if not n:
                 raise SystemExit(f"Nome file senza codice versione: {prev}")
         stem = re.sub(rf"^{self.v_from}_", f"{self.v_to}_", stem)
@@ -106,8 +106,8 @@ def _general_ref(lang: str) -> Path | None:
     if lang not in docs:
         return None
     out = ROOT / "work" / "refs" / f"general_{lang}.txt"
-    if not out.exists() or out.stat().st_mtime < docs[lang].stat().st_mtime:
-        brief_mod.general_text_dump(docs[lang], out)
+    # sempre rigenerato: le date dei file non dicono quale versione contiene (in un checkout nuovo sono tutte uguali)
+    brief_mod.general_text_dump(docs[lang], out)
     return out.relative_to(ROOT)
 
 
