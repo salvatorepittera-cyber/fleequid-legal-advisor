@@ -1,4 +1,5 @@
 import json
+import re
 import zipfile
 
 import pytest
@@ -209,3 +210,126 @@ def test_working_copy_for_word_drops_the_read_only_recommendation(tmp_path):
         assert b"<w:writeProtection" not in b.read("word/settings.xml")
         assert a.namelist() == b.namelist()
         assert a.read("word/document.xml") == b.read("word/document.xml")
+
+
+# ---------- rami d'errore: controllo delle traduzioni ----------
+def test_check_chunk_reports_invalid_markup_and_anomalous_length(mini_work):
+    work, write = mini_work
+    units = json.loads((work / "units.json").read_text())
+    units[0]["markup"] = "Lorem ipsum dolor sit amet " * 4
+    (work / "units.json").write_text(json.dumps(units))
+    errs = "\n".join(write({"u1": "<b>Lorem"}))
+    assert "markup non valido" in errs
+    assert "lunghezza anomala" in "\n".join(write({"u1": "Lorem"}))
+
+
+# ---------- rami d'errore: costruzione e verifica del Word ----------
+def _rewrite_part(docx_path, name, edit):
+    """Riscrive una parte dello zip (o la aggiunge se `edit` riceve None) per simulare un Word manomesso."""
+    with zipfile.ZipFile(docx_path) as z:
+        parts = {i.filename: z.read(i.filename) for i in z.infolist()}
+    parts[name] = edit(parts.get(name))
+    with zipfile.ZipFile(docx_path, "w", zipfile.ZIP_DEFLATED) as z:
+        for n, data in parts.items():
+            z.writestr(n, data)
+
+
+def test_build_stops_when_toc_title_or_header_label_is_not_found(v9, monkeypatch):
+    real = rebuild.replace_across_runs
+    monkeypatch.setattr(rebuild, "replace_across_runs", lambda p, old, new: False if old == "Versione nr." else real(p, old, new))
+    with pytest.raises(SystemExit, match="Header"):
+        rebuild.build_docx(v9, "EN")
+    monkeypatch.setattr(rebuild, "replace_across_runs", lambda p, old, new: False)
+    with pytest.raises(SystemExit, match="Indice: titolo dell'art"):
+        rebuild.build_docx(v9, "EN")
+
+
+def test_verify_reports_a_word_with_a_different_number_of_paragraphs(v9):
+    out, _ = rebuild.build_docx(v9, "EN")
+    _rewrite_part(out, "word/document.xml", lambda x: x.replace(b"<w:body>", b"<w:body><w:p/>", 1))
+    errs = rebuild.verify_docx(v9, "EN")
+    assert len(errs) == 1 and errs[0].startswith("paragrafi: IT")
+
+
+def test_verify_reports_header_highlight_unlocalized_links_and_foreign_parts(v9):
+    out, _ = rebuild.build_docx(v9, "EN")
+    _rewrite_part(out, "word/document.xml", lambda x: x.replace(b"<w:r><w:rPr>", b'<w:r><w:rPr><w:highlight w:val="yellow"/>', 1))
+    _rewrite_part(out, rebuild.RELS, lambda x: x.replace(b"fleequid.com/en/", b"fleequid.com/it/", 1))
+    _rewrite_part(out, "word/extra.xml", lambda x: b"<x/>")
+    for header in [n for n in zipfile.ZipFile(out).namelist() if n.startswith("word/header")]:
+        _rewrite_part(out, header, lambda x: x.replace(b"Version no", b"Versione nr."))
+    errs = "\n".join(rebuild.verify_docx(v9, "EN"))
+    for expected in ("header: atteso «Version no F0009_2026»", "testo evidenziato",
+                     "link non localizzati: ['fleequid.com/it/']", "parti zip diverse dall'IT"):
+        assert expected in errs
+
+
+def test_verify_reports_lost_hyperlinks_and_changed_unrelated_parts(v9):
+    out, _ = rebuild.build_docx(v9, "EN")
+    _rewrite_part(out, "word/document.xml", lambda x: re.sub(rb"<w:hyperlink\b[^>]*>(.*?)</w:hyperlink>", rb"\1", x, flags=re.S))
+    _rewrite_part(out, "word/settings.xml", lambda x: x + b" ")
+    errs = "\n".join(rebuild.verify_docx(v9, "EN"))
+    assert "collegamenti ipertestuali persi" in errs and "parte modificata inattesa: word/settings.xml" in errs
+
+
+def test_cli_build_refuses_invalid_translations(v9, monkeypatch):
+    monkeypatch.setattr("tcupdate.__main__.Ctx", lambda a: v9)
+    (v9.work / "rb" / "EN" / "tr_k02.json").write_text("{")
+    with pytest.raises(SystemExit, match="Traduzioni non valide"):
+        rebuild.main(["build", "--lang", "EN", *CLI])
+    assert not v9.out_name("EN").exists()
+
+
+# ---------- link ipertestuali nel paragrafo tradotto ----------
+def _paragraph(body_runs, link_text=None):
+    from lxml import etree
+    link = f'<w:hyperlink><w:r><w:t>{link_text}</w:t></w:r></w:hyperlink>' if link_text else ""
+    xml = f'<w:p xmlns:w="{W}"><w:r><w:t>{body_runs}</w:t></w:r>{link}</w:p>'
+    return etree.fromstring(xml)
+
+
+def _texts(p):
+    return ["".join(t.text or "" for t in el.iter(f"{{{W}}}t")) for el in p]
+
+
+def test_set_markup_keeps_the_hyperlink_on_its_text_inside_the_translation():
+    p = _paragraph("vecchio", "www.fleequid.com")
+    rebuild._set_markup(p, "see www.fleequid.com now")
+    assert [c.tag.split("}")[1] for c in p] == ["r", "hyperlink", "r"]
+    assert _texts(p) == ["see ", "www.fleequid.com", " now"]
+
+
+def test_set_markup_link_at_start_and_paragraph_made_only_of_the_link():
+    p = _paragraph("vecchio", "www.fleequid.com")
+    rebuild._set_markup(p, "www.fleequid.com is ours")
+    assert _texts(p) == ["www.fleequid.com", " is ours"]
+    only = _paragraph("", "www.fleequid.com")
+    rebuild._set_markup(only, "www.fleequid.com")
+    assert _texts(only) == ["www.fleequid.com"] and only[0].tag.endswith("hyperlink")
+
+
+def test_set_markup_fails_when_the_link_is_missing_from_the_translation():
+    with pytest.raises(ValueError, match="link «www.fleequid.com» non ritrovato"):
+        rebuild._set_markup(_paragraph("vecchio", "www.fleequid.com"), "no link here")
+
+
+def test_verify_reports_paragraph_properties_numbering_and_character_formats(v9):
+    out, _ = rebuild.build_docx(v9, "EN")
+    _rewrite_part(out, "word/document.xml", lambda x: x.replace(b"<w:pPr>", b'<w:pPr><w:jc w:val="right"/>', 1)
+                  .replace(b"<w:numPr>", b"<w:numPr><w:ilvl w:val=\"7\"/>", 1)
+                  .replace(b"<w:r><w:rPr>", b"<w:r><w:rPr><w:i/><w:b/><w:u w:val=\"double\"/>", 1))
+    errs = "\n".join(rebuild.verify_docx(v9, "EN"))
+    for expected in ("proprietà di paragrafo diverse dall'IT", "B/I/U diverso dall'IT"):
+        assert expected in errs
+
+
+def test_verify_reports_a_paragraph_emptied_in_the_word(v9):
+    out, _ = rebuild.build_docx(v9, "EN")
+    word = Docx(out)
+    body = word.paras[40]
+    assert not body.empty
+    for t in list(body.el.iter(f"{{{W}}}t")):
+        t.text = ""
+    word.mark_dirty("word/document.xml")
+    word.save(out)
+    assert any("vuoto/non vuoto diverso dall'IT" in e for e in rebuild.verify_docx(v9, "EN"))
