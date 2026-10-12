@@ -10,7 +10,7 @@
   "c07": "Nas 1 Euro Auctions, o Acordo vinculativo forma-se a favor do Licitante que tenha formulado a Oferta Máxima no termo do Leilão, segundo as modalidades previstas pelas Condições Gerais («CG»), desde que tenha sido apresentada pelo menos uma Oferta válida no decurso do procedimento. Fica expressamente entendido que, nas 1 Euro Auctions, a formação do Acordo vinculativo é válida e eficaz independentemente do montante da Oferta Máxima, mesmo quando esta seja igual a um Euro (um) ou seja, em qualquer caso, de um montante simbólico ou significativamente inferior ao valor estimado do Veículo.",
   "c08": "Na presença de pelo menos uma Oferta válida, forma-se o Acordo vinculativo segundo a disciplina geral prevista pelas CG, sem prejuízo do que está especificamente previsto nas presentes Condições Particulares. O Comprador e o Vendedor reconhecem e aceitam que o mecanismo competitivo do Leilão constitui um elemento essencial para a determinação do preço, com a consequente exclusão, dentro dos limites permitidos pela lei, de contestações relativas à adequação, conveniência ou proporcionalidade do Preço de venda ao Comprador.",
   "c09": "Caso, no termo da 1 Euro Auction, não tenha sido recebida qualquer Oferta válida, o Leilão considerar-se-á deserto e não se formará qualquer Acordo vinculativo nos termos das CG; consequentemente, não surgirá para a Fleequid, para o Vendedor ou para terceiros qualquer obrigação de aquisição do Veículo.",
-  "c10": "No âmbito das 1 Euro Auctions executadas segundo o Modelo de Venda à comissão, e em derrogação do mecanismo do Preço de reserva (PR) previsto pelas Condições Gerais, a Fleequid garante ao Vendedor, na presença de pelo menos uma Oferta válida, um encaixe líquido, igual ao Preço de venda ao Comprador deduzido apenas das Comissões a cargo do Vendedor, não inferior ao Preço mínimo de compromisso de venda (PMIV) indicado para o Veículo nos termos das CG.",
+  "c10": "No âmbito das 1 Euro Auctions executadas segundo o Modelo de Venda à comissão, e em derrogação do mecanismo do Preço de reserva (PR) previsto pelas Condições Gerais, a Fleequid garante ao Vendedor, na presença de pelo menos uma Oferta válida, um encaixe líquido, igual ao Preço de venda ao Comprador após dedução apenas das Comissões a cargo do Vendedor, não inferior ao Preço mínimo de compromisso de venda (PMIV) indicado para o Veículo nos termos das CG.",
   "c11": "Caso o encaixe líquido a que se refere o art. 3.1 resultante no termo da 1 Euro Auction seja inferior ao PMIV, a Fleequid compromete-se a pagar ao Vendedor a diferença necessária para que o encaixe líquido devido ao Vendedor, determinado nos termos do art. 3.1, resulte igual ao PMIV. Caso, ao invés, o encaixe líquido seja igual ou superior ao PMIV, ao Vendedor caberá integralmente o respetivo maior encaixe, segundo a disciplina ordinária das CG. A eventual integração económica tem natureza meramente compensatória e não constitui, de modo algum, aquisição direta ou indireta do Veículo por parte da Fleequid. A garantia não cobre as Tarifas, as penalidades, os reembolsos de despesas nem os demais montantes eventualmente devidos pelo Vendedor à Fleequid, que se mantêm regulados pelas CG, pelo Tarifário e pelas demais fontes contratuais aplicáveis e podem ser deduzidos ou compensados segundo a disciplina geral.",
   "c12": "Na ausência de Ofertas válidas e, consequentemente, em caso de Leilão deserto, não se formará qualquer Acordo vinculativo nos termos das CG e não surgirá para a Fleequid qualquer obrigação de aquisição do Veículo nem qualquer obrigação de integração económica a favor do Vendedor.",
   "c13": "A garantia a que se refere o presente artigo constitui um compromisso contratual interno, acessório e condicionado, limitado ao Leilão individual qualificado como 1 Euro Auction, e não integra promessa ao público, nem atividade seguradora, nem constitui compromisso geral ou permanente de aquisição por parte da Fleequid. Em qualquer caso, o desembolso da eventual integração económica apenas poderá ocorrer posteriormente à definição da relação com o Comprador, incluindo a verificação do efetivo recebimento das quantias devidas ou do resultado dos procedimentos de gestão do incumprimento previstos pelas CG. Em caso de Anulação da venda e de subsequente venda do Veículo a outro Licitante nos termos do art. 10.5 das CG, a garantia opera, nas condições previstas pelo presente artigo, exclusivamente com referência à nova venda.",
@@ -30,24 +30,96 @@
   "c29": "A presente aprovação é autónoma e distinta relativamente à aprovação específica das cláusulas das CG, que não a substitui nem a absorve."
  },
  "new_terms": [
-  {"it": "Accordo vincolante / perfezionamento, perfezionarsi dell'Accordo vincolante", "tr": "Acordo vinculativo / formação, formar-se", "why": "CG v9 PT (art. 1 Definições, art. 9.4, 10.5). Usato anche in c09 e c12 al posto del verbo v1 «perfetibilizará», perché la collocazione con Acordo vinculativo è quella delle CG v9."},
-  {"it": "Prezzo di vendita all'Acquirente", "tr": "Preço de venda ao Comprador", "why": "CG v9 PT; sostituisce «preço de adjudicação» della v1."},
-  {"it": "Importo Totale Dovuto", "tr": "Montante Total Devido", "why": "CG v9 PT."},
-  {"it": "Annullamento della vendita", "tr": "Anulação da venda", "why": "CG v9 PT."},
-  {"it": "Modello di Vendita in commissione", "tr": "Modelo de Venda à comissão", "why": "CG v9 PT (art. 17: «segundo o Modelo de Venda à comissão»)."},
-  {"it": "Condizioni particolari di vendita", "tr": "Condições particulares de venda (titolo: Condições Particulares de venda)", "why": "CG v9 PT; nel titolo maiuscole come nell'italiano v2."},
-  {"it": "Commissioni (maiuscolo) / Tariffe", "tr": "Comissões / Tarifas", "why": "CG v9 PT. «Tariffario» resta «Tarifário» come nella v1 (le CG v9 dicono «Tabela de Tarifas Fleequid»)."},
-  {"it": "Condizioni Specifiche", "tr": "Condições Específicas", "why": "CG v9 PT; nella v1 era «Condições específicas»."},
-  {"it": "fonti contrattuali applicabili", "tr": "fontes contratuais aplicáveis", "why": "CG v9 PT (art. 10.5)."},
-  {"it": "rimborsi spese", "tr": "reembolsos de despesas", "why": "CG v9 PT (definizione di Montante Total Devido)."},
-  {"it": "trattenimento e imputazione del Deposito cauzionale", "tr": "retenção e imputação do Depósito Caução", "why": "Nominalizzazione di «reter o Depósito caução e imputá-lo» dell'art. 6.3 CG v9 PT; grafia «Depósito Caução» della v1."},
-  {"it": "artt. … lett. d) / c.c.", "tr": "arts. … alínea d) / Código Civil italiano", "why": "«art.» come v1; plurale, lettera e codice come CG v9 PT."},
-  {"it": "Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c. (titolo e formula)", "tr": "Aprovação específica nos termos dos arts. 1341 e 1342 do Código Civil italiano; «Nos termos e para os efeitos dos artigos 1341 e 1342 … o Utilizador declara expressamente ter lido, compreendido e especificamente aprovado as seguintes cláusulas …»", "why": "Formula dell'art. 24.7 CG v9 PT, ripresa alla lettera (compreso «artigos» per esteso nella frase introduttiva)."},
-  {"it": "primo/secondo periodo", "tr": "primeiro/segundo período", "why": "CG v9 PT («nos termos do primeiro período», «segundo período do presente número»)."},
-  {"it": "specifiche condizioni economiche", "tr": "condições económicas específicas", "why": "Scelta nuova, parallela a «modalidades específicas» nello stesso periodo della v1."},
-  {"it": "al netto delle sole Commissioni a carico del Venditore", "tr": "deduzido apenas das Comissões a cargo do Vendedor", "why": "Scelta nuova; «Comissões a cargo do Vendedor» è delle CG v9 PT (art. 12.4)."},
-  {"it": "non cedibilità e non trasferibilità / inapplicabilità della garanzia", "tr": "não cedibilidade e não transferibilidade / inaplicabilidade da garantia", "why": "Nominalizzazioni dei termini v1 degli artt. 3.7 («não é cedível nem transferível») e 3.8 («não se aplicará»)."},
-  {"it": "maturazione della garanzia economica", "tr": "vencimento da garantia económica", "why": "Nominalizzazione del verbo v1 dell'art. 6.2 («não se vencerá»)."}
+  {
+   "it": "Accordo vincolante / perfezionamento, perfezionarsi dell'Accordo vincolante",
+   "tr": "Acordo vinculativo / formação, formar-se",
+   "why": "CG v9 PT (art. 1 Definições, art. 9.4, 10.5). Usato anche in c09 e c12 al posto del verbo v1 «perfetibilizará», perché la collocazione con Acordo vinculativo è quella delle CG v9."
+  },
+  {
+   "it": "Prezzo di vendita all'Acquirente",
+   "tr": "Preço de venda ao Comprador",
+   "why": "CG v9 PT; sostituisce «preço de adjudicação» della v1."
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Montante Total Devido",
+   "why": "CG v9 PT."
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Anulação da venda",
+   "why": "CG v9 PT."
+  },
+  {
+   "it": "Modello di Vendita in commissione",
+   "tr": "Modelo de Venda à comissão",
+   "why": "Forma costruita con i due termini delle CG v9 PT («Modelo de Venda» + «Venda à comissão»). Le CG v9 PT non contengono una forma composta analoga (né «Modelo de Venda à comissão» né «Modelo de Venda Dealer Sales»): parlano di «Modelo de Venda aplicável» e di «na Venda à comissão»."
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Condições particulares de venda (titolo: Condições Particulares de venda)",
+   "why": "CG v9 PT; nel titolo maiuscole come nell'italiano v2."
+  },
+  {
+   "it": "Commissioni (maiuscolo) / Tariffe",
+   "tr": "Comissões / Tarifas",
+   "why": "CG v9 PT. «Tariffario» resta «Tarifário» come nella v1 (le CG v9 dicono «Tabela de Tarifas Fleequid»)."
+  },
+  {
+   "it": "Condizioni Specifiche",
+   "tr": "Condições Específicas",
+   "why": "CG v9 PT; nella v1 era «Condições específicas»."
+  },
+  {
+   "it": "fonti contrattuali applicabili",
+   "tr": "fontes contratuais aplicáveis",
+   "why": "CG v9 PT (art. 10.5)."
+  },
+  {
+   "it": "rimborsi spese",
+   "tr": "reembolsos de despesas",
+   "why": "CG v9 PT (definizione di Montante Total Devido)."
+  },
+  {
+   "it": "trattenimento e imputazione del Deposito cauzionale",
+   "tr": "retenção e imputação do Depósito Caução",
+   "why": "Nominalizzazione di «reter o Depósito caução e imputá-lo» dell'art. 6.3 CG v9 PT; grafia «Depósito Caução» della v1."
+  },
+  {
+   "it": "artt. … lett. d) / c.c.",
+   "tr": "arts. … alínea d) / Código Civil italiano",
+   "why": "«art.» come v1; plurale, lettera e codice come CG v9 PT."
+  },
+  {
+   "it": "Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c. (titolo e formula)",
+   "tr": "Aprovação específica nos termos dos arts. 1341 e 1342 do Código Civil italiano; «Nos termos e para os efeitos dos artigos 1341 e 1342 … o Utilizador declara expressamente ter lido, compreendido e especificamente aprovado as seguintes cláusulas …»",
+   "why": "Formula dell'art. 24.7 CG v9 PT, ripresa alla lettera (compreso «artigos» per esteso nella frase introduttiva)."
+  },
+  {
+   "it": "primo/secondo periodo",
+   "tr": "primeiro/segundo período",
+   "why": "CG v9 PT («nos termos do primeiro período», «segundo período do presente número»)."
+  },
+  {
+   "it": "specifiche condizioni economiche",
+   "tr": "condições económicas específicas",
+   "why": "Scelta nuova, parallela a «modalidades específicas» nello stesso periodo della v1."
+  },
+  {
+   "it": "al netto delle sole Commissioni a carico del Venditore",
+   "tr": "após dedução apenas das Comissões a cargo do Vendedor",
+   "why": "Formula delle CG v9 PT nella definizione di Preço de compra líquido e all'art. 17.4 («Preço de venda ao Comprador após dedução das Comissões a cargo do Vendedor»), con «apenas» per «sole»."
+  },
+  {
+   "it": "non cedibilità e non trasferibilità / inapplicabilità della garanzia",
+   "tr": "não cedibilidade e não transferibilidade / inaplicabilidade da garantia",
+   "why": "Nominalizzazioni dei termini v1 degli artt. 3.7 («não é cedível nem transferível») e 3.8 («não se aplicará»)."
+  },
+  {
+   "it": "maturazione della garanzia economica",
+   "tr": "vencimento da garantia económica",
+   "why": "Nominalizzazione del verbo v1 dell'art. 6.2 («não se vencerá»)."
+  }
  ],
  "notes": [
   "Termini v1 mantenuti dove l'italiano non cambia, anche se le CG v9 PT usano altro: PMIV (CG v9: PMCV), encaixe líquido (CG v9: rendimento líquido), Tarifário (CG v9: Tabela de Tarifas), Oferta Máxima e Depósito Caução con maiuscola, vencem-se per «maturano» (CG v9: aquisição do direito às Comissões), faturamento.",
@@ -60,5 +132,14 @@
   "Incongruenza dell'italiano v2: il preambolo c02 rinvia agli artt. 4.3, 4.4 e 9.4 lett. d), mentre le CG v9 (art. 9.4 lett. d) e clausola finale 24.7) collegano l'applicazione delle Condizioni particolari di vendita all'art. 4.5. Da verificare con lo studio; tradotto com'è.",
   "Incongruenza dell'italiano v2: artt. 3.5 e 5.4 parlano ancora di «regolare conclusione del Contratto», mentre l'art. 2 ora parla solo di Accordo vincolante; l'art. 4.1 mantiene «struttura commissionale» che l'art. 1.1 ha sostituito con «condizioni economiche».",
   "Sintesi in c27/c28: nell'art. 6.2 la sintesi (a) parla di «maturazione della garanzia economica», nell'art. 3.6 la sintesi omette l'ultimo periodo nuovo (Annullamento e nuova vendita), coerente con il rinvio al solo «secondo periodo»."
+ ],
+ "review": [
+  "c10: «igual ao Preço de venda ao Comprador deduzido apenas das Comissões a cargo do Vendedor» → «… após dedução apenas das Comissões a cargo do Vendedor» — stessa formula con cui le CG v9 PT definiscono il Preço de compra líquido (def. e art. 17.4); nessun cambio di senso.",
+  "new_terms (Modello di Vendita in commissione): corretta la motivazione — la citazione «segundo o Modelo de Venda à comissão» attribuita all'art. 17 delle CG v9 PT non esiste nel testo; la resa «Modelo de Venda à comissão» resta, come composizione dei due termini delle CG.",
+  "c09, c12: confermato «não se formará qualquer Acordo vinculativo» (v1 «perfetibilizará») — decisione già presa: una sola resa di perfezionarsi/perfezionamento, quella delle CG v9 PT («forma-se», «formação do Acordo vinculativo»).",
+  "c11: confermati «Tarifas» (CG v9) e «Tarifário» (v1) nella stessa frase — parole distinte e non ambigue in portoghese (corrispettivi dei Servizi / listino).",
+  "c16, c21: confermato cambio di sola maiuscola («Comissões», «Condições Específicas»), parola della v1 invariata.",
+  "c25–c29: confermata la formula dell'art. 24.7 delle CG v9 PT; le sintesi tra parentesi usano le parole degli artt. 2.3, 3.6, 3.7, 3.8, 6.1, 6.2 di questo documento.",
+  "Altre voci (c01–c08, c13–c15, c17–c20, c24): nessuna correzione; parti invariate identiche alla v1, rimozioni recepite, rinvii esatti, tag corrispondenti."
  ]
 }

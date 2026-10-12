@@ -3,11 +3,11 @@
  "translations": {
   "c01": "<b>Szczególne warunki sprzedaży</b>",
   "c02": "Zostają one przyjęte na podstawie i dla skutków art. 4.3, 4.4 i 9.4 lit. d) Ogólnych Warunków Marketplace Fleequid („OW”) i stanowią Szczególne warunki sprzedaży w rozumieniu OW (zwane dalej również „Szczególnymi warunkami aukcji”), z wynikającą z tego nadrzędnością względem OW w przypadku niezgodności oraz w granicach kwestii wyraźnie uregulowanych w niniejszym dokumencie.",
-  "c03": "Publikacja Propozycji sprzedaży w ramach Aukcji zakwalifikowanej jako „1 Euro Auction”, jak również udział w niej przez Oferentów, stanowi wyraźną, pełną i wiążącą akceptację niniejszych Szczególnych warunków. Pozostaje niezmieniona odrębna akceptacja na piśmie postanowień wskazanych w końcowej części niniejszego dokumentu, zgodnie z art. 1341 i 1342 włoskiego Kodeksu cywilnego.",
+  "c03": "Publikacja Propozycji sprzedaży w ramach Aukcji zakwalifikowanej jako „1 Euro Auction”, jak również udział w niej przez Oferentów, stanowi wyraźną, pełną i wiążącą akceptację niniejszych Szczególnych warunków. Pozostaje niezmieniona odrębna akceptacja na piśmie, zgodnie z art. 1341 i 1342 włoskiego Kodeksu cywilnego, postanowień wskazanych w końcowej części niniejszego dokumentu.",
   "c04": "„1 Euro Auctions” stanowią szczególną kategorię Aukcji organizowanej przez Fleequid w ramach Marketplace, charakteryzującą się szczególnymi sposobami określania ceny oraz szczególnymi warunkami ekonomicznymi względem Aukcji zwykłych regulowanych przez Ogólne Warunki („OW”).",
   "c05": "W 1 Euro Auctions nie ma zastosowania zwykły mechanizm określania Ceny rezerwowej (CR) oparty na Minimalnej cenie zobowiązania do sprzedaży (PMIV). PMIV nadal stanowi jednak minimalną ekonomiczną wartość odniesienia Sprzedawcy w rozumieniu Ogólnych Warunków, lecz nie jest wykorzystywany do celów określenia Ceny rezerwowej w ramach 1 Euro Auctions, przy czym ochrona ekonomiczna Sprzedawcy pozostaje uregulowana, w Sprzedaży komisowej, zgodnie ze sposobami szczególnie przewidzianymi w niniejszych Szczególnych warunkach.",
   "c06": "<b>Zasady zawarcia Wiążącego Porozumienia.</b>",
-  "c07": "W 1 Euro Auctions Wiążące Porozumienie zostaje zawarte z Oferentem, który złożył Najwyższą Ofertę z chwilą zakończenia Aukcji, zgodnie ze sposobami przewidzianymi przez Ogólne Warunki („OW”), pod warunkiem że w toku postępowania została złożona co najmniej jedna ważna Oferta. Wyraźnie postanawia się, że w 1 Euro Auctions zawarcie Wiążącego Porozumienia jest ważne i skuteczne niezależnie od kwoty Najwyższej Oferty, również gdy jest ona równa jednemu Euro (jeden) lub w każdym razie jest kwotą symboliczną albo znacznie niższą od szacowanej wartości Pojazdu.",
+  "c07": "W 1 Euro Auctions Wiążące Porozumienie zostaje zawarte na rzecz Oferenta, który złożył Najwyższą Ofertę z chwilą zakończenia Aukcji, zgodnie ze sposobami przewidzianymi przez Ogólne Warunki („OW”), pod warunkiem że w toku postępowania została złożona co najmniej jedna ważna Oferta. Wyraźnie postanawia się, że w 1 Euro Auctions zawarcie Wiążącego Porozumienia jest ważne i skuteczne niezależnie od kwoty Najwyższej Oferty, również gdy jest ona równa jednemu Euro (jeden) lub w każdym razie jest kwotą symboliczną albo znacznie niższą od szacowanej wartości Pojazdu.",
   "c08": "W obecności co najmniej jednej ważnej Oferty dochodzi do zawarcia Wiążącego Porozumienia zgodnie z ogólnymi zasadami przewidzianymi przez OW, z zastrzeżeniem tego, co zostało szczególnie przewidziane w niniejszych Szczególnych warunkach. Nabywca oraz Sprzedawca uznają i akceptują, że konkurencyjny mechanizm Aukcji stanowi istotny element dla określenia ceny, z wynikającym z tego wyłączeniem, w granicach dopuszczonych przez prawo, zarzutów dotyczących słuszności, adekwatności lub proporcjonalności Ceny sprzedaży na rzecz Nabywcy.",
   "c09": "Jeżeli z chwilą zakończenia 1 Euro Auction nie wpłynęła żadna ważna Oferta, Aukcję uważa się za nierozstrzygniętą i nie dochodzi do zawarcia żadnego Wiążącego Porozumienia w rozumieniu OW; w konsekwencji po stronie Fleequid, Sprzedawcy ani osób trzecich nie powstaje żaden obowiązek nabycia Pojazdu.",
   "c10": "W ramach 1 Euro Auctions wykonywanych zgodnie z Modelem Sprzedaży komisowej oraz w drodze odstępstwa od mechanizmu Ceny rezerwowej (CR) przewidzianego przez Ogólne Warunki, Fleequid gwarantuje Sprzedawcy, w obecności co najmniej jednej ważnej Oferty, wpływ netto, równy Cenie sprzedaży na rzecz Nabywcy pomniejszonej wyłącznie o Prowizje obciążające Sprzedawcę, nie niższy niż Minimalna cena zobowiązania do sprzedaży (PMIV) wskazana dla Pojazdu w rozumieniu OW.",
@@ -30,35 +30,124 @@
   "c29": "Niniejsza akceptacja jest samodzielna i oddzielna względem odrębnej akceptacji postanowień OW, która jej nie zastępuje ani nie pochłania."
  },
  "new_terms": [
-  {"it": "Accordo vincolante / perfezionamento dell’Accordo vincolante", "tr": "Wiążące Porozumienie / zawarcie Wiążącego Porozumienia", "why": "OW v9 PL, definicja art. 1 i art. 10.2; zastępuje «Przybicie» z v1"},
-  {"it": "Prezzo di vendita all’Acquirente", "tr": "Cena sprzedaży na rzecz Nabywcy", "why": "OW v9 PL, definicja art. 1; zastępuje «cena aukcyjna» z v1"},
-  {"it": "Importo Totale Dovuto", "tr": "Łączna Kwota Należna", "why": "OW v9 PL, definicja art. 1"},
-  {"it": "Annullamento della vendita", "tr": "Anulowanie sprzedaży", "why": "OW v9 PL, definicja art. 1 i art. 14"},
-  {"it": "Modello di Vendita in commissione", "tr": "Model Sprzedaży komisowej", "why": "OW v9 PL art. 17.1: «zgodnie z Modelem Sprzedaży komisowej»"},
-  {"it": "Vendita in commissione", "tr": "Sprzedaż komisowa", "why": "OW v9 PL, definicja art. 1"},
-  {"it": "Condizioni particolari di vendita", "tr": "Szczególne warunki sprzedaży", "why": "OW v9 PL, definicja art. 1 (tytuł i termin zdefiniowany w preambule)"},
-  {"it": "Condizioni Specifiche", "tr": "Warunki Szczegółowe", "why": "OW v9 PL, definicja art. 1; w v1 «Warunki szczególne» (małą literą), mylące ze «Szczególnymi warunkami»"},
-  {"it": "Commissioni (maiuscolo)", "tr": "Prowizje", "why": "OW v9 PL i v1 (art. 4.5, 4.6)"},
-  {"it": "Tariffe", "tr": "Opłaty", "why": "OW v9 PL, definicja art. 1"},
-  {"it": "fonti contrattuali applicabili", "tr": "mające zastosowanie źródła umowne", "why": "OW v9 PL art. 4 i 10.5"},
-  {"it": "Proposta di vendita", "tr": "Propozycja sprzedaży", "why": "OW v9 PL, definicja art. 1; v1 miała «Oferta Sprzedaży», mylące z «Ofertą» (Offerta) – IT v2 dostosowuje pisownię do terminu zdefiniowanego w OW"},
-  {"it": "rimborsi spese", "tr": "zwroty kosztów", "why": "OW v9 PL, definicja Łącznej Kwoty Należnej"},
-  {"it": "detratti o compensati", "tr": "odliczone lub potrącone", "why": "OW v9 PL art. 17 («potrącenia i odliczenia», «potrącić lub odliczyć»)"},
-  {"it": "trattenimento e imputazione del Deposito cauzionale", "tr": "zatrzymanie i zaliczenie Wadium", "why": "OW v9 PL art. 6.3 i klauzula akceptacji 24.7 («zatrzymania i zaliczenia na poczet należnych kwot»)"},
-  {"it": "approvazione specifica (artt. 1341 e 1342 c.c.)", "tr": "odrębna akceptacja (art. 1341 i 1342 włoskiego Kodeksu cywilnego)", "why": "formuła klauzuli końcowej OW v9 PL (art. 24.7)"},
-  {"it": "autonoma e distinta / non la sostituisce né la assorbe", "tr": "samodzielna i oddzielna / nie zastępuje ani nie pochłania", "why": "OW v9 PL, ostatni akapit klauzuli akceptacji"},
-  {"it": "secondo periodo / primo periodo", "tr": "zdanie drugie / zdanie pierwsze", "why": "analogia do «zdanie ostatnie» z glosariusza OW v9"},
-  {"it": "nella qualità di (Venditore / Offerente o Acquirente)", "tr": "w charakterze (Sprzedawcy / Oferenta lub Nabywcy)", "why": "OW v9 PL: «występuje w charakterze sprzedawcy»; brak w v1"},
-  {"it": "ferma la responsabilità di Fleequid per dolo o colpa grave", "tr": "z zastrzeżeniem odpowiedzialności Fleequid za winę umyślną lub rażące niedbalstwo", "why": "«wina umyślna / rażące niedbalstwo» z v1 art. 6.2 i OW v9; «z zastrzeżeniem» jak w v1 dla «fermo restando»"}
+  {
+   "it": "Accordo vincolante / perfezionamento dell’Accordo vincolante",
+   "tr": "Wiążące Porozumienie / zawarcie Wiążącego Porozumienia",
+   "why": "OW v9 PL, definicja art. 1 i art. 10.2; zastępuje «Przybicie» z v1"
+  },
+  {
+   "it": "Prezzo di vendita all’Acquirente",
+   "tr": "Cena sprzedaży na rzecz Nabywcy",
+   "why": "OW v9 PL, definicja art. 1; zastępuje «cena aukcyjna» z v1"
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Łączna Kwota Należna",
+   "why": "OW v9 PL, definicja art. 1"
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Anulowanie sprzedaży",
+   "why": "OW v9 PL, definicja art. 1 i art. 14"
+  },
+  {
+   "it": "Modello di Vendita in commissione",
+   "tr": "Model Sprzedaży komisowej",
+   "why": "OW v9 PL art. 17.1: «zgodnie z Modelem Sprzedaży komisowej»"
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Sprzedaż komisowa",
+   "why": "OW v9 PL, definicja art. 1"
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Szczególne warunki sprzedaży",
+   "why": "OW v9 PL, definicja art. 1 (tytuł i termin zdefiniowany w preambule)"
+  },
+  {
+   "it": "Condizioni Specifiche",
+   "tr": "Warunki Szczegółowe",
+   "why": "OW v9 PL, definicja art. 1; w v1 «Warunki szczególne» (małą literą), mylące ze «Szczególnymi warunkami»"
+  },
+  {
+   "it": "Commissioni (maiuscolo)",
+   "tr": "Prowizje",
+   "why": "OW v9 PL i v1 (art. 4.5, 4.6)"
+  },
+  {
+   "it": "Tariffe",
+   "tr": "Opłaty",
+   "why": "OW v9 PL, definicja art. 1"
+  },
+  {
+   "it": "fonti contrattuali applicabili",
+   "tr": "mające zastosowanie źródła umowne",
+   "why": "OW v9 PL art. 4 i 10.5"
+  },
+  {
+   "it": "Proposta di vendita",
+   "tr": "Propozycja sprzedaży",
+   "why": "OW v9 PL, definicja art. 1; v1 miała «Oferta Sprzedaży», mylące z «Ofertą» (Offerta) – IT v2 dostosowuje pisownię do terminu zdefiniowanego w OW"
+  },
+  {
+   "it": "rimborsi spese",
+   "tr": "zwroty kosztów",
+   "why": "OW v9 PL, definicja Łącznej Kwoty Należnej"
+  },
+  {
+   "it": "detratti o compensati",
+   "tr": "odliczone lub potrącone",
+   "why": "OW v9 PL art. 17 («potrącenia i odliczenia», «potrącić lub odliczyć»)"
+  },
+  {
+   "it": "trattenimento e imputazione del Deposito cauzionale",
+   "tr": "zatrzymanie i zaliczenie Wadium",
+   "why": "OW v9 PL art. 6.3 i klauzula akceptacji 24.7 («zatrzymania i zaliczenia na poczet należnych kwot»)"
+  },
+  {
+   "it": "approvazione specifica (artt. 1341 e 1342 c.c.)",
+   "tr": "odrębna akceptacja (art. 1341 i 1342 włoskiego Kodeksu cywilnego)",
+   "why": "formuła klauzuli końcowej OW v9 PL (art. 24.7)"
+  },
+  {
+   "it": "autonoma e distinta / non la sostituisce né la assorbe",
+   "tr": "samodzielna i oddzielna / nie zastępuje ani nie pochłania",
+   "why": "OW v9 PL, ostatni akapit klauzuli akceptacji"
+  },
+  {
+   "it": "secondo periodo / primo periodo",
+   "tr": "zdanie drugie / zdanie pierwsze",
+   "why": "analogia do «zdanie ostatnie» z glosariusza OW v9"
+  },
+  {
+   "it": "nella qualità di (Venditore / Offerente o Acquirente)",
+   "tr": "w charakterze (Sprzedawcy / Oferenta lub Nabywcy)",
+   "why": "OW v9 PL: «występuje w charakterze sprzedawcy»; brak w v1"
+  },
+  {
+   "it": "ferma la responsabilità di Fleequid per dolo o colpa grave",
+   "tr": "z zastrzeżeniem odpowiedzialności Fleequid za winę umyślną lub rażące niedbalstwo",
+   "why": "«wina umyślna / rażące niedbalstwo» z v1 art. 6.2 i OW v9; «z zastrzeżeniem» jak w v1 dla «fermo restando»"
+  }
  ],
  "notes": [
   "c02/c11/c09: trzy znane literówki IT przetłumaczone w poprawnym sensie («zwane dalej również», «Jeżeli wpływ netto…», «Wiążące Porozumienie»).",
   "c03: «Proposta di vendita» oddano terminem OW v9 «Propozycja sprzedaży» zamiast «Oferta Sprzedaży» z v1 (zmiana IT dotyczy tylko wielkości litery, ale dostosowuje termin do definicji OW; resa v1 kolidowała z «Ofertą» = Offerta). Do potwierdzenia.",
-  "c07: «si perfeziona in favore dell’Offerente» oddano «zostaje zawarte z Oferentem» (nie «na rzecz»: w polszczyźnie prawniczej «porozumienie zawarte na rzecz» oznaczałoby umowę na rzecz osoby trzeciej).",
   "c11/c15/c21: «Tariffario» pozostaje «Cennik» jak w v1 (termin IT niezmieniony, także w niezmienionych art. 4.2, 4.5, 5.2), choć OW v9 PL mają «Taryfikator Fleequid».",
   "c05/c10: zachowano z v1 «Cena rezerwowa (CR)» i «Minimalna cena zobowiązania do sprzedaży», choć OW v9 PL mają «PR» i «Minimalna cena zobowiązująca do sprzedaży» (IT niezmieniony).",
   "Rinvii: «ai sensi dell’art.» w nowych fragmentach oddano «zgodnie z art.» (forma OW v9); w niezmienionych fragmentach pozostaje «w rozumieniu» z v1. «c.c.» → «włoskiego Kodeksu cywilnego», «lett. d)» → «lit. d)» jak w OW v9.",
   "c25: bez kropki końcowej (w IT kropka należy do skrótu «c.c.»), jak w nagłówku klauzuli OW v9 PL.",
   "Niespójności IT v2 poza trzema znanymi: preambuła [0~7] nadal odsyła do «art. 3.3 delle CG» i ma «Condizioni specifiche» małą literą, podczas gdy 6.4 zaktualizowano (art. 4.3, «Condizioni Specifiche»); art. 5.2 zachowuje «Acquirente aggiudicatario» i «Prezzo di aggiudicazione», usunięte gdzie indziej; art. 3.5 i 5.4 nadal mówią o «conclusione del Contratto»; art. 4.1 i 3.1 ograniczają się do Sprzedaży komisowej, ale 4.4–4.6 i tytuł art. 3 nie; w c16 «Commissioni» wielką literą, a «commissione fissa/percentuale» małą. W PL te niezmienione akapity pozostają z v1 («Przybicie», «cena aukcyjna», «Warunki szczególne», art. 3.3)."
+ ],
+ "review": [
+  "c07: «zostaje zawarte z Oferentem» → «zostaje zawarte na rzecz Oferenta» — «in favore dell’Offerente» nie zmienia się w IT, v1 miała «na rzecz Oferenta», a OW v9 PL definiują Nabywcę jako «Oferent, na rzecz którego zostało zawarte Wiążące Porozumienie»; obawa tłumacza (umowa na rzecz osoby trzeciej) nie ma oparcia w tekście OW.",
+  "c03: «…akceptacja na piśmie postanowień wskazanych w końcowej części niniejszego dokumentu, zgodnie z art. 1341 i 1342…» → «…akceptacja na piśmie, zgodnie z art. 1341 i 1342 włoskiego Kodeksu cywilnego, postanowień wskazanych w końcowej części niniejszego dokumentu.» — szyk jak w IT; na końcu zdania odesłanie mogło być odczytane jako odnoszące się do «wskazanych».",
+  "c03: «Propozycji sprzedaży» utrzymane (nie «Oferty sprzedaży» z v1) — po zmianie na małą literę wyraz v1 zlewa się z terminem zdefiniowanym «Oferta» (Offerta Oferenta) w tym samym zdaniu; wyjątek od zasady «słowo v1 zostaje», przyjęta resa OW v9.",
+  "c21: «Warunki Szczegółowe» utrzymane (nie «Warunki Szczególne» z v1) — wielką literą wyraz v1 pokrywa się ze «Szczególnymi warunkami» (Condizioni Particolari) i «Szczególnymi warunkami sprzedaży» z OW v9, a jako termin pisany wielką literą nie ma definicji w OW PL; wyjątek od zasady «słowo v1 zostaje».",
+  "c11: bez zmian — «Tariffe» = «Opłaty» (OW v9), «Tariffario» = «Cennik» (v1): w art. 3.2 wyrazy są różne i jednoznaczne.",
+  "c07/c08/c09/c12/c20/c27/c28: bez zmian — «perfezionarsi/perfezionamento» wszędzie «zawarcie / zostaje zawarte / dochodzi do zawarcia» jak w OW v9 (art. 1 i 10.2).",
+  "c10/c15: bez zmian — «Model Sprzedaży komisowej» w obu akapitach, forma potwierdzona w OW v9 art. 17.1.",
+  "c25–c29: bez zmian — formuła zgodna z klauzulą 24.7 OW v9 PL; streszczenia w nawiasach powtarzają słowa art. 2.3, 3.6, 3.7, 3.8, 6.1, 6.2 tego dokumentu."
  ]
 }

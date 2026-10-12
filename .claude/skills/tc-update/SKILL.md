@@ -169,3 +169,11 @@ python3 -m tcupdate.rebuild glossary --lang LANG $R       # a Word approvati: te
 - **Incongruenze dell'IT**: si raccolgono man mano dalle risposte di traduttori e revisori e si mandano allo studio in un Word di osservazioni (generatore `work/general-t-c/v9/osservazioni_studio.py`). Refusi di spazi e virgole si sistemano senza passare dal legale.
 - **Controllo numeri**: orari e numerali scritti secondo l'uso della lingua danno falsi positivi. Non si forza il testo, si annota l'unità.
 - **Documenti di servizio nella cartella della versione** (osservazioni, redline): `inventory` li distingue dal Word della lingua solo se il codice lingua non è l'ultima parola del nome.
+
+# Cose imparate su 1 Euro Auctions v2 (2026-10-12)
+- **Bozza con revisioni tracciate, senza evidenziazioni**: se lo studio manda anche la versione pulita, si verifica che coincida con la bozza a revisioni accettate (testo, B/I/U, numerazione, stili, intestazione) e si lavora sulla pulita. I commenti della bozza vanno letti: spiegano le modifiche.
+- **Paragrafi non toccati dallo studio**: quando l'aggiornamento allinea il documento a nuove CG, i traduttori trovano residui nei paragrafi non modificati (rinvii e termini vecchi). Le lingue seguono l'italiano; i residui vanno in `REPORT.md` per lo studio.
+- **Cambio di sola maiuscola in italiano**: resta la parola della versione precedente, salvo che nel paragrafo coincida con un altro termine.
+- **Istruzioni comuni** per traduttori e revisori in `work/<fam>/v<N>/ISTRUZIONI.md` (modello: `work/1-euro-auctions/v2/ISTRUZIONI.md`): il prompt agli agenti resta di poche righe. Gli agenti in un worktree isolato devono lanciare comandi semplici, uno alla volta, senza git.
+- **Codice versione** nella forma `Vers_N_AAAA` (intestazione) e `Versione_N_AAAA` (nome file): riconosciuto dal toolkit.
+- **Sezione nuova in fondo al documento** con un formato che la versione precedente non aveva: i paragrafi inseriti prendono il formato dell'IT nuova.

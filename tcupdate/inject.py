@@ -26,6 +26,14 @@ def _ppr_model(it_prev: Docx, it_new: Docx, new_idx: int, al: dict, target: Docx
     return None
 
 
+def _without_lang(el):
+    """Copia di un paragrafo dell'IT senza la lingua di correzione italiana."""
+    el = copy.deepcopy(el)
+    for lang in list(el.iter(wtag("lang"))):
+        lang.getparent().remove(lang)
+    return el
+
+
 def run(changes: dict, it_prev: Docx, it_new: Docx, target: Docx, al: dict,
         translations: dict[str, str], out_path, strict: bool = True, post_fixes: list | None = None) -> list[str]:
     log = []
@@ -68,7 +76,9 @@ def run(changes: dict, it_prev: Docx, it_new: Docx, target: Docx, al: dict,
             if model is not None and model.empty and new_is_empty:
                 new_el = copy.deepcopy(model.el)
             else:
-                src = model.el if model is not None else tparas[a["target_idx"]].el
+                # nessun paragrafo precedente con lo stesso formato (es. sezione nuova centrata, non numerata):
+                # il formato è quello dell'IT nuova, non quello dell'ancora, che porterebbe con sé la numerazione
+                src = model.el if model is not None else _without_lang(it_new.paras[c["new_idx"]].el)
                 new_el = copy.deepcopy(src)
                 for ch in list(new_el):
                     if ch.tag != wtag("pPr"):

@@ -10,8 +10,8 @@
   "c07": "În cadrul 1 Euro Auctions, Acordul obligatoriu se încheie în favoarea ofertantului care a formulat oferta maximă la încheierea licitației, conform modalităților prevăzute de Condițiile Generale („CG”), cu condiția să fi fost prezentată cel puțin o ofertă valabilă în cursul procedurii. Rămâne stabilit în mod expres că, în cadrul 1 Euro Auctions, încheierea Acordului obligatoriu este valabilă și produce efecte independent de cuantumul ofertei maxime, chiar și în cazul în care aceasta este egală cu 1 euro (unu) sau are oricum un cuantum simbolic sau semnificativ inferior valorii estimate a vehiculului.",
   "c08": "În prezența a cel puțin unei oferte valabile, Acordul obligatoriu se încheie conform reglementării generale prevăzute de CG, fără a aduce atingere celor prevăzute în mod specific în prezentele Condiții speciale. Cumpărătorul și vânzătorul recunosc și acceptă că mecanismul competitiv al licitației constituie un element esențial pentru stabilirea prețului, cu consecința excluderii, în limitele permise de lege, a contestațiilor referitoare la caracterul echitabil, adecvarea sau proporționalitatea Prețului de vânzare către Cumpărător.",
   "c09": "În cazul în care, la încheierea 1 Euro Auction, nu a fost primită nicio ofertă valabilă, licitația se va considera fără participanți și nu se va încheia niciun Acord obligatoriu în sensul CG; în consecință, nu va lua naștere în sarcina Fleequid, a vânzătorului sau a terților nicio obligație de cumpărare a vehiculului.",
-  "c10": "În cadrul 1 Euro Auctions executate potrivit Modelului de vânzare în comision și prin derogare de la mecanismul Prețului de rezervă (PR) prevăzut de Condițiile Generale, Fleequid garantează vânzătorului, în prezența a cel puțin unei oferte valabile, o încasare netă, egală cu Prețul de vânzare către Cumpărător după deducerea exclusiv a Comisioanelor în sarcina vânzătorului, nu mai mică decât Prețul minim de angajament la vânzare (PMAV) indicat pentru vehicul în sensul CG.",
-  "c11": "În cazul în care încasarea netă menționată la art. 3.1 rezultată la încheierea 1 Euro Auction este inferioară PMAV, Fleequid se angajează să plătească vânzătorului diferența necesară pentru ca încasarea netă cuvenită vânzătorului, stabilită în sensul art. 3.1, să fie egală cu PMAV. În cazul în care, dimpotrivă, încasarea netă este egală sau superioară PMAV, vânzătorului îi revine integral încasarea mai mare aferentă, conform reglementării ordinare a CG. Eventuala integrare economică are o natură pur compensatorie și nu constituie, în niciun mod, cumpărarea directă sau indirectă a vehiculului de către Fleequid. Garanția nu acoperă Tarifele, penalitățile, rambursările de cheltuieli și nici celelalte sume eventual datorate de vânzător către Fleequid, care rămân reglementate de CG, de Tarif și de celelalte surse contractuale aplicabile și pot fi deduse sau compensate conform reglementării generale.",
+  "c10": "În cadrul 1 Euro Auctions executate potrivit Modelului de vânzare în comision și prin derogare de la mecanismul Prețului de rezervă (PR) prevăzut de Condițiile Generale, Fleequid garantează vânzătorului, în prezența a cel puțin unei oferte valabile, o încasare netă, egală cu Prețul de vânzare către Cumpărător din care se scad numai Comisioanele în sarcina vânzătorului, nu mai mică decât Prețul minim de angajament la vânzare (PMAV) indicat pentru vehicul în sensul CG.",
+  "c11": "În cazul în care încasarea netă menționată la art. 3.1 rezultată la încheierea 1 Euro Auction este inferioară PMAV, Fleequid se angajează să plătească vânzătorului diferența necesară pentru ca încasarea netă cuvenită vânzătorului, stabilită în sensul art. 3.1, să fie egală cu PMAV. În cazul în care, dimpotrivă, încasarea netă este egală sau superioară PMAV, vânzătorului îi revine integral încasarea mai mare aferentă, conform reglementării ordinare a CG. Eventuala integrare economică are o natură pur compensatorie și nu constituie, în niciun mod, cumpărarea directă sau indirectă a vehiculului de către Fleequid. Garanția nu acoperă Tarifele, penalitățile, rambursările de cheltuieli și nici celelalte sume eventual datorate de vânzător către Fleequid, care rămân reglementate de CG, de Tariful Fleequid și de celelalte surse contractuale aplicabile și pot fi deduse sau compensate conform reglementării generale.",
   "c12": "În absența ofertelor valabile și, în consecință, în cazul licitației fără participanți, nu se va încheia niciun Acord obligatoriu în sensul CG și nu va lua naștere în sarcina Fleequid nicio obligație de cumpărare a vehiculului și nicio obligație de integrare economică în favoarea vânzătorului.",
   "c13": "Garanția menționată la prezentul articol constituie un angajament contractual intern, accesoriu și condiționat, limitat la licitația individuală calificată drept 1 Euro Auction și nu reprezintă o promisiune publică, nici o activitate de asigurare, nici nu constituie un angajament general sau permanent de cumpărare din partea Fleequid. În orice caz, plata eventualei integrări economice va putea avea loc numai ulterior soluționării raportului cu cumpărătorul, inclusiv verificarea încasării efective a sumelor datorate sau a rezultatului procedurilor de gestionare a neîndeplinirii prevăzute de CG. În caz de Anulare a vânzării și de vânzare ulterioară a vehiculului către un alt ofertant în sensul art. 10.5 din CG, garanția operează, în condițiile prevăzute de prezentul articol, exclusiv cu privire la noua vânzare.",
   "c14": "Rămâne neatinsă facultatea Fleequid de a suspenda, de a anula sau de a declara nevalabilă licitația în cazurile prevăzute de CG; în astfel de ipoteze nu se va aplica garanția menționată la prezentul articol, fără a aduce atingere celor prevăzute de art. 6.2. Garanția nu se va aplica de asemenea în cazul unor comportamente abuzive, frauduloase sau neconforme cu CG din partea vânzătorului sau a unor persoane care îi pot fi atribuite, inclusiv, cu titlu exemplificativ, participarea directă sau indirectă la licitație în scopul de a-i influența rezultatul.",
@@ -19,7 +19,7 @@
   "c16": "Cumpărătorului i se aplică Comisioanele prevăzute în sensul alineatelor precedente, inclusiv, în cazul în care este prevăzut, comisionul fix („flat buyer fee”) și/sau comisionul procentual asupra Prețului de vânzare către Cumpărător.",
   "c17": "Comisioanele se nasc și sunt datorate conform celor prevăzute de art. 12.4 din CG și rămân supuse reglementării generale a Condițiilor Generale în materie de plată, facturare și neîndeplinire, cu excepția cazului în care se prevede altfel în prezentele Condiții speciale.",
   "c18": "Cu excepția unei indicații diferite în fișa de licitație, pentru 1 Euro Auctions se aplică integral dispozițiile Condițiilor Generale în materie de garanție, modalități de plată a Sumei totale datorate și termene de îndeplinire a obligațiilor cumpărătorului.",
-  "c19": "În cazul neplății sau al plății întârziate din partea cumpărătorului, se aplică dispozițiile CG în materie de neîndeplinire, reziliere, Anulare a vânzării, penalități, reținerea și imputarea garanției în sensul art. 6.3 din CG și repararea prejudiciului.",
+  "c19": "În cazul neplății sau al plății întârziate din partea cumpărătorului, se aplică dispozițiile CG în materie de neîndeplinire, reziliere, Anulare a vânzării, penalități, reținere și imputare a garanției în sensul art. 6.3 din CG și repararea prejudiciului.",
   "c20": "În cazurile de suspendare sau de anulare a licitației în sensul alineatului precedent, nu se vor aplica dispozițiile referitoare la încheierea Acordului obligatoriu, iar garanția economică menționată la art. 3 nu se va naște și nici nu va fi datorată, fără a aduce atingere răspunderii Fleequid pentru dol sau culpă gravă și celor prevăzute de Condițiile Generale în materie de răspundere a Fleequid.",
   "c21": "Pentru ceea ce nu este reglementat în mod expres în prezentele Condiții speciale, rămân integral aplicabile Condițiile Generale, eventualele Condiții specifice și Tariful Fleequid, conform ierarhiei stabilite de art. 4.3 din CG.",
   "c24": "<i>*****</i>",
@@ -30,23 +30,91 @@
   "c29": "Prezenta aprobare este autonomă și distinctă față de aprobarea specifică a clauzelor din CG, care nu o înlocuiește și nici nu o absoarbe."
  },
  "new_terms": [
-  {"it": "Accordo vincolante / perfezionamento dell’Accordo vincolante", "tr": "Acord obligatoriu / încheierea Acordului obligatoriu", "why": "CG v9 RO (definiția „Acord obligatoriu”, art. 9.4, 10.5)"},
-  {"it": "Prezzo di vendita all’Acquirente", "tr": "Preț de vânzare către Cumpărător", "why": "CG v9 RO (termen definit)"},
-  {"it": "Importo Totale Dovuto", "tr": "Sumă totală datorată", "why": "CG v9 RO (termen definit)"},
-  {"it": "Annullamento della vendita", "tr": "Anularea vânzării / Anulare a vânzării", "why": "CG v9 RO (termen definit; forma nearticulată ca la art. 6.3 CG)"},
-  {"it": "Modello di Vendita in commissione / Vendita in commissione", "tr": "Modelul de vânzare în comision / Vânzare în comision", "why": "CG v9 RO (art. 17: „operațiunilor structurate potrivit Modelului de vânzare în comision”)"},
-  {"it": "Condizioni particolari di vendita", "tr": "Condiții speciale de vânzare", "why": "CG v9 RO (termen definit); denumirea scurtă „Condiții speciale ale licitației” rămâne din v1"},
-  {"it": "Commissioni (maiuscolo)", "tr": "Comisioane", "why": "CG v9 RO"},
-  {"it": "Tariffe", "tr": "Tarife", "why": "CG v9 RO"},
-  {"it": "fonti contrattuali", "tr": "surse contractuale", "why": "CG v9 RO (art. 4)"},
-  {"it": "specifiche condizioni economiche", "tr": "condiții economice specifice", "why": "CG v9 RO (definiția „1 Euro Auction”)"},
-  {"it": "trattenimento e imputazione del Deposito cauzionale", "tr": "reținerea și imputarea garanției", "why": "verbele din art. 6.3 CG v9 RO („poate reține ... și îl poate imputa”); „garanție” pentru Deposito cauzionale rămâne din v1"},
-  {"it": "rimborsi spese", "tr": "rambursările de cheltuieli", "why": "CG v9 RO („rambursările de cheltuieli datorate contractual”)"},
-  {"it": "detratti o compensati", "tr": "deduse sau compensate", "why": "CG v9 RO art. 17.4 („compensarea și deducerea sumelor”)"},
-  {"it": "Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c.", "tr": "Aprobare specifică în temeiul art. 1341 și 1342 din Codul civil italian", "why": "formula clauzei finale din CG v9 RO (art. 24.7)"},
-  {"it": "secondo periodo / primo periodo", "tr": "a doua teză / prima teză", "why": "CG v9 RO („ultimo periodo” → „ultima teză”)"},
-  {"it": "(di seguito anche “…”)", "tr": "(denumite în continuare și „…”)", "why": "formulă juridică standard; nu există în v1"},
-  {"it": "non cedibilità e non trasferibilità", "tr": "caracterul incesibil și netransferabil", "why": "substantivare a redării v1 de la art. 3.7 („nu este cesibilă și nici transferabilă”), după modelul CG v9 („caracterul nerestituibil”)"}
+  {
+   "it": "Accordo vincolante / perfezionamento dell’Accordo vincolante",
+   "tr": "Acord obligatoriu / încheierea Acordului obligatoriu",
+   "why": "CG v9 RO (definiția „Acord obligatoriu”, art. 9.4, 10.5)"
+  },
+  {
+   "it": "Prezzo di vendita all’Acquirente",
+   "tr": "Preț de vânzare către Cumpărător",
+   "why": "CG v9 RO (termen definit)"
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Sumă totală datorată",
+   "why": "CG v9 RO (termen definit)"
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Anularea vânzării / Anulare a vânzării",
+   "why": "CG v9 RO (termen definit; forma nearticulată ca la art. 6.3 CG)"
+  },
+  {
+   "it": "Modello di Vendita in commissione / Vendita in commissione",
+   "tr": "Modelul de vânzare în comision / Vânzare în comision",
+   "why": "CG v9 RO (art. 17: „operațiunilor structurate potrivit Modelului de vânzare în comision”)"
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Condiții speciale de vânzare",
+   "why": "CG v9 RO (termen definit); denumirea scurtă „Condiții speciale ale licitației” rămâne din v1"
+  },
+  {
+   "it": "Commissioni (maiuscolo)",
+   "tr": "Comisioane",
+   "why": "CG v9 RO"
+  },
+  {
+   "it": "Tariffe",
+   "tr": "Tarife",
+   "why": "CG v9 RO"
+  },
+  {
+   "it": "fonti contrattuali",
+   "tr": "surse contractuale",
+   "why": "CG v9 RO (art. 4)"
+  },
+  {
+   "it": "specifiche condizioni economiche",
+   "tr": "condiții economice specifice",
+   "why": "CG v9 RO (definiția „1 Euro Auction”)"
+  },
+  {
+   "it": "trattenimento e imputazione del Deposito cauzionale",
+   "tr": "reținerea și imputarea garanției",
+   "why": "verbele din art. 6.3 CG v9 RO („poate reține ... și îl poate imputa”); „garanție” pentru Deposito cauzionale rămâne din v1"
+  },
+  {
+   "it": "rimborsi spese",
+   "tr": "rambursările de cheltuieli",
+   "why": "CG v9 RO („rambursările de cheltuieli datorate contractual”)"
+  },
+  {
+   "it": "detratti o compensati",
+   "tr": "deduse sau compensate",
+   "why": "CG v9 RO art. 17.4 („compensarea și deducerea sumelor”)"
+  },
+  {
+   "it": "Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c.",
+   "tr": "Aprobare specifică în temeiul art. 1341 și 1342 din Codul civil italian",
+   "why": "formula clauzei finale din CG v9 RO (art. 24.7)"
+  },
+  {
+   "it": "secondo periodo / primo periodo",
+   "tr": "a doua teză / prima teză",
+   "why": "CG v9 RO („ultimo periodo” → „ultima teză”)"
+  },
+  {
+   "it": "(di seguito anche “…”)",
+   "tr": "(denumite în continuare și „…”)",
+   "why": "formulă juridică standard; nu există în v1"
+  },
+  {
+   "it": "non cedibilità e non trasferibilità",
+   "tr": "caracterul incesibil și netransferabil",
+   "why": "substantivare a redării v1 de la art. 3.7 („nu este cesibilă și nici transferabilă”), după modelul CG v9 („caracterul nerestituibil”)"
+  }
  ],
  "notes": [
   "Majuscule: v1 RO scrie cu minusculă vânzător, cumpărător, ofertant, licitație, ofertă, vehicul; am păstrat convenția și în textul nou (c10, c11, c13, c27, c28). Cu majusculă doar termenii definiți noi preluați din CG v9 (Acord obligatoriu, Preț de vânzare către Cumpărător, Sumă totală datorată, Anulare a vânzării, Vânzare în comision, Comisioane, Tarife).",
@@ -57,5 +125,10 @@
   "c19: «risoluzione» păstrat „reziliere” (v1), deși CG v9 folosește „rezoluțiune”; «Deposito cauzionale» păstrat „garanție” (v1), CG v9: „Depozit de garanție”.",
   "c02/c03/c11: trimiterile interne «ai sensi» redate „în sensul” ca în v1; pentru Codul civil italian (caz absent în v1) forma CG v9 „în temeiul art. ... din Codul civil italian”.",
   "Erori materiale din IT v2 corectate în sens: c02 «si seguito», c09 «Accordo Vincolante», c11 «Qualora» inițial lipsă."
+ ],
+ "review": [
+  "c10: „după deducerea exclusiv a Comisioanelor în sarcina vânzătorului” → „din care se scad numai Comisioanele în sarcina vânzătorului” — formularea greoaie înlocuită cu cea folosită de CG v9 RO pentru «al netto delle Commissioni a carico del Venditore» (definiția Prețului de cumpărare net, art. 17.4); «sole» = „numai”.",
+  "c11: „de Tarif” → „de Tariful Fleequid” — «Tariffario» rămâne cuvântul v1 („Tariful”), «Tariffe» ia redarea CG v9 („Tarifele”); în aceeași frază singularul nearticulat „Tarif” se confunda cu „Tarifele”, de aceea am folosit denumirea completă a documentului din v1 (preambul, art. 4.1, 6.4). Nicio restrângere de sens: celelalte tarifare intră în „celelalte surse contractuale aplicabile”.",
+  "c19: „reținerea și imputarea garanției” → „reținere și imputare a garanției” — formă nearticulată, paralelă cu restul enumerării („neîndeplinire, reziliere, Anulare a vânzării, penalități”) și cu CG v9 RO art. 24.7 („facultatea de reținere și de imputare”)."
  ]
 }
