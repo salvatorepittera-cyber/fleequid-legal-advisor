@@ -26,15 +26,21 @@ ROOT = Path(__file__).resolve().parent.parent
 TC_ROOT = ROOT / "T&C"
 
 
-def lang_of(path: Path) -> str | None:
+def _lang_pos(path: Path) -> tuple[str, int] | None:
+    """Codice lingua e distanza dalla fine del nome (0 = ultima parola)."""
     stem = path.name
     while stem.lower().endswith(".docx"):
         stem = stem[:-5]
     tokens = [t for t in re.split(r"[_\s.\-]+", stem.upper()) if t]
-    for t in reversed(tokens[-3:]):
+    for d, t in enumerate(reversed(tokens[-3:])):
         if t in ALIASES:
-            return ALIASES[t]
+            return ALIASES[t], d
     return None
+
+
+def lang_of(path: Path) -> str | None:
+    lp = _lang_pos(path)
+    return lp[0] if lp else None
 
 
 def version_of(folder: Path) -> int | None:
@@ -55,14 +61,21 @@ def families() -> dict[str, dict[int, Path]]:
 
 def docs_by_lang(folder: Path) -> dict[str, Path]:
     res: dict[str, Path] = {}
+    dist: dict[str, int] = {}
     for f in sorted(folder.glob("*.docx*")):
         if f.name.startswith("~$") or not f.is_file():
             continue
-        lang = lang_of(f)
-        if lang:
+        lp = _lang_pos(f)
+        if lp:
+            lang, d = lp
             if lang in res:
-                raise ValueError(f"Due file per la lingua {lang} in {folder}: {res[lang].name}, {f.name}")
-            res[lang] = f
+                # documenti di servizio (es. osservazioni «…_IT_F0009_2026») contro il Word della lingua,
+                # che ha il codice lingua più vicino alla fine del nome
+                if d == dist[lang]:
+                    raise ValueError(f"Due file per la lingua {lang} in {folder}: {res[lang].name}, {f.name}")
+                if d > dist[lang]:
+                    continue
+            res[lang], dist[lang] = f, d
     if not res and re.search(r"\bIT\b", folder.name):
         # cartelle storiche solo italiane: il file senza codice lingua è l'IT
         files = [f for f in sorted(folder.glob("*.docx")) if not f.name.startswith("~$")]

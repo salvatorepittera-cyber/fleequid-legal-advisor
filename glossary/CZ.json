@@ -146,5 +146,450 @@
   "tr": "vady, nedostatky nebo anomálie",
   "source": "Fleequid Care v2 (nuovo)",
   "why": "Non riusata la resa v1 di 1.L5 („vady, poruchy nebo závady“) perché collide con i termini definiti Porucha/Závada (qui escluderebbe proprio i Guasti). Da validare."
+ },
+ {
+  "it": "Definizioni",
+  "tr": "Definice",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Závazná dohoda",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Kupující",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Konečné přiklepnutí",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Zrušení prodeje",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta",
+  "tr": "Aukce",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Vyvolávací cena",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Klasifikace Uživatele",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Provize",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Kup teď",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Zvláštní prodejní podmínky",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Zvláštní podmínky",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Spotřebitel",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Smlouva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Individuální smlouva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Kauce",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Prodejní akce",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Poskytovatel financování",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Břemeno",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Celková dlužná částka",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Inzerát",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Čistý zprostředkovatel",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Online tržiště",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Prodejní model",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Vyjednávání",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Nabízející",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Nabídka",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Zálohová platba",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Parti",
+  "tr": "Strany",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV",
+  "tr": "MZPC",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Minimální závazná prodejní cena",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Nákupní cena",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Čistá nákupní cena",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Rezervační cena",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PR",
+  "tr": "RC",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Prodejní cena pro Kupujícího",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Profesionál",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Návrh prodeje",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Nejvyšší nabídka",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Další prodej",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Služby",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Řešení financování",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Opční stav",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Sazebník Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Poplatky",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Lhůta splatnosti",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Utente",
+  "tr": "Uživatel",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Vozidlo(a)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Vozidlo/a s ukončenou životností",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "VFU",
+  "tr": "VUŽ",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Prodej mimo aukci",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Komisní prodej",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Vyhrazený prodej",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Prodávající",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "giorni",
+  "tr": "dny",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "pracovní dny",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "perfezionamento / si perfeziona (Accordo vincolante, Contratto)",
+  "tr": "uzavření / je uzavřen(a)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Klasifikace Uživatele",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Aukce s příhozy",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Kupní smlouva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di Evento di vendita / tipologia di Evento di vendita",
+  "tr": "typ Prodejní akce",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Inzerát (nebo Aukční list)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "způsob provedení",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "fáze plnění",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "controproposta",
+  "tr": "protinabídka",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "závdavek / odstupné",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Prodejní cena pro Kupujícího",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Odložený prodej",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Rivendita (termine definito)",
+  "tr": "Další prodej",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "rivendita / rivendere (minuscolo, Dealer Sales)",
+  "tr": "přeprodej / přeprodat",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV / PR / VFU",
+  "tr": "MZPC / RC / VUŽ",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "nabízení (Vozidel) k prodeji",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi) / committenti",
+  "tr": "komisionářská pověření k prodeji a ke koupi / komitenti",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fonti contrattuali / fonte negoziale",
+  "tr": "smluvní prameny / smluvní pramen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "conoscibilità",
+  "tr": "seznatelnost",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "specifica operazione / operazione",
+  "tr": "konkrétní transakce / transakce",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ritardo / mora",
+  "tr": "zpoždění / prodlení",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "errore materiale manifesto",
+  "tr": "zjevná chyba v psaní nebo v počtech",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "a titolo esemplificativo e non esaustivo",
+  "tr": "příkladmo a nikoli vyčerpávajícím způsobem",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "úplaty",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "a carico del Venditore",
+  "tr": "k tíži Prodávajícího",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Clausola di collegamento (titolo art. 21)",
+  "tr": "Spojovací doložka",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Obsah",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "condizioni particolari (minuscolo, generico: artt. 4.3, 13.1)",
+  "tr": "konkrétní podmínky",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "risoluzione (ex art. 1456 c.c.) / clausola risolutiva espressa",
+  "tr": "odstoupení od smlouvy / výslovná rozvazovací doložka",
+  "source": "General T&C v9"
  }
 ]

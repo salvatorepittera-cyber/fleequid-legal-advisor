@@ -99,7 +99,7 @@ def build(changes: dict, it_prev: Docx, it_new: Docx, target: Docx, al: dict, la
         L.append(f"Riferimento T&C Generali {lang} (testo): `{general_ref}`\n")
     L.append("## Glossario (IT → " + lang + ")\n")
     for g in glossary:
-        L.append(f"- {strip_markup(g['it'])} → {strip_markup(g['tr'])}")
+        L.append(f"- {strip_markup(g['it'])} → {strip_markup(g['tr'])} [{g.get('source', '')}]")
     L.append("\n## Paragrafi da tradurre\n")
     todo = []
     arts = []

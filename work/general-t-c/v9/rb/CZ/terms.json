@@ -1,0 +1,486 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Definice"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Závazná dohoda"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Kupující"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Konečné přiklepnutí"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Zrušení prodeje"
+ },
+ {
+  "it": "Asta",
+  "tr": "Aukce"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Vyvolávací cena"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Klasifikace Uživatele"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Provize"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Kup teď"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Všeobecné obchodní podmínky"
+ },
+ {
+  "it": "CG",
+  "tr": "VOP"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Zvláštní prodejní podmínky"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Zvláštní podmínky"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Spotřebitel"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Smlouva"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Individuální smlouva"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Kauce"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Prodejní akce"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Poskytovatel financování"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Břemeno"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Celková dlužná částka"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Inzerát"
+ },
+ {
+  "it": "(o",
+  "tr": "(nebo"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Aukční list"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Čistý zprostředkovatel"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Online tržiště"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Prodejní model"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Vyjednávání"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Nabízející"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Nabídka"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Zálohová platba"
+ },
+ {
+  "it": "Parti",
+  "tr": "Strany"
+ },
+ {
+  "it": "PMIV",
+  "tr": "MZPC"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Minimální závazná prodejní cena"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Nákupní cena"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Čistá nákupní cena"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Rezervační cena"
+ },
+ {
+  "it": "PR",
+  "tr": "RC"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Prodejní cena pro Kupujícího"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Profesionál"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Návrh prodeje"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Nejvyšší nabídka"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Další prodej"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Služby"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Řešení financování"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Technické specifikace"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Opční stav"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Sazebník Fleequid"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Poplatky"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Lhůta splatnosti"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Uživatel"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Vozidlo(a)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Vozidlo/a s ukončenou životností"
+ },
+ {
+  "it": "VFU",
+  "tr": "VUŽ"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Prodej mimo aukci"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Komisní prodej"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Vyhrazený prodej"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Prodávající"
+ },
+ {
+  "it": "giorni",
+  "tr": "dny"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "pracovní dny"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Účel, role společnosti Fleequid a Prodejní modely"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Určení a seznatelnost Prodejního modelu"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Smluvní prameny, Inzerát a podmínky použitelné na konkrétní transakci"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Registrace a povolené používání Online tržiště"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Klasifikace Uživatele a Kauce"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Zpracování osobních údajů Uživatelů"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Návrh prodeje Vozidel v Aukci a povinnosti Prodávajícího"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Prodejní akce a Inzerát"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Nabídky, vyjednávání a Závazná dohoda"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Opční stav, Proforma a Lhůta splatnosti"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Platba, Konečné přiklepnutí v Aukcích, zpoždění a Zrušení prodeje"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Odložený prodej: zálohová platba a Vozidlo dočasně v užívání Prodávajícího"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Zrušení prodeje: obecná úprava a zúžení předmětu"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Majetkové účinky: vrácení plnění, obnovení původního stavu a ekonomická koordinace"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Fáze plnění vůči Kupujícímu: fakturace, převod vlastnictví, riziko, dodání a převzetí"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Komisní prodej: společná úprava, Další prodej a působení v postavení Čistého zprostředkovatele"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Záruky, vyloučení a omezení"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Reklamace"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Spojovací doložka"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Řešení financování nabízená třetími osobami"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Rozhodné právo, jazyk a soudní příslušnost"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Korespondence"
+ },
+ {
+  "it": "perfezionamento / si perfeziona (Accordo vincolante, Contratto)",
+  "tr": "uzavření / je uzavřen(a)"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Klasifikace Uživatele"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Aukce s příhozy"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Kupní smlouva"
+ },
+ {
+  "it": "modalità di Evento di vendita / tipologia di Evento di vendita",
+  "tr": "typ Prodejní akce"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Inzerát (nebo Aukční list)"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "způsob provedení"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "fáze plnění"
+ },
+ {
+  "it": "controproposta",
+  "tr": "protinabídka"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "závdavek / odstupné"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Prodejní cena pro Kupujícího"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Odložený prodej"
+ },
+ {
+  "it": "Rivendita (termine definito)",
+  "tr": "Další prodej"
+ },
+ {
+  "it": "rivendita / rivendere (minuscolo, Dealer Sales)",
+  "tr": "přeprodej / přeprodat"
+ },
+ {
+  "it": "PMIV / PR / VFU",
+  "tr": "MZPC / RC / VUŽ"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "nabízení (Vozidel) k prodeji"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi) / committenti",
+  "tr": "komisionářská pověření k prodeji a ke koupi / komitenti"
+ },
+ {
+  "it": "fonti contrattuali / fonte negoziale",
+  "tr": "smluvní prameny / smluvní pramen"
+ },
+ {
+  "it": "conoscibilità",
+  "tr": "seznatelnost"
+ },
+ {
+  "it": "specifica operazione / operazione",
+  "tr": "konkrétní transakce / transakce"
+ },
+ {
+  "it": "ritardo / mora",
+  "tr": "zpoždění / prodlení"
+ },
+ {
+  "it": "errore materiale manifesto",
+  "tr": "zjevná chyba v psaní nebo v počtech"
+ },
+ {
+  "it": "a titolo esemplificativo e non esaustivo",
+  "tr": "příkladmo a nikoli vyčerpávajícím způsobem"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "úplaty"
+ },
+ {
+  "it": "a carico del Venditore",
+  "tr": "k tíži Prodávajícího"
+ },
+ {
+  "it": "Clausola di collegamento (titolo art. 21)",
+  "tr": "Spojovací doložka"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Obsah"
+ },
+ {
+  "it": "condizioni particolari (minuscolo, generico: artt. 4.3, 13.1)",
+  "tr": "konkrétní podmínky"
+ },
+ {
+  "it": "risoluzione (ex art. 1456 c.c.) / clausola risolutiva espressa",
+  "tr": "odstoupení od smlouvy / výslovná rozvazovací doložka"
+ }
+]

@@ -1,0 +1,542 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Определения"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Обязывающее соглашение"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Покупатель"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Окончательное присуждение"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Аннулирование продажи"
+ },
+ {
+  "it": "Asta",
+  "tr": "Аукцион"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Начальная цена"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Классификация Пользователя"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Комиссионные"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Купить сейчас"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Общие условия"
+ },
+ {
+  "it": "CG",
+  "tr": "ОУ"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Особые условия продажи"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Специальные условия"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Потребитель"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Договор"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Индивидуальный договор"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Гарантийный депозит"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Процедура продажи"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Финансирующая организация"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Обременение"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Общая причитающаяся сумма"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Объявление"
+ },
+ {
+  "it": "(o",
+  "tr": "(или"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Аукционный лист"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Чистый посредник"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Торговая площадка"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Модель продажи"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Переговоры"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Предлагающий цену"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Предложение"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Авансовый платеж"
+ },
+ {
+  "it": "Parti",
+  "tr": "Стороны"
+ },
+ {
+  "it": "PMIV",
+  "tr": "МЦОП"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Минимальная цена обязательства по продаже"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Цена покупки"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Чистая цена покупки"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Резервная цена"
+ },
+ {
+  "it": "PR",
+  "tr": "РЦ"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Цена продажи Покупателю"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Профессионал"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Проформа"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Предложение о продаже"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Максимальная ставка"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Перепродажа"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Услуги"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Программы финансирования"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Технические характеристики"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Опционный статус"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Прейскурант Fleequid"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Тарифы"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Срок оплаты"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Пользователь"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Транспортное средство"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Транспортное средство/Транспортные средства, выведенные из эксплуатации"
+ },
+ {
+  "it": "VFU",
+  "tr": "ТСВЭ"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Внеаукционная продажа"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Комиссионная продажа"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Конфиденциальная продажа"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Продавец"
+ },
+ {
+  "it": "giorni",
+  "tr": "дни"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "рабочие дни"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Цели, роль Fleequid и Модели продажи"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Определение Модели продажи и возможность ознакомления с ней"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Договорные источники, Объявление и условия, применимые к конкретной сделке"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Регистрация и разрешенное использование Торговой площадки"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Классификация Пользователя и Гарантийный депозит"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Обработка персональных данных Пользователей"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Предложение о продаже Транспортных средств на Аукционе и обязанности Продавца"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Процедуры продажи и Объявление"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Предложения, переговоры и Обязывающее соглашение"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Опционный статус, Проформа и Срок оплаты"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Оплата, Окончательное присуждение на Аукционах, просрочка и Аннулирование продажи"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Отложенная продажа: авансовый платеж и Транспортное средство, временно находящееся в пользовании Продавца"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Аннулирование продажи: общее регулирование и уменьшение предмета"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Имущественные последствия: возврат, восстановление прежнего положения и экономическая координация"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Стадия исполнения в отношении Покупателя: выставление счетов-фактур, переход права собственности, риск, поставка и получение"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Комиссионная продажа: общие положения, Перепродажа и деятельность в качестве Чистого посредника"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Гарантии, исключения и ограничения"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Претензии"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Договорная связь"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Программы финансирования, предлагаемые третьими лицами"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Применимое право, язык и компетентный суд"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Уведомления"
+ },
+ {
+  "it": "Annullamento della vendita (forma breve: Annullamento)",
+  "tr": "Аннулирование продажи (Аннулирование)"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Классификация Пользователя"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Купить сейчас (nel testo sempre tra virgolette e con il nome generico: способ «Купить сейчас»)"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "способ проведения Процедуры продажи"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Объявление (или Аукционный лист)"
+ },
+ {
+  "it": "Pagamento anticipato (termine definito, art. 13)",
+  "tr": "Авансовый платеж"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Цена продажи Покупателю"
+ },
+ {
+  "it": "Servizi / Tariffe",
+  "tr": "Услуги / Тарифы"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "реализация (реализуемый; отношения по реализации)"
+ },
+ {
+  "it": "committente (commissione)",
+  "tr": "комитент"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi)",
+  "tr": "комиссионные поручения на продажу и на покупку"
+ },
+ {
+  "it": "Acquirente / Venditore sostanziale; parte sostanziale",
+  "tr": "фактический Покупатель / фактический Продавец; фактическая сторона"
+ },
+ {
+  "it": "venditore/acquirente formale",
+  "tr": "формальный продавец / покупатель"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "способ исполнения"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "стадия исполнения"
+ },
+ {
+  "it": "specifica operazione / singola operazione",
+  "tr": "конкретная сделка / отдельная сделка"
+ },
+ {
+  "it": "perfezionamento (dell'Accordo vincolante / del Contratto)",
+  "tr": "заключение"
+ },
+ {
+  "it": "conoscibilità / rendere conoscibile",
+  "tr": "возможность ознакомления / обеспечить возможность ознакомления"
+ },
+ {
+  "it": "errore materiale manifesto",
+  "tr": "явная техническая ошибка"
+ },
+ {
+  "it": "clausola risolutiva espressa",
+  "tr": "оговорка о расторжении ipso jure"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "подтверждающий задаток / отступной задаток"
+ },
+ {
+  "it": "ritardo (nel pagamento; giorno di ritardo)",
+  "tr": "просрочка"
+ },
+ {
+  "it": "consegna e ritiro (del Veicolo)",
+  "tr": "поставка и получение"
+ },
+ {
+  "it": "ripristino (art. 15)",
+  "tr": "восстановление прежнего положения"
+ },
+ {
+  "it": "controproposta",
+  "tr": "встречное предложение"
+ },
+ {
+  "it": "rilancio / Asta a rilancio",
+  "tr": "повышение / Аукцион на повышение"
+ },
+ {
+  "it": "Termini e Condizioni Generali (titolo)",
+  "tr": "Общие условия"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Оглавление"
+ },
+ {
+  "it": "lett. / comma / ultimo periodo",
+  "tr": "лит. / абз. / последнее предложение"
+ },
+ {
+  "it": "penale",
+  "tr": "штраф"
+ },
+ {
+  "it": "Offerente (anche fuori asta)",
+  "tr": "Предлагающий цену"
+ },
+ {
+  "it": "disciplina generale / disciplina comune (titoli artt. 14 e 17)",
+  "tr": "общее регулирование / общие положения"
+ },
+ {
+  "it": "modalità autonoma (Compra-Subito) / contratti distinti e autonomi",
+  "tr": "самостоятельный способ / отдельные и самостоятельные договоры"
+ },
+ {
+  "it": "dovuto a/da (somme)",
+  "tr": "причитающийся (кому) с (кого)"
+ },
+ {
+  "it": "documento ricognitivo",
+  "tr": "документ констатирующего характера"
+ },
+ {
+  "it": "Vendita differita (art. 13, denominazione descrittiva)",
+  "tr": "Отложенная продажа"
+ },
+ {
+  "it": "tipologia di Evento di vendita / di Asta",
+  "tr": "вид Процедуры продажи / вид Аукциона"
+ },
+ {
+  "it": "assumere la qualità di (Acquirente, venditore sostanziale, parte)",
+  "tr": "приобретать статус (Покупателя, фактического продавца, стороны)"
+ },
+ {
+  "it": "struttura giuridica (Modello di Vendita)",
+  "tr": "правовая конструкция"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "вознаграждение"
+ },
+ {
+  "it": "fonti contrattuali / fonte negoziale",
+  "tr": "договорные источники / договорный источник"
+ },
+ {
+  "it": "incasso netto / incasso (del prezzo)",
+  "tr": "чистая выручка / поступление (денежных средств)"
+ },
+ {
+  "it": "committenti / mandanti (art. 2.5, nella commissione)",
+  "tr": "комитенты"
+ }
+]

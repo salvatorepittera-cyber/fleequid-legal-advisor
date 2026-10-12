@@ -147,5 +147,595 @@
   "tr": "cualquiera que sea la forma en que se hayan suscrito",
   "source": "Fleequid Care v2 (nuovo)",
   "why": "«concluso» reso «suscrito» nella v1 ES di 2.3 (priorità al termine v1)"
+ },
+ {
+  "it": "Definizioni",
+  "tr": "Definiciones",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Acuerdo Vinculante",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Comprador(es)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Adjudicación Definitiva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Anulación de la Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta",
+  "tr": "Subasta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Precio de Salida",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Clasificación del Usuario",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Comisiones",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Comprar Ahora",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Condiciones Particulares de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Condiciones Específicas",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consumidor",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Contrato",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Contrato Individual",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Fianza",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Evento de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financiador",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Gravamen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Importe Total Adeudado",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Anuncio",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Ficha de Subasta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Mero Intermediario",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Marketplace",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Modelo de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Negociación",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Oferente",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Oferta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Anticipo",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Parti",
+  "tr": "Partes",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV",
+  "tr": "PMCV",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Precio Mínimo de Compromiso de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Precio de Compra",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Precio de Compra Neto",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Precio de Reserva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PR",
+  "tr": "PR",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Precio de Venta al Comprador",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Profesional",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Propuesta de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Puja Máxima",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Reventa",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Servicios",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Soluciones de Financiación",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Especificaciones Técnicas",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Estado Opcionado",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Lista de Tarifas de Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Tarifas",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Plazo de Pago",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Utente",
+  "tr": "Usuario",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Vehículo(s)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Vehículo/s Fuera de Uso",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "VFU",
+  "tr": "VFU",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Venta Fuera de Subasta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Venta en Comisión",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Venta Reservada",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Vendedor(es)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "giorni",
+  "tr": "días",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "laborables",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Clasificación del Usuario",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Subasta por pujas",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto di compravendita",
+  "tr": "Contrato de compraventa",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "modalidad de Evento de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Anuncio (o Ficha de Subasta)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "controproposta",
+  "tr": "contrapropuesta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "pagamento anticipato (art. 22.9, minuscolo: Fleequid paga il Venditore prima dell'incasso)",
+  "tr": "pago adelantado",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "arras confirmatorias / penitenciales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Precio de Venta al Comprador",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma (femminile: la Proforma)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Venta Diferida",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "modalidad de ejecución",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "fase de ejecución",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "perfezionamento (dell'Accordo / del Contratto)",
+  "tr": "perfeccionamiento",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "comercialización",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi, minuscolo)",
+  "tr": "encargos de comisión de venta y de compra",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "committenti",
+  "tr": "comitentes",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente / Venditore sostanziale",
+  "tr": "Comprador / Vendedor real (minuscolo: comprador real, vendedor real)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "parte sostanziale (Dealer Sales)",
+  "tr": "parte real",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "penale",
+  "tr": "penalización",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "maturazione delle Commissioni",
+  "tr": "devengo de las Comisiones",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "conoscibilità",
+  "tr": "cognoscibilidad",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "documento ricognitivo",
+  "tr": "documento de carácter recognoscitivo",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "locazione finanziaria",
+  "tr": "arrendamiento financiero",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ritiro (del Veicolo)",
+  "tr": "recogida",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "trasferimento della proprietà",
+  "tr": "transferencia de la propiedad",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Índice",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termini e Condizioni Generali (frontespizio)",
+  "tr": "Términos y Condiciones Generales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Base d'asta",
+  "tr": "Precio de Salida",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV / Prezzo minimo di impegno alla vendita",
+  "tr": "PMCV / Precio Mínimo de Compromiso de Venta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di riserva / PR",
+  "tr": "Precio de Reserva / PR",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Gravamen (plurale: Gravámenes)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction (plurale: 1 Euro Auctions)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso / VFU",
+  "tr": "Vehículo/s Fuera de Uso / VFU",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente / Offerta",
+  "tr": "Oferente / Oferta",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "venditore formale / acquirente formale",
+  "tr": "vendedor formal / comprador formal",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "posizione sostanziale (art. 21)",
+  "tr": "posición sustantiva",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modifica sostanziale (delle condizioni)",
+  "tr": "modificación sustancial",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "titolo autonomo di addebito / addebito",
+  "tr": "título autónomo de cargo / cargo",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "annullamento del contratto per cause di invalidità (art. 14.1, minuscolo)",
+  "tr": "invalidación del contrato por causas de invalidez",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento (forma abbreviata del termine definito)",
+  "tr": "Anulación",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ripristino (art. 15: della situazione anteriore / dell'operazione)",
+  "tr": "restablecimiento",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fuso orario",
+  "tr": "huso horario",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ai sensi di / ai sensi dell'art",
+  "tr": "conforme a / conforme al art",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "disciplinato da / regolato da",
+  "tr": "regulado en (por) / regido por",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "secondo quanto previsto da",
+  "tr": "conforme a lo previsto en",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "art. / artt. / lett. / c.c",
+  "tr": "art. / arts. / letra / Código Civil italiano",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "D.Lgs",
+  "tr": "Decreto Legislativo italiano n.º …",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "a titolo esemplificativo e non esaustivo",
+  "tr": "a título meramente enunciativo y no limitativo",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "clausola risolutiva espressa",
+  "tr": "cláusula resolutoria expresa",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "rilanci",
+  "tr": "pujas (incrementos solo nella definizione di Puja Máxima, ripresa dalla v8)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "giorni lavorativi",
+  "tr": "días laborables",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ritardo",
+  "tr": "retraso",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ruolo / veste (di Fleequid)",
+  "tr": "papel / condición",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Utente Professionista",
+  "tr": "Usuario Profesional",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "dossier tecnico",
+  "tr": "expediente técnico",
+  "source": "General T&C v9"
  }
 ]

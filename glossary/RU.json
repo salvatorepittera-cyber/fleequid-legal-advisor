@@ -130,5 +130,535 @@
   "tr": "выход из строя одометра",
   "source": "Fleequid Care v2 (nuovo)",
   "why": "revisore: evita «Неисправность», termine definito (Malfunzionamento, art. 1.L5)"
+ },
+ {
+  "it": "Definizioni",
+  "tr": "Определения",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Обязывающее соглашение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Покупатель",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Окончательное присуждение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Аннулирование продажи",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta",
+  "tr": "Аукцион",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Начальная цена",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Классификация Пользователя",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Комиссионные",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Купить сейчас",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Общие условия",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "CG",
+  "tr": "ОУ",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Особые условия продажи",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Специальные условия",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Потребитель",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Договор",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Индивидуальный договор",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Гарантийный депозит",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Процедура продажи",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Финансирующая организация",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Обременение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Общая причитающаяся сумма",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Объявление",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Аукционный лист",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Чистый посредник",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Торговая площадка",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Модель продажи",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Переговоры",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Предлагающий цену",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Предложение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Авансовый платеж",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Parti",
+  "tr": "Стороны",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV",
+  "tr": "МЦОП",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Минимальная цена обязательства по продаже",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Цена покупки",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Чистая цена покупки",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Резервная цена",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PR",
+  "tr": "РЦ",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Цена продажи Покупателю",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Профессионал",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Проформа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Предложение о продаже",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Максимальная ставка",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Перепродажа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Услуги",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Программы финансирования",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Опционный статус",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Прейскурант Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Тарифы",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Срок оплаты",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Utente",
+  "tr": "Пользователь",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Транспортное средство",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Транспортное средство/Транспортные средства, выведенные из эксплуатации",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "VFU",
+  "tr": "ТСВЭ",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Внеаукционная продажа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Комиссионная продажа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Конфиденциальная продажа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Продавец",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "giorni",
+  "tr": "дни",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "рабочие дни",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento della vendita (forma breve: Annullamento)",
+  "tr": "Аннулирование продажи (Аннулирование)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Классификация Пользователя",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Купить сейчас (nel testo sempre tra virgolette e con il nome generico: способ «Купить сейчас»)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di Evento di vendita",
+  "tr": "способ проведения Процедуры продажи",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione (o Scheda d'Asta)",
+  "tr": "Объявление (или Аукционный лист)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Pagamento anticipato (termine definito, art. 13)",
+  "tr": "Авансовый платеж",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Цена продажи Покупателю",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Servizi / Tariffe",
+  "tr": "Услуги / Тарифы",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "реализация (реализуемый; отношения по реализации)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "committente (commissione)",
+  "tr": "комитент",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (incarichi)",
+  "tr": "комиссионные поручения на продажу и на покупку",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente / Venditore sostanziale; parte sostanziale",
+  "tr": "фактический Покупатель / фактический Продавец; фактическая сторона",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "venditore/acquirente formale",
+  "tr": "формальный продавец / покупатель",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "способ исполнения",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "стадия исполнения",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "specifica operazione / singola operazione",
+  "tr": "конкретная сделка / отдельная сделка",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "perfezionamento (dell'Accordo vincolante / del Contratto)",
+  "tr": "заключение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "conoscibilità / rendere conoscibile",
+  "tr": "возможность ознакомления / обеспечить возможность ознакомления",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "errore materiale manifesto",
+  "tr": "явная техническая ошибка",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "clausola risolutiva espressa",
+  "tr": "оговорка о расторжении ipso jure",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "подтверждающий задаток / отступной задаток",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ritardo (nel pagamento; giorno di ritardo)",
+  "tr": "просрочка",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "consegna e ritiro (del Veicolo)",
+  "tr": "поставка и получение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ripristino (art. 15)",
+  "tr": "восстановление прежнего положения",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "controproposta",
+  "tr": "встречное предложение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "rilancio / Asta a rilancio",
+  "tr": "повышение / Аукцион на повышение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termini e Condizioni Generali (titolo)",
+  "tr": "Общие условия",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Sommario",
+  "tr": "Оглавление",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "lett. / comma / ultimo periodo",
+  "tr": "лит. / абз. / последнее предложение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "penale",
+  "tr": "штраф",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente (anche fuori asta)",
+  "tr": "Предлагающий цену",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "disciplina generale / disciplina comune (titoli artt. 14 e 17)",
+  "tr": "общее регулирование / общие положения",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità autonoma (Compra-Subito) / contratti distinti e autonomi",
+  "tr": "самостоятельный способ / отдельные и самостоятельные договоры",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "dovuto a/da (somme)",
+  "tr": "причитающийся (кому) с (кого)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "documento ricognitivo",
+  "tr": "документ констатирующего характера",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita differita (art. 13, denominazione descrittiva)",
+  "tr": "Отложенная продажа",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "tipologia di Evento di vendita / di Asta",
+  "tr": "вид Процедуры продажи / вид Аукциона",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "assumere la qualità di (Acquirente, venditore sostanziale, parte)",
+  "tr": "приобретать статус (Покупателя, фактического продавца, стороны)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "struttura giuridica (Modello di Vendita)",
+  "tr": "правовая конструкция",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "вознаграждение",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fonti contrattuali / fonte negoziale",
+  "tr": "договорные источники / договорный источник",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "incasso netto / incasso (del prezzo)",
+  "tr": "чистая выручка / поступление (денежных средств)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "committenti / mandanti (art. 2.5, nella commissione)",
+  "tr": "комитенты",
+  "source": "General T&C v9"
  }
 ]

@@ -1,0 +1,404 @@
+{
+ "lang": "CZ",
+ "chunk": "k09",
+ "translations": {
+  "u267": "Ustanovení tohoto článku v mezích povolených zákonem a s přihlédnutím k profesionální povaze Uživatelů a k vlastnostem Vozidel nabízených k prodeji prostřednictvím společnosti Fleequid úplně upravují režim záruk, vyloučení a omezení odpovědnosti použitelný na nákup a prodej Vozidla ve vztahu ke Kupujícímu, a to v závislosti na použitelném Prodejním modelu, na zvoleném způsobu provedení a na osobě, která v konkrétní transakci nabývá postavení skutečného prodávajícího. Tento článek je jediným místem úpravy záruky ve vztazích s Kupujícím: ustanovení čl. 17 a 18 si zachovávají výlučně úpravu odpovědnosti, záruk, závazků k odškodnění a zproštění odpovědnosti a regresu ve vztazích mezi společností Fleequid a Prodávajícím a nepředjímají, neshrnují ani nereprodukují režim stanovený tímto článkem, na který odkazují.",
+  "u268": "Kupující berou na vědomí a souhlasí s tím, že Vozidla nabízená k prodeji prostřednictvím společnosti Fleequid jsou, není-li v jednotlivých případech výslovně uvedeno jinak, použitá a jsou prodávána výlučně mezi Profesionály (B2B), ve faktickém a právním stavu, v jakém se nacházejí, s doložkou „<i>viděno, vyzkoušeno a přijato</i>“, „<i>tak, jak jsou</i>“ a „<i>tak, jak jsou k dispozici</i>“, s přihlédnutím k jejich povaze, stáří, stavu najetých kilometrů, míře užívání a k informacím zpřístupněným před podáním Nabídky. V rámci Komisního prodeje, a to i tehdy, postupuje-li společnost Fleequid formou Dalšího prodeje, neposkytuje společnost Fleequid žádnou samostatnou záruku na Vozidlo ani na jeho jednotlivé součásti a v důsledku Dalšího prodeje nenabývá pro účely záruky postavení skutečného prodávajícího; nedotčena zůstávají vyloučení, omezení, závazky k odškodnění a zproštění odpovědnosti a úprava vztahů mezi Prodávajícím a Kupujícím stanovené tímto článkem. V rámci Dealer Sales, kde společnost Fleequid nabývá vůči Kupujícímu postavení skutečného prodávajícího, se Strany, obě Profesionálové, v mezích povolených zákonem výslovně dohodly, že záruku, k níž je společnost Fleequid povinna, vylučují a v každém případě smluvně omezují pouze na případy a pouze v mezích výslovně stanovených těmito Všeobecnými obchodními podmínkami, Zvláštními podmínkami nebo Zvláštními prodejními podmínkami použitelnými na konkrétní transakci. Kupující proto uznává, že společnost Fleequid neposkytuje žádnou další záruku, výslovnou ani implicitní, ve vztahu k Vozidlu, jeho součástem nebo příslušenství, k jejich opotřebení, funkčnosti, vhodnosti ke zvláštnímu použití nebo k trvání jejich výkonnosti v čase, s výjimkou toho, co stanoví kogentní ustanovení zákona nebo co společnost Fleequid pro konkrétní transakci výslovně převzala.",
+  "u269": "Před podáním Nabídky je Kupující povinen s péčí, kterou vyžaduje jeho profesionální postavení, prozkoumat Inzerát, Technické specifikace, TrustReport, je-li k dispozici, fotografie, dokumentaci a veškeré další informace zpřístupněné v souvislosti s Vozidlem a rovněž využít možnosti Vozidlo zhlédnout, podrobit je prohlídce a vyzkoušet. Za skryté vady nelze považovat a nároky ze záruky, na slevu z ceny, na odškodnění nebo na náhradu škody nelze zakládat na vadách, závadách, neshodách, provozních podmínkách, opotřebení, nedostatcích shody nebo chybějících položkách – a to i týkajících se částí, které nejsou bezprostředně viditelné nebo snadno přístupné –, které vyplývaly ze zpřístupněných informací nebo dokumentace anebo které Kupující mohl zjistit jejich prozkoumáním nebo využitím možnosti prohlídky a vyzkoušení Vozidla. Neprovedení prohlídky nebo zkoušky, které společnost Fleequid vždy nabízí, jde na riziko Kupujícího a nemůže vést k rozšíření použitelného režimu záruky. Povinnost prozkoumání a prohlídky stanovená tímto odstavcem platí ve všech Prodejních modelech a při všech způsobech provedení.",
+  "u270": "Kupující bere na vědomí a souhlasí s tím, že stav najetých kilometrů Vozidla uvedený v Technických specifikacích, v Inzerátu, v TrustReportu nebo v dokumentaci týkající se Prodejní akce vždy podléhá toleranci 15.000 km; rozdíl směrem nahoru nepřesahující 15.000 km oproti uvedenému stavu najetých kilometrů proto nepředstavuje vadu, neshodu ani nedostatek jakosti Vozidla a nelze na něm zakládat nároky ze záruky, na slevu z ceny, na odškodnění nebo na náhradu škody, aniž je dotčeno zvláštní ustanovení čl. 16.11 o případném zvýšení stavu najetých kilometrů v důsledku přesunu Vozidla jízdou po silnici. S ohledem na stupeň stáří, opotřebení a vlastnosti konkrétní kategorie Vozidla Kupující dále uznává, že režimu zvláštního omezení záruky podléhají:",
+  "u271": "Vozidla náležející k typu autobus, jejichž stav najetých kilometrů přesahuje 250.000 km nebo jejichž první registrace proběhla před více než čtyřmi (4) kalendářními roky;",
+  "u272": "Vozidla nepojízdná, označená jako poškozená nebo určená výhradně k sešrotování;",
+  "u273": "Vozidla, jejichž Prodejní cena pro Kupujícího je nižší než 50.000,00 EUR (padesát tisíc/00 eur).",
+  "u274": "V rámci Komisního prodeje, a to i tehdy, postupuje-li společnost Fleequid formou Dalšího prodeje, neodpovídá společnost Fleequid za závady, anomálie, opotřebení, funkční nedostatky ani jiné stavy Vozidla spadající do výše uvedených případů, a to ani tehdy, nejsou-li bezprostředně viditelné nebo rozpoznatelné, přičemž nedotčen zůstává režim odpovědnosti a záruky skutečného Prodávajícího v mezích stanovených tímto článkem. V rámci Dealer Sales se Strany výslovně dohodly, že u Vozidel spadajících do výše uvedených případů jsou ze záruky, k níž je společnost Fleequid povinna, v mezích povolených zákonem vyloučeny závady, anomálie, opotřebení, funkční nedostatky, nedostatky jakosti a jiné stavy, které lze přičíst stáří, stavu najetých kilometrů, míře užívání, určení nebo vlastnostem Vozidla, a to i tehdy, nejsou-li bezprostředně viditelné nebo rozpoznatelné, s výjimkou toho, za co společnost Fleequid v konkrétní transakci výslovně převzala záruku, a toho, co stanoví čl. 19.8.",
+  "u275": "TrustReport je dokument o prověrce Vozidla vyhotovený společností Fleequid nebo na její objednávku třetími osobami a má výlučně informativní povahu v mezích zjištění v něm výslovně uvedených. TrustReport zejména:",
+  "u276": "zahrnuje výlučně kontroly a zjištění v něm uvedené, provedené způsobem tam popsaným; co v něm není výslovně zahrnuto, se považuje za neověřené;",
+  "u277": "nepředstavuje záruku celkového stavu Vozidla ani potvrzení neexistence vad, závad, poruch, anomálií nebo neshod ani osvědčení o shodě Vozidla s určitým technickým nebo kvalitativním standardem;",
+  "u278": "zachycuje stav Vozidla vyplývající z kontrol provedených ke dni prohlídky a nezaručuje, že tentýž stav potrvá až do dodání nebo převzetí;",
+  "u279": "nenahrazuje prozkoumání, prohlídku ani vyzkoušení Vozidla Kupujícím a neodstraňuje ani neomezuje povinnosti, které jej tíží podle čl. 19.3;",
+  "u280": "nerozšiřuje režim záruky použitelný na konkrétní transakci ani se neodchyluje od vyloučení a omezení stanovených těmito Všeobecnými obchodními podmínkami;",
+  "u281": "nezprošťuje Prodávajícího povinností týkajících se pravdivosti, úplnosti a aktuálnosti informací o Vozidle ani záruk, závazků k odškodnění a zproštění odpovědnosti a dalších povinností, které jej tíží.",
+  "u282": "V rámci Komisního prodeje, a to i tehdy, postupuje-li společnost Fleequid formou Dalšího prodeje, neznamená vyhotovení nebo opatření TrustReportu, že společnost Fleequid přebírá samostatnou záruku na Vozidlo. V rámci Dealer Sales nepředstavuje vyhotovení, opatření nebo dostupnost TrustReportu, před koupí Vozidla společností Fleequid nebo po ní, ve vztazích mezi společností Fleequid a Prodávajícím přijetí Vozidla bez výhrad, uznání jeho shody ani vzdání se záruk, výtek, závazků k odškodnění a zproštění odpovědnosti nebo práv na náhradu nákladů a na regres náležejících společnosti Fleequid. Tatáž ustanovení se v rozsahu, v jakém jsou slučitelná, použijí na technickou dokumentaci, prohlídky, zkoušky a další činnosti prověrky Vozidla prováděné společností Fleequid nebo osobami jí pověřenými.",
+  "u283": "Prodávající nadále odpovídá za pravdivost, úplnost a aktuálnost informací, prohlášení a dokumentace týkajících se Vozidla, včetně Návrhu prodeje, Technických specifikací, Inzerátu, případné technické dokumentace a informací převzatých do TrustReportu, a to i tehdy, byl-li tento obsah vyhotoven, doplněn nebo zveřejněn s podporou společnosti Fleequid nebo osob jí pověřených. Prodávající rovněž v mezích stanovených těmito Všeobecnými obchodními podmínkami odpovídá za vady, závady, neshody, nedostatky jakosti, poškození, anomálie a další stavy Vozidla, které existovaly před jeho převodem nebo které lze přičíst skutečnostem, opomenutím nebo porušením povinností jemu přičitatelným, a je povinen včas oznámit společnosti Fleequid každou významnou okolnost, o níž se dozví. V rámci Komisního prodeje, a to i tehdy, postupuje-li společnost Fleequid formou Dalšího prodeje, si Prodávající zachovává postavení skutečného prodávajícího, pokud jde o vlastnosti, jakost, vady a neshody Vozidla; Další prodej, dočasné nabytí vlastnictví společností Fleequid, zaplacení ceny, převzetí Vozidla nebo manipulace s ním, vyhotovení TrustReportu ani provedení prohlídek neznamenají, že společnost Fleequid přebírá samostatnou záruku na Vozidlo, ani nezprošťují Prodávajícího odpovědnosti, záruk a závazků k odškodnění a zproštění odpovědnosti stanovených těmito Všeobecnými obchodními podmínkami, přičemž nedotčena zůstávají zejména práva společnosti Fleequid stanovená v čl. 8.13 a 17.7. Působí-li společnost Fleequid jako Čistý zprostředkovatel, existuje záruka týkající se Vozidla přímo mezi Prodávajícím a Kupujícím, aniž jsou dotčena vyloučení, omezení a lhůty stanovené tímto článkem. V rámci Dealer Sales odpovídá společnost Fleequid vůči Kupujícímu jako skutečný prodávající výlučně v mezích režimu záruky sjednaného v tomto článku a v dalších podmínkách použitelných na konkrétní transakci; ve vztazích mezi společností Fleequid a Prodávajícím, od něhož bylo Vozidlo koupeno, však zůstává nedotčena odpovědnost Prodávajícího za skutečnosti, vady, závady, opomenutí a porušení povinností jemu přičitatelné, se závazkem k odškodnění a zproštění odpovědnosti a k plné náhradě a s právem na regres podle čl. 8.13 a 18.5.",
+  "u284": "Ve vztazích s Kupujícím je režim záruky týkající se Vozidla uspořádán takto:",
+  "u285": "<b>Komisní prodej formou Dalšího prodeje</b>. Lze-li, byť i jen zbytkově, shledat existenci skrytých vad, závad, neshod nebo nedostatků jakosti Vozidla, které nejsou vyloučeny podle předchozích odstavců, Kupující bere na vědomí a souhlasí s tím, že společnost Fleequid vstupuje do transakce jako komisionář, a nikoli jako skutečný prodávající, a Vozidlo od Prodávajícího kupuje výlučně za účelem následného Dalšího prodeje Kupujícímu. Společnost Fleequid není povinna provádět prohlídky, technické kontroly ani jiná zjištění nad rámec těch, k nimž se případně výslovně zavázala, a neposkytuje žádnou samostatnou záruku na Vozidlo. V mezích povolených zákonem se proto Kupující vzdává uplatňování nároků ze záruky, na odstoupení od smlouvy, na slevu z ceny, na odškodnění nebo na náhradu škody vůči společnosti Fleequid založených na vlastnostech, jakosti, vadách, závadách nebo neshodách Vozidla a zavazuje se odškodnit společnost Fleequid a zprostit ji odpovědnosti ve vztahu k jakémukoli souvisejícímu nároku, požadavku, žalobě, nákladu, výdaji nebo zátěži, přičemž nedotčeny zůstávají nároky, které případně náležejí vůči skutečnému Prodávajícímu. Použije se spojovací doložka podle čl. 21.",
+  "u286": "<b>Komisní prodej, při němž společnost Fleequid působí jako Čistý zprostředkovatel</b>. Působí-li společnost Fleequid podle čl. 2.6, existují kupní smlouva a příslušný záruční vztah přímo a výlučně mezi Prodávajícím a Kupujícím, a to v mezích, s vyloučeními a podle smluvených lhůt stanovených tímto článkem, na jejichž použití i na svůj přímý vztah se Prodávající a Kupující výslovně dohodli. Společnost Fleequid Vozidlo nekupuje, nenabývá postavení prodávajícího a neodpovídá za jeho shodu, jakost, vady nebo závady ani za splnění záručních povinností Prodávajícího. Prodávající a Kupující, každý v rozsahu, který mu přísluší, se zavazují odškodnit společnost Fleequid a zprostit ji odpovědnosti ve vztahu k jakémukoli požadavku, žalobě, námitce, nároku ze záruky, na vrácení plnění, na slevu z ceny, na odškodnění nebo na náhradu škody, jakož i k souvisejícím nákladům a výdajům, týkajícím se Vozidla nebo příslušné kupní smlouvy. Spojovací doložka podle čl. 21 se nepoužije, neboť společnost Fleequid není stranou kupní smlouvy.",
+  "u287": "<b>Dealer Sales</b>. Při prodejích uzavřených podle Dealer Sales nabývá společnost Fleequid vůči Kupujícímu postavení skutečného prodávajícího, záruka je však výlučně ta, která vyplývá z ujednání mezi Profesionály obsaženého v tomto článku, se všemi vyloučeními, omezeními, předpoklady a prekluzemi v něm stanovenými. Žádnou další záruku, výslovnou ani implicitní, nelze považovat za poskytnutou společností Fleequid, ledaže ji společnost Fleequid v jednotlivé transakci zvlášť písemně převzala. Oznámení vad, závad nebo neshod musí být pod sankcí prekluze učiněno ve lhůtách a způsobem stanovenými v čl. 20.2 a v každém případě do 30 (třiceti) kalendářních dnů od dodání a za podmínky, že Vozidlo následně neujelo více než 1.000 (tisíc) km, přičemž Strany se výslovně dohodly, že jde o smluvené prekluzivní lhůty ve smyslu čl. 1495 italského občanského zákoníku. Nedotčeno dále zůstává ustanovení čl. 16.12 o zjevných vadách, poškozeních a neshodách zjistitelných v okamžiku dodání. Případná odpovědnost společnosti Fleequid nemůže v žádném případě přesáhnout výslovně sjednaný režim záruky, aniž jsou dotčeny záruky, závazky k odškodnění a zproštění odpovědnosti, povinnosti k náhradě nákladů a práva na regres náležející společnosti Fleequid vůči původnímu Prodávajícímu podle čl. 8.13, 18.5 a 19.6. Na Dealer Sales se nepoužije spojovací doložka podle čl. 21 a příslušnou úpravu nelze použít analogicky.",
+  "u288": "V každém případě platí, že případné přijetí, prošetření nebo vyřizování reklamace společností Fleequid, vyžádání dokumentace, provedení kontrol nebo znaleckých posouzení, předložení smírných návrhů ani případné finanční plnění směřující k vyřešení sporu nepředstavují uznání odpovědnosti, rozšíření záruky, vzdání se námitek nebo práva dovolat se prekluze ani převzetí dalších povinností nad rámec těch, které jsou výslovně stanoveny těmito Všeobecnými obchodními podmínkami.",
+  "u289": "Vyloučení a omezení záruky a odpovědnosti, závazky k odškodnění a zproštění odpovědnosti a smluvené prekluzivní lhůty stanovené tímto článkem, čl. 20 a dalšími ustanoveními těchto Všeobecných obchodních podmínek se uplatní v maximálním rozsahu povoleném zákonem a nepoužijí se výlučně v případech, kdy jejich účinnosti brání kogentní ustanovení. Nedotčeny zůstávají zejména: a) zákaz předem vyloučit nebo omezit odpovědnost za úmysl nebo hrubou nedbalost podle čl. 1229 odst. 1 italského občanského zákoníku; b) ustanovení čl. 1490 odst. 2 italského občanského zákoníku, pokud osoba, která vůči Kupujícímu nabývá postavení prodávajícího, Kupujícímu ve zlé víře zamlčela vady Vozidla; c) ustanovení čl. 1487 odst. 2 italského občanského zákoníku, pokud jde o evikci vyplývající z vlastního jednání osoby, která nabývá postavení prodávajícího. Mimo uvedené případy a další případně použitelné kogentní meze zůstávají plně účinná všechna vyloučení, omezení, prekluze, závazky k odškodnění a zproštění odpovědnosti a smluvní vymezení záruky stanovené těmito Všeobecnými obchodními podmínkami, Zvláštními prodejními podmínkami, Zvláštními podmínkami, případnými Individuálními smlouvami a dalšími smluvními podmínkami použitelnými na konkrétní transakci. V rámci Dealer Sales zůstává v každém případě nedotčeno právo společnosti Fleequid uplatnit vůči původnímu Prodávajícímu nároky ze záruky, ze závazku k odškodnění a zproštění odpovědnosti, na náhradu nákladů, na regres a na náhradu škody v souvislosti se skutečnostmi, vadami, závadami, opomenutími a porušeními povinností jemu přičitatelnými.",
+  "u291": "Každý Uživatel má právo podávat společnosti Fleequid reklamace způsobem stanoveným tímto článkem, který je jediným místem úpravy příslušného řízení. Vyřizování reklamace nemění ani nerozšiřuje režim záruky, odpovědnosti a prekluze použitelný na konkrétní transakci podle čl. 19 a dalších použitelných smluvních podmínek. Tento článek se použije na všechny Prodejní modely a na všechny způsoby provedení, aniž je dotčeno odlišné postavení společnosti Fleequid: a) v rámci Komisního prodeje provedeného formou Dalšího prodeje společnost Fleequid vyřizuje a usnadňuje smírné řešení sporů týkajících se Vozidla, aniž nabývá postavení skutečného prodávajícího, aniž uznává odpovědnost a aniž poskytuje další záruky; b) působí-li společnost Fleequid jako Čistý zprostředkovatel, existují kupní smlouva a záruka přímo mezi Prodávajícím a Kupujícím a zpřístupnění reklamačního kanálu společností Fleequid z ní nečiní prodávajícího ani poskytovatele záruky; c) v rámci Dealer Sales je reklamace týkající se Vozidla adresována společnosti Fleequid jako skutečnému prodávajícímu a vyřizuje se v rámci režimu záruky podle čl. 19.7 písm. c), přičemž nedotčena zůstávají práva společnosti Fleequid vůči původnímu Prodávajícímu. Aniž je dotčeno výše uvedené a v rozsahu slučitelném s rolí, kterou v konkrétní transakci zastává, má společnost Fleequid právo, nikoli však povinnost, usilovat, a to i zapojením Prodávajícího, o vyřešení reklamace; toto oprávnění v žádném případě nepředstavuje zproštění vlastních povinností společnosti Fleequid jako skutečného prodávajícího v rámci Dealer Sales. Nedotčeno zůstává ustanovení čl. 5.9 o interním systému vyřizování stížností týkajících se používání Online tržiště.",
+  "u292": "Kupující, který reklamuje neshody s Technickými specifikacemi, vady nebo závady Vozidla, musí společnosti Fleequid podat formální písemnou reklamaci na adresu <b>claims@fleequid.com</b> nebo jakýmkoli jiným způsobem, který poskytuje důkaz o doručení společnosti Fleequid. Neshody, vady a závady zjistitelné v okamžiku dodání musí být předem oznámeny podle čl. 16.12. Pod sankcí prekluze musí reklamace dojít společnosti Fleequid nejpozději do 30 (třiceti) kalendářních dnů ode dne dodání a dříve, než Vozidlo ujede dalších 1.000 (tisíc) km. Reklamace musí obsahovat informace a dokumentaci, včetně fotografické, nezbytné k posouzení výtky; společnost Fleequid si může vyžádat další dokumenty nebo vysvětlení, které je Kupující povinen poskytnout do 5 (pěti) dnů od žádosti. Při nedodržení uvedených lhůt nebo požadovaných způsobů může společnost Fleequid reklamaci nevyřizovat a odložit ji a není povinna zohlednit reklamace podané ve lhůtách, způsobem nebo s informacemi odlišnými od stanovených. Lhůty stanovené tímto odstavcem působí jako smluvené prekluzivní lhůty ve všech Prodejních modelech, s výhradou podle čl. 19.8, a aniž jsou ve vztazích mezi společností Fleequid a Prodávajícím dotčeny odlišné lhůty pro oznámení stanovené v čl. 17.7 a 18.5.",
+  "u293": "Po podání reklamace, s výjimkou případů, kdy je uvedení Vozidla do původního stavu nezbytné z důvodů prokazatelné a absolutní nezbytnosti, nesmí Kupující provádět ani nechat provádět opravy, výměny, demontáž ani uvedení do původního stavu bez předchozího souhlasu společnosti Fleequid. Kupující je v každém případě povinen uchovat a udržovat k dispozici společnosti Fleequid součásti a části Vozidla dotčené závadou, poškozením nebo zásahem. Porušení těchto povinností může vést k zamítnutí reklamace, pokud znemožní nebo ztíží ověření příčiny, rozsahu nebo přičitatelnosti vady nebo závady.",
+  "u294": "Společnost Fleequid je oprávněna jmenovat vlastního odborníka, který provede prohlídku Vozidla. Kupující je na žádost společnosti Fleequid povinen na vlastní náklady a péči zajistit diagnostiku, odhady opravy a veškeré další technické podklady rozumně nezbytné k posouzení reklamace.",
+  "u295": "Společnost Fleequid se zavazuje vyřídit reklamace do 15 dnů poté, co obdrží všechny informace a dokumentaci nezbytné k jejich posouzení, a sdělit Kupujícímu učiněná rozhodnutí.",
+  "u296": "Po skončení prošetření může společnost Fleequid reklamaci vyhovět, nebo ji s uvedením důvodů zamítnout a může Prodávajícímu a Kupujícímu předložit návrhy na smírné vyřešení sporu. Tyto návrhy nepředstavují uznání odpovědnosti ani vzdání se námitek, práva dovolat se prekluze, práv nebo prostředků nápravy náležejících společnosti Fleequid nebo ostatním Stranám. Sdělení a informace vyměněné v rámci vyřizování reklamace jsou neveřejné a důvěrné a nesmějí být šířeny, používány ani citovány pro účely, které s příslušným řízením nesouvisejí, ani předkládány v soudním řízení, s výjimkou toho, co vyžadují kogentní ustanovení zákona. Porušení povinnosti důvěrnosti a zákazu použití zakládá k tíži Uživatele, který povinnost porušil, a ve prospěch společnosti Fleequid smluvní pokutu ve výši 5.000,00 EUR (pět tisíc/00 eur), aniž by tím bylo dotčeno právo na náhradu další škody.",
+  "u297": "Je-li reklamaci vyhověno, může společnost Fleequid podle vlastního uvážení a v mezích použitelného režimu záruky zcela nebo zčásti uhradit náklady na opravu v dílně podle svého výběru, anebo povolit opravu v jiné dílně a po předložení faktury s potvrzením o úhradě, která odpovídá odhadu výslovně schválenému společností Fleequid, zcela nebo zčásti nahradit Kupujícímu příslušné náklady. Nedotčena zůstávají práva ze záruky, ze závazku k odškodnění a zproštění odpovědnosti, na náhradu nákladů, na regres a na náhradu škody náležející společnosti Fleequid vůči Prodávajícímu.",
+  "u298": "Prodávající a Kupující berou na vědomí a souhlasí s tím, že společnost Fleequid má právo vyřešit reklamaci Zrušením prodeje, a to podle vlastního uvážení a kdykoli, i odchylně od lhůt stanovených pro oznámení vad a závad a bez ohledu na opodstatněnost vad případně reklamovaných Kupujícím. V rámci Komisního prodeje se toto oprávnění uplatní i odchylně od lhůt pro oznámení a prekluzivních lhůt stanovených Smlouvou, těmito Všeobecnými obchodními podmínkami a dalšími smluvními podmínkami použitelnými na vztahy dotčené transakcí. V rámci Dealer Sales se Zrušení provedené podle tohoto odstavce týká prodeje mezi společností Fleequid a Kupujícím a samo o sobě nezpůsobuje zánik nákupu Vozidla společností Fleequid od Prodávajícího, přičemž nedotčena zůstávají samostatná práva společnosti Fleequid na odstoupení od smlouvy, ze záruky, ze závazku k odškodnění a zproštění odpovědnosti, na náhradu nákladů, na regres a na náhradu škody vůči Prodávajícímu podle čl. 18.5 a 19.6. V mezích povolených zákonem Prodávající a Kupující odškodní společnost Fleequid a zprostí ji odpovědnosti ve vztahu k nárokům nebo odpovědnosti vyplývajícím z rozhodnutí přistoupit ke Zrušení. Na obecnou úpravu Zrušení se použije čl. 14 a na restituční účinky, příslušné lhůty a úkony se použije čl. 15. V každém případě se Prodávajícímu ani Kupujícímu nevracejí Provize, na něž již vznikl nárok, Poplatky za již poskytnuté Služby ani výdaje a náklady, které společnost Fleequid v souvislosti s transakcí již vynaložila, a to podle čl. 15.6. V rámci Komisního prodeje jdou výdaje spojené s vrácením Vozidla a s obnovením původního stavu transakce k tíži Prodávajícího, včetně náhrady výdajů na předchozí dodání Vozidla Kupujícímu a výdajů vynaložených na formality předchozího převodu vlastnictví, jakož i dalších zvláštních nákladů na obnovení původního stavu použitelných v konkrétním případě; v rámci Dealer Sales se jejich rozdělení řídí příčinou Zrušení, aniž je dotčeno právo společnosti Fleequid vymáhat celou jejich výši na původním Prodávajícím, je-li mu příčina přičitatelná. Pokud jde konkrétně o Vozidla, která lze kvalifikovat jako VUŽ nebo jinak jako odpad, Prodávající a Kupující odškodní společnost Fleequid a zprostí ji veškeré odpovědnosti spojené s jejich kvalifikací, správou, držbou, přepravou, využitím nebo odstraněním, tedy s činnostmi, které jdou zcela k jejich tíži podle jejich příslušných povinností vyplývajících z právních předpisů, a zavazují se učinit veškeré úkony nezbytné k tomu, aby vrácení a obnovení původního stavu proběhly v souladu s použitelnými právními předpisy v oblasti životního prostředí, přičemž příslušné náklady, včetně nákladů na předchozí dodání a na formality předchozího převodu vlastnictví, nese osoba, jíž je příčina Zrušení přičitatelná.",
+  "u300": "Ustanovení tohoto článku se použijí výlučně na transakce strukturované podle Komisního prodeje a provedené formou Dalšího prodeje. Nepoužijí se na transakce prováděné společností Fleequid jako Čistým zprostředkovatelem ani na Dealer Sales a nelze je na tyto případy použít analogicky.",
+  "u301": "Není-li reklamace vyřešena smírně a nepřistoupí-li společnost Fleequid ke Zrušení prodeje podle čl. 20.8, Prodávající a Kupující v rámci Komisního prodeje provedeného formou Dalšího prodeje uznávají, že nákup Vozidla společností Fleequid a následný Další prodej jsou funkčně propojeny v rámci téže komisionářské transakce a uskutečňují se výlučně za účelem umožnění převodu Vozidla z Prodávajícího na Kupujícího, aniž společnost Fleequid uplatňuje přirážku ke kupní ceně Vozidla.",
+  "u302": "Z důvodu tohoto propojení, a to pouze pokud jde o práva a povinnosti týkající se záruky, shody, vad, závad a jakosti Vozidla, převádí společnost Fleequid na Kupujícího, který to přijímá, své hmotněprávní postavení vůči Prodávajícímu, přičemž Kupující je oprávněn uplatnit přímo vůči Prodávajícímu jakýkoli požadavek, žalobu, námitku, obranu a prostředek nápravy, a to i restituční povahy nebo jinak ovlivňující účinnost nebo ekonomické účinky propojeného vztahu; Prodávající tento převod bere na vědomí a souhlasí s ním. Příslušné nároky se proto uplatňují přímo mezi Prodávajícím a Kupujícím, přičemž jakákoli odpovědnost společnosti Fleequid je vyloučena, s výjimkou toho, co společnost Fleequid výslovně převzala nebo co stanoví kogentní ustanovení zákona.",
+  "u303": "Výkon práv a prostředků nápravy podle tohoto článku a jeho důsledky pro propojené vztahy nemají vliv na Provize, na něž společnosti Fleequid již vznikl nárok podle čl. 12.4; tyto Provize jí nadále s konečnou platností náležejí a nepodléhají vrácení ani zániku. V mezích povolených zákonem Prodávající a Kupující odškodní společnost Fleequid a zprostí ji odpovědnosti ve vztahu k jakémukoli nároku, nákladu, zátěži nebo důsledku vyplývajícímu z toho, že mezi sebou uvedená práva a prostředky nápravy uplatní, aniž je dotčena výlučně odpovědnost přímo přičitatelná společnosti Fleequid za povinnosti, které výslovně převzala nebo které vyplývají z kogentních ustanovení zákona.",
+  "u305": "Společnost Fleequid může Uživatelům zpřístupnit Řešení financování nabízená třetími osobami pro nákup Vozidel nebo je na ně upozornit. Příslušná smlouva o financování, o finančním leasingu nebo o jiné formě opatření finančních prostředků existuje výlučně mezi Uživatelem a Poskytovatelem financování, a to za podmínek jím uplatňovaných. Společnost Fleequid financování neposkytuje, nezaručuje jeho dostupnost, schválení, lhůty ani ekonomické podmínky a neodpovídá za porušení povinností Poskytovatelem financování. Ustanovení tohoto článku obsahují výlučně zvláštnosti vyplývající z účasti Poskytovatele financování jako třetí osoby a neodchylují se, leda ve výslovně stanovených mezích, od úpravy Proformy, platby, převodu vlastnictví, rizika, Prodejních modelů a sdělení.",
+  "u306": "Společnost Fleequid může shromažďovat žádosti o informace, o kontakt nebo o financování projevené Uživateli a předávat je dotčeným Poskytovatelům financování. Sdělování příslušných údajů probíhá v souladu se Zásadami ochrany osobních údajů, na které odkazuje čl. 7.",
+  "u307": "Žádost o financování, zahájení posuzování žádosti, předběžné schválení ani kladné rozhodnutí Poskytovatele financování nepozastavují povinnosti Kupujícího ani běh Lhůty splatnosti a nerovnají se zaplacení. Nedotčena zůstávají případná odlišná ustanovení Zvláštních podmínek použitelných na Řešení financování.",
+  "u308": "Zůstává-li Kupující stranou kupní smlouvy a účastní-li se Poskytovatel financování pouze jako platící subjekt, trvá platební povinnost Kupujícího až do skutečného úplného obdržení dlužných částek příslušnými příjemci podle čl. 12.2, ledaže použitelné Zvláštní podmínky výslovně přiznávají neodvolatelnému závazku Poskytovatele financování podle čl. 22.6 předčasný liberační účinek.",
+  "u309": "Zvláštní podmínky mohou stanovit, že na základě volby původního Kupujícího nabude postavení Kupujícího Poskytovatel financování, přičemž původní Kupující zůstane uživatelem Vozidla. Tytéž Zvláštní podmínky určí okamžik a účinky tohoto vstupu do postavení Kupujícího, od něhož zaniká platební povinnost původního Kupujícího. S touto možností je umožněno seznámit se před podáním Nabídky podle čl. 3.2 písm. d) a tato možnost musí být slučitelná s použitelným Prodejním modelem. Působí-li společnost Fleequid jako Čistý zprostředkovatel, uděluje Prodávající podáním Návrhu prodeje již nyní souhlas s tím, aby Poskytovatel financování vstoupil do postavení původního Kupujícího, a to v případech a způsobem stanovenými použitelnými Zvláštními podmínkami. Vstup do postavení nabývá účinnosti vůči Prodávajícímu okamžikem, kdy mu jej společnost Fleequid oznámí podle čl. 24.",
+  "u310": "Pro účely čl. 12.2 mohou Zvláštní podmínky přiznat neodvolatelnému závazku Poskytovatele financování, který splňuje požadavky stanovené týmiž Zvláštními podmínkami, účinek rovnocenný úplnému splnění platební povinnosti a určit okamžik, od něhož tento účinek nastává. Není-li to výslovně stanoveno, jsou rozhodné výlučně platby skutečně obdržené příslušnými příjemci.",
+  "u311": "U transakcí, při nichž je využito Řešení financování, je Lhůtou splatnosti lhůta uvedená v použitelných Zvláštních podmínkách nebo v Proformě, a to podle čl. 11.6 písm. a).",
+  "u312": "U transakcí, při nichž je využito Řešení financování, se sled úkonů nákupu od Prodávajícího, přepisu, vydání dokladu o registraci Vozidla, fakturace, převodu vlastnictví, platby a dodání může lišit od běžného sledu, a to podle použitelných Zvláštních podmínek. Nedotčeno zůstává, že provedení úkonů týkajících se dokladů nebo přepisu ve prospěch Poskytovatele financování samo o sobě nevede k převodu vlastnictví Vozidla ani, v případě Aukcí, ke Konečnému přiklepnutí, a to podle čl. 16.4.",
+  "u313": "V rámci Komisního prodeje provedeného formou Dalšího prodeje mohou použitelné Zvláštní podmínky výslovně odchylně od čl. 17.4 a pouze v rozsahu tam stanoveném určit, že společnost Fleequid vyplatí Prodávajícímu Čistou nákupní cenu dříve, než v plné výši obdrží částky dlužné Kupujícím nebo Poskytovatelem financování. Tato předčasná výplata sama o sobě nevede k zahájení fáze plnění transakce, neuspíší převod vlastnictví Vozidla na Kupujícího a v případě Aukcí nevede ke Konečnému přiklepnutí.",
+  "u314": "U transakcí, při nichž postavení Kupujícího nabývá Poskytovatel financování, určí Zvláštní podmínky osobu oprávněnou: a) k převzetí Vozidla a k podpisu předávacího protokolu podle čl. 16.7 a 16.10; b) ke kontrolám při dodání podle čl. 16.12; c) k podání a vyřizování reklamace podle čl. 20; d) k přijetí případně vracených částek podle čl. 15.4.",
+  "u315": "Případné úplaty náležející společnosti Fleequid za Služby spojené s Řešeními financování jsou uvedeny v použitelných Zvláštních podmínkách nebo v Sazebníku Fleequid. Jednotlivá Řešení financování mohou být upravena Zvláštními podmínkami, které doplňují tyto Všeobecné obchodní podmínky a v případě rozporu mají přednost pouze v otázkách, které zvlášť upravují, a to podle čl. 4.3 a 4.4.",
+  "u317": "Tyto Všeobecné obchodní podmínky, Smlouvy a všechny podmínky, kterými se řídí jakýkoli vztah mezi společností Fleequid a Uživateli nebo mezi Uživatelem a jiným Uživatelem, podléhají a budou podléhat výhradně italskému právu, s výslovným vyloučením použití Úmluvy Organizace spojených národů o smlouvách o mezinárodní koupi zboží, uzavřené ve Vídni dne 11. dubna 1980 (CISG).",
+  "u318": "Veškeré spory týkající se platnosti, výkladu, použití nebo ukončení, z jakéhokoli důvodu, těchto Všeobecných obchodních podmínek, Zvláštních podmínek, Zvláštních prodejních podmínek, Individuálních smluv, Kupních smluv a dalších transakcí uzavřených prostřednictvím Online tržiště nebo jakéhokoli dalšího právního úkonu s nimi spojeného spadají výlučně do pravomoci italských soudů a v jejím rámci do výlučné místní příslušnosti soudu v Comu, s vyloučením jakéhokoli jiného souběžně příslušného soudu, aniž je dotčena příslušnost stanovená kogentními ustanoveními zákona.",
+  "u319": "Smluvním jazykem je italština. Pokud jsou tyto VOP vyhotoveny i v jiných jazycích, je závazná pouze italská verze."
+ },
+ "new_terms": [
+  {
+   "it": "garanzia / regime di garanzia / rapporto di garanzia",
+   "tr": "záruka / režim záruky / záruční vztah",
+   "why": "v8 CZ ex art. 12 «záruka»; «režim záruky» come k05 e k07."
+  },
+  {
+   "it": "decadenza / termini convenzionali di decadenza / a pena di decadenza",
+   "tr": "prekluze / smluvené prekluzivní lhůty / pod sankcí prekluze",
+   "why": "«prekluze» è il termine tecnico ceco per la decadenza; in armonizzazione anche «a pena di decadenza» = «pod sankcí prekluze» (v8: «pod sankcí zániku»)."
+  },
+  {
+   "it": "rinuncia a eccezioni o decadenze",
+   "tr": "vzdání se námitek nebo práva dovolat se prekluze",
+   "why": "In ceco non ci si «vzdává prekluze»: resa esplicativa minima."
+  },
+  {
+   "it": "denuncia (di vizi) / termini di denuncia",
+   "tr": "oznámení (vad) / lhůty pro oznámení",
+   "why": "v8 CZ ex art. 13.9 «lhůt pro oznámení»."
+  },
+  {
+   "it": "vizi, difetti, difformità, mancanze di qualità, anomalie, guasti, mancanze",
+   "tr": "vady, závady, neshody, nedostatky jakosti, anomálie, poruchy, chybějící položky",
+   "why": "Serie di k07 (art. 16.12) e k04 (art. 8.13); qualità = jakost, caratteristiche = vlastnosti."
+  },
+  {
+   "it": "carenze di conformità / carenze funzionali",
+   "tr": "nedostatky shody / funkční nedostatky",
+   "why": "Termine nuovo; resa letterale."
+  },
+  {
+   "it": "riduzione del prezzo",
+   "tr": "sleva z ceny",
+   "why": "Termine di legge ceco (§ 2106 cod. civ. ceco)."
+  },
+  {
+   "it": "indennizzo o risarcimento",
+   "tr": "odškodnění nebo náhrada škody",
+   "why": "Come k05-k07 («odškodnění ani náhradu škody»)."
+  },
+  {
+   "it": "stato d'uso / condizioni d'uso",
+   "tr": "míra užívání / provozní podmínky",
+   "why": "«provozní podmínky» da v8 CZ ex art. 12.4; «míra užívání» nuovo, distinto da opotřebení (usura)."
+  },
+  {
+   "it": "clausola «visto, piaciuto ed accettato», «così come sono», «come disponibili»",
+   "tr": "„viděno, vyzkoušeno a přijato“, „tak, jak jsou“, „tak, jak jsou k dispozici“",
+   "why": "Prima formula da v8 CZ ex art. 12.3; le altre due sono nuove (as is / as available)."
+  },
+  {
+   "it": "nello stato di fatto e di diritto in cui si trovano",
+   "tr": "ve faktickém a právním stavu, v jakém se nacházejí",
+   "why": "v8 CZ ex art. 12.3 «ve stavu, v jakém se nachází»."
+  },
+  {
+   "it": "onere di esame e di ispezione",
+   "tr": "povinnost prozkoumání a prohlídky",
+   "why": "Evitato «břemeno», che coincide con il termine definito Břemeno (Gravame)."
+  },
+  {
+   "it": "visionare, ispezionare e provare il Veicolo / ispezione e prova",
+   "tr": "Vozidlo zhlédnout, podrobit je prohlídce a vyzkoušet / prohlídka a vyzkoušení (zkouška)",
+   "why": "k04 art. 8 «prohlídka a vyzkoušení Vozidel»."
+  },
+  {
+   "it": "tolleranza (chilometraggio)",
+   "tr": "tolerance",
+   "why": "Come k06 («tolerancí»)."
+  },
+  {
+   "it": "prima immatricolazione",
+   "tr": "první registrace",
+   "why": "immatricolazione = registrace (k04, k07)."
+  },
+  {
+   "it": "Venditore sostanziale / venditore sostanziale",
+   "tr": "skutečný Prodávající / skutečný prodávající",
+   "why": "NOTE_LINGUA: sostanziale = skutečný; maiuscola come nell'IT."
+  },
+  {
+   "it": "Venditore originario",
+   "tr": "původní Prodávající",
+   "why": "Termine nuovo; stesso aggettivo di «původní Kupující» (Acquirente originario, art. 22.5)."
+  },
+  {
+   "it": "autonoma garanzia",
+   "tr": "samostatná záruka",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "commissionaria",
+   "tr": "komisionář",
+   "why": "k01, k02."
+  },
+  {
+   "it": "garante (art. 20.1)",
+   "tr": "poskytovatel záruky",
+   "why": "Evitato «ručitel» (fideiussore): qui è chi presta la garanzia per vizi."
+  },
+  {
+   "it": "manleve (sostantivo plurale)",
+   "tr": "závazky k odškodnění a zproštění odpovědnosti",
+   "why": "Da k04 «závazek k odškodnění»."
+  },
+  {
+   "it": "diritti di rimborso e regresso",
+   "tr": "práva na náhradu nákladů a na regres",
+   "why": "k04 «právo na regres»; k06 «náhrada nákladů»."
+  },
+  {
+   "it": "accettazione senza riserve",
+   "tr": "přijetí bez výhrad",
+   "why": "k07."
+  },
+  {
+   "it": "contestazioni",
+   "tr": "výtky",
+   "why": "k07 art. 16.12 («výtky»)."
+  },
+  {
+   "it": "in quanto compatibili",
+   "tr": "v rozsahu, v jakém jsou slučitelná",
+   "why": "Armonizzazione: stessa resa di k04, k06, k07, k08."
+  },
+  {
+   "it": "evizione derivante da fatto proprio",
+   "tr": "evikce vyplývající z vlastního jednání",
+   "why": "Termine nuovo; istituto italiano (art. 1487 c.c.)."
+  },
+  {
+   "it": "in mala fede taciuto",
+   "tr": "ve zlé víře zamlčel",
+   "why": "Resa letterale dell'art. 1490 c.c."
+  },
+  {
+   "it": "delimitazioni convenzionali della garanzia",
+   "tr": "smluvní vymezení záruky",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "applicazione analogica (art. 19.7, 21.1)",
+   "tr": "použít analogicky",
+   "why": "Qui è l'analogia giuridica (diversa da «approvazione analogica» dell'art. 5.3)."
+  },
+  {
+   "it": "istruttoria (del reclamo) / all'esito dell'istruttoria",
+   "tr": "prošetření / po skončení prošetření",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "proposte conciliative / definizione bonaria",
+   "tr": "smírné návrhy / smírné vyřešení",
+   "why": "v8 CZ ex art. 13.7 «smírné vyřešení»."
+  },
+  {
+   "it": "perizie",
+   "tr": "znalecká posouzení",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "archiviazione (del reclamo)",
+   "tr": "odložení (reklamace)",
+   "why": "La v8 CZ aveva «zamítnout», che ora serve per «rigetto/respingere» (art. 20.3, 20.6)."
+  },
+  {
+   "it": "motivatamente respingere",
+   "tr": "s uvedením důvodů zamítnout",
+   "why": "NOTE_COMUNI; la v8 CZ aveva «důvodně zamítnuta»."
+  },
+  {
+   "it": "ripristino del Veicolo (art. 20.3)",
+   "tr": "uvedení Vozidla do původního stavu",
+   "why": "Distinto da oprava (riparazione), ora elencata a parte; la v8 aveva «oprava»."
+  },
+  {
+   "it": "ripristino dell'operazione (art. 20.8)",
+   "tr": "obnovení původního stavu (transakce)",
+   "why": "Titolo art. 15 in tabella."
+  },
+  {
+   "it": "preventivi di riparazione / fattura quietanzata",
+   "tr": "odhady opravy / faktura s potvrzením o úhradě",
+   "why": "«odhad opravy» da v8; la v8 aveva «faktury s potvrzením o přijetí» (errore: quietanzata = pagata)."
+  },
+  {
+   "it": "carattere riservato e confidenziale",
+   "tr": "neveřejné a důvěrné",
+   "why": "v8 «důvěrné»; aggiunto il secondo aggettivo dell'IT."
+  },
+  {
+   "it": "operazione commissionale",
+   "tr": "komisionářská transakce",
+   "why": "Da «komisionářská smlouva» (k04)."
+  },
+  {
+   "it": "funzionalmente collegati / rapporto collegato / collegamento",
+   "tr": "funkčně propojeny / propojený vztah / propojení",
+   "why": "k07 «funkčně propojené převody»."
+  },
+  {
+   "it": "maggiorazione sul prezzo",
+   "tr": "přirážka k ceně",
+   "why": "Termine nuovo; la v8 aveva «zvýšení prodejní ceny»."
+  },
+  {
+   "it": "posizione sostanziale (art. 21.3)",
+   "tr": "hmotněprávní postavení",
+   "why": "Qui «sostanziale» = di diritto sostanziale; «skutečné postavení» sarebbe fuorviante. Da validare."
+  },
+  {
+   "it": "caducazione (delle Commissioni)",
+   "tr": "zánik",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "segnalare (Soluzioni di finanziamento)",
+   "tr": "upozornit na",
+   "why": "Termine nuovo."
+  },
+  {
+   "it": "altra forma di provvista",
+   "tr": "jiná forma opatření finančních prostředků",
+   "why": "k01 (definizione Soluzioni di finanziamento)."
+  },
+  {
+   "it": "apertura dell'istruttoria, pre-delibera, delibera favorevole",
+   "tr": "zahájení posuzování žádosti, předběžné schválení, kladné rozhodnutí",
+   "why": "Termini nuovi; lessico bancario ceco corrente."
+  },
+  {
+   "it": "mero soggetto pagatore",
+   "tr": "pouze platící subjekt",
+   "why": "k01 (definizione Finanziatore: «platící subjekt»)."
+  },
+  {
+   "it": "impegno irrevocabile del Finanziatore",
+   "tr": "neodvolatelný závazek Poskytovatele financování",
+   "why": "Termine nuovo; da allineare con l'art. 12.2 (k05)."
+  },
+  {
+   "it": "effetto liberatorio anticipato",
+   "tr": "předčasný liberační účinek",
+   "why": "Termine nuovo; «liberační účinek» è corrente nella dottrina ceca."
+  },
+  {
+   "it": "subentro (del Finanziatore)",
+   "tr": "vstup do postavení (Kupujícího)",
+   "why": "Termine nuovo; «nabýt postavení Kupujícího» per «assumere la qualità» come k02 art. 3.2."
+  },
+  {
+   "it": "utilizzatore del Veicolo",
+   "tr": "uživatel Vozidla (minuscolo)",
+   "why": "Minuscolo per non confonderlo con Uživatel (Utente)."
+  },
+  {
+   "it": "intestazione / documento di circolazione",
+   "tr": "přepis / doklad o registraci Vozidla",
+   "why": "«přepis» come k07 art. 16.4; «doklad o registraci» nuovo."
+  },
+  {
+   "it": "operazioni assistite da una Soluzione di finanziamento",
+   "tr": "transakce, při nichž je využito Řešení financování",
+   "why": "k01, k07."
+  },
+  {
+   "it": "pagamento anticipato (art. 22.9)",
+   "tr": "předčasná výplata",
+   "why": "NOTE_LINGUA."
+  },
+  {
+   "it": "giurisdizione / competenza territoriale esclusiva / foro concorrente",
+   "tr": "pravomoc (italských soudů) / výlučná místní příslušnost / souběžně příslušný soud",
+   "why": "v8 CZ aveva «výlučné pravomoci soudu v Comu» e «konkurenčního soudu»: resi con i termini processuali cechi."
+  },
+  {
+   "it": "negozio giuridico",
+   "tr": "právní úkon",
+   "why": "v8 CZ ex art. 15.2."
+  },
+  {
+   "it": "Convenzione di Vienna (CISG)",
+   "tr": "Úmluva Organizace spojených národů o smlouvách o mezinárodní koupi zboží",
+   "why": "Titolo ufficiale ceco (č. 160/1991 Sb.)."
+  },
+  {
+   "it": "chilometraggio",
+   "tr": "stav najetých kilometrů",
+   "why": "v8 CZ ex art. 12.2 e 12.5; k07 art. 16.11."
+  },
+  {
+   "it": "esame (di Inserzione, documentazione, Veicolo)",
+   "tr": "prozkoumání / prozkoumat",
+   "why": "Revisione: una sola resa per art. 19.3 e 19.5 lett. d)."
+  }
+ ],
+ "notes": [
+  "u292 (20.2), u293 (20.3), u296 (20.6), u298 (20.8): tolte le frasi della v8 CZ senza riscontro nell'IT v9: «pod sankcí zániku» riferito ai 5 giorni (20.2), consenso «písemného» e «pod sankcí zániku práv spojených s reklamací» (20.3), coda sull'inutilizzabilità in giudizio o arbitrato (20.6), rinuncia finale a eccezioni (20.8).",
+  "u292: nella v8 CZ l'e-mail claims@fleequid.com era in grassetto+sottolineato e spostata a fine paragrafo; ora è nel testo con il solo grassetto dell'IT v9.",
+  "u297: la v8 CZ rendeva «fattura quietanzata» con «faktury s potvrzením o přijetí» (fattura con conferma di ricezione): corretto in «s potvrzením o úhradě». Tolto anche il residuo «3434» a inizio paragrafo.",
+  "u296: «motivatamente respingere» era «důvodně zamítnuta» (= fondatamente): corretto in «s uvedením důvodů».",
+  "u292/u287: «archiviazione» reso «odložit» perché «zamítnout» è riservato a rigetto/respingere.",
+  "u269: «onere» reso «povinnost» per evitare «břemeno» (= Gravame, termine definito).",
+  "u302 (21.3): «posizione sostanziale» reso «hmotněprávní postavení»: da validare (altrove sostanziale = skutečný).",
+  "u286 (19.7.2): rubrica non in grassetto come nell'IT (incongruenza già nota).",
+  "u313 (22.9): «limitatamente a quanto ivi previsto» è ambiguo (art. 17.4 o Condizioni Specifiche): reso «v rozsahu tam stanoveném», che conserva l'ambiguità.",
+  "u318 (23.2): «Contratti di compravendita» reso con il termine di tabella «Kupní smlouvy»; «Foro di Como» = «soud v Comu» (v8).",
+  "u319 (23.3): unico cambio IT fossero→siano: «Pokud by byly» → «Pokud jsou»; resto v8 alla lettera (sigla VOP mantenuta come CG).",
+  "Recesso/risoluzione: nel blocco compare solo «risoluzione» (u285, u298) = «odstoupení od smlouvy»; nessun punto con recesso e risoluzione insieme.",
+  "Formula «riconosce e accetta»: usata la resa v8 «bere na vědomí a souhlasí s tím»; k07 ha «uznává a přijímá»: da armonizzare."
+ ],
+ "review": [
+  "u267: záruk, závazků k odškodnění a regresu → záruk, závazků k odškodnění a zproštění odpovědnosti a regresu — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10 (locuzione fissata: odškodnit a zprostit odpovědnosti)",
+  "u268: stáří, počtu najetých kilometrů, míře užívání → stáří, stavu najetých kilometrů, míře užívání — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u268: omezení, závazky k odškodnění a úprava vztahů → omezení, závazky k odškodnění a zproštění odpovědnosti a úprava vztahů — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10 (locuzione fissata: odškodnit a zprostit odpovědnosti)",
+  "u268: k jejich opotřebení, účinnosti, vhodnosti → k jejich opotřebení, funkčnosti, vhodnosti — efficienza del Veicolo = funkčnost (účinnost = efficacia)",
+  "u269: prostudovat Inzerát → prozkoumat Inzerát — esame = «prozkoumání», una sola resa per documenti e Veicolo (19.3 e 19.5 lett. d)",
+  "u269: Vozidlo si prohlédnout, podrobit je kontrole a vyzkoušet → Vozidlo zhlédnout, podrobit je prohlídce a vyzkoušet — ispezione = «prohlídka» come in k01 (def. TrustReport), k04, k07 e nel resto del blocco; «kontrola» resta per verifica",
+  "u269: zjistit jejich prostudováním nebo využitím případné možnosti kontroly a vyzkoušení Vozidla → zjistit jejich prozkoumáním nebo využitím případné možnosti prohlídky a vyzkoušení Vozidla — esame / ispezione: rese uniformate",
+  "u269: Neprovedení kontroly nebo zkoušky → Neprovedení prohlídky nebo zkoušky — ispezione = prohlídka",
+  "u269: Povinnost prostudování a kontroly → Povinnost prozkoumání a prohlídky — esame / ispezione: rese uniformate",
+  "u270: že počet najetých kilometrů Vozidla uvedený → že stav najetých kilometrů Vozidla uvedený — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u270: oproti uvedenému počtu najetých kilometrů → oproti uvedenému stavu najetých kilometrů — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u270: o případném zvýšení počtu najetých kilometrů → o případném zvýšení stavu najetých kilometrů — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u270: S ohledem na stáří, opotřebení → S ohledem na stupeň stáří, opotřebení — «grado di vetustà»: «grado» omesso; v8 CZ «stupeň stáří»",
+  "u271: jejichž počet najetých kilometrů přesahuje → jejichž stav najetých kilometrů přesahuje — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u272: určená výlučně k sešrotování → určená výhradně k sešrotování — copia della v8 CZ (ex art. 12.5)",
+  "u274: stáří, počtu najetých kilometrů, míře užívání → stáří, stavu najetých kilometrů, míře užívání — chilometraggio = «stav najetých kilometrů» come nella v8 CZ (ex art. 12.2, 12.5) e in k07 (art. 16.11)",
+  "u279: nenahrazuje posouzení, kontrolu ani vyzkoušení Vozidla Kupujícím → nenahrazuje prozkoumání, prohlídku ani vyzkoušení Vozidla Kupujícím — esame / ispezione resi come all'art. 19.3, a cui il paragrafo rinvia, e come nella definizione di TrustReport (k01: «prohlídku»)",
+  "u281: ani záruk, závazků k odškodnění a dalších povinností → ani záruk, závazků k odškodnění a zproštění odpovědnosti a dalších povinností — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u282: vzdání se záruk, výtek, závazků k odškodnění nebo práv → vzdání se záruk, výtek, závazků k odškodnění a zproštění odpovědnosti nebo práv — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u283: je povinen neprodleně oznámit společnosti Fleequid → je povinen včas oznámit společnosti Fleequid — tempestivamente = včas (k02, k05), non «immediatamente»",
+  "u283: odpovědnosti, záruk a závazků k odškodnění stanovených → odpovědnosti, záruk a závazků k odškodnění a zproštění odpovědnosti stanovených — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u283: s povinností odškodnění a plné náhrady a s právem na regres → s povinností odškodnění a zproštění odpovědnosti a plné náhrady a s právem na regres — obbligo di manleva: formula fissata completa",
+  "u285: Lze-li, byť jen ve zbylých případech, shledat → Lze-li, byť i jen zbytkově, shledat — «anche in via residuale» = in via residuale, non «nei casi restanti»",
+  "u287: aniž jsou dotčeny záruky, závazky k odškodnění, povinnosti k náhradě nákladů → aniž jsou dotčeny záruky, závazky k odškodnění a zproštění odpovědnosti, povinnosti k náhradě nákladů — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u289: záruky a odpovědnosti, závazky k odškodnění a smluvené prekluzivní lhůty → záruky a odpovědnosti, závazky k odškodnění a zproštění odpovědnosti a smluvené prekluzivní lhůty — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u289: omezení, prekluze, závazky k odškodnění a smluvní vymezení záruky → omezení, prekluze, závazky k odškodnění a zproštění odpovědnosti a smluvní vymezení záruky — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u289: nároky ze záruky, ze závazku k odškodnění, na náhradu nákladů → nároky ze záruky, ze závazku k odškodnění a zproštění odpovědnosti, na náhradu nákladů — manleve = «závazky k odškodnění a zproštění odpovědnosti», come k08 e k10",
+  "u291: Aniž je dotčeno výše uvedené a v souladu s rolí, kterou v konkrétní transakci zastává, má společnost Fleequid právo → Aniž je dotčeno výše uvedené a v rozsahu slučitelném s rolí, kterou v konkrétní transakci zastává, má společnost Fleequid právo — «compatibilmente con il ruolo» = nei limiti della compatibilità, non «in conformità»",
+  "u292: </b> nebo jiným způsobem, který poskytuje důkaz → </b> nebo jakýmkoli jiným způsobem, který poskytuje důkaz — IT invariato: copia della v8 CZ",
+  "u292: není povinna zabývat se reklamacemi podanými ve lhůtách → není povinna zohlednit reklamace podané ve lhůtách — «prendere in considerazione»: verbo della v8 CZ («nezohlednit»)",
+  "u293: kdy je uvedení Vozidla do řádného stavu nezbytné → kdy je uvedení Vozidla do původního stavu nezbytné — ripristino del Veicolo = riportarlo allo stato precedente («původní stav», come il ripristino dell'art. 15), non «stato regolare»",
+  "u293: demontáž ani uvedení do řádného stavu bez předchozího souhlasu → demontáž ani uvedení do původního stavu bez předchozího souhlasu — ripristino del Veicolo = riportarlo allo stato precedente («původní stav», come il ripristino dell'art. 15), non «stato regolare»",
+  "u293: uchovat a dát společnosti Fleequid k dispozici součásti → uchovat a udržovat k dispozici společnosti Fleequid součásti — IT invariato («conservare e mettere a disposizione»): copia della v8 CZ",
+  "u297: zcela nebo zčásti převzít náklady na opravu v dílně → zcela nebo zčásti uhradit náklady na opravu v dílně — IT invariato («accollarsi ... i costi»): verbo della v8 CZ",
+  "u302: Prodávající toto přiznání bere na vědomí a souhlasí s ním → Prodávající tento převod bere na vědomí a souhlasí s ním — «tale attribuzione» riprende il trasferimento della posizione: «přiznání» in ceco è ambiguo (confessione/riconoscimento)"
+ ]
+}

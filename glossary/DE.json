@@ -152,5 +152,385 @@
   "tr": "Beweislast (des Käufers)",
   "source": "Fleequid Care v2 (nuovo)",
   "why": "Revisione: „onere di dimostrare“ è onere probatorio, non obbligo; resa legale standard (termine assente in BGBFC v1 e AGB DE)."
+ },
+ {
+  "it": "Definizioni",
+  "tr": "Begriffsbestimmungen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1-Euro-Auktion",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Verbindliche Vereinbarung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Käufer",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Endgültige Zuschlagserteilung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Stornierung des Verkaufs",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Asta",
+  "tr": "Versteigerung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Mindestgebot",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Nutzereinstufung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Provisionen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Sofortkauf",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Besondere Verkaufsbedingungen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Besondere Geschäftsbedingungen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Verbraucher",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Vertrag",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Einzelvertrag",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Kaution",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Verkaufsveranstaltung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Finanzierungsgeber",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Belastung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Geschuldeter Gesamtbetrag",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Inserat",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Reiner Vermittler",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Plattform Marketplace",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Verkaufsmodell",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Verhandlung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Bietender",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Gebot",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Anzahlung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Parti",
+  "tr": "Parteien",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PMIV",
+  "tr": "MVP",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Mindestverkaufspreis",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Ankaufspreis",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Nettoankaufspreis",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Reservepreis",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "PR",
+  "tr": "RP",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Verkaufspreis gegenüber dem Käufer",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Gewerbetreibender",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Verkaufsangebot",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Höchstgebot",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Weiterverkauf",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Dienstleistungen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Finanzierungslösungen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Status Optioniert",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Gebührenverzeichnis Fleequid",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Gebühren",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Zahlungsfrist",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Utente",
+  "tr": "Nutzer",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Fahrzeug/e",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Altfahrzeug(e)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "VFU",
+  "tr": "VFU",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Verkauf außerhalb der Versteigerung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Kommissionsverkauf",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Privatverkauf",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Verkäufer",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "giorni",
+  "tr": "Tagen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "Werktagen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Proforma (die)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport (der)",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "Vendita differita (art. 13)",
+  "tr": "Aufgeschobener Verkauf",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "Abwicklungsphase",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "modalità di esecuzione (della Vendita in commissione)",
+  "tr": "Ausführungsmodalität",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "operazione",
+  "tr": "Transaktion",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "commercializzazione / rapporto di commercializzazione",
+  "tr": "Vermarktung / Vermarktungsverhältnis",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "rivendita / rivendere (minuscolo, nel Dealer Sales)",
+  "tr": "Weiterveräußerung / weiterveräußern",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "conoscibilità / rendere conoscibile",
+  "tr": "Erkennbarkeit / erkennbar machen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fonti contrattuali",
+  "tr": "Vertragsgrundlagen",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "clausola risolutiva espressa / risoluzione",
+  "tr": "ausdrückliche Auflösungsklausel / Auflösung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "fonte negoziale",
+  "tr": "rechtsgeschäftliche Grundlage",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ritardo (dell'Acquirente nel pagamento) / mora",
+  "tr": "Verzögerung / Verzug",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "committenti",
+  "tr": "Auftraggeber",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "ripristino (art. 15)",
+  "tr": "Rückabwicklung",
+  "source": "General T&C v9"
+ },
+ {
+  "it": "documento fiscale",
+  "tr": "steuerrechtliche Unterlage",
+  "source": "General T&C v9"
  }
 ]

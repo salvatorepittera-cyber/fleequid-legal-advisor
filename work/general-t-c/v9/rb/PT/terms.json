@@ -1,0 +1,478 @@
+[
+ {
+  "it": "Definizioni",
+  "tr": "Definições"
+ },
+ {
+  "it": "1 Euro Auction",
+  "tr": "1 Euro Auction"
+ },
+ {
+  "it": "Accordo vincolante",
+  "tr": "Acordo vinculativo"
+ },
+ {
+  "it": "Acquirente/i",
+  "tr": "Comprador(es)"
+ },
+ {
+  "it": "Aggiudicazione definitiva",
+  "tr": "Adjudicação definitiva"
+ },
+ {
+  "it": "Annullamento della vendita",
+  "tr": "Anulação da venda"
+ },
+ {
+  "it": "Asta",
+  "tr": "Leilão"
+ },
+ {
+  "it": "Base d’asta",
+  "tr": "Preço base do leilão"
+ },
+ {
+  "it": "Classificazione dell’Utente",
+  "tr": "Classificação do Utilizador"
+ },
+ {
+  "it": "Commissioni",
+  "tr": "Comissões"
+ },
+ {
+  "it": "Compra-Subito",
+  "tr": "Compra Já"
+ },
+ {
+  "it": "Condizioni Generali",
+  "tr": "Condições Gerais"
+ },
+ {
+  "it": "CG",
+  "tr": "CG"
+ },
+ {
+  "it": "Condizioni particolari di vendita",
+  "tr": "Condições particulares de venda"
+ },
+ {
+  "it": "Condizioni Specifiche",
+  "tr": "Condições Específicas"
+ },
+ {
+  "it": "Consumatore",
+  "tr": "Consumidor"
+ },
+ {
+  "it": "Contratto",
+  "tr": "Contrato"
+ },
+ {
+  "it": "Contratto individuale",
+  "tr": "Contrato individual"
+ },
+ {
+  "it": "Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Deposito cauzionale",
+  "tr": "Depósito caução"
+ },
+ {
+  "it": "Evento di vendita",
+  "tr": "Evento de venda"
+ },
+ {
+  "it": "Finanziatore",
+  "tr": "Financiador"
+ },
+ {
+  "it": "Fleequid",
+  "tr": "Fleequid"
+ },
+ {
+  "it": "Gravame",
+  "tr": "Ónus"
+ },
+ {
+  "it": "Importo Totale Dovuto",
+  "tr": "Montante Total Devido"
+ },
+ {
+  "it": "Inserzione",
+  "tr": "Anúncio"
+ },
+ {
+  "it": "(o",
+  "tr": "(ou"
+ },
+ {
+  "it": "Scheda d’Asta",
+  "tr": "Ficha de Leilão"
+ },
+ {
+  "it": ")",
+  "tr": ")"
+ },
+ {
+  "it": "Intermediario puro",
+  "tr": "Intermediário puro"
+ },
+ {
+  "it": "Marketplace",
+  "tr": "Marketplace"
+ },
+ {
+  "it": "Modello di Vendita",
+  "tr": "Modelo de Venda"
+ },
+ {
+  "it": "Negoziazione",
+  "tr": "Negociação"
+ },
+ {
+  "it": "Offerente",
+  "tr": "Licitante"
+ },
+ {
+  "it": "Offerta",
+  "tr": "Oferta"
+ },
+ {
+  "it": "Pagamento anticipato",
+  "tr": "Adiantamento"
+ },
+ {
+  "it": "Parti",
+  "tr": "Partes"
+ },
+ {
+  "it": "PMIV",
+  "tr": "PMCV"
+ },
+ {
+  "it": "Prezzo minimo di impegno alla vendita",
+  "tr": "Preço mínimo de compromisso de venda"
+ },
+ {
+  "it": "Prezzo di acquisto",
+  "tr": "Preço de compra"
+ },
+ {
+  "it": "Prezzo di acquisto netto",
+  "tr": "Preço de compra líquido"
+ },
+ {
+  "it": "Prezzo di riserva",
+  "tr": "Preço de reserva"
+ },
+ {
+  "it": "PR",
+  "tr": "PR"
+ },
+ {
+  "it": "Prezzo di vendita all’Acquirente",
+  "tr": "Preço de venda ao Comprador"
+ },
+ {
+  "it": "Professionista",
+  "tr": "Profissional"
+ },
+ {
+  "it": "Proforma",
+  "tr": "Pró-forma"
+ },
+ {
+  "it": "Proposta di vendita",
+  "tr": "Proposta de venda"
+ },
+ {
+  "it": "Puntata massima",
+  "tr": "Oferta máxima"
+ },
+ {
+  "it": "Rivendita",
+  "tr": "Revenda"
+ },
+ {
+  "it": "Servizi",
+  "tr": "Serviços"
+ },
+ {
+  "it": "Soluzioni di finanziamento",
+  "tr": "Soluções de financiamento"
+ },
+ {
+  "it": "Specifiche tecniche",
+  "tr": "Especificações técnicas"
+ },
+ {
+  "it": "Stato Opzionato",
+  "tr": "Estado Opcionado"
+ },
+ {
+  "it": "Tariffario Fleequid",
+  "tr": "Tabela de Tarifas Fleequid"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-seller",
+  "tr": "https://fleequid.com/it/pricing-seller"
+ },
+ {
+  "it": "https://fleequid.com/it/pricing-buyer",
+  "tr": "https://fleequid.com/it/pricing-buyer"
+ },
+ {
+  "it": "Tariffe",
+  "tr": "Tarifas"
+ },
+ {
+  "it": "Termine di pagamento",
+  "tr": "Prazo de pagamento"
+ },
+ {
+  "it": "TrustReport",
+  "tr": "TrustReport"
+ },
+ {
+  "it": "Utente",
+  "tr": "Utilizador"
+ },
+ {
+  "it": "Veicolo/i",
+  "tr": "Veículo(s)"
+ },
+ {
+  "it": "Veicolo/i Fuori Uso",
+  "tr": "Veículo(s) em Fim de Vida"
+ },
+ {
+  "it": "VFU",
+  "tr": "VFV"
+ },
+ {
+  "it": "Vendita fuori asta",
+  "tr": "Venda fora de leilão"
+ },
+ {
+  "it": "Vendita in commissione",
+  "tr": "Venda à comissão"
+ },
+ {
+  "it": "Vendita riservata",
+  "tr": "Venda reservada"
+ },
+ {
+  "it": "Venditore/i",
+  "tr": "Vendedor(es)"
+ },
+ {
+  "it": "giorni",
+  "tr": "dias"
+ },
+ {
+  "it": "lavorativi",
+  "tr": "úteis"
+ },
+ {
+  "it": "Titolo art. 2: Scopi, ruolo di Fleequid e Modelli di Vendita",
+  "tr": "Objetivos, papel da Fleequid e Modelos de Venda"
+ },
+ {
+  "it": "Titolo art. 3: Determinazione e conoscibilità del Modello di Vendita",
+  "tr": "Determinação e cognoscibilidade do Modelo de Venda"
+ },
+ {
+  "it": "Titolo art. 4: Fonti contrattuali, Inserzione e condizioni applicabili alla specifica operazione",
+  "tr": "Fontes contratuais, Anúncio e condições aplicáveis à operação específica"
+ },
+ {
+  "it": "Titolo art. 5: Registrazione e uso consentito del Marketplace",
+  "tr": "Registo e uso permitido do Marketplace"
+ },
+ {
+  "it": "Titolo art. 6: Classificazione dell’Utente e Deposito cauzionale",
+  "tr": "Classificação do Utilizador e Depósito caução"
+ },
+ {
+  "it": "Titolo art. 7: Trattamento dei dati personali degli Utenti",
+  "tr": "Tratamento dos dados pessoais dos Utilizadores"
+ },
+ {
+  "it": "Titolo art. 8: Proposta di vendita di Veicoli in Asta e obblighi del Venditore",
+  "tr": "Proposta de venda de Veículos em Leilão e obrigações do Vendedor"
+ },
+ {
+  "it": "Titolo art. 9: Eventi di vendita ed Inserzione",
+  "tr": "Eventos de venda e Anúncio"
+ },
+ {
+  "it": "Titolo art. 10: Offerte, negoziazione e Accordo vincolante",
+  "tr": "Ofertas, negociação e Acordo vinculativo"
+ },
+ {
+  "it": "Titolo art. 11: Stato Opzionato, Proforma e Termine di pagamento",
+  "tr": "Estado Opcionado, Pró-forma e Prazo de pagamento"
+ },
+ {
+  "it": "Titolo art. 12: Pagamento, Aggiudicazione definitiva nelle Aste, ritardo e Annullamento della vendita",
+  "tr": "Pagamento, Adjudicação definitiva nos Leilões, atraso e Anulação da venda"
+ },
+ {
+  "it": "Titolo art. 13: Vendita differita: pagamento anticipato e Veicolo temporaneamente in uso presso il Venditore",
+  "tr": "Venda diferida: adiantamento e Veículo temporariamente em uso pelo Vendedor"
+ },
+ {
+  "it": "Titolo art. 14: Annullamento della vendita: disciplina generale e riduzione dell’oggetto",
+  "tr": "Anulação da venda: regime geral e redução do objeto"
+ },
+ {
+  "it": "Titolo art. 15: Effetti patrimoniali: restituzioni, ripristino e coordinamento economico",
+  "tr": "Efeitos patrimoniais: restituições, reposição e coordenação económica"
+ },
+ {
+  "it": "Titolo art. 16: Fase esecutiva verso l’Acquirente: fatturazione, trasferimento della proprietà, rischio, consegna e ritiro",
+  "tr": "Fase de execução perante o Comprador: faturação, transferência da propriedade, risco, entrega e recolha"
+ },
+ {
+  "it": "Titolo art. 17: Vendita in commissione: disciplina comune, Rivendita e operatività quale Intermediario puro",
+  "tr": "Venda à comissão: regime comum, Revenda e atuação como Intermediário puro"
+ },
+ {
+  "it": "Titolo art. 18: Dealer Sales",
+  "tr": "Dealer Sales"
+ },
+ {
+  "it": "Titolo art. 19: Garanzie, esclusioni e limitazioni",
+  "tr": "Garantias, exclusões e limitações"
+ },
+ {
+  "it": "Titolo art. 20: Reclami",
+  "tr": "Reclamações"
+ },
+ {
+  "it": "Titolo art. 21: Clausola di collegamento",
+  "tr": "Cláusula de conexão"
+ },
+ {
+  "it": "Titolo art. 22: Soluzioni di finanziamento offerte da terzi",
+  "tr": "Soluções de financiamento oferecidas por terceiros"
+ },
+ {
+  "it": "Titolo art. 23: Legge applicabile, Lingua e Foro competente",
+  "tr": "Lei aplicável, Língua e Foro competente"
+ },
+ {
+  "it": "Titolo art. 24: Comunicazioni",
+  "tr": "Comunicações"
+ },
+ {
+  "it": "Classificazione dell'Utente",
+  "tr": "Classificação do Utilizador"
+ },
+ {
+  "it": "Asta a rilancio",
+  "tr": "Leilão com Incrementos"
+ },
+ {
+  "it": "Inserzione (Scheda d'Asta)",
+  "tr": "Anúncio (Ficha de Leilão)"
+ },
+ {
+  "it": "Prezzo di vendita all'Acquirente",
+  "tr": "Preço de venda ao Comprador"
+ },
+ {
+  "it": "Vendita differita",
+  "tr": "Venda diferida"
+ },
+ {
+  "it": "perfezionamento / perfezionarsi (dell'Accordo vincolante, del Contratto)",
+  "tr": "formação / formar-se"
+ },
+ {
+  "it": "fase esecutiva",
+  "tr": "fase de execução"
+ },
+ {
+  "it": "modalità di esecuzione (prescelta)",
+  "tr": "modalidade de execução (escolhida)"
+ },
+ {
+  "it": "commercializzazione",
+  "tr": "comercialização"
+ },
+ {
+  "it": "conoscibilità / rendere conoscibile",
+  "tr": "cognoscibilidade / tornar cognoscível"
+ },
+ {
+  "it": "maturazione delle Commissioni",
+  "tr": "aquisição do direito às Comissões"
+ },
+ {
+  "it": "corrispettivi (Commissioni, Tariffe)",
+  "tr": "remunerações"
+ },
+ {
+  "it": "penale",
+  "tr": "penalidade"
+ },
+ {
+  "it": "caparra confirmatoria / penitenziale",
+  "tr": "sinal confirmatório / penitencial"
+ },
+ {
+  "it": "acconto sul prezzo",
+  "tr": "por conta do preço"
+ },
+ {
+  "it": "ritardo / mora",
+  "tr": "atraso / mora"
+ },
+ {
+  "it": "ritiro (del Veicolo)",
+  "tr": "recolha"
+ },
+ {
+  "it": "ripristino",
+  "tr": "reposição (da situação anterior)"
+ },
+ {
+  "it": "sostanziale (Acquirente/Venditore/parte)",
+  "tr": "efetivo/a"
+ },
+ {
+  "it": "lett. a) / artt. / comma",
+  "tr": "alínea a) / arts. / n"
+ },
+ {
+  "it": "commissionario/a (art. 1731 c.c.)",
+  "tr": "comissário/a"
+ },
+ {
+  "it": "commissioni di vendita e di acquisto (minúsculo, incarichi)",
+  "tr": "comissões de venda e de compra (minúsculo)"
+ },
+ {
+  "it": "c.c. / D.Lgs",
+  "tr": "Código Civil italiano / Decreto Legislativo italiano"
+ },
+ {
+  "it": "in uso presso il Venditore",
+  "tr": "em uso pelo Vendedor"
+ },
+ {
+  "it": "a titolo esemplificativo e non esaustivo",
+  "tr": "a título exemplificativo e não exaustivo"
+ },
+ {
+  "it": "incarico (irrevocabile)",
+  "tr": "encargo (irrevogável)"
+ },
+ {
+  "it": "incasso netto",
+  "tr": "rendimento líquido"
+ }
+]
