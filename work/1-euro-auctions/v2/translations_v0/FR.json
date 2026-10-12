@@ -1,0 +1,138 @@
+{
+ "lang": "FR",
+ "translations": {
+  "c01": "<b>Conditions Particulières de Vente</b>",
+  "c02": "Elles sont adoptées au sens et aux effets des art. 4.3, 4.4 et 9.4, lettre d), des Conditions Générales du Marketplace Fleequid (« CG ») et constituent des Conditions Particulières de Vente au sens des CG (ci-après également « Conditions Particulières de Vente aux enchères »), avec la prévalence conséquente sur les CG en cas d’incompatibilité et dans les limites des matières expressément régies par le présent document.",
+  "c03": "La publication d’une Proposition de vente dans le cadre d’une Enchère qualifiée de « 1 Euro Auction », ainsi que la participation à celle-ci par les Enchérisseurs, constitue une acceptation expresse, pleine et contraignante des présentes Conditions Particulières. Demeure inchangée l’approbation spécifique par écrit, conformément aux articles 1341 et 1342 du Code civil italien, des clauses indiquées dans la section finale du présent document.",
+  "c04": "Les « 1 Euro Auctions » constituent une catégorie particulière d’Enchère organisée par Fleequid dans le cadre du Marketplace, caractérisée par des modalités spécifiques de détermination du prix et par des conditions économiques spécifiques par rapport aux Enchères ordinaires régies par les Conditions Générales (« CG »).",
+  "c05": "Dans les 1 Euro Auctions, le mécanisme ordinaire de détermination du Prix de réserve (PR) fondé sur le Prix minimum d’engagement à la vente (MCSP) ne s’applique pas. Le MCSP continue toutefois à constituer la valeur économique minimale de référence du Vendeur au sens des Conditions Générales, mais il n’est pas utilisé aux fins de la détermination d’un Prix de réserve dans le cadre des 1 Euro Auctions, la protection économique du Vendeur demeurant régie, dans la Vente en commission, selon les modalités spécifiquement prévues par les présentes Conditions Particulières.",
+  "c06": "<b>Règles de formation de l’Accord contraignant.</b>",
+  "c07": "Dans les 1 Euro Auctions, l’Accord contraignant se forme en faveur de l’Enchérisseur ayant formulé la Mise maximale à la fin de l’Enchère, selon les modalités prévues par les Conditions Générales (« CG »), à condition qu’au moins une Offre valide ait été présentée au cours de la procédure. Il est expressément entendu que, dans les 1 Euro Auctions, la formation de l’Accord contraignant est valable et effective indépendamment du montant de la Mise maximale, même lorsque celle-ci est égale à un Euro (1) ou est en tout état de cause d’un montant symbolique ou sensiblement inférieur à la valeur estimée du Véhicule.",
+  "c08": "En présence d’au moins une Offre valide, l’Accord contraignant se forme selon la discipline générale prévue par les CG, sans préjudice de ce qui est spécifiquement prévu par les présentes Conditions Particulières. L’Acheteur et le Vendeur reconnaissent et acceptent que le mécanisme concurrentiel de l’Enchère constitue un élément essentiel pour la détermination du prix, avec l’exclusion conséquente, dans les limites permises par la loi, de toute contestation relative au caractère équitable, adéquat ou proportionné du Prix de vente à l’Acheteur.",
+  "c09": "Si, à la fin de la 1 Euro Auction, aucune Offre valide n’a été reçue, l’Enchère sera considérée comme infructueuse et aucun Accord contraignant ne se formera au sens des CG ; par conséquent, aucune obligation d’acquisition du Véhicule ne naîtra à la charge de Fleequid, du Vendeur ou de tiers.",
+  "c10": "Dans le cadre des 1 Euro Auctions exécutées selon le Modèle de Vente en commission, et par dérogation au mécanisme du Prix de réserve (PR) prévu par les Conditions Générales, Fleequid garantit au Vendeur, en présence d’au moins une Offre valide, un encaissement net, égal au Prix de vente à l’Acheteur, déduction faite des seules Commissions à la charge du Vendeur, non inférieur au Prix minimum d’engagement à la vente (MCSP) indiqué pour le Véhicule au sens des CG.",
+  "c11": "Si l’encaissement net visé à l’art. 3.1 résultant à la fin de la 1 Euro Auction est inférieur au MCSP, Fleequid s’engage à verser au Vendeur la différence nécessaire afin que l’encaissement net revenant au Vendeur, déterminé au sens de l’art. 3.1, soit égal au MCSP. Si, en revanche, l’encaissement net est égal ou supérieur au MCSP, le Vendeur aura droit intégralement à l’encaissement majoré correspondant, selon la discipline ordinaire des CG. L’éventuelle intégration économique a une nature purement compensatoire et ne constitue, en aucune manière, une acquisition directe ou indirecte du Véhicule par Fleequid. La garantie ne couvre pas les Tarifs, les pénalités, les remboursements de frais ni les autres montants éventuellement dus par le Vendeur à Fleequid, qui demeurent régis par les CG, par le Tarif et par les autres sources contractuelles applicables et peuvent être déduits ou compensés selon la discipline générale.",
+  "c12": "En l’absence d’Offres valides et, par conséquent, en cas d’Enchère infructueuse, aucun Accord contraignant ne se formera au sens des CG et aucune obligation d’acquisition du Véhicule, ni aucune obligation d’intégration économique en faveur du Vendeur, ne naîtra à la charge de Fleequid.",
+  "c13": "La garantie visée au présent article constitue un engagement contractuel interne, accessoire et conditionné, limité à l’Enchère individuelle qualifiée de 1 Euro Auction et ne constitue pas une promesse au public, ni une activité d’assurance, ni un engagement général ou permanent d’acquisition de la part de Fleequid. En tout état de cause, le versement de l’éventuelle intégration économique ne pourra intervenir qu’après la définition du rapport avec l’Acheteur, y compris la vérification de l’encaissement effectif des sommes dues ou de l’issue des procédures de gestion de l’inexécution prévues par les CG. En cas d’Annulation de la vente et de vente ultérieure du Véhicule à un autre Enchérisseur au sens de l’art. 10.5 des CG, la garantie opère, aux conditions prévues par le présent article, exclusivement en ce qui concerne la nouvelle vente.",
+  "c14": "Demeure inchangée la faculté de Fleequid de suspendre, d’annuler ou de déclarer non valable l’Enchère dans les cas prévus par les CG ; dans de telles hypothèses, la garantie visée au présent article ne s’appliquera pas, sans préjudice de ce qui est prévu par l’art. 6.2. La garantie ne s’appliquera pas non plus en cas de comportements abusifs, frauduleux ou non conformes aux CG de la part du Vendeur ou de personnes qui lui sont rattachables, y compris, à titre d’exemple, la participation directe ou indirecte à l’Enchère dans le but d’en influencer l’issue.",
+  "c15": "Aux 1 Euro Auctions exécutées selon le Modèle de Vente en commission s’applique, de manière générale, la structure de commissions ordinaire prévue par le Tarif Fleequid, tel qu’en vigueur et publié à tout moment sur le Marketplace.",
+  "c16": "L’Acheteur se voit appliquer les Commissions prévues au sens des alinéas qui précèdent, y compris, lorsqu’elle est prévue, la commission fixe (« flat buyer fee ») et/ou la commission en pourcentage sur le Prix de vente à l’Acheteur.",
+  "c17": "Les Commissions sont acquises et sont dues conformément à ce qui est prévu par l’art. 12.4 des CG et demeurent soumises à la discipline générale des Conditions Générales en matière de paiement, de facturation et d’inexécution, sauf disposition contraire prévue par les présentes Conditions Particulières.",
+  "c18": "Sauf indication contraire dans la fiche de l’Enchère, aux 1 Euro Auctions s’appliquent intégralement les dispositions des Conditions Générales en matière de Dépôt de garantie, de modalités de paiement du Montant total dû et de délais d’exécution de l’Acheteur.",
+  "c19": "En cas de défaut ou de retard de paiement de la part de l’Acheteur, les dispositions des CG en matière d’inexécution, de résolution, d’Annulation de la vente, de pénalités, de rétention et d’imputation du Dépôt de garantie au sens de l’art. 6.3 des CG et de réparation du dommage trouvent à s’appliquer.",
+  "c20": "Dans les cas de suspension ou d’annulation de l’Enchère au sens de l’alinéa précédent, les dispositions relatives à la formation de l’Accord contraignant ne trouveront pas à s’appliquer et la garantie économique visée à l’art. 3 ne sera ni acquise ni due, sans préjudice de la responsabilité de Fleequid pour dol ou faute lourde et de ce qui est prévu par les Conditions Générales en matière de responsabilité de Fleequid.",
+  "c21": "Pour tout ce qui n’est pas expressément régi par les présentes Conditions Particulières, les Conditions Générales, les éventuelles Conditions spécifiques et le Tarif Fleequid demeurent intégralement applicables, selon la hiérarchie établie par l’art. 4.3 des CG.",
+  "c24": "<i>*****</i>",
+  "c25": "<b><i>Approbation spécifique conformément aux articles 1341 et 1342 du Code civil italien</i></b>",
+  "c26": "Conformément aux articles 1341 et 1342 du Code civil italien et pour les effets qui y sont prévus, l’Utilisateur déclare expressément avoir lu, compris et spécifiquement approuvé les clauses suivantes des présentes Conditions Particulières :",
+  "c27": "<b>(a) en qualité de Vendeur :</b> art. 2.3, deuxième phrase (reconnaissance du mécanisme concurrentiel de l’Enchère en tant qu’élément essentiel pour la détermination du prix et exclusion, dans les limites permises par la loi, de toute contestation relative au caractère équitable, adéquat ou proportionné du Prix de vente à l’Acheteur) ; art. 3.6, deuxième phrase (versement de l’éventuelle intégration économique uniquement après la définition du rapport avec l’Acheteur) ; art. 3.7, deuxième phrase (caractère non cessible et non transférable de la garantie) ; art. 3.8, première phrase (inapplicabilité de la garantie en cas de suspension, d’annulation ou de déclaration de non-validité de l’Enchère par Fleequid dans les cas prévus par les CG) ; art. 6.1 (faculté de Fleequid de suspendre, de prolonger, d’annuler ou de déclarer non valable une 1 Euro Auction, y compris pour des exigences organisationnelles dûment motivées) ; art. 6.2 (effets de la suspension ou de l’annulation de l’Enchère sur la formation de l’Accord contraignant et sur l’acquisition de la garantie économique, sans préjudice de la responsabilité de Fleequid pour dol ou faute lourde) ;",
+  "c28": "<b>(b) en qualité d’Enchérisseur ou d’Acheteur :</b> art. 2.3, deuxième phrase (reconnaissance du mécanisme concurrentiel de l’Enchère en tant qu’élément essentiel pour la détermination du prix et exclusion, dans les limites permises par la loi, de toute contestation relative au caractère équitable, adéquat ou proportionné du Prix de vente à l’Acheteur) ; art. 6.1 (faculté de Fleequid de suspendre, de prolonger, d’annuler ou de déclarer non valable une 1 Euro Auction, y compris pour des exigences organisationnelles dûment motivées) ; art. 6.2 (effets de la suspension ou de l’annulation de l’Enchère sur la formation de l’Accord contraignant, sans préjudice de la responsabilité de Fleequid pour dol ou faute lourde).",
+  "c29": "La présente approbation est autonome et distincte de l’approbation spécifique des clauses des CG, qui ne la remplace ni ne l’absorbe."
+ },
+ "new_terms": [
+  {
+   "it": "Accordo vincolante / perfezionamento, si perfeziona",
+   "tr": "Accord contraignant / formation, se forme",
+   "why": "CG v9 FR (définition et art. 10.2) ; remplace « Adjudication » / « sera parfaite » de la v1."
+  },
+  {
+   "it": "Prezzo di vendita all’Acquirente",
+   "tr": "Prix de vente à l’Acheteur",
+   "why": "CG v9 FR ; remplace « prix d’adjudication »."
+  },
+  {
+   "it": "Importo Totale Dovuto",
+   "tr": "Montant total dû",
+   "why": "CG v9 FR."
+  },
+  {
+   "it": "Annullamento della vendita",
+   "tr": "Annulation de la vente",
+   "why": "CG v9 FR."
+  },
+  {
+   "it": "Vendita in commissione",
+   "tr": "Vente en commission",
+   "why": "CG v9 FR."
+  },
+  {
+   "it": "Modello di Vendita in commissione",
+   "tr": "Modèle de Vente en commission",
+   "why": "Combinaison de « Modèle de vente » et « Vente en commission » (CG v9 FR) ; la majuscule de « Vente » appartient au terme défini « Vente en commission », l’expression composée n’apparaissant pas dans les CG FR."
+  },
+  {
+   "it": "Condizioni particolari di vendita",
+   "tr": "Conditions Particulières de Vente",
+   "why": "CG v9 FR (art. 4.3, 9.4 lettre d))."
+  },
+  {
+   "it": "Tariffe",
+   "tr": "Tarifs",
+   "why": "CG v9 FR ; à distinguer du « Tarif » (Tariffario) de la v1 de ce document."
+  },
+  {
+   "it": "fonti contrattuali",
+   "tr": "sources contractuelles",
+   "why": "CG v9 FR (art. 4)."
+  },
+  {
+   "it": "specifiche condizioni economiche",
+   "tr": "conditions économiques spécifiques",
+   "why": "CG v9 FR, définition de « 1 Euro Auction »."
+  },
+  {
+   "it": "al netto delle sole Commissioni a carico del Venditore",
+   "tr": "déduction faite des seules Commissions à la charge du Vendeur",
+   "why": "CG v9 FR, art. 17.4 (« déduction faite des Commissions à la charge du Vendeur »)."
+  },
+  {
+   "it": "trattenimento e imputazione del Deposito cauzionale",
+   "tr": "rétention et imputation du Dépôt de garantie",
+   "why": "CG v9 FR, clause d’approbation, art. 6.3 (« faculté de rétention et d’imputation »)."
+  },
+  {
+   "it": "artt. 1341 e 1342 c.c. / Approvazione specifica",
+   "tr": "articles 1341 et 1342 du Code civil italien / Approbation spécifique",
+   "why": "Formule de la clause d’approbation finale des CG v9 FR ; la v1 n’avait aucun renvoi au code civil."
+  },
+  {
+   "it": "lett. d)",
+   "tr": "lettre d)",
+   "why": "CG v9 FR ; la v1 n’avait pas ce cas."
+  },
+  {
+   "it": "primo / secondo periodo",
+   "tr": "première / deuxième phrase",
+   "why": "CG v9 FR (« dernière phrase », « deuxième phrase »)."
+  },
+  {
+   "it": "rimborsi spese",
+   "tr": "remboursements de frais",
+   "why": "Rendu juridique courant ; pas d’occurrence dans la v1."
+  },
+  {
+   "it": "non cedibilità e non trasferibilità",
+   "tr": "caractère non cessible et non transférable",
+   "why": "Reprend « n’est ni cessible ni transférable » de l’art. 3.7 v1."
+  },
+  {
+   "it": "inapplicabilità / dichiarazione di non validità",
+   "tr": "inapplicabilité / déclaration de non-validité",
+   "why": "Nominalisation de « ne s’appliquera pas » / « déclarer non valable » des art. 3.8 et 6.1 v1."
+  }
+ ],
+ "notes": [
+  "Priorité 1 respectée : dans les passages inchangés restent « Enchère » (Asta), « Marketplace », « Conditions Générales », « Tarif » (Tariffario), « MCSP » (PMIV), « discipline », « au sens de », même si les CG v9 FR emploient Vente aux enchères, Place de marché, Grille tarifaire, PMIV, régime.",
+  "c11 : « Tariffe » = « Tarifs » (CG v9) et « Tariffario » = « Tarif » (v1 de ce document) cohabitent dans la même phrase (« ne couvre pas les Tarifs … régis par … le Tarif »). Lisible mais proche ; alternative possible : « Grille tarifaire » pour le Tariffario dans la seule phrase nouvelle, au prix d’une incohérence avec les art. 4.1, 4.2, 4.5, 5.2, 6.4.",
+  "c05, c10, c11 : la v1 FR rend PMIV par « MCSP » (sigle anglais) et « Prix minimum d’engagement à la vente » ; les CG v9 FR ont « PMIV » et « Prix minimum d’engagement de la vente ». Conservé tel quel (italien inchangé) ; à signaler comme défaut préexistant.",
+  "c02 : refuso « si seguito » traduit « ci-après également ». La dénomination abrégée reste « Conditions Particulières de Vente aux enchères » (v1) ; le terme défini des CG est « Conditions Particulières de Vente ».",
+  "c09 : « Accordo Vincolante » rendu « Accord contraignant » comme ailleurs. c11 : « Qualora » initial rétabli (« Si l’encaissement net visé à l’art. 3.1 … »).",
+  "c03, c25, c26 : « c.c. » rendu selon les CG v9 FR (« articles 1341 et 1342 du Code civil italien »), y compris « conformément à … et pour les effets qui y sont prévus » en c26 ; les renvois aux articles des CG et du présent document gardent la forme v1 (« art. », « au sens de l’art. »).",
+  "c07 : « Puntata finale » devient « Puntata massima » : « Mise finale » remplacée par « Mise maximale ». « valido ed efficace » accordé à « la formation » (valable et effective).",
+  "c17 : « maturano e sono dovute » = « sont acquises et sont dues » (v1 « sont acquises » ; art. 6.2 v1 « ni acquise ni due »).",
+  "c20, c27, c28 : « ferma la responsabilità di Fleequid per dolo o colpa grave » = « sans préjudice de la responsabilité de Fleequid pour dol ou faute lourde » (v1 : « dol », « faute lourde »).",
+  "c27, c28 : les synthèses reprennent mot pour mot les rendus des art. 2.3, 3.6, 3.7, 3.8, 6.1, 6.2 de ce document.",
+  "Typographie v1 conservée : apostrophe typographique, espace insécable à l’intérieur des guillemets et avant « ; » et « : ».",
+  "Incohérences de l’italien v2 (au-delà des trois refusi connus) : (1) préambule [0~7], non modifié, renvoie encore à « l’art. 3.3 delle CG » et écrit « Condizioni specifiche » en minuscule, alors que l’art. 6.4 passe à l’art. 4.3 et à « Condizioni Specifiche » ; en FR v1 [0~7] porte en outre « Conditions particulières » au lieu de « Conditions spécifiques ». (2) art. 5.2, non modifié, garde « Acquirente aggiudicatario » et « Prezzo di aggiudicazione », termes remplacés partout ailleurs. (3) art. 3.5 et 5.4 gardent « regolare conclusione del Contratto » alors que l’art. 2 parle désormais de perfezionamento dell’Accordo vincolante. (4) [0~3] emploie « Condizioni Particolari d’Asta » avant sa définition en [0~4]. (5) le renvoi « art. 9.4, lett. d) » suppose une liste à lettres : dans le texte FR des CG, la liste de l’art. 9.4 doit bien avoir « 1 Euro Auctions » comme lettre d) (c’est le cas : quatrième élément). (6) l’art. 9.4, lett. d), des CG renvoie à l’art. 4.5 pour l’applicabilité des Condizioni particolari di vendita, que le préambule ne cite pas (il cite 4.3 et 4.4)."
+ ]
+}

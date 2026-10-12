@@ -43,3 +43,40 @@ Puoi scrivere soltanto `work/1-euro-auctions/v2/translations/LANG.json`. Lancia 
 ## Controllo formale (da ripetere finché stampa OK)
 
     python3 -m tcupdate.checktr work/1-euro-auctions/v2 LANG "T&C/1 Euro Auctions/Vers 2 - Multilanguage - Q4 2026/2_CPA_1EuroAuction_Versione_2_2026_DEF_ITA.docx"
+
+---
+
+# Revisione (seconda passata, revisore diverso dal traduttore)
+
+Sei il REVISORE legale madrelingua. Leggi tutto il brief della lingua e rivedi `translations/LANG.json` voce per voce.
+Puoi modificare soltanto quel file. Applica le correzioni con brevi script Python (carica il JSON, sostituisci una
+sottostringa esatta verificando che compaia, salva con `ensure_ascii=False, indent=1`): non riscrivere il file a mano.
+
+1. Equivalenza giuridica con l'italiano v2: nessuna omissione, nessuna aggiunta, RIMOZIONI recepite, rinvii e numeri esatti.
+2. Dove l'italiano non cambia, il testo deve essere la copia letterale della v1 della lingua. Annulla ogni riscrittura
+   non richiesta dal diff.
+3. Terminologia, in quest'ordine: termine già usato nella v1 di QUESTO documento per lo stesso termine italiano →
+   Condizioni Generali v9 della lingua (`work/refs/general_LANG.txt`) → scelta nuova. Decisioni già prese, da applicare:
+   - **Cambio di sola maiuscola in italiano** (es. «Condizioni specifiche» → «Condizioni Specifiche», «Proposta di
+     Vendita» → «Proposta di vendita», «commissioni» → «Commissioni»): la PAROLA della v1 resta; cambia al più la
+     maiuscola, secondo l'uso della lingua. Si passa alla resa delle CG v9 solo se la parola della v1 nel paragrafo
+     diventa ambigua o coincide con un altro termine del documento: in quel caso spiega il perché in `review`.
+   - **«Tariffario»** resta quello della v1 di questo documento; **«Tariffe»** (nuovo) prende la resa delle CG v9. Se le
+     due parole finiscono identiche o indistinguibili nella stessa frase (art. 3.2), scegli la soluzione più chiara e
+     segnalala nella risposta.
+   - **«perfezionarsi / perfezionamento» dell'Accordo vincolante**: una sola resa in tutti i paragrafi tradotti, quella
+     con cui le CG v9 della lingua accompagnano il termine (anche in c09 e c12, dove il verbo italiano non cambia ma
+     cambia il soggetto).
+   - **«Modello di Vendita in commissione»**: una sola forma in c10 e c15, costruita con i due termini delle CG v9;
+     verifica in `work/refs/general_LANG.txt` se le CG usano già una forma analoga (es. per «Modello di Vendita Dealer
+     Sales») e seguila.
+   - Sigle e nomi della v1 (PMIV, PR, 1 Euro Auctions, Marketplace, Deposito cauzionale) restano quelli della v1 anche se
+     le CG v9 ne usano altri: sono difetti di uniformità tra documenti, da segnalare nella risposta, non da correggere.
+4. Sezione finale (c25–c29): la formula deve essere quella della clausola di approvazione specifica delle CG v9 della
+   lingua; le sintesi tra parentesi devono usare le stesse parole degli articoli richiamati in questo documento.
+5. Registro legale, grammatica, tipografia della v1 (virgolette, spazi, maiuscole dei termini definiti).
+6. Tag `<b>/<i>/<u>` sulle parole corrispondenti a quelle dell'italiano v2.
+
+Aggiungi al JSON una lista `review` con voci «cNN: prima → dopo — perché» (anche vuota). Rilancia il controllo formale
+finché stampa OK. Risposta in italiano, breve: esito del controllo; correzioni sostanziali; decisioni prese sui punti
+sopra; punti da far validare allo studio o all'utente (massimo cinque); difetti preesistenti della v1 notati.
