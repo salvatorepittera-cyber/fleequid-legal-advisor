@@ -11,6 +11,7 @@ python3 -m tcupdate.rebuild <comando> --family "General T&C" --from 8 --to 9 --d
   brief     brief per blocco di articoli della lingua
   check     controlla le traduzioni di un blocco (o di tutti)
   terms     tabella dei termini definiti ricavata dal blocco k01 (art. 1 + titoli)
+  glossary  riporta i termini della lingua nel glossario cumulativo (a Word approvati)
   build     Word della lingua costruito sull'IT nuova + verifica
 """
 from __future__ import annotations
@@ -558,13 +559,37 @@ def verify_docx(c, lang: str) -> list[str]:
     return errs
 
 
+def merge_glossary(c, lang: str) -> tuple[int, list[str]]:
+    """A lavoro chiuso: i termini di terms.json entrano in glossary/<LANG>.json. Restano fuori i titoli di
+    articolo, i link e i frammenti di punteggiatura; segnala le rese che non si ritrovano nel Word finale."""
+    source = f"{c.family} v{c.v_to}"
+    fold = lambda x: norm(x).replace("’", "'").casefold()
+    body = fold(" ".join(p.text for p in Docx(c.out_name(lang)).paras))
+    gp = brief_mod.GLOSSARY_DIR / f"{lang}.json"
+    cur = json.loads(gp.read_text()) if gp.exists() else []
+    seen = {(g["it"], g["tr"]) for g in cur}
+    added, missing = 0, []
+    for t in _terms(c.work, lang):
+        it, tr = t["it"].strip(), t["tr"].strip()
+        if it.startswith(("Titolo art.", "http")) or not re.search(r"\w{2}", it) or it.startswith("("):
+            continue
+        if any(fold(x) not in body for x in tr.split(" / ")):
+            missing.append(f"{it} → {tr}")
+        if (it, tr) not in seen:
+            seen.add((it, tr))
+            cur.append({"it": it, "tr": tr, "source": source})
+            added += 1
+    gp.write_text(json.dumps(cur, ensure_ascii=False, indent=1))
+    return added, missing
+
+
 # ---------- CLI ----------
 def main(argv=None):
     from .__main__ import Ctx
 
     ap = argparse.ArgumentParser(prog="tcupdate.rebuild", description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["it-links", "prepare", "brief", "check", "terms", "build"])
+    ap.add_argument("command", choices=["it-links", "prepare", "brief", "check", "terms", "glossary", "build"])
     ap.add_argument("--family", required=True)
     ap.add_argument("--from", dest="from_", type=int, required=True)
     ap.add_argument("--to", type=int, required=True)
@@ -616,6 +641,11 @@ def main(argv=None):
     elif a.command == "terms":
         t = derive_terms(c.work, lang)
         print(f"{len(t)} termini → {(c.work / 'rb' / lang / 'terms.json').relative_to(ROOT)}")
+    elif a.command == "glossary":
+        n, missing = merge_glossary(c, lang)
+        print(f"{lang}: {n} termini aggiunti a glossary/{lang}.json")
+        for m in missing:
+            print(f"  non ritrovato alla lettera nel Word: {m}")
     elif a.command == "build":
         errs = [e for k in chunks for e in check_chunk(c.work, lang, k)]
         if errs:

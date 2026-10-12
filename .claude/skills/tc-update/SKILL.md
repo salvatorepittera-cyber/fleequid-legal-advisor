@@ -125,3 +125,47 @@ Tempi: traduttori e revisori circa 3 minuti ciascuno, tutti in parallelo. Il res
 - **Word/AppleScript**: `open` non restituisce il documento, serve `active document`; i percorsi vanno passati come POSIX e i file temporanei devono stare nel container di Word. Se va in timeout, c'è una finestra di dialogo da chiudere a mano.
 - **I traduttori tendono a preferire i termini delle T&C Generali**: il revisore deve riportarli a quelli della v1 del documento (successo su NL "koopovereenkomst" e CZ "závada").
 - **Difetti preesistenti**: si correggono solo su richiesta dell'utente, con `post_fixes` (§ 5-bis) e annotati nel report.
+
+---
+
+# Riscrittura integrale (modulo `tcupdate.rebuild`)
+
+Si usa al posto dei passi 3–6 quando la nuova IT riscrive gran parte del documento (General T&C v9: circa il 90%) o quando la lingua non ha struttura parallela all'IT. È una **deroga alla regola 6**, da far confermare all'utente al checkpoint del passo 1: il Word di ogni lingua si costruisce sul Word IT nuovo (stessa struttura, numerazione, stili, indice), non sul Word precedente della lingua. La resa precedente della lingua resta vincolante per testo e terminologia.
+
+Opzioni comuni a tutti i comandi: `R='--family "$F" --from $A --to $B --draft "<bozza IT>"'`.
+
+```
+python3 -m tcupdate diff / clean-it                       # come ai passi 1–2
+python3 -m tcupdate.rebuild it-links $R                   # link al sito dell'IT pulita portati su /it/
+python3 -m tcupdate.rebuild prepare  $R --redline "<redline dello studio>"   # units.json, chunks.json (k01…kNN), it_new.txt
+# per ogni lingua:
+python3 -m tcupdate.rebuild brief --lang LANG --chunk k01 $R
+#   traduzione k01 → revisione k01 → decisioni del revisore in work/<fam>/v<B>/rb/LANG/NOTE_LINGUA.md
+python3 -m tcupdate.rebuild terms --lang LANG $R          # termini definiti e titoli fissati da k01: vincolanti
+python3 -m tcupdate.rebuild brief --lang LANG $R          # brief degli altri blocchi, con la tabella dei termini
+#   traduzione k02…kNN in parallelo → revisione di ogni blocco → armonizzazione finale della lingua
+python3 -m tcupdate.rebuild check --lang LANG $R          # tutti i blocchi OK
+python3 -m tcupdate.rebuild build --lang LANG $R          # Word + verifica
+python3 -m tcupdate toc --family "$F" --from $A --to $B --langs LANG
+python3 -m tcupdate.rebuild glossary --lang LANG $R       # a Word approvati: termini in glossary/LANG.json
+```
+
+- **Provenienza dei paragrafi**: si ricava dal redline dello studio (`--redline`), non dalla posizione.
+- **k01 prima di tutto**: frontespizio, art. 1 e titoli. Va tradotto e revisionato prima degli altri blocchi, perché fissa i termini definiti del documento.
+- **Tre ruoli per lingua**: traduttore di blocco, revisore di blocco, armonizzatore finale (rende uniformi termini, locuzioni ricorrenti, rinvii e tipografia tra blocchi tradotti da agenti diversi, e fa la revisione piena dell'ultimo blocco).
+- **Prompt**: i modelli sono `work/general-t-c/v9/rb/ISTRUZIONI_{TRADUTTORE,REVISORE,ARMONIZZATORE}.md` e `NOTE_COMUNI.md`. Copiali nella cartella `rb/` del nuovo lavoro e adatta versioni e percorsi; il prompt all'agente si limita a indicare worktree, LANG, blocco e file di istruzioni.
+- **Carico**: due lingue alla volta, al massimo 20 agenti in parallelo. Gli agenti scrivono solo `rb/LANG/tr_kNN.json` e non committano. L'armonizzatore lavora a piccoli passi con script, altrimenti va in timeout.
+- **Checkpoint frequenti**: commit + push a ogni lingua chiusa e stato in `work/<fam>/v<B>/NOTE_LAVORO.md` (blocchi tradotti, revisionati, agenti lanciati). Alla ripresa, `rebuild check` dice quali blocchi sono validi.
+- **Glossario cumulativo**: nei brief è secondario. Prevale la versione precedente della lingua di QUESTO documento.
+
+## Correzioni dello studio arrivate dopo la traduzione
+1. Si riportano sull'IT pulita (v9: `work/general-t-c/v9/defdef_apply_it.py`) e si elencano le unità toccate con il diff (`rb/DEFDEF_CORREZIONI.md`).
+2. Un agente per lingua le riporta chirurgicamente nei `tr_kNN.json` secondo `rb/ISTRUZIONI_DEFDEF.md` e registra ogni unità in `rb/LANG/defdef.json`, comprese quelle lasciate invariate con il motivo.
+3. `rebuild build` + `toc`, poi si verifica che nel Word siano cambiati solo quei paragrafi.
+
+## Cose imparate sulle Generali v9
+- **Le traduzioni precedenti non sono sempre fedeli all'IT precedente**: nella v8 di più lingue c'erano frasi assenti dall'italiano e definizioni ferme a versioni più vecchie. Fa fede l'IT nuova; il testo senza riscontro si toglie e si segnala all'utente.
+- **Errori di senso ereditati** («approvazione analogica», «vendita obbligatoria ex art. 1478 c.c.», «dolo» reso con «frode», «D.Lgs.» reso come decreto-legge): si controllano in tutte le lingue, elenco in `NOTE_COMUNI.md`.
+- **Incongruenze dell'IT**: si raccolgono man mano dalle risposte di traduttori e revisori e si mandano allo studio in un Word di osservazioni (generatore `work/general-t-c/v9/osservazioni_studio.py`). Refusi di spazi e virgole si sistemano senza passare dal legale.
+- **Controllo numeri**: orari e numerali scritti secondo l'uso della lingua danno falsi positivi. Non si forza il testo, si annota l'unità.
+- **Documenti di servizio nella cartella della versione** (osservazioni, redline): `inventory` li distingue dal Word della lingua solo se il codice lingua non è l'ultima parola del nome.
