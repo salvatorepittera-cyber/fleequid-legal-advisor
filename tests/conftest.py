@@ -15,7 +15,8 @@ from tcupdate.__main__ import Ctx
 REPO = Path(__file__).resolve().parent.parent
 V9_DIR = REPO / "T&C" / "General T&C" / "Vers 9 - Multilanguage - Q4 2026"
 DRAFT = V9_DIR / "9_Termini_e_Condizioni_Generali_Fleequid_F0009_2026_BOZZA_STUDIO.docx"
-REDLINE = V9_DIR / "9_Versione_Termini_e_Condizioni_Generali_Fleequid_Versione_nr_F0009_2026_DEF_2_redline.docx"
+# il redline da cui è nato `units.json`
+REDLINE = V9_DIR / "9_Versione_Termini_e_Condizioni_Generali_Fleequid_Versione_nr_F0009_2026_DEF_Redline&Commenti.docx"
 CLI = ["--family", "General T&C", "--from", "8", "--to", "9", "--draft", str(DRAFT)]
 
 

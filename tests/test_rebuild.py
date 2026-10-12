@@ -90,8 +90,12 @@ def test_units_and_chunks_from_the_firm_redline_are_reproducible(v9):
     it_prev, it_new = Docx(v9.prev_docs["IT"]), Docx(v9.it_new_clean())
     units = rebuild.build_units(it_prev, it_new, REDLINE, v9.changes)
     stored = json.loads((v9.work / "units.json").read_text())
-    assert [(u["id"], u["idx"], u["key"]) for u in units] == [(u["id"], u["idx"], u["key"]) for u in stored]
-    assert {u["cat"] for u in units} <= {"identico", "ritoccato", "modificato", "riscritto", "nuovo"}
+    # u325 (riga dell'indirizzo): archiviata «identico» prima che l'IT pulita perdesse la virgola finale della v8
+    origin = lambda us: [(u["id"], u["idx"], u["key"], u["prev_idx"], u["cat"]) for u in us if u["id"] != "u325"]
+    assert origin(units) == origin(stored)
+    assert {u["cat"] for u in units} == {"identico", "ritoccato", "modificato", "riscritto", "nuovo"}
+    without_redline = rebuild.build_units(it_prev, it_new, None, v9.changes)
+    assert sum(u["prev_idx"] is None for u in without_redline) > sum(u["prev_idx"] is None for u in units)
     assert [c["units"] for c in rebuild.build_chunks(stored)] == \
         [c["units"] for c in json.loads((v9.work / "chunks.json").read_text())]
 
@@ -103,7 +107,7 @@ def test_committed_english_translation_passes_every_chunk(v9):
 
 def test_build_reproduces_the_committed_word_and_verifies(v9):
     out, log = rebuild.build_docx(v9, "EN")
-    assert out.parent != REPO and "link localizzati su /en/" in log[1]
+    assert REPO not in out.parents and "link localizzati su /en/" in log[1]
     assert rebuild.verify_docx(v9, "EN") == []
     built, committed = Docx(out), Docx(REPO / "T&C" / "General T&C" / "Vers 9 - Multilanguage - Q4 2026" / out.name)
     body = lambda d: [p.text for p in d.paras if not p.in_toc]
@@ -167,6 +171,32 @@ def test_cli_check_and_glossary(v9, capsys, monkeypatch):
     assert "termini → " in out and "brief_k02.md" in out and "termini aggiunti a glossary/EN.json" in out
     with pytest.raises(SystemExit):
         rebuild.main(["check", *CLI])
+
+
+def test_cli_prepare_writes_units_chunks_and_italian_text(v9, capsys, monkeypatch):
+    monkeypatch.setattr("tcupdate.__main__.Ctx", lambda a: v9)
+    stored = json.loads((v9.work / "units.json").read_text())
+    rebuild.main(["prepare", "--redline", str(REDLINE), *CLI])
+    assert len(json.loads((v9.work / "units.json").read_text())) == len(stored)
+    assert (v9.work / "it_new.txt").read_text().startswith("[")
+    assert (rebuild.ROOT / "work" / "refs" / "general_IT_v8.txt").exists()
+    assert f"unità: {len(stored)}" in capsys.readouterr().out
+
+
+# ---------- brief del flusso ordinario ----------
+def test_ordinary_brief_shows_the_source_of_each_glossary_entry(tmp_path):
+    """Fleequid Care v1 → v2: nel brief ogni voce del glossario porta il documento da cui viene."""
+    from argparse import Namespace
+    from tcupdate import align, brief
+    from tcupdate.__main__ import Ctx
+    c = Ctx(Namespace(family="Fleequid Care", from_=1, to=2, draft=None, langs="EN"))
+    it_prev, target = Docx(c.prev_docs["IT"]), Docx(c.prev_docs["EN"])
+    glossary = [{"it": "Acquirente", "tr": "Buyer", "source": "VAS - Fleequid Care v1"},
+                {"it": "CG", "tr": "GTC", "source": "General T&C v9"}]
+    path = brief.build(c.changes, it_prev, Docx(c.it_new_clean()), target, align.align(it_prev, target), "EN",
+                       glossary, None, tmp_path)
+    text = path.read_text()
+    assert "- Acquirente → Buyer [VAS - Fleequid Care v1]" in text and "- CG → GTC [General T&C v9]" in text
 
 
 # ---------- indice ----------

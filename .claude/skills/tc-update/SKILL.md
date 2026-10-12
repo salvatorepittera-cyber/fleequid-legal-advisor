@@ -146,7 +146,7 @@ python3 -m tcupdate.rebuild brief --lang LANG $R          # brief degli altri bl
 #   traduzione k02…kNN in parallelo → revisione di ogni blocco → armonizzazione finale della lingua
 python3 -m tcupdate.rebuild check --lang LANG $R          # tutti i blocchi OK
 python3 -m tcupdate.rebuild build --lang LANG $R          # Word + verifica
-python3 -m tcupdate toc --family "$F" --from $A --to $B --langs LANG
+python3 -m tcupdate toc --family "$F" --from $A --to $B --langs LANG --draft "<bozza IT>"
 python3 -m tcupdate.rebuild glossary --lang LANG $R       # a Word approvati: termini in glossary/LANG.json
 ```
 
