@@ -1,8 +1,0 @@
-[
- {
-  "key": "3.5",
-  "old": "Sprzedawca musi być w pełni",
-  "new": "Sprzedawca musi w pełni",
-  "why": "errore di grammatica della v1 («musi być … wykonać»)"
- }
-]

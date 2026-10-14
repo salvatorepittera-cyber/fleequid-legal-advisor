@@ -153,6 +153,10 @@ Riferimento T&C Generali RU (testo): `work/refs/general_RU.txt`
 - fonti contrattuali / fonte negoziale → договорные источники / договорный источник [General T&C v9]
 - incasso netto / incasso (del prezzo) → чистая выручка / поступление (денежных средств) [General T&C v9]
 - committenti / mandanti (art. 2.5, nella commissione) → комитенты [General T&C v9]
+- Tariffario (solo nella frase nuova dell'art. 3.2) → Прейскурант [1 Euro Auctions v2 (nuovo)]
+- detratti o compensati → вычтены или зачтены в порядке взаимозачёта [1 Euro Auctions v2 (nuovo)]
+- Approvazione specifica ai sensi degli artt. 1341 e 1342 c.c. → Специальное одобрение в соответствии со ст. 1341 и 1342 Гражданского кодекса Италии [1 Euro Auctions v2 (nuovo)]
+- ferma la responsabilità di Fleequid per dolo o colpa grave → при сохранении ответственности Fleequid за умысел или грубую неосторожность [1 Euro Auctions v2 (nuovo)]
 
 ## Paragrafi da tradurre
 
@@ -164,17 +168,35 @@ Riferimento T&C Generali RU (testo): `work/refs/general_RU.txt`
 
 **IT nuova:**
 
-<b>Condizioni Particolari di vendita</b>
+<b>Condizioni particolari di vendita</b>
 
 **Diff IT (parole):**
 
-Condizioni Particolari [-d’Asta-]{+di+} {+vendita+}
+Condizioni [-Particolari-]{+particolari+} [-d’Asta-]{+di+} {+vendita+}
 
 **RU precedente:**
 
 <b>Особые условия аукционов</b>
 
-### c02 — [0~4] (modify)
+### c02 — [0~3] (modify)
+
+**IT precedente:**
+
+Le presenti Condizioni Particolari d’Asta disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.
+
+**IT nuova:**
+
+Le presenti Condizioni particolari di vendita disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.
+
+**Diff IT (parole):**
+
+Le presenti Condizioni [-Particolari-]{+particolari+} [-d’Asta-]{+di vendita+} disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.
+
+**RU precedente:**
+
+Настоящие Особые условия аукционов регулируют категорию аукционов под названием «1 Euro Auctions», организуемых компанией Fleequid в рамках Marketplace в качестве особого, специального и отступающего способа продажи Транспортных средств.
+
+### c03 — [0~4] (modify)
 
 **IT precedente:**
 
@@ -182,17 +204,35 @@ Esse sono adottate ai sensi e per gli effetti dell’art. 3.3 delle Condizioni G
 
 **IT nuova:**
 
-Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (si seguito anche “Condizioni Particolari d’Asta”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
+Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4, 4.5 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (di seguito anche “Condizioni Particolari”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
 
 **Diff IT (parole):**
 
-Esse sono adottate ai sensi e per gli effetti [-dell’art.-]{+degli+} [-3.3-]{+artt. 4.3, 4.4 e 9.4, lett. d),+} delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni {+particolari di vendita ai sensi delle CG (si seguito anche “Condizioni +}Particolari [-d’Asta,-]{+d’Asta”),+} con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
+Esse sono adottate ai sensi e per gli effetti [-dell’art.-]{+degli+} [-3.3-]{+artt. 4.3, 4.4, 4.5 e 9.4, lett. d),+} delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni [-Particolari-]{+particolari+} [-d’Asta,-]{+di vendita ai sensi delle CG (di seguito anche “Condizioni Particolari”),+} con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
 
 **RU precedente:**
 
 Они приняты в смысле и для целей ст. 3.3 Общих условий Marketplace Fleequid («ОУ») и составляют Особые условия аукционов, вследствие чего имеют преимущественную силу перед ОУ в случае несовместимости и в пределах вопросов, прямо урегулированных в настоящем документе.
 
-### c03 — [0~6] (modify)
+### c04 — [0~5] (modify)
+
+**IT precedente:**
+
+Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura della stessa, indipendentemente dalla presenza di un richiamo testuale integrale o di un contenuto descrittivo specifico. Tale qualificazione comporta l’automatica applicazione delle presenti condizioni al relativo rapporto contrattuale, in forza della registrazione e dell’utilizzo del Marketplace da parte degli Utenti, senza necessità di ulteriore accettazione, restando ferme le CG già approvate dagli Utenti.
+
+**IT nuova:**
+
+Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura, purché il relativo testo sia reso accessibile e consultabile prima della formulazione dell’Offerta ai sensi dell’art. 4.5 delle CG.
+
+**Diff IT (parole):**
+
+Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o [-etichettatura-]{+etichettatura, purché il relativo testo sia reso accessibile e consultabile prima+} della [-stessa,-]{+formulazione+} [-indipendentemente-]{+dell’Offerta+} [-dalla-]{+ai+} [-presenza-]{+sensi+} [-di-]{+dell’art.+} [-un richiamo testuale integrale o di un contenuto descrittivo specifico. Tale qualificazione comporta l’automatica applicazione-]{+4.5+} delle [-presenti condizioni al relativo rapporto contrattuale, in forza della registrazione e dell’utilizzo del Marketplace da parte degli Utenti, senza necessità di ulteriore accettazione, restando ferme le CG già approvate dagli Utenti.-]{+CG.+}
+
+**RU precedente:**
+
+Настоящие Особые условия применяются исключительно тогда, когда Аукцион прямо квалифицирован как «1 Euro Auction» в соответствующей карте, опубликованной на Marketplace, в том числе посредством простого указания или маркировки такового, независимо от наличия полной текстовой отсылки или специального описательного содержания. Такая квалификация влечёт автоматическое применение настоящих условий к соответствующему договорному отношению в силу регистрации и использования Marketplace Пользователями, без необходимости дополнительного принятия, при этом сохраняют силу ОУ, уже одобренные Пользователями.
+
+### c05 — [0~6] (modify)
 
 **IT precedente:**
 
@@ -200,17 +240,35 @@ La pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualifica
 
 **IT nuova:**
 
-La pubblicazione di una Proposta di vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari. Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.
+Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.
 
 **Diff IT (parole):**
 
-La pubblicazione di una Proposta di [-Vendita-]{+vendita+} nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.{+ Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.+}
+[-La-]{+Resta+} [-pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché-]{+ferma+} la [-partecipazione-]{+specifica+} [-alla-]{+approvazione+} [-medesima-]{+per+} [-da-]{+iscritto,+} [-parte-]{+ai sensi+} degli [-Offerenti,-]{+artt.+} [-costituisce accettazione espressa, piena-]{+1341+} e [-vincolante-]{+1342 c.c.,+} delle [-presenti-]{+clausole+} [-Condizioni-]{+indicate+} [-Particolari.-]{+nella sezione finale del presente documento.+}
 
 **RU precedente:**
 
 Публикация Предложения о продаже в рамках Аукциона, квалифицированного как «1 Euro Auction», а также участие в нём со стороны Предлагающих цену составляет прямое, полное и обязывающее принятие настоящих Особых условий.
 
-### c04 — [1.1] (modify)
+### c06 — [0~7] (modify)
+
+**IT precedente:**
+
+Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni specifiche e il Tariffario Fleequid, in quanto compatibili con la natura delle “1 Euro Auctions”, secondo la gerarchia stabilita dall’art. 3.3 delle CG.
+
+**IT nuova:**
+
+Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni Specifiche e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. 4.3 delle CG.
+
+**Diff IT (parole):**
+
+Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni [-specifiche-]{+Specifiche+} e il Tariffario Fleequid,[- in quanto compatibili con la natura delle “1 Euro Auctions”,-] secondo la gerarchia stabilita dall’art. [-3.3-]{+4.3+} delle CG.
+
+**RU precedente:**
+
+В отношении того, что прямо не предусмотрено в настоящем документе, в полном объёме сохраняют применение ОУ, возможные Специальные условия и Тарифы Fleequid, в той мере, в какой они совместимы с природой «1 Euro Auctions», согласно иерархии, установленной ст. 3.3 ОУ.
+
+### c07 — [1.1] (modify)
 
 **IT precedente:**
 
@@ -218,17 +276,17 @@ Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organiz
 
 **IT nuova:**
 
-Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da specifiche condizioni economiche rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
+Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da condizioni economiche specifiche, distinte rispetto a quelle delle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
 
 **Diff IT (parole):**
 
-Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da [-una-]{+specifiche+} [-struttura-]{+condizioni+} [-commissionali distinta-]{+economiche+} rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
+Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da [-una-]{+condizioni+} [-struttura-]{+economiche+} [-commissionali-]{+specifiche,+} [-distinta-]{+distinte+} rispetto [-alle-]{+a quelle delle+} Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
 
 **RU precedente:**
 
 «1 Euro Auctions» составляют особую категорию Аукциона, организуемого компанией Fleequid в рамках Marketplace, характеризующуюся специфическими способами определения цены и структурой комиссионных, отличной от обычных Аукционов, регулируемых Общими условиями («ОУ»).
 
-### c05 — [1.3] (modify)
+### c08 — [1.3] (modify)
 
 **IT precedente:**
 
@@ -246,7 +304,7 @@ Nelle 1 Euro Auctions non trova applicazione il meccanismo ordinario di determin
 
 В 1 Euro Auctions не применяется обычный механизм определения Резервной цены (РЦ), основанный на Минимальной цене обязательства по продаже (МЦОП). МЦОП, однако, продолжает составлять минимальную справочную экономическую стоимость Продавца в смысле Общих условий, но не используется в целях определения Резервной цены в рамках 1 Euro Auctions, при этом экономическая защита Продавца регулируется в соответствии со способами, специально предусмотренными в настоящих Особых условиях.
 
-### c06 — [2] (modify)
+### c09 — [2] (modify)
 
 **IT precedente:**
 
@@ -264,7 +322,7 @@ Regole di [-aggiudicazione e -]formazione [-del-]{+dell’Accordo+} [-Contratto.
 
 <b>Правила присуждения и заключения Договора.</b>
 
-### c07 — [2.1] (modify)
+### c10 — [2.1] (modify)
 
 **IT precedente:**
 
@@ -282,7 +340,7 @@ Nelle 1 Euro Auctions, [-l’Aggiudicazione-]{+l’Accordo+} [-avviene-]{+vincol
 
 В 1 Euro Auctions Присуждение происходит в пользу Предлагающего цену, который сделал Максимальную ставку по окончании Аукциона, в соответствии со способами, предусмотренными Общими условиями («ОУ»), при условии, что в ходе процедуры было представлено по меньшей мере одно действительное Предложение. Прямо устанавливается, что в 1 Euro Auctions Присуждение действительно и имеет силу независимо от размера окончательной ставки, в том числе если она равна 1 евро (одному) или в любом случае имеет символический размер либо значительно ниже оценочной стоимости Транспортного средства.
 
-### c08 — [2.3] (modify)
+### c11 — [2.3] (modify)
 
 **IT precedente:**
 
@@ -300,7 +358,7 @@ In presenza di almeno un’Offerta valida, [-l’Aggiudicazione-]{+si+} [-compor
 
 При наличии по меньшей мере одного действительного Предложения Присуждение влечёт заключение Договора согласно общему регулированию, предусмотренному ОУ, при сохранении того, что специально предусмотрено в настоящих Особых условиях. Предлагающий цену, которому присуждено, и Продавец признают и принимают, что конкурентный механизм Аукциона составляет существенный элемент для определения цены, вследствие чего исключаются, в пределах, допускаемых законом, претензии, относящиеся к обоснованности, адекватности или соразмерности цены присуждения.
 
-### c09 — [2.4] (modify)
+### c12 — [2.4] (modify)
 
 **IT precedente:**
 
@@ -308,17 +366,17 @@ Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valid
 
 **IT nuova:**
 
-Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo Vincolante ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.
+Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo vincolante ai sensi delle CG.
 
 **Diff IT (parole):**
 
-Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo Vincolante+} ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.
+Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo vincolante+} ai sensi delle [-CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.-]{+CG.+}
 
 **RU precedente:**
 
 Если по окончании 1 Euro Auction не поступило ни одного действительного Предложения, Аукцион будет считаться несостоявшимся и не будет совершено никакого Присуждения в смысле ОУ; вследствие этого у Fleequid, Продавца или третьих лиц не возникнет никакого обязательства по покупке Транспортного средства.
 
-### c10 — [3.1] (modify)
+### c13 — [3.1] (modify)
 
 **IT precedente:**
 
@@ -336,7 +394,7 @@ Nell’ambito delle 1 Euro [-Auctions,-]{+Auctions eseguite secondo il Modello d
 
 В рамках 1 Euro Auctions и в отступление от механизма Резервной цены (РЦ), предусмотренного Общими условиями, Fleequid гарантирует Продавцу, при наличии по меньшей мере одного действительного Предложения, чистую выручку не ниже Минимальной цены обязательства по продаже (МЦОП), указанной для Транспортного средства в смысле ОУ.
 
-### c11 — [3.2] (modify)
+### c14 — [3.2] (modify)
 
 **IT precedente:**
 
@@ -344,17 +402,17 @@ Qualora il Prezzo di aggiudicazione risultante al termine della 1 Euro Auction s
 
 **IT nuova:**
 
-l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.
+Qualora l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.
 
 **Diff IT (parole):**
 
-[-Qualora-]{+l’incasso+} [-il Prezzo-]{+netto+} di [-aggiudicazione-]{+cui all’art. 3.1+} risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato [-secondo-]{+ai+} [-le-]{+sensi+} [-modalità-]{+dell’art.+} [-previste dalle CG e dal Tariffario applicabile,-]{+3.1,+} risulti pari al PMIV. Qualora invece [-il-]{+l’incasso+} [-Prezzo di aggiudicazione-]{+netto+} sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.{+ La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.+}
+Qualora [-il-]{+l’incasso+} [-Prezzo-]{+netto+} di [-aggiudicazione-]{+cui all’art. 3.1+} risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato [-secondo-]{+ai+} [-le-]{+sensi+} [-modalità-]{+dell’art.+} [-previste dalle CG e dal Tariffario applicabile,-]{+3.1,+} risulti pari al PMIV. Qualora invece [-il-]{+l’incasso+} [-Prezzo di aggiudicazione-]{+netto+} sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.{+ La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.+}
 
 **RU precedente:**
 
 Если Цена присуждения, полученная по окончании 1 Euro Auction, ниже МЦОП, Fleequid обязуется выплатить Продавцу разницу, необходимую для того, чтобы чистая выручка, причитающаяся Продавцу, определённая в соответствии со способами, предусмотренными ОУ и применимыми Тарифами, оказалась равной МЦОП. Если же Цена присуждения равна МЦОП или выше неё, Продавцу в полном объёме причитается соответствующая бóльшая выручка согласно обычному регулированию ОУ. Возможное экономическое дополнение имеет исключительно компенсационную природу и ни в коей мере не составляет прямой или косвенной покупки Транспортного средства компанией Fleequid.
 
-### c12 — [3.4] (modify)
+### c15 — [3.4] (modify)
 
 **IT precedente:**
 
@@ -372,7 +430,25 @@ In assenza di Offerte valide e, conseguentemente, in caso di Asta deserta, non s
 
 В отсутствие действительных Предложений и, вследствие этого, в случае несостоявшегося Аукциона не будет совершено никакого Присуждения в смысле ОУ и у Fleequid не возникнет никакого обязательства по покупке Транспортного средства, ни какого-либо обязательства по экономическому дополнению в пользу Продавца.
 
-### c13 — [3.6] (modify)
+### c16 — [3.5] (modify)
+
+**IT precedente:**
+
+La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata alla regolare conclusione del Contratto e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.
+
+**IT nuova:**
+
+La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata al regolare perfezionamento dell’Accordo vincolante e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.
+
+**Diff IT (parole):**
+
+La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata [-alla-]{+al+} regolare [-conclusione-]{+perfezionamento+} [-del-]{+dell’Accordo+} [-Contratto-]{+vincolante+} e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.
+
+**RU precedente:**
+
+Выплата возможного экономического дополнения вплоть до МЦОП обусловлена надлежащим заключением Договора и полным и окончательным исполнением платёжных обязательств Покупателем согласно тому, что предусмотрено ОУ. Также устанавливается, что Продавец должен будет полностью и без оговорок исполнить все обязательства, предусмотренные ОУ и настоящими Особыми условиями, включая, в качестве примера, обязательства, относящиеся к соответствию Транспортного средства, полноте и достоверности предоставленной информации и правильному осуществлению передачи.
+
+### c17 — [3.6] (modify)
 
 **IT precedente:**
 
@@ -390,7 +466,7 @@ La garanzia di cui al presente articolo costituisce un impegno contrattuale inte
 
 Гарантия, указанная в настоящей статье, составляет внутреннее, акцессорное и обусловленное договорное обязательство, ограниченное отдельным Аукционом, квалифицированным как 1 Euro Auction, и не образует публичного обещания, ни страховой деятельности, ни не составляет общего или постоянного обязательства по покупке со стороны Fleequid. В любом случае выплата возможного экономического дополнения может произойти только после урегулирования отношения с Покупателем, включая проверку фактического получения причитающихся сумм или результата процедур управления неисполнением, предусмотренных ОУ.
 
-### c14 — [3.8] (modify)
+### c18 — [3.8] (modify)
 
 **IT precedente:**
 
@@ -408,7 +484,25 @@ Resta ferma la facoltà di Fleequid di sospendere, annullare o dichiarare non va
 
 Сохраняется право Fleequid приостановить, аннулировать или объявить недействительным Аукцион в случаях, предусмотренных ОУ; в таких случаях не будет применяться гарантия, указанная в настоящей статье. Гарантия также не будет применяться в случае злоупотребляющего, мошеннического или не соответствующего ОУ поведения со стороны Продавца или связанных с ним лиц, включая, в качестве примера, прямое или косвенное участие в Аукционе с целью повлиять на его результат.
 
-### c15 — [4.1] (modify)
+### c19 — [4] (modify)
+
+**IT precedente:**
+
+<b>Struttura commissionale.</b>
+
+**IT nuova:**
+
+<b>Struttura commissionale nella vendita in commissione.</b>
+
+**Diff IT (parole):**
+
+Struttura [-commissionale.-]{+commissionale nella vendita in commissione.+}
+
+**RU precedente:**
+
+<b>Структура комиссионных.</b>
+
+### c20 — [4.1] (modify)
 
 **IT precedente:**
 
@@ -426,7 +520,7 @@ Alle 1 Euro Auctions{+ eseguite secondo il Modello di Vendita in commissione+} s
 
 К 1 Euro Auctions применяется, как правило, обычная структура комиссионных, предусмотренная Тарифами Fleequid, в действующей и опубликованной на Marketplace время от времени редакции.
 
-### c16 — [4.4] (modify)
+### c21 — [4.4] (modify)
 
 **IT precedente:**
 
@@ -444,7 +538,7 @@ All’Acquirente sono applicate le [-commissioni-]{+Commissioni+} previste ai se
 
 К Покупателю применяются комиссионные, предусмотренные в смысле предыдущих пунктов, включая, если предусмотрено, фиксированную комиссию («flat buyer fee») и/или процентную комиссию с Цены присуждения.
 
-### c17 — [4.6] (modify)
+### c22 — [4.6] (modify)
 
 **IT precedente:**
 
@@ -462,7 +556,7 @@ Le Commissioni maturano [-per-]{+e+} [-effetto-]{+sono+} [-dell’Aggiudicazione
 
 Комиссионные начисляются вследствие Присуждения и остаются подчинёнными общему регулированию Общих условий в части оплаты, выставления счетов и неисполнения, если иное не предусмотрено настоящими Особыми условиями.
 
-### c18 — [5.1] (modify)
+### c23 — [5.1] (modify)
 
 **IT precedente:**
 
@@ -480,7 +574,25 @@ Salvo diversa indicazione nella scheda dell’Asta, alle 1 Euro Auctions si appl
 
 Если иное не указано в карте Аукциона, к 1 Euro Auctions в полном объёме применяются положения Общих условий в части Гарантийного депозита, способов оплаты Цены присуждения и сроков исполнения обязательств Покупателем.
 
-### c19 — [5.3] (modify)
+### c24 — [5.2] (modify)
+
+**IT precedente:**
+
+L’Acquirente aggiudicatario è tenuto al pagamento del Prezzo di aggiudicazione e delle Commissioni dovute nei termini e con le modalità previste dalle CG, nonché dal Tariffario applicabile alla specifica 1 Euro Auction.
+
+**IT nuova:**
+
+L’Acquirente è tenuto al pagamento dell’Importo Totale Dovuto nei termini e con le modalità previste dalle CG e dalle condizioni applicabili alla specifica 1 Euro Auction.
+
+**Diff IT (parole):**
+
+L’Acquirente[- aggiudicatario-] è tenuto al pagamento [-del-]{+dell’Importo+} [-Prezzo-]{+Totale+} [-di aggiudicazione e delle Commissioni dovute-]{+Dovuto+} nei termini e con le modalità previste dalle [-CG,-]{+CG+} [-nonché-]{+e+} [-dal-]{+dalle+} [-Tariffario-]{+condizioni+} [-applicabile-]{+applicabili+} alla specifica 1 Euro Auction.
+
+**RU precedente:**
+
+Покупатель, которому присуждено, обязан уплатить Цену присуждения и причитающиеся комиссионные в сроки и способами, предусмотренными ОУ, а также Тарифами, применимыми к конкретному 1 Euro Auction.
+
+### c25 — [5.3] (modify)
 
 **IT precedente:**
 
@@ -498,7 +610,25 @@ In caso di mancato o ritardato pagamento da parte dell’Acquirente, trovano app
 
 В случае неуплаты или просроченной оплаты со стороны Покупателя применяются положения ОУ в части неисполнения, расторжения, штрафов, возможного удержания Гарантийного депозита и возмещения ущерба.
 
-### c20 — [6.2] (modify)
+### c26 — [5.4] (modify)
+
+**IT precedente:**
+
+Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi inclusa la regolare conclusione del Contratto e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.
+
+**IT nuova:**
+
+Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi incluso il regolare perfezionamento dell’Accordo vincolante e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.
+
+**Diff IT (parole):**
+
+Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi [-inclusa-]{+incluso+} [-la-]{+il+} regolare [-conclusione-]{+perfezionamento+} [-del-]{+dell’Accordo+} [-Contratto-]{+vincolante+} e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.
+
+**RU precedente:**
+
+В случае 1 Euro Auctions возможное экономическое дополнение в пользу Продавца причитается с Fleequid исключительно в пределах и на условиях, предусмотренных ст. 3 настоящих Особых условий. Устанавливается, что такое дополнение обусловлено полным исполнением предусмотренных в ней условий, включая надлежащее заключение Договора и фактическое получение сумм, причитающихся с Покупателя, если иное не установлено настоящими Особыми условиями.
+
+### c27 — [6.2] (modify)
 
 **IT precedente:**
 
@@ -516,7 +646,7 @@ Nei casi di sospensione o annullamento dell’Asta ai sensi del comma precedente
 
 В случаях приостановления или аннулирования Аукциона в смысле предыдущего пункта не будут применяться положения, относящиеся к Присуждению, а экономическая гарантия, указанная в ст. 3, не возникнет и не будет причитаться, за исключением случая, когда аннулирование вменяется в вину умысла или грубой неосторожности Fleequid, при сохранении того, что предусмотрено Общими условиями в части ответственности Fleequid.
 
-### c21 — [6.4] (modify)
+### c28 — [6.4] (modify)
 
 **IT precedente:**
 
@@ -534,7 +664,7 @@ Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari,
 
 В отношении того, что прямо не урегулировано в настоящих Особых условиях, в полном объёме сохраняют применение Общие условия, возможные Специальные условия и Тарифы Fleequid, согласно иерархии, установленной ст. 3.3 ОУ.
 
-### c24 — [6.5~0] (insert)
+### c31 — [6.5~0] (insert)
 
 **IT precedente:**
 
@@ -552,7 +682,7 @@ Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari,
 
 (nessuno: paragrafo nuovo)
 
-### c25 — [6.5~1] (insert)
+### c32 — [6.5~1] (insert)
 
 **IT precedente:**
 
@@ -570,7 +700,7 @@ Per quanto non espressamente disciplinato nelle presenti Condizioni Particolari,
 
 (nessuno: paragrafo nuovo)
 
-### c26 — [6.5~2] (insert)
+### c33 — [6.5~2] (insert)
 
 **IT precedente:**
 
@@ -588,7 +718,7 @@ Ai sensi e per gli effetti degli artt. 1341 e 1342 c.c., l’Utente dichiara esp
 
 (nessuno: paragrafo nuovo)
 
-### c27 — [6.5~3] (insert)
+### c34 — [6.5~3] (insert)
 
 **IT precedente:**
 
@@ -606,7 +736,7 @@ Ai sensi e per gli effetti degli artt. 1341 e 1342 c.c., l’Utente dichiara esp
 
 (nessuno: paragrafo nuovo)
 
-### c28 — [6.5~4] (insert)
+### c35 — [6.5~4] (insert)
 
 **IT precedente:**
 
@@ -624,7 +754,7 @@ Ai sensi e per gli effetti degli artt. 1341 e 1342 c.c., l’Utente dichiara esp
 
 (nessuno: paragrafo nuovo)
 
-### c29 — [6.5~5] (insert)
+### c36 — [6.5~5] (insert)
 
 **IT precedente:**
 
@@ -647,14 +777,14 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 
 ### Articolo 0 — IT nuova
 
-[0~0] <b>Condizioni Particolari di vendita</b>
+[0~0] <b>Condizioni particolari di vendita</b>
 [0~1] <b>“1 Euro Auctions”</b>
 [0~2] <b><i>Preambolo</i></b>
-[0~3] Le presenti Condizioni Particolari d’Asta disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.
-[0~4] Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (si seguito anche “Condizioni Particolari d’Asta”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
-[0~5] Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura della stessa, indipendentemente dalla presenza di un richiamo testuale integrale o di un contenuto descrittivo specifico. Tale qualificazione comporta l’automatica applicazione delle presenti condizioni al relativo rapporto contrattuale, in forza della registrazione e dell’utilizzo del Marketplace da parte degli Utenti, senza necessità di ulteriore accettazione, restando ferme le CG già approvate dagli Utenti.
-[0~6] La pubblicazione di una Proposta di vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari. Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.
-[0~7] Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni specifiche e il Tariffario Fleequid, in quanto compatibili con la natura delle “1 Euro Auctions”, secondo la gerarchia stabilita dall’art. 3.3 delle CG.
+[0~3] Le presenti Condizioni particolari di vendita disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.
+[0~4] Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4, 4.5 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (di seguito anche “Condizioni Particolari”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.
+[0~5] Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura, purché il relativo testo sia reso accessibile e consultabile prima della formulazione dell’Offerta ai sensi dell’art. 4.5 delle CG.
+[0~6] Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.
+[0~7] Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni Specifiche e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. 4.3 delle CG.
 [0~8] I termini con iniziale maiuscola non definiti nel presente documento hanno il significato loro attribuito nelle CG, salvo quanto diversamente previsto nel presente documento.
 
 ### Articolo 0 — RU precedente
@@ -672,7 +802,7 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 ### Articolo 1 — IT nuova
 
 [1] <b>Natura e struttura delle “1 Euro Auctions”.</b>
-[1.1] Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da specifiche condizioni economiche rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
+[1.1] Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da condizioni economiche specifiche, distinte rispetto a quelle delle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).
 [1.2] Le 1 Euro Auctions sono contraddistinte da un prezzo iniziale di partenza pari a Euro 1 (€1) e non prevedono l’applicazione di un Prezzo di riserva ai sensi delle CG.
 [1.3] Nelle 1 Euro Auctions non trova applicazione il meccanismo ordinario di determinazione del Prezzo di riserva (PR) fondato sul Prezzo minimo di impegno alla vendita (PMIV). Il PMIV continua tuttavia a costituire il valore economico minimo di riferimento del Venditore ai sensi delle Condizioni Generali, ma non è utilizzato ai fini della determinazione di un Prezzo di riserva nell’ambito delle 1 Euro Auctions, restando la tutela economica del Venditore disciplinata, nella Vendita in commissione, secondo le modalità specificamente previste nelle presenti Condizioni Particolari.
 [1.4] Le presenti Condizioni Particolari trovano applicazione esclusivamente quando l’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace.
@@ -693,7 +823,7 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 [2.1] Nelle 1 Euro Auctions, l’Accordo vincolante si perfeziona in favore dell’Offerente che abbia formulato la Puntata massima al termine dell’Asta, secondo le modalità previste dalle Condizioni Generali (“CG”), purché sia stata presentata almeno un’Offerta valida nel corso della procedura. Resta espressamente inteso che, nelle 1 Euro Auctions, il perfezionamento dell’Accordo vincolante è valido ed efficace indipendentemente dall’importo della Puntata massima, anche qualora questa sia pari a Euro 1 (uno) o comunque di importo simbolico o significativamente inferiore al valore stimato del Veicolo.
 [2.2] Ai fini delle presenti Condizioni Particolari, per “Offerta valida” si intende un’Offerta conforme alle CG, regolarmente registrata sul Marketplace e non annullata per violazione delle medesime o per ragioni tecniche debitamente accertate da Fleequid ai sensi delle CG.
 [2.3] In presenza di almeno un’Offerta valida, si perfeziona l’Accordo vincolante secondo la disciplina generale prevista dalle CG, fermo restando quanto specificamente previsto nelle presenti Condizioni Particolari. L’Acquirente e il Venditore riconoscono e accettano che il meccanismo competitivo dell’Asta costituisce elemento essenziale per la determinazione del prezzo, con conseguente esclusione, nei limiti consentiti dalla legge, di contestazioni relative alla congruità, adeguatezza o proporzionalità del Prezzo di vendita all’Acquirente.
-[2.4] Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo Vincolante ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.
+[2.4] Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo vincolante ai sensi delle CG.
 [2.5] In caso di Asta deserta, il Venditore prende atto che il Veicolo potrà essere nuovamente messo in vendita secondo modalità determinate da Fleequid, anche mediante nuova Asta o altra procedura disponibile sul Marketplace.
 
 ### Articolo 2 — RU precedente
@@ -709,10 +839,10 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 
 [3] <b>Garanzia economica a favore del Venditore nelle 1 Euro Auctions.</b>
 [3.1] Nell’ambito delle 1 Euro Auctions eseguite secondo il Modello di Vendita in commissione, e in deroga al meccanismo del Prezzo di riserva (PR) previsto dalle Condizioni Generali, Fleequid garantisce al Venditore, in presenza di almeno un’Offerta valida, un incasso netto, pari al Prezzo di vendita all’Acquirente al netto delle sole Commissioni a carico del Venditore, non inferiore al Prezzo minimo di impegno alla vendita (PMIV) indicato per il Veicolo ai sensi delle CG.
-[3.2] l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.
+[3.2] Qualora l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.
 [3.3] La garanzia di cui ai commi precedenti opera esclusivamente qualora, nel corso della 1 Euro Auction, sia stata presentata almeno un’Offerta valida ai sensi dell’art. 2.2 delle presenti Condizioni Particolari.
 [3.4] In assenza di Offerte valide e, conseguentemente, in caso di Asta deserta, non si perfezionerà alcun Accordo vincolante ai sensi delle CG e non sorgerà in capo a Fleequid alcun obbligo di acquisto del Veicolo né alcun obbligo di integrazione economica a favore del Venditore.
-[3.5] La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata alla regolare conclusione del Contratto e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.
+[3.5] La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata al regolare perfezionamento dell’Accordo vincolante e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.
 [3.6] La garanzia di cui al presente articolo costituisce un impegno contrattuale interno, accessorio e condizionato, limitato alla singola Asta qualificata come 1 Euro Auction e non integra promessa al pubblico, né attività assicurativa, né costituisce impegno generale o permanente di acquisto da parte di Fleequid. In ogni caso, l’erogazione dell’eventuale integrazione economica potrà avvenire solo successivamente alla definizione del rapporto con l’Acquirente, ivi inclusa la verifica dell’effettivo incasso delle somme dovute o dell’esito delle procedure di gestione dell’inadempimento previste dalle CG. In caso di Annullamento della vendita e di successiva vendita del Veicolo ad altro Offerente ai sensi dell’art. 10.5 delle CG, la garanzia opera, alle condizioni previste dal presente articolo, esclusivamente con riferimento alla nuova vendita.
 [3.7] La garanzia di cui al presente articolo costituisce una garanzia commerciale interna limitata alla singola Asta qualificata come 1 Euro Auction e non integra attività assicurativa, né costituisce impegno generale o permanente di acquisto da parte di Fleequid. La garanzia non è cedibile né trasferibile e opera esclusivamente nei confronti del Venditore originario che ha conferito il Veicolo alla vendita.
 [3.8] Resta ferma la facoltà di Fleequid di sospendere, annullare o dichiarare non valida l’Asta nei casi previsti dalle CG; in tali ipotesi non troverà applicazione la garanzia di cui al presente articolo, fermo quanto previsto dall’art. 6.2. La garanzia non troverà altresì applicazione in caso di comportamenti abusivi, fraudolenti o non conformi alle CG da parte del Venditore o di soggetti a esso riconducibili, inclusa, a titolo esemplificativo, la partecipazione diretta o indiretta all’Asta al fine di influenzarne l’esito.
@@ -731,7 +861,7 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 
 ### Articolo 4 — IT nuova
 
-[4] <b>Struttura commissionale.</b>
+[4] <b>Struttura commissionale nella vendita in commissione.</b>
 [4.1] Alle 1 Euro Auctions eseguite secondo il Modello di Vendita in commissione si applica, in via generale, la struttura commissionale ordinaria prevista dal Tariffario Fleequid, come di volta in volta vigente e pubblicato sul Marketplace.
 [4.2] Resta tuttavia espressamente salva la facoltà di Fleequid di prevedere, per specifiche 1 Euro Auctions, una diversa struttura commissionale, che potrà essere indicata di volta in volta nella relativa pagina d’Asta, nel Tariffario dedicato o in altra documentazione contrattuale resa disponibile sul Marketplace.
 [4.3] In tali casi, la struttura commissionale specifica così indicata prevarrà su quella ordinaria limitatamente alla singola Asta cui si riferisce.
@@ -753,9 +883,9 @@ La presente approvazione è autonoma e distinta rispetto all’approvazione spec
 
 [5] <b>Deposito cauzionale e obblighi di pagamento.</b>
 [5.1] Salvo diversa indicazione nella scheda dell’Asta, alle 1 Euro Auctions si applicano integralmente le disposizioni delle Condizioni Generali in materia di Deposito cauzionale, modalità di pagamento dell’Importo Totale Dovuto e termini di adempimento dell’Acquirente.
-[5.2] L’Acquirente aggiudicatario è tenuto al pagamento del Prezzo di aggiudicazione e delle Commissioni dovute nei termini e con le modalità previste dalle CG, nonché dal Tariffario applicabile alla specifica 1 Euro Auction.
+[5.2] L’Acquirente è tenuto al pagamento dell’Importo Totale Dovuto nei termini e con le modalità previste dalle CG e dalle condizioni applicabili alla specifica 1 Euro Auction.
 [5.3] In caso di mancato o ritardato pagamento da parte dell’Acquirente, trovano applicazione le disposizioni delle CG in materia di inadempimento, risoluzione, Annullamento della vendita, penali, trattenimento e imputazione del Deposito cauzionale ai sensi dell’art. 6.3 delle CG e risarcimento del danno.
-[5.4] Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi inclusa la regolare conclusione del Contratto e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.
+[5.4] Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi incluso il regolare perfezionamento dell’Accordo vincolante e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.
 [5.5] Resta ferma la facoltà di Fleequid, nei casi di inadempimento dell’Acquirente, di adottare le misure previste dalle CG, inclusa la facoltà di rimettere il Veicolo in vendita mediante nuova Asta o altra procedura disponibile sul Marketplace.
 
 ### Articolo 5 — RU precedente
@@ -821,12 +951,19 @@ Scrivi un file JSON con questa forma esatta (UTF-8):
   "c19": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c20": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c21": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c22": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c23": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c24": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c25": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c26": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c27": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
   "c28": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
-  "c29": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>"
+  "c31": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c32": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c33": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c34": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c35": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>",
+  "c36": "<testo completo del paragrafo con eventuali <b>/<i>/<u>>"
  },
  "new_terms": [
   {

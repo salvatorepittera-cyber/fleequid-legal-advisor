@@ -1,5 +1,23 @@
 # 1 Euro Auctions v1 → v2 — report
 
+## Aggiornamento del 14/10/2026: versione definitiva dello studio (DEF_DEF del 13/10)
+
+Lo studio ha risposto alle osservazioni con `…_DEF_DEF_Redline.docx` e `…_DEF_DEF_Clean.docx`. Il Redline a revisioni accettate coincide con il Clean, a revisioni rifiutate con il DEF del 1/10. **Il testo italiano di riferimento è ora il Clean**: il Word italiano definitivo coincide con il Clean (testo, B/I/U, formato dei paragrafi, intestazione). I tre refusi sono stati corretti dallo studio: `it_fixes.json` è vuoto.
+
+Modifiche IT v1 → v2 definitiva: 37 (28 paragrafi modificati, 9 inseriti di cui 3 vuoti): `diff_report.md`. Gli id delle voci sono stati rinumerati (c01–c37); la corrispondenza con la prima numerazione è in `translations/<LANG>.json`, campo `id_prima_del_defdef`. Le note per lingua più sotto usano la prima numerazione e descrivono lo stato del 12/10.
+
+Paragrafi cambiati dallo studio rispetto al testo tradotto il 12/10 (`DEFDEF_CORREZIONI.md`): titolo, preambolo (capoversi 1–5), artt. 1.1, 2.4, 3.5, rubrica dell'art. 4, artt. 5.2 e 5.4. Riportati nelle 10 lingue secondo `ISTRUZIONI_DEFDEF.md`; ogni voce è registrata nel campo `defdef` di `translations/<LANG>.json`. Controllo: rispetto ai Word del 12/10 in ogni lingua cambiano solo quei paragrafi (il titolo cambia solo in PT, dove prende la minuscola del termine definito delle CG v9). Verifica finale: IT e 10 lingue OK.
+
+- I paragrafi «non aggiornati alle CG v9» elencati sotto sono stati tutti aggiornati dallo studio: nelle lingue non restano più «prezzo di aggiudicazione», «conclusione del Contratto» e il rinvio all'art. 3.3.
+- Rubrica dell'art. 4: l'italiano ha «vendita in commissione» minuscolo; nelle lingue è reso con il termine definito delle CG v9, come all'art. 1.3.
+- Le correzioni ai difetti della v1 in FR (preambolo, art. 3.5) e PL (art. 3.5) sono ora dentro le voci tradotte; resta come correzione fuori diff solo RU art. 3.7.
+- Art. 4.5 delle CG nel preambolo («reso accessibile e consultabile prima della formulazione dell'Offerta»): ripresa la formula dell'art. 4.5 delle CG v9 della lingua. «Offerta» ha la grafia della v1 del documento (minuscola in RO, NL, CZ).
+- Notato e non toccato: PL, preambolo e art. 6.4, «pozostają w pełni zastosowanie» (manca «mają»), difetto della v1 presente in entrambi i paragrafi.
+
+---
+
+Quanto segue descrive il lavoro del 12/10 sul DEF del 1/10.
+
 Codice versione nell'intestazione: `Vers_1_2026` → `Vers_2_2026`. Testo italiano di riferimento: `2_CPA_1EuroAucrion_Versione_2_2026_DEF.docx` (identico alla Bozza dello studio con tutte le revisioni accettate: testo, formattazione, numerazione, stili, intestazione).
 
 Modifiche IT v1 → v2: 30 (21 paragrafi modificati, 9 inseriti di cui 3 vuoti), nessuna evidenziata: vedi `diff_report.md`. Verifica finale: IT e 10 lingue OK (`verify_report.md`). PDF di controllo in `pdf/`.

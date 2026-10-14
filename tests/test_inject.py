@@ -1,4 +1,5 @@
 import json
+import re
 from argparse import Namespace
 
 from tcupdate import align, inject
@@ -22,5 +23,7 @@ def test_new_unnumbered_section_keeps_the_italian_format_not_the_anchor_numberin
     section = built.paras[57:]
     assert [p.text for p in section][:2] == ["*****", "Specific approval pursuant to arts. 1341 and 1342 of the Italian Civil Code"]
     assert all(b"<w:numPr" not in p.ppr_xml() and b"it-IT" not in p.ppr_xml() for p in section)
-    assert [p.ppr_xml() for p in section] == [p.ppr_xml() for p in it_new.paras[57:]]
+    # le dichiarazioni xmlns dipendono dal file di provenienza, non dal formato del paragrafo
+    fmt = lambda p: re.sub(rb' xmlns:\w+="[^"]*"', b"", p.ppr_xml())
+    assert [fmt(p) for p in section] == [fmt(p) for p in it_new.paras[57:]]
     assert "Vers_2_2026" in " ".join(built.header_texts().values())

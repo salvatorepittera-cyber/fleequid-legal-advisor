@@ -1,6 +1,6 @@
 {
   "prev_file": "/Users/Salva/Fleequid/app/fleequid-legal-advisor/.claude/worktrees/1euro-auctions-v2/T&C/1 Euro Auctions/Vers 1 - Multilanguage - Q2 2026/1_CPA_1EuroAuction_Versione_1_2026_DEF_ITA.docx",
-  "new_file": "T&C/1 Euro Auctions/Vers 2 - Multilanguage - Q4 2026/2_CPA_1EuroAucrion_Versione_2_2026_DEF.docx",
+  "new_file": "T&C/1 Euro Auctions/Vers 2 - Multilanguage - Q4 2026/2_CPA_1EuroAucrion_Versione_2_2026_DEF_DEF_Clean.docx",
   "prev_paragraphs": 55,
   "new_paragraphs": 64,
   "version_prev": [
@@ -28,8 +28,8 @@
       "article": "0",
       "anchor_prev_idx": null,
       "prev_markup": "<b>Condizioni Particolari d’Asta</b> ",
-      "new_markup": "<b>Condizioni Particolari di vendita</b>",
-      "word_diff": "Condizioni Particolari [-d’Asta-]{+di+} {+vendita+}",
+      "new_markup": "<b>Condizioni particolari di vendita</b>",
+      "word_diff": "Condizioni [-Particolari-]{+particolari+} [-d’Asta-]{+di+} {+vendita+}",
       "highlighted_new": false,
       "new_fmt": {
         "b": 1,
@@ -41,15 +41,15 @@
       "id": "c02",
       "kind": "modify",
       "toc": false,
-      "prev_idx": 4,
-      "new_idx": 4,
-      "prev_key": "0~4",
-      "new_key": "0~4",
+      "prev_idx": 3,
+      "new_idx": 3,
+      "prev_key": "0~3",
+      "new_key": "0~3",
       "article": "0",
       "anchor_prev_idx": null,
-      "prev_markup": "Esse sono adottate ai sensi e per gli effetti dell’art. 3.3 delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni Particolari d’Asta, con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
-      "new_markup": "Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (si seguito anche “Condizioni Particolari d’Asta”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
-      "word_diff": "Esse sono adottate ai sensi e per gli effetti [-dell’art.-]{+degli+} [-3.3-]{+artt. 4.3, 4.4 e 9.4, lett. d),+} delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni {+particolari di vendita ai sensi delle CG (si seguito anche “Condizioni +}Particolari [-d’Asta,-]{+d’Asta”),+} con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "prev_markup": "Le presenti Condizioni Particolari d’Asta disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.",
+      "new_markup": "Le presenti Condizioni particolari di vendita disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.",
+      "word_diff": "Le presenti Condizioni [-Particolari-]{+particolari+} [-d’Asta-]{+di vendita+} disciplinano la categoria di Aste denominata “1 Euro Auctions”, organizzate da Fleequid nell’ambito del Marketplace quale particolare modalità, speciale e derogatoria, di vendita di Veicoli.",
       "highlighted_new": false,
       "new_fmt": {
         "b": 0,
@@ -61,15 +61,15 @@
       "id": "c03",
       "kind": "modify",
       "toc": false,
-      "prev_idx": 6,
-      "new_idx": 6,
-      "prev_key": "0~6",
-      "new_key": "0~6",
+      "prev_idx": 4,
+      "new_idx": 4,
+      "prev_key": "0~4",
+      "new_key": "0~4",
       "article": "0",
       "anchor_prev_idx": null,
-      "prev_markup": "La pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.",
-      "new_markup": "La pubblicazione di una Proposta di vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari. Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.",
-      "word_diff": "La pubblicazione di una Proposta di [-Vendita-]{+vendita+} nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.{+ Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.+}",
+      "prev_markup": "Esse sono adottate ai sensi e per gli effetti dell’art. 3.3 delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni Particolari d’Asta, con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "new_markup": "Esse sono adottate ai sensi e per gli effetti degli artt. 4.3, 4.4, 4.5 e 9.4, lett. d), delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni particolari di vendita ai sensi delle CG (di seguito anche “Condizioni Particolari”), con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
+      "word_diff": "Esse sono adottate ai sensi e per gli effetti [-dell’art.-]{+degli+} [-3.3-]{+artt. 4.3, 4.4, 4.5 e 9.4, lett. d),+} delle Condizioni Generali del Marketplace Fleequid (“CG”) e costituiscono Condizioni [-Particolari-]{+particolari+} [-d’Asta,-]{+di vendita ai sensi delle CG (di seguito anche “Condizioni Particolari”),+} con la conseguente prevalenza sulle CG in caso di incompatibilità e nei limiti delle materie espressamente disciplinate nel presente documento.",
       "highlighted_new": false,
       "new_fmt": {
         "b": 0,
@@ -81,15 +81,15 @@
       "id": "c04",
       "kind": "modify",
       "toc": false,
-      "prev_idx": 11,
-      "new_idx": 11,
-      "prev_key": "1.1",
-      "new_key": "1.1",
-      "article": "1",
+      "prev_idx": 5,
+      "new_idx": 5,
+      "prev_key": "0~5",
+      "new_key": "0~5",
+      "article": "0",
       "anchor_prev_idx": null,
-      "prev_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da una struttura commissionali distinta rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
-      "new_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da specifiche condizioni economiche rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
-      "word_diff": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da [-una-]{+specifiche+} [-struttura-]{+condizioni+} [-commissionali distinta-]{+economiche+} rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "prev_markup": "Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura della stessa, indipendentemente dalla presenza di un richiamo testuale integrale o di un contenuto descrittivo specifico. Tale qualificazione comporta l’automatica applicazione delle presenti condizioni al relativo rapporto contrattuale, in forza della registrazione e dell’utilizzo del Marketplace da parte degli Utenti, senza necessità di ulteriore accettazione, restando ferme le CG già approvate dagli Utenti.",
+      "new_markup": "Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o etichettatura, purché il relativo testo sia reso accessibile e consultabile prima della formulazione dell’Offerta ai sensi dell’art. 4.5 delle CG.",
+      "word_diff": "Le presenti Condizioni Particolari trovano applicazione esclusivamente quando un’Asta sia espressamente qualificata come “1 Euro Auction” nella relativa scheda pubblicata sul Marketplace, anche mediante semplice indicazione o [-etichettatura-]{+etichettatura, purché il relativo testo sia reso accessibile e consultabile prima+} della [-stessa,-]{+formulazione+} [-indipendentemente-]{+dell’Offerta+} [-dalla-]{+ai+} [-presenza-]{+sensi+} [-di-]{+dell’art.+} [-un richiamo testuale integrale o di un contenuto descrittivo specifico. Tale qualificazione comporta l’automatica applicazione-]{+4.5+} delle [-presenti condizioni al relativo rapporto contrattuale, in forza della registrazione e dell’utilizzo del Marketplace da parte degli Utenti, senza necessità di ulteriore accettazione, restando ferme le CG già approvate dagli Utenti.-]{+CG.+}",
       "highlighted_new": false,
       "new_fmt": {
         "b": 0,
@@ -99,6 +99,66 @@
     },
     {
       "id": "c05",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 6,
+      "new_idx": 6,
+      "prev_key": "0~6",
+      "new_key": "0~6",
+      "article": "0",
+      "anchor_prev_idx": null,
+      "prev_markup": "La pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché la partecipazione alla medesima da parte degli Offerenti, costituisce accettazione espressa, piena e vincolante delle presenti Condizioni Particolari.",
+      "new_markup": "Resta ferma la specifica approvazione per iscritto, ai sensi degli artt. 1341 e 1342 c.c., delle clausole indicate nella sezione finale del presente documento.",
+      "word_diff": "[-La-]{+Resta+} [-pubblicazione di una Proposta di Vendita nell’ambito di un’Asta qualificata come “1 Euro Auction”, nonché-]{+ferma+} la [-partecipazione-]{+specifica+} [-alla-]{+approvazione+} [-medesima-]{+per+} [-da-]{+iscritto,+} [-parte-]{+ai sensi+} degli [-Offerenti,-]{+artt.+} [-costituisce accettazione espressa, piena-]{+1341+} e [-vincolante-]{+1342 c.c.,+} delle [-presenti-]{+clausole+} [-Condizioni-]{+indicate+} [-Particolari.-]{+nella sezione finale del presente documento.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c06",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 7,
+      "new_idx": 7,
+      "prev_key": "0~7",
+      "new_key": "0~7",
+      "article": "0",
+      "anchor_prev_idx": null,
+      "prev_markup": "Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni specifiche e il Tariffario Fleequid, in quanto compatibili con la natura delle “1 Euro Auctions”, secondo la gerarchia stabilita dall’art. 3.3 delle CG.",
+      "new_markup": "Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni Specifiche e il Tariffario Fleequid, secondo la gerarchia stabilita dall’art. 4.3 delle CG.",
+      "word_diff": "Per quanto non espressamente previsto nel presente documento, restano integralmente applicabili le CG, le eventuali Condizioni [-specifiche-]{+Specifiche+} e il Tariffario Fleequid,[- in quanto compatibili con la natura delle “1 Euro Auctions”,-] secondo la gerarchia stabilita dall’art. [-3.3-]{+4.3+} delle CG.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c07",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 11,
+      "new_idx": 11,
+      "prev_key": "1.1",
+      "new_key": "1.1",
+      "article": "1",
+      "anchor_prev_idx": null,
+      "prev_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da una struttura commissionali distinta rispetto alle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "new_markup": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da condizioni economiche specifiche, distinte rispetto a quelle delle Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "word_diff": "Le “1 Euro Auctions” costituiscono una particolare categoria di Asta organizzata da Fleequid nell’ambito del Marketplace, caratterizzata da specifiche modalità di determinazione del prezzo e da [-una-]{+condizioni+} [-struttura-]{+economiche+} [-commissionali-]{+specifiche,+} [-distinta-]{+distinte+} rispetto [-alle-]{+a quelle delle+} Aste ordinarie disciplinate dalle Condizioni Generali (“CG”).",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c08",
       "kind": "modify",
       "toc": false,
       "prev_idx": 13,
@@ -118,7 +178,7 @@
       }
     },
     {
-      "id": "c06",
+      "id": "c09",
       "kind": "modify",
       "toc": false,
       "prev_idx": 17,
@@ -138,7 +198,7 @@
       }
     },
     {
-      "id": "c07",
+      "id": "c10",
       "kind": "modify",
       "toc": false,
       "prev_idx": 18,
@@ -158,7 +218,7 @@
       }
     },
     {
-      "id": "c08",
+      "id": "c11",
       "kind": "modify",
       "toc": false,
       "prev_idx": 20,
@@ -178,7 +238,7 @@
       }
     },
     {
-      "id": "c09",
+      "id": "c12",
       "kind": "modify",
       "toc": false,
       "prev_idx": 21,
@@ -188,8 +248,8 @@
       "article": "2",
       "anchor_prev_idx": null,
       "prev_markup": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcuna Aggiudicazione ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
-      "new_markup": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo Vincolante ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
-      "word_diff": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo Vincolante+} ai sensi delle CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.",
+      "new_markup": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà alcun Accordo vincolante ai sensi delle CG.",
+      "word_diff": "Qualora, al termine della 1 Euro Auction, non sia pervenuta alcuna Offerta valida, l’Asta si intenderà deserta e non si perfezionerà [-alcuna-]{+alcun+} [-Aggiudicazione-]{+Accordo vincolante+} ai sensi delle [-CG; conseguentemente, non sorgerà in capo a Fleequid, al Venditore o a terzi alcun obbligo di acquisto del Veicolo.-]{+CG.+}",
       "highlighted_new": false,
       "new_fmt": {
         "b": 0,
@@ -198,7 +258,7 @@
       }
     },
     {
-      "id": "c10",
+      "id": "c13",
       "kind": "modify",
       "toc": false,
       "prev_idx": 25,
@@ -218,7 +278,7 @@
       }
     },
     {
-      "id": "c11",
+      "id": "c14",
       "kind": "modify",
       "toc": false,
       "prev_idx": 26,
@@ -228,8 +288,8 @@
       "article": "3",
       "anchor_prev_idx": null,
       "prev_markup": "Qualora il Prezzo di aggiudicazione risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato secondo le modalità previste dalle CG e dal Tariffario applicabile, risulti pari al PMIV. Qualora invece il Prezzo di aggiudicazione sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.",
-      "new_markup": "l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.",
-      "word_diff": "[-Qualora-]{+l’incasso+} [-il Prezzo-]{+netto+} di [-aggiudicazione-]{+cui all’art. 3.1+} risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato [-secondo-]{+ai+} [-le-]{+sensi+} [-modalità-]{+dell’art.+} [-previste dalle CG e dal Tariffario applicabile,-]{+3.1,+} risulti pari al PMIV. Qualora invece [-il-]{+l’incasso+} [-Prezzo di aggiudicazione-]{+netto+} sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.{+ La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.+}",
+      "new_markup": "Qualora l’incasso netto di cui all’art. 3.1 risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato ai sensi dell’art. 3.1, risulti pari al PMIV. Qualora invece l’incasso netto sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid. La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.",
+      "word_diff": "Qualora [-il-]{+l’incasso+} [-Prezzo-]{+netto+} di [-aggiudicazione-]{+cui all’art. 3.1+} risultante al termine della 1 Euro Auction sia inferiore al PMIV, Fleequid si impegna a corrispondere al Venditore la differenza necessaria affinché l’incasso netto spettante al Venditore, determinato [-secondo-]{+ai+} [-le-]{+sensi+} [-modalità-]{+dell’art.+} [-previste dalle CG e dal Tariffario applicabile,-]{+3.1,+} risulti pari al PMIV. Qualora invece [-il-]{+l’incasso+} [-Prezzo di aggiudicazione-]{+netto+} sia pari o superiore al PMIV, al Venditore spetterà integralmente il relativo maggior incasso, secondo la disciplina ordinaria delle CG. L’eventuale integrazione economica ha natura meramente compensativa e non costituisce, in alcun modo, acquisto diretto o indiretto del Veicolo da parte di Fleequid.{+ La garanzia non copre le Tariffe, le penali, i rimborsi spese né gli altri importi eventualmente dovuti dal Venditore a Fleequid, che restano disciplinati dalle CG, dal Tariffario e dalle altre fonti contrattuali applicabili e possono essere detratti o compensati secondo la disciplina generale.+}",
       "highlighted_new": false,
       "new_fmt": {
         "b": 0,
@@ -238,7 +298,7 @@
       }
     },
     {
-      "id": "c12",
+      "id": "c15",
       "kind": "modify",
       "toc": false,
       "prev_idx": 28,
@@ -258,7 +318,27 @@
       }
     },
     {
-      "id": "c13",
+      "id": "c16",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 29,
+      "new_idx": 29,
+      "prev_key": "3.5",
+      "new_key": "3.5",
+      "article": "3",
+      "anchor_prev_idx": null,
+      "prev_markup": "La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata alla regolare conclusione del Contratto e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.",
+      "new_markup": "La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata al regolare perfezionamento dell’Accordo vincolante e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.",
+      "word_diff": "La corresponsione dell’eventuale integrazione economica fino al PMIV è subordinata [-alla-]{+al+} regolare [-conclusione-]{+perfezionamento+} [-del-]{+dell’Accordo+} [-Contratto-]{+vincolante+} e all’integrale e definitivo adempimento degli obblighi di pagamento da parte dell’Acquirente, secondo quanto previsto dalle CG. Resta altresì inteso che il Venditore dovrà aver adempiuto integralmente e senza riserve a tutti gli obblighi previsti dalle CG e dalle presenti Condizioni Particolari, inclusi, a titolo esemplificativo, gli obblighi relativi alla conformità del Veicolo, alla completezza e veridicità delle informazioni fornite e alla corretta esecuzione della consegna.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c17",
       "kind": "modify",
       "toc": false,
       "prev_idx": 30,
@@ -278,7 +358,7 @@
       }
     },
     {
-      "id": "c14",
+      "id": "c18",
       "kind": "modify",
       "toc": false,
       "prev_idx": 32,
@@ -298,7 +378,27 @@
       }
     },
     {
-      "id": "c15",
+      "id": "c19",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 34,
+      "new_idx": 34,
+      "prev_key": "4",
+      "new_key": "4",
+      "article": "4",
+      "anchor_prev_idx": null,
+      "prev_markup": "<b>Struttura commissionale.</b>",
+      "new_markup": "<b>Struttura commissionale nella vendita in commissione.</b>",
+      "word_diff": "Struttura [-commissionale.-]{+commissionale nella vendita in commissione.+}",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 1,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c20",
       "kind": "modify",
       "toc": false,
       "prev_idx": 35,
@@ -318,7 +418,7 @@
       }
     },
     {
-      "id": "c16",
+      "id": "c21",
       "kind": "modify",
       "toc": false,
       "prev_idx": 38,
@@ -338,7 +438,7 @@
       }
     },
     {
-      "id": "c17",
+      "id": "c22",
       "kind": "modify",
       "toc": false,
       "prev_idx": 40,
@@ -358,7 +458,7 @@
       }
     },
     {
-      "id": "c18",
+      "id": "c23",
       "kind": "modify",
       "toc": false,
       "prev_idx": 43,
@@ -378,7 +478,27 @@
       }
     },
     {
-      "id": "c19",
+      "id": "c24",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 44,
+      "new_idx": 44,
+      "prev_key": "5.2",
+      "new_key": "5.2",
+      "article": "5",
+      "anchor_prev_idx": null,
+      "prev_markup": "L’Acquirente aggiudicatario è tenuto al pagamento del Prezzo di aggiudicazione e delle Commissioni dovute nei termini e con le modalità previste dalle CG, nonché dal Tariffario applicabile alla specifica 1 Euro Auction.",
+      "new_markup": "L’Acquirente è tenuto al pagamento dell’Importo Totale Dovuto nei termini e con le modalità previste dalle CG e dalle condizioni applicabili alla specifica 1 Euro Auction.",
+      "word_diff": "L’Acquirente[- aggiudicatario-] è tenuto al pagamento [-del-]{+dell’Importo+} [-Prezzo-]{+Totale+} [-di aggiudicazione e delle Commissioni dovute-]{+Dovuto+} nei termini e con le modalità previste dalle [-CG,-]{+CG+} [-nonché-]{+e+} [-dal-]{+dalle+} [-Tariffario-]{+condizioni+} [-applicabile-]{+applicabili+} alla specifica 1 Euro Auction.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c25",
       "kind": "modify",
       "toc": false,
       "prev_idx": 45,
@@ -398,7 +518,27 @@
       }
     },
     {
-      "id": "c20",
+      "id": "c26",
+      "kind": "modify",
+      "toc": false,
+      "prev_idx": 46,
+      "new_idx": 46,
+      "prev_key": "5.4",
+      "new_key": "5.4",
+      "article": "5",
+      "anchor_prev_idx": null,
+      "prev_markup": "Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi inclusa la regolare conclusione del Contratto e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.",
+      "new_markup": "Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi incluso il regolare perfezionamento dell’Accordo vincolante e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.",
+      "word_diff": "Nel caso di 1 Euro Auctions, l’eventuale integrazione economica a favore del Venditore è dovuta da Fleequid esclusivamente nei limiti e alle condizioni previste dall’art. 3 delle presenti Condizioni Particolari. Resta inteso che tale integrazione è subordinata all’integrale adempimento delle condizioni ivi previste, ivi [-inclusa-]{+incluso+} [-la-]{+il+} regolare [-conclusione-]{+perfezionamento+} [-del-]{+dell’Accordo+} [-Contratto-]{+vincolante+} e l’effettivo incasso delle somme dovute dall’Acquirente, salvo quanto diversamente stabilito nelle presenti Condizioni Particolari.",
+      "highlighted_new": false,
+      "new_fmt": {
+        "b": 0,
+        "i": 0,
+        "u": 0
+      }
+    },
+    {
+      "id": "c27",
       "kind": "modify",
       "toc": false,
       "prev_idx": 51,
@@ -418,7 +558,7 @@
       }
     },
     {
-      "id": "c21",
+      "id": "c28",
       "kind": "modify",
       "toc": false,
       "prev_idx": 53,
@@ -438,7 +578,7 @@
       }
     },
     {
-      "id": "c22",
+      "id": "c29",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -458,7 +598,7 @@
       }
     },
     {
-      "id": "c23",
+      "id": "c30",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -478,7 +618,7 @@
       }
     },
     {
-      "id": "c24",
+      "id": "c31",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -498,7 +638,7 @@
       }
     },
     {
-      "id": "c25",
+      "id": "c32",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -518,7 +658,7 @@
       }
     },
     {
-      "id": "c26",
+      "id": "c33",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -538,7 +678,7 @@
       }
     },
     {
-      "id": "c27",
+      "id": "c34",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -558,7 +698,7 @@
       }
     },
     {
-      "id": "c28",
+      "id": "c35",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -578,7 +718,7 @@
       }
     },
     {
-      "id": "c29",
+      "id": "c36",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,
@@ -598,7 +738,7 @@
       }
     },
     {
-      "id": "c30",
+      "id": "c37",
       "kind": "insert",
       "toc": false,
       "prev_idx": null,

@@ -9,8 +9,11 @@
 | IT idx | chiave | conf. | IT (inizio) | lingua (inizio) |
 |---|---|---|---|---|
 | 0 | 0~0 | key | 'Condizioni Particolari d’Asta ' | 'Conditions Particulières de Vente aux enchères' |
+| 3 | 0~3 | key | 'Le presenti Condizioni Particolari d’Asta disciplinano la ca' | 'Les présentes Conditions Particulières de Vente aux enchères' |
 | 4 | 0~4 | key | 'Esse sono adottate ai sensi e per gli effetti dell’art. 3.3 ' | 'Elles sont adoptées au sens et aux effets de l’art. 3.3 des ' |
+| 5 | 0~5 | key | 'Le presenti Condizioni Particolari trovano applicazione escl' | 'Les présentes Conditions Particulières s’appliquent exclusiv' |
 | 6 | 0~6 | key | 'La pubblicazione di una Proposta di Vendita nell’ambito di u' | 'La publication d’une Proposition de vente dans le cadre d’un' |
+| 7 | 0~7 | key | 'Per quanto non espressamente previsto nel presente documento' | 'Pour tout ce qui n’est pas expressément prévu dans le présen' |
 | 11 | 1.1 | key | 'Le “1 Euro Auctions” costituiscono una particolare categoria' | 'Les «\xa01 Euro Auctions\xa0» constituent une catégorie particuliè' |
 | 13 | 1.3 | key | 'Nelle 1 Euro Auctions non trova applicazione il meccanismo o' | 'Dans les 1 Euro Auctions, le mécanisme ordinaire de détermin' |
 | 17 | 2 | key | 'Regole di aggiudicazione e formazione del Contratto.' | 'Règles d’adjudication et de formation du Contrat.' |
@@ -20,13 +23,17 @@
 | 25 | 3.1 | key | 'Nell’ambito delle 1 Euro Auctions, e in deroga al meccanismo' | 'Dans le cadre des 1 Euro Auctions, et par dérogation au méca' |
 | 26 | 3.2 | key | 'Qualora il Prezzo di aggiudicazione risultante al termine de' | 'Si le prix d’adjudication résultant à la fin de la 1 Euro Au' |
 | 28 | 3.4 | key | 'In assenza di Offerte valide e, conseguentemente, in caso di' | 'En l’absence d’Offres valides et, par conséquent, en cas d’E' |
+| 29 | 3.5 | key | 'La corresponsione dell’eventuale integrazione economica fino' | 'Le versement de l’éventuelle intégration économique jusqu’au' |
 | 30 | 3.6 | key | 'La garanzia di cui al presente articolo costituisce un impeg' | 'La garantie visée au présent article constitue un engagement' |
 | 32 | 3.8 | key | 'Resta ferma la facoltà di Fleequid di sospendere, annullare ' | 'Demeure inchangée la faculté de Fleequid de suspendre, d’ann' |
+| 34 | 4 | key | 'Struttura commissionale.' | 'Structure des commissions.' |
 | 35 | 4.1 | key | 'Alle 1 Euro Auctions si applica, in via generale, la struttu' | 'Aux 1 Euro Auctions s’applique, de manière générale, la stru' |
 | 38 | 4.4 | key | 'All’Acquirente sono applicate le commissioni previste ai sen' | 'L’Acheteur se voit appliquer les commissions prévues au sens' |
 | 40 | 4.6 | key | 'Le Commissioni maturano per effetto dell’Aggiudicazione e re' | 'Les Commissions sont acquises par l’effet de l’Adjudication ' |
 | 43 | 5.1 | key | 'Salvo diversa indicazione nella scheda dell’Asta, alle 1 Eur' | 'Sauf indication contraire dans la fiche de l’Enchère, aux 1 ' |
+| 44 | 5.2 | key | 'L’Acquirente aggiudicatario è tenuto al pagamento del Prezzo' | 'L’Acheteur adjudicataire est tenu au paiement du prix d’adju' |
 | 45 | 5.3 | key | 'In caso di mancato o ritardato pagamento da parte dell’Acqui' | 'En cas de défaut ou de retard de paiement de la part de l’Ac' |
+| 46 | 5.4 | key | 'Nel caso di 1 Euro Auctions, l’eventuale integrazione econom' | 'Dans le cas des 1 Euro Auctions, l’éventuelle intégration éc' |
 | 51 | 6.2 | key | 'Nei casi di sospensione o annullamento dell’Asta ai sensi de' | 'Dans les cas de suspension ou d’annulation de l’Enchère au s' |
 | 53 | 6.4 | key | 'Per quanto non espressamente disciplinato nelle presenti Con' | 'Pour tout ce qui n’est pas expressément régi par les présent' |
 | 54 | 6.5 | key | 'Fleequid si riserva la facoltà di modificare o aggiornare le' | 'Fleequid se réserve la faculté de modifier ou de mettre à jo' |
